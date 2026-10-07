@@ -1,0 +1,151 @@
+recommendation_id,part_id,part_name,brand,model,vehicle_part,current_stock,reorder_point,safety_stock,average_monthly_demand,pending_po_quantity,forecast_demand,recommended_order_quantity,recommendation_status,priority,recommendation_date
+REC0001,PT0001,Hood Assembly,Honda,CR-V,Hood,18,18,3,6.5,26,6,0,Stock Sufficient,High,2026-09-15
+REC0002,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,54,11,5,16.7,0,17,0,Stock Sufficient,Low,2026-09-15
+REC0003,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,58,15,4,4.0,24,4,0,Stock Sufficient,Low,2026-09-15
+REC0004,PT0004,Hood Assembly,Kia,Sonet,Hood,10,10,5,5.3,25,5,0,Stock Sufficient,High,2026-09-15
+REC0005,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,1,10,4,11.2,23,11,0,Stock Sufficient,Urgent,2026-09-15
+REC0006,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,14,14,4,6.8,45,7,0,Stock Sufficient,High,2026-09-15
+REC0007,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,84,23,20,15.7,0,16,0,Stock Sufficient,Low,2026-09-15
+REC0008,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,98,20,17,2.9,11,3,0,Stock Sufficient,Low,2026-09-15
+REC0009,PT0009,Roof Panel,Toyota,Veloz,Roof,10,10,5,6.8,14,7,0,Stock Sufficient,High,2026-09-15
+REC0010,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,27,27,22,6.5,76,6,0,Stock Sufficient,High,2026-09-15
+REC0011,PT0011,Rear Fender,Kia,Seltos,Rear Fender,45,21,18,7.7,0,8,0,Stock Sufficient,Low,2026-09-15
+REC0012,PT0012,Front Grille,Wuling,Cortez,Grille,89,18,4,12.0,4,12,0,Stock Sufficient,Low,2026-09-15
+REC0013,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,10,24,14,2.0,0,2,6,Recommended To Order,Urgent,2026-09-15
+REC0014,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,28,28,4,5.3,44,5,0,Stock Sufficient,High,2026-09-15
+REC0015,PT0015,Front Grille,Honda,Mobilio,Grille,86,21,9,12.9,2,13,0,Stock Sufficient,Low,2026-09-15
+REC0016,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,17,25,22,2.5,15,2,0,Stock Sufficient,Urgent,2026-09-15
+REC0017,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,74,14,10,18.0,0,18,0,Stock Sufficient,Low,2026-09-15
+REC0018,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,47,14,9,5.9,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0019,PT0019,Windshield,Kia,Carnival,Windshield,32,23,15,2.8,0,3,0,Stock Sufficient,Low,2026-09-15
+REC0020,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,14,12,3,8.6,0,9,0,Stock Sufficient,Low,2026-09-15
+REC0021,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,0,27,24,5.0,60,5,0,Stock Sufficient,Urgent,2026-09-15
+REC0022,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,25,25,3,15.1,76,15,0,Stock Sufficient,High,2026-09-15
+REC0023,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,5,21,2,4.6,30,5,0,Stock Sufficient,High,2026-09-15
+REC0024,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,11,14,7,3.1,0,3,0,Stock Sufficient,High,2026-09-15
+REC0025,PT0025,Trunk Lid,BYD,Seal,Trunk,45,26,14,7.1,18,7,0,Stock Sufficient,Low,2026-09-15
+REC0026,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,65,21,6,9.9,14,10,0,Stock Sufficient,Low,2026-09-15
+REC0027,PT0027,Front Panel,Ford,Everest,Front Panel,30,30,7,13.5,27,14,0,Stock Sufficient,High,2026-09-15
+REC0028,PT0028,Windshield,Honda,Brio,Windshield,97,11,7,2.3,0,2,0,Stock Sufficient,Low,2026-09-15
+REC0029,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,28,24,16,3.2,21,3,0,Stock Sufficient,Low,2026-09-15
+REC0030,PT0030,Front Fender,Honda,City,Front Fender,10,26,18,11.7,41,12,0,Stock Sufficient,Urgent,2026-09-15
+REC0031,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,100,27,13,5.8,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0032,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,60,18,10,12.6,0,13,0,Stock Sufficient,Low,2026-09-15
+REC0033,PT0033,Windshield,Mazda,CX-5,Windshield,37,11,6,2.4,0,2,0,Stock Sufficient,Low,2026-09-15
+REC0034,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,40,10,3,8.2,27,8,0,Stock Sufficient,Low,2026-09-15
+REC0035,PT0035,Trunk Lid,Honda,HR-V,Trunk,2,12,7,10.2,49,10,0,Stock Sufficient,Urgent,2026-09-15
+REC0036,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,25,25,14,8.8,13,9,0,Stock Sufficient,High,2026-09-15
+REC0037,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,20,20,14,12.0,15,12,0,Stock Sufficient,High,2026-09-15
+REC0038,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,93,29,22,1.6,0,2,0,Stock Sufficient,Low,2026-09-15
+REC0039,PT0039,Front Panel,BYD,M6,Front Panel,11,11,4,12.5,20,12,0,Stock Sufficient,High,2026-09-15
+REC0040,PT0040,Hood Assembly,Nissan,X-Trail,Hood,78,20,13,5.2,0,5,0,Stock Sufficient,Low,2026-09-15
+REC0041,PT0041,Hood Assembly,Wuling,Alvez,Hood,15,15,8,4.7,48,5,0,Stock Sufficient,High,2026-09-15
+REC0042,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,45,22,18,10.8,0,11,0,Stock Sufficient,Low,2026-09-15
+REC0043,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,46,12,6,7.6,0,8,0,Stock Sufficient,Low,2026-09-15
+REC0044,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,61,11,5,5.8,24,6,0,Stock Sufficient,Low,2026-09-15
+REC0045,PT0045,Front Panel,Hyundai,Creta,Front Panel,24,24,20,8.5,59,8,0,Stock Sufficient,High,2026-09-15
+REC0046,PT0046,Windshield,Toyota,Agya,Windshield,87,30,16,6.6,0,7,0,Stock Sufficient,Low,2026-09-15
+REC0047,PT0047,Roof Panel,Mazda,Mazda 3,Roof,8,24,18,18.8,47,19,0,Stock Sufficient,Urgent,2026-09-15
+REC0048,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,100,15,3,2.6,0,3,0,Stock Sufficient,Low,2026-09-15
+REC0049,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,95,25,19,7.0,22,7,0,Stock Sufficient,Low,2026-09-15
+REC0050,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,1,21,9,7.1,27,7,0,Stock Sufficient,Urgent,2026-09-15
+REC0051,PT0051,Trunk Lid,Honda,Mobilio,Trunk,78,28,2,6.5,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0052,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,72,18,6,18.6,0,19,0,Stock Sufficient,Low,2026-09-15
+REC0053,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,98,11,6,1.9,2,2,0,Stock Sufficient,Low,2026-09-15
+REC0054,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,79,11,4,9.5,7,10,0,Stock Sufficient,Low,2026-09-15
+REC0055,PT0055,Front Fender,Hyundai,Creta,Front Fender,93,25,16,11.6,13,12,0,Stock Sufficient,Low,2026-09-15
+REC0056,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,60,24,21,6.0,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0057,PT0057,Front Door Assembly,Kia,Seltos,Front Door,88,30,14,21.6,20,22,0,Stock Sufficient,Low,2026-09-15
+REC0058,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,28,28,15,3.4,14,3,0,Stock Sufficient,High,2026-09-15
+REC0059,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,42,14,9,11.3,0,11,0,Stock Sufficient,Low,2026-09-15
+REC0060,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,21,17,5,12.3,26,12,0,Stock Sufficient,Low,2026-09-15
+REC0061,PT0061,Front Panel,Wuling,Air ev,Front Panel,36,30,12,11.3,0,11,0,Stock Sufficient,Low,2026-09-15
+REC0062,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,34,19,16,7.9,5,8,0,Stock Sufficient,Low,2026-09-15
+REC0063,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,63,16,10,6.1,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0064,PT0064,Front Grille,Kia,Seltos,Grille,73,17,8,9.2,0,9,0,Stock Sufficient,Low,2026-09-15
+REC0065,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,22,22,4,9.7,96,10,0,Stock Sufficient,High,2026-09-15
+REC0066,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,33,19,4,7.1,0,7,0,Stock Sufficient,Low,2026-09-15
+REC0067,PT0067,Roof Panel,Ford,Ranger,Roof,0,24,13,15.4,59,15,0,Stock Sufficient,Urgent,2026-09-15
+REC0068,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,26,19,7,3.1,28,3,0,Stock Sufficient,Low,2026-09-15
+REC0069,PT0069,Windshield,BMW,3 Series,Windshield,39,28,23,9.4,17,9,0,Stock Sufficient,Low,2026-09-15
+REC0070,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,76,15,8,6.9,0,7,0,Stock Sufficient,Low,2026-09-15
+REC0071,PT0071,Front Panel,Wuling,Alvez,Front Panel,28,15,3,7.1,0,7,0,Stock Sufficient,Low,2026-09-15
+REC0072,PT0072,Front Grille,BYD,Seal,Grille,24,24,15,10.4,39,10,0,Stock Sufficient,High,2026-09-15
+REC0073,PT0073,Trunk Lid,Suzuki,XL7,Trunk,23,11,3,2.6,0,3,0,Stock Sufficient,Low,2026-09-15
+REC0074,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,21,21,16,7.8,80,8,0,Stock Sufficient,High,2026-09-15
+REC0075,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,36,17,14,7.9,0,8,0,Stock Sufficient,Low,2026-09-15
+REC0076,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,11,19,7,2.9,22,3,0,Stock Sufficient,High,2026-09-15
+REC0077,PT0077,Front Grille,Honda,Brio,Grille,43,11,6,9.5,0,10,0,Stock Sufficient,Low,2026-09-15
+REC0078,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,14,14,10,3.9,27,4,0,Stock Sufficient,High,2026-09-15
+REC0079,PT0079,Trunk Lid,Kia,Carnival,Trunk,44,27,13,5.6,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0080,PT0080,Front Panel,Isuzu,MU-X,Front Panel,30,29,11,8.1,40,8,0,Stock Sufficient,Low,2026-09-15
+REC0081,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,54,30,11,12.4,0,12,0,Stock Sufficient,Low,2026-09-15
+REC0082,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,95,13,10,10.7,0,11,0,Stock Sufficient,Low,2026-09-15
+REC0083,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,78,16,13,1.1,16,1,0,Stock Sufficient,Low,2026-09-15
+REC0084,PT0084,Front Panel,Wuling,Cortez,Front Panel,26,22,2,7.8,0,8,0,Stock Sufficient,Low,2026-09-15
+REC0085,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,99,21,7,7.1,0,7,0,Stock Sufficient,Low,2026-09-15
+REC0086,PT0086,Hood Assembly,Isuzu,D-Max,Hood,46,13,3,8.3,40,8,0,Stock Sufficient,Low,2026-09-15
+REC0087,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,52,18,8,18.1,0,18,0,Stock Sufficient,Low,2026-09-15
+REC0088,PT0088,Windshield,Honda,City,Windshield,27,27,5,3.6,0,4,0,Stock Sufficient,High,2026-09-15
+REC0089,PT0089,Front Panel,Toyota,Fortuner,Front Panel,30,30,26,10.2,93,10,0,Stock Sufficient,High,2026-09-15
+REC0090,PT0090,Windshield,Wuling,Alvez,Windshield,32,17,2,8.0,0,8,0,Stock Sufficient,Low,2026-09-15
+REC0091,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,22,22,13,4.0,23,4,0,Stock Sufficient,High,2026-09-15
+REC0092,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,53,22,2,15.3,56,15,0,Stock Sufficient,Low,2026-09-15
+REC0093,PT0093,Windshield,Hyundai,Creta,Windshield,49,14,3,6.2,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0094,PT0094,Front Door Assembly,Nissan,Serena,Front Door,26,22,11,8.6,0,9,0,Stock Sufficient,Low,2026-09-15
+REC0095,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,88,18,11,6.2,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0096,PT0096,Front Grille,Toyota,Veloz,Grille,63,19,11,15.2,0,15,0,Stock Sufficient,Low,2026-09-15
+REC0097,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,19,19,6,16.2,17,16,0,Stock Sufficient,High,2026-09-15
+REC0098,PT0098,Rear Fender,Nissan,Livina,Rear Fender,25,16,9,4.7,0,5,0,Stock Sufficient,Low,2026-09-15
+REC0099,PT0099,Rear Fender,Honda,Civic,Rear Fender,20,11,6,4.5,0,4,0,Stock Sufficient,Low,2026-09-15
+REC0100,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,11,22,15,7.6,30,8,0,Stock Sufficient,Urgent,2026-09-15
+REC0101,PT0101,Front Panel,BYD,Dolphin,Front Panel,81,12,9,8.7,0,9,0,Stock Sufficient,Low,2026-09-15
+REC0102,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,99,16,12,14.6,0,15,0,Stock Sufficient,Low,2026-09-15
+REC0103,PT0103,Front Door Assembly,Toyota,Calya,Front Door,72,11,8,3.1,18,3,0,Stock Sufficient,Low,2026-09-15
+REC0104,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,6,15,12,3.9,16,4,0,Stock Sufficient,Urgent,2026-09-15
+REC0105,PT0105,Front Fender,Kia,Sonet,Front Fender,94,11,3,6.9,0,7,0,Stock Sufficient,Low,2026-09-15
+REC0106,PT0106,Rear Fender,Ford,Everest,Rear Fender,55,21,18,13.0,0,13,0,Stock Sufficient,Low,2026-09-15
+REC0107,PT0107,Roof Panel,Toyota,Raize,Roof,100,15,10,21.5,0,22,0,Stock Sufficient,Low,2026-09-15
+REC0108,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,16,28,21,2.6,17,3,0,Stock Sufficient,Urgent,2026-09-15
+REC0109,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,26,30,9,6.1,20,6,0,Stock Sufficient,High,2026-09-15
+REC0110,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,21,21,11,8.0,11,8,0,Stock Sufficient,High,2026-09-15
+REC0111,PT0111,Windshield,Honda,CR-V,Windshield,99,30,25,6.5,18,6,0,Stock Sufficient,Low,2026-09-15
+REC0112,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,90,15,2,9.7,0,10,0,Stock Sufficient,Low,2026-09-15
+REC0113,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,3,21,15,10.4,10,10,12,Recommended To Order,Urgent,2026-09-15
+REC0114,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,28,28,14,8.5,7,8,0,Stock Sufficient,High,2026-09-15
+REC0115,PT0115,Windshield,Honda,BR-V,Windshield,25,25,18,8.2,46,8,0,Stock Sufficient,High,2026-09-15
+REC0116,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,20,20,12,6.6,0,7,0,Stock Sufficient,High,2026-09-15
+REC0117,PT0117,Rear Fender,BYD,M6,Rear Fender,34,20,17,22.0,0,22,5,Recommended To Order,Medium,2026-09-15
+REC0118,PT0118,Trunk Lid,Toyota,Calya,Trunk,43,21,3,5.3,10,5,0,Stock Sufficient,Low,2026-09-15
+REC0119,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,51,27,9,8.0,0,8,0,Stock Sufficient,Low,2026-09-15
+REC0120,PT0120,Trunk Lid,BYD,Dolphin,Trunk,90,25,6,9.8,0,10,0,Stock Sufficient,Low,2026-09-15
+REC0121,PT0121,Front Panel,Suzuki,Baleno,Front Panel,7,12,8,10.0,28,10,0,Stock Sufficient,Urgent,2026-09-15
+REC0122,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,65,11,7,24.8,23,25,0,Stock Sufficient,Low,2026-09-15
+REC0123,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,29,24,16,4.5,0,4,0,Stock Sufficient,Low,2026-09-15
+REC0124,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,20,20,9,3.7,0,4,0,Stock Sufficient,High,2026-09-15
+REC0125,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,75,17,2,7.1,0,7,0,Stock Sufficient,Low,2026-09-15
+REC0126,PT0126,Roof Panel,Nissan,Serena,Roof,40,23,2,11.9,12,12,0,Stock Sufficient,Low,2026-09-15
+REC0127,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,11,27,11,15.9,23,16,0,Stock Sufficient,Urgent,2026-09-15
+REC0128,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,80,13,10,8.3,21,8,0,Stock Sufficient,Low,2026-09-15
+REC0129,PT0129,Front Grille,Toyota,Raize,Grille,90,26,15,8.7,0,9,0,Stock Sufficient,Low,2026-09-15
+REC0130,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,69,15,7,6.9,21,7,0,Stock Sufficient,Low,2026-09-15
+REC0131,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,71,22,4,4.4,0,4,0,Stock Sufficient,Low,2026-09-15
+REC0132,PT0132,Front Panel,Honda,Brio,Front Panel,11,18,3,13.0,27,13,0,Stock Sufficient,High,2026-09-15
+REC0133,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,95,12,3,2.7,0,3,0,Stock Sufficient,Low,2026-09-15
+REC0134,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,37,24,3,12.3,0,12,0,Stock Sufficient,Low,2026-09-15
+REC0135,PT0135,Front Grille,Mazda,CX-5,Grille,31,22,12,9.1,0,9,0,Stock Sufficient,Low,2026-09-15
+REC0136,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,78,13,2,5.9,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0137,PT0137,Trunk Lid,Mazda,CX-5,Trunk,53,16,6,11.9,0,12,0,Stock Sufficient,Low,2026-09-15
+REC0138,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,98,29,17,4.7,0,5,0,Stock Sufficient,Low,2026-09-15
+REC0139,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,75,14,5,6.2,0,6,0,Stock Sufficient,Low,2026-09-15
+REC0140,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,58,15,5,8.5,0,8,0,Stock Sufficient,Low,2026-09-15
+REC0141,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,62,24,10,3.8,0,4,0,Stock Sufficient,Low,2026-09-15
+REC0142,PT0142,Front Panel,Suzuki,Swift,Front Panel,24,24,5,11.9,3,12,0,Stock Sufficient,High,2026-09-15
+REC0143,PT0143,Front Panel,BMW,3 Series,Front Panel,4,28,20,7.1,27,7,0,Stock Sufficient,Urgent,2026-09-15
+REC0144,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,15,15,8,14.5,51,14,0,Stock Sufficient,High,2026-09-15
+REC0145,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,29,29,9,10.8,0,11,0,Stock Sufficient,High,2026-09-15
+REC0146,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,17,23,4,8.8,27,9,0,Stock Sufficient,High,2026-09-15
+REC0147,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,24,24,6,12.3,9,12,0,Stock Sufficient,High,2026-09-15
+REC0148,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,35,14,6,2.2,0,2,0,Stock Sufficient,Low,2026-09-15
+REC0149,PT0149,Front Door Assembly,Honda,HR-V,Front Door,6,29,9,8.5,60,8,0,Stock Sufficient,Urgent,2026-09-15
+REC0150,PT0150,Trunk Lid,BMW,3 Series,Trunk,68,28,21,9.0,0,9,0,Stock Sufficient,Low,2026-09-15

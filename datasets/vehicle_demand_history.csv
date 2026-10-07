@@ -1,0 +1,1501 @@
+demand_id,period,part_id,part_name,brand,model,vehicle_part,quantity_demanded,quantity_used,average_repair_orders,stockout_days
+DM0001,2025-01,PT0001,Hood Assembly,Honda,CR-V,Hood,6,4,1.9,0
+DM0002,2025-03,PT0001,Hood Assembly,Honda,CR-V,Hood,5,4,1.8,0
+DM0003,2025-04,PT0001,Hood Assembly,Honda,CR-V,Hood,7,6,4.6,0
+DM0004,2025-05,PT0001,Hood Assembly,Honda,CR-V,Hood,9,8,6.4,0
+DM0005,2025-08,PT0001,Hood Assembly,Honda,CR-V,Hood,5,3,1.3,0
+DM0006,2025-09,PT0001,Hood Assembly,Honda,CR-V,Hood,5,4,2.1,0
+DM0007,2025-10,PT0001,Hood Assembly,Honda,CR-V,Hood,9,7,3.3,0
+DM0008,2026-08,PT0001,Hood Assembly,Honda,CR-V,Hood,7,5,3.7,0
+DM0009,2026-09,PT0001,Hood Assembly,Honda,CR-V,Hood,5,3,1.8,0
+DM0010,2026-11,PT0001,Hood Assembly,Honda,CR-V,Hood,7,6,3.0,0
+DM0011,2025-01,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,11,10,4.2,0
+DM0012,2025-02,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,12,8,3.5,0
+DM0013,2025-03,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,15,11,5.6,0
+DM0014,2025-07,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,12,10,5.8,0
+DM0015,2025-08,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,14,11,6.7,0
+DM0016,2025-12,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,18,14,9.9,0
+DM0017,2026-02,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,18,15,11.1,0
+DM0018,2026-05,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,23,19,8.0,0
+DM0019,2026-08,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,22,17,7.9,0
+DM0020,2026-10,PT0002,Rear Bumper Assembly,Honda,Brio,Rear Bumper,22,20,8.9,0
+DM0021,2025-01,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,11,8,5.8,0
+DM0022,2025-06,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,7,5,2.5,0
+DM0023,2025-08,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,7,6,2.9,0
+DM0024,2025-09,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,3,2,0.9,0
+DM0025,2025-12,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,3,2,0.9,0
+DM0026,2026-02,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,4,3,1.7,0
+DM0027,2026-03,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,1,0,0.0,0
+DM0028,2026-06,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,2,1,0.5,0
+DM0029,2026-09,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,1,0,0.0,0
+DM0030,2026-11,PT0003,Rear Door Assembly,Toyota,Fortuner,Rear Door,1,0,0.0,0
+DM0031,2025-02,PT0004,Hood Assembly,Kia,Sonet,Hood,4,3,1.9,0
+DM0032,2025-03,PT0004,Hood Assembly,Kia,Sonet,Hood,12,9,7.1,0
+DM0033,2025-04,PT0004,Hood Assembly,Kia,Sonet,Hood,10,8,5.0,0
+DM0034,2025-05,PT0004,Hood Assembly,Kia,Sonet,Hood,8,6,4.7,0
+DM0035,2025-07,PT0004,Hood Assembly,Kia,Sonet,Hood,10,9,6.9,0
+DM0036,2025-09,PT0004,Hood Assembly,Kia,Sonet,Hood,3,2,0.9,0
+DM0037,2025-11,PT0004,Hood Assembly,Kia,Sonet,Hood,3,2,1.1,0
+DM0038,2026-01,PT0004,Hood Assembly,Kia,Sonet,Hood,0,0,0.0,0
+DM0039,2026-02,PT0004,Hood Assembly,Kia,Sonet,Hood,0,0,0.0,0
+DM0040,2026-11,PT0004,Hood Assembly,Kia,Sonet,Hood,3,2,0.8,0
+DM0041,2025-02,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,24,20,8.9,0
+DM0042,2025-04,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,11,9,5.6,0
+DM0043,2025-09,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,17,14,10.0,0
+DM0044,2025-12,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,11,7,5.2,0
+DM0045,2026-01,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,18,17,10.3,0
+DM0046,2026-03,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,3,2,1.1,0
+DM0047,2026-06,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,10,7,4.6,0
+DM0048,2026-08,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,9,7,4.0,0
+DM0049,2026-10,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,1,0,0.0,0
+DM0050,2026-12,PT0005,Hood Assembly,Daihatsu,Sigra,Hood,8,6,3.8,0
+DM0051,2025-02,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,5,4,2.4,0
+DM0052,2025-03,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,8,7,3.1,0
+DM0053,2025-07,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,9,8,6.2,0
+DM0054,2025-10,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,8,5,2.4,0
+DM0055,2025-11,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,5,3,1.4,0
+DM0056,2025-12,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,6,5,2.1,0
+DM0057,2026-06,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,7,6,3.7,0
+DM0058,2026-07,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,8,6,4.3,0
+DM0059,2026-08,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,6,4,1.6,0
+DM0060,2026-09,PT0006,Rear Bumper Assembly,Hyundai,Santa Fe,Rear Bumper,6,5,2.9,0
+DM0061,2025-03,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,6,5,2.1,0
+DM0062,2025-04,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,8,6,3.6,0
+DM0063,2025-08,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,13,12,5.3,0
+DM0064,2025-09,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,16,14,6.1,0
+DM0065,2025-10,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,14,12,5.7,0
+DM0066,2025-12,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,18,15,7.4,0
+DM0067,2026-01,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,18,14,8.4,0
+DM0068,2026-03,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,18,14,9.8,0
+DM0069,2026-10,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,21,16,6.6,0
+DM0070,2026-12,PT0007,Hood Assembly,Hyundai,Ioniq 5,Hood,25,21,14.1,0
+DM0071,2025-03,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,6,4,3.1,0
+DM0072,2025-06,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,9,8,6.0,0
+DM0073,2025-07,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,1,0,0.0,0
+DM0074,2025-08,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,5,4,3.2,0
+DM0075,2025-09,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,3,2,0.9,0
+DM0076,2025-12,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,1,0,0.0,0
+DM0077,2026-05,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,1,0,0.0,0
+DM0078,2026-06,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,1,0,0.0,0
+DM0079,2026-07,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,1,0,0.0,0
+DM0080,2026-12,PT0008,Front Door Assembly,Nissan,X-Trail,Front Door,1,0,0.0,0
+DM0081,2025-02,PT0009,Roof Panel,Toyota,Veloz,Roof,9,6,3.4,0
+DM0082,2025-08,PT0009,Roof Panel,Toyota,Veloz,Roof,8,6,2.8,0
+DM0083,2025-09,PT0009,Roof Panel,Toyota,Veloz,Roof,10,8,4.2,0
+DM0084,2025-11,PT0009,Roof Panel,Toyota,Veloz,Roof,10,7,3.1,0
+DM0085,2026-01,PT0009,Roof Panel,Toyota,Veloz,Roof,11,9,3.9,0
+DM0086,2026-06,PT0009,Roof Panel,Toyota,Veloz,Roof,7,5,2.1,0
+DM0087,2026-08,PT0009,Roof Panel,Toyota,Veloz,Roof,3,2,1.1,0
+DM0088,2026-09,PT0009,Roof Panel,Toyota,Veloz,Roof,3,2,1.2,0
+DM0089,2026-10,PT0009,Roof Panel,Toyota,Veloz,Roof,2,1,0.4,0
+DM0090,2026-12,PT0009,Roof Panel,Toyota,Veloz,Roof,5,4,1.8,0
+DM0091,2025-03,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,10,7,4.6,0
+DM0092,2025-07,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,0,0,0.0,0
+DM0093,2025-09,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,8,7,3.6,0
+DM0094,2025-11,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,10,7,3.0,0
+DM0095,2026-01,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,5,4,2.5,0
+DM0096,2026-04,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,9,8,5.1,0
+DM0097,2026-05,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,0,0,0.0,0
+DM0098,2026-07,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,7,5,2.8,0
+DM0099,2026-08,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,9,8,5.4,0
+DM0100,2026-12,PT0010,Headlamp Assembly,Nissan,Kicks,Headlamp,7,5,3.0,0
+DM0101,2025-05,PT0011,Rear Fender,Kia,Seltos,Rear Fender,7,4,3.2,0
+DM0102,2025-08,PT0011,Rear Fender,Kia,Seltos,Rear Fender,11,9,6.0,0
+DM0103,2025-09,PT0011,Rear Fender,Kia,Seltos,Rear Fender,8,7,4.1,0
+DM0104,2026-02,PT0011,Rear Fender,Kia,Seltos,Rear Fender,5,3,1.2,0
+DM0105,2026-03,PT0011,Rear Fender,Kia,Seltos,Rear Fender,6,5,2.4,0
+DM0106,2026-06,PT0011,Rear Fender,Kia,Seltos,Rear Fender,7,6,4.4,0
+DM0107,2026-09,PT0011,Rear Fender,Kia,Seltos,Rear Fender,9,7,3.1,0
+DM0108,2026-10,PT0011,Rear Fender,Kia,Seltos,Rear Fender,8,7,5.1,0
+DM0109,2026-11,PT0011,Rear Fender,Kia,Seltos,Rear Fender,7,6,3.4,0
+DM0110,2026-12,PT0011,Rear Fender,Kia,Seltos,Rear Fender,9,6,4.6,0
+DM0111,2025-02,PT0012,Front Grille,Wuling,Cortez,Grille,6,4,1.8,0
+DM0112,2025-03,PT0012,Front Grille,Wuling,Cortez,Grille,6,5,2.3,0
+DM0113,2025-05,PT0012,Front Grille,Wuling,Cortez,Grille,7,6,4.5,0
+DM0114,2025-08,PT0012,Front Grille,Wuling,Cortez,Grille,9,7,4.4,0
+DM0115,2025-12,PT0012,Front Grille,Wuling,Cortez,Grille,12,8,4.6,0
+DM0116,2026-01,PT0012,Front Grille,Wuling,Cortez,Grille,13,12,6.7,0
+DM0117,2026-02,PT0012,Front Grille,Wuling,Cortez,Grille,16,11,4.6,0
+DM0118,2026-04,PT0012,Front Grille,Wuling,Cortez,Grille,14,12,9.8,0
+DM0119,2026-05,PT0012,Front Grille,Wuling,Cortez,Grille,16,13,8.6,0
+DM0120,2026-07,PT0012,Front Grille,Wuling,Cortez,Grille,21,15,8.5,0
+DM0121,2025-03,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,2,1,0.7,0
+DM0122,2025-04,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,5,4,1.9,0
+DM0123,2025-05,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,4,2,0.8,0
+DM0124,2025-06,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,3,2,1.1,0
+DM0125,2025-09,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,1,0,0.0,0
+DM0126,2026-01,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,1,0,0.0,0
+DM0127,2026-02,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,1,0,0.0,0
+DM0128,2026-03,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,1,0,0.0,0
+DM0129,2026-06,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,1,0,0.0,0
+DM0130,2026-09,PT0013,Quarter Panel,Toyota,Avanza,Quarter Panel,1,0,0.0,0
+DM0131,2025-01,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,6,5,2.3,0
+DM0132,2025-04,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,8,7,4.3,0
+DM0133,2025-07,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,12,8,4.2,0
+DM0134,2025-09,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,8,7,4.9,0
+DM0135,2025-10,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,10,9,5.0,0
+DM0136,2025-11,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,4,3,1.5,0
+DM0137,2026-06,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,4,3,2.3,0
+DM0138,2026-09,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,0,0,0.0,0
+DM0139,2026-11,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,0,0,0.0,0
+DM0140,2026-12,PT0014,Rear Fender,Suzuki,Baleno,Rear Fender,1,0,0.0,0
+DM0141,2025-01,PT0015,Front Grille,Honda,Mobilio,Grille,6,4,3.2,0
+DM0142,2025-04,PT0015,Front Grille,Honda,Mobilio,Grille,12,11,5.9,0
+DM0143,2025-06,PT0015,Front Grille,Honda,Mobilio,Grille,10,9,4.7,0
+DM0144,2025-09,PT0015,Front Grille,Honda,Mobilio,Grille,23,17,7.8,0
+DM0145,2025-10,PT0015,Front Grille,Honda,Mobilio,Grille,4,3,1.8,0
+DM0146,2026-02,PT0015,Front Grille,Honda,Mobilio,Grille,31,28,12.0,0
+DM0147,2026-03,PT0015,Front Grille,Honda,Mobilio,Grille,17,12,7.1,0
+DM0148,2026-05,PT0015,Front Grille,Honda,Mobilio,Grille,4,3,1.4,0
+DM0149,2026-08,PT0015,Front Grille,Honda,Mobilio,Grille,8,7,4.1,0
+DM0150,2026-12,PT0015,Front Grille,Honda,Mobilio,Grille,14,13,7.0,0
+DM0151,2025-01,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,3,2,0.8,0
+DM0152,2025-05,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,4,3,1.3,0
+DM0153,2025-06,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,2,1,0.8,0
+DM0154,2025-07,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,3,2,0.9,0
+DM0155,2025-10,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,2,1,0.6,0
+DM0156,2025-12,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,0,0,0.0,0
+DM0157,2026-05,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,4,3,1.9,0
+DM0158,2026-08,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,4,3,1.7,0
+DM0159,2026-09,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,3,2,1.2,0
+DM0160,2026-11,PT0016,Rear Door Assembly,Suzuki,Baleno,Rear Door,0,0,0.0,0
+DM0161,2025-01,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,10,9,5.4,0
+DM0162,2025-02,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,11,10,6.4,0
+DM0163,2025-04,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,16,15,6.2,0
+DM0164,2025-08,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,19,13,6.4,0
+DM0165,2025-10,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,18,14,6.2,0
+DM0166,2025-11,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,21,18,7.4,0
+DM0167,2025-12,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,19,14,7.0,0
+DM0168,2026-03,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,22,20,16.1,0
+DM0169,2026-04,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,21,15,6.8,0
+DM0170,2026-06,PT0017,Quarter Panel,Kia,Seltos,Quarter Panel,23,18,10.6,0
+DM0171,2025-03,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,11,9,4.5,0
+DM0172,2025-05,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,8,7,2.9,0
+DM0173,2025-09,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,10,8,3.6,0
+DM0174,2026-04,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,8,6,3.2,0
+DM0175,2026-06,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,11,9,4.4,0
+DM0176,2026-07,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,5,3,2.2,0
+DM0177,2026-09,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,1,0,0.0,0
+DM0178,2026-10,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,2,1,0.5,0
+DM0179,2026-11,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,1,0,0.0,0
+DM0180,2026-12,PT0018,Side Mirror Assembly,Mazda,CX-3,Side Mirror,2,1,0.4,0
+DM0181,2025-06,PT0019,Windshield,Kia,Carnival,Windshield,2,1,0.4,0
+DM0182,2025-07,PT0019,Windshield,Kia,Carnival,Windshield,4,3,2.2,0
+DM0183,2025-09,PT0019,Windshield,Kia,Carnival,Windshield,6,5,2.8,0
+DM0184,2025-10,PT0019,Windshield,Kia,Carnival,Windshield,8,7,3.9,0
+DM0185,2026-02,PT0019,Windshield,Kia,Carnival,Windshield,4,2,1.0,0
+DM0186,2026-05,PT0019,Windshield,Kia,Carnival,Windshield,3,2,1.2,0
+DM0187,2026-06,PT0019,Windshield,Kia,Carnival,Windshield,1,0,0.0,0
+DM0188,2026-07,PT0019,Windshield,Kia,Carnival,Windshield,0,0,0.0,0
+DM0189,2026-08,PT0019,Windshield,Kia,Carnival,Windshield,0,0,0.0,0
+DM0190,2026-10,PT0019,Windshield,Kia,Carnival,Windshield,0,0,0.0,0
+DM0191,2025-02,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,8,7,2.9,0
+DM0192,2025-04,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,12,10,4.5,0
+DM0193,2025-08,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,1,0,0.0,0
+DM0194,2025-12,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,9,6,4.3,0
+DM0195,2026-03,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,10,9,7.3,0
+DM0196,2026-05,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,9,7,4.2,0
+DM0197,2026-08,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,16,15,7.8,0
+DM0198,2026-09,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,11,9,6.9,0
+DM0199,2026-10,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,7,5,2.0,0
+DM0200,2026-11,PT0020,Side Mirror Assembly,Mitsubishi,Outlander,Side Mirror,3,2,1.1,0
+DM0201,2025-01,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,5,4,1.8,0
+DM0202,2025-03,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,11,7,2.8,0
+DM0203,2025-08,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,5,4,2.2,0
+DM0204,2025-11,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,6,5,3.0,0
+DM0205,2025-12,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,5,4,1.8,0
+DM0206,2026-06,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,5,4,2.8,0
+DM0207,2026-07,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,3,2,1.1,0
+DM0208,2026-08,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,5,4,3.1,0
+DM0209,2026-10,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,2,1,0.7,0
+DM0210,2026-11,PT0021,Side Mirror Assembly,Honda,Brio,Side Mirror,3,2,1.2,0
+DM0211,2025-02,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,8,7,4.2,0
+DM0212,2025-03,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,10,9,3.8,0
+DM0213,2025-05,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,16,15,9.8,0
+DM0214,2025-08,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,9,8,4.2,0
+DM0215,2025-11,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,16,11,6.9,0
+DM0216,2026-05,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,13,11,5.9,0
+DM0217,2026-09,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,17,12,5.0,0
+DM0218,2026-10,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,21,15,7.3,0
+DM0219,2026-11,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,21,19,9.6,0
+DM0220,2026-12,PT0022,Rear Bumper Assembly,Honda,HR-V,Rear Bumper,20,19,9.8,0
+DM0221,2025-05,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,7,6,4.9,0
+DM0222,2025-07,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,9,6,3.0,0
+DM0223,2025-08,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,5,4,2.0,0
+DM0224,2026-01,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,6,5,2.9,0
+DM0225,2026-04,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,5,4,2.2,0
+DM0226,2026-06,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,2,1,0.6,0
+DM0227,2026-07,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,7,6,3.3,0
+DM0228,2026-09,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,3,2,1.0,0
+DM0229,2026-10,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,1,0,0.0,0
+DM0230,2026-11,PT0023,Rear Bumper Assembly,Suzuki,XL7,Rear Bumper,1,0,0.0,0
+DM0231,2025-04,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,1,0,0.0,0
+DM0232,2025-07,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,7,6,3.7,0
+DM0233,2025-12,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,6,5,2.3,0
+DM0234,2026-02,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,7,6,2.4,0
+DM0235,2026-03,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,6,4,2.4,0
+DM0236,2026-05,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,4,3,1.9,0
+DM0237,2026-06,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,0,0,0.0,0
+DM0238,2026-08,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,0,0,0.0,0
+DM0239,2026-10,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,0,0,0.0,0
+DM0240,2026-12,PT0024,Quarter Panel,Toyota,Yaris,Quarter Panel,0,0,0.0,0
+DM0241,2025-02,PT0025,Trunk Lid,BYD,Seal,Trunk,10,7,4.1,0
+DM0242,2025-04,PT0025,Trunk Lid,BYD,Seal,Trunk,7,6,3.9,0
+DM0243,2025-11,PT0025,Trunk Lid,BYD,Seal,Trunk,9,8,5.7,0
+DM0244,2026-01,PT0025,Trunk Lid,BYD,Seal,Trunk,7,5,2.6,0
+DM0245,2026-04,PT0025,Trunk Lid,BYD,Seal,Trunk,8,6,2.7,0
+DM0246,2026-08,PT0025,Trunk Lid,BYD,Seal,Trunk,9,7,3.7,0
+DM0247,2026-09,PT0025,Trunk Lid,BYD,Seal,Trunk,5,4,2.5,0
+DM0248,2026-10,PT0025,Trunk Lid,BYD,Seal,Trunk,4,2,0.8,0
+DM0249,2026-11,PT0025,Trunk Lid,BYD,Seal,Trunk,3,2,0.8,0
+DM0250,2026-12,PT0025,Trunk Lid,BYD,Seal,Trunk,9,6,3.6,0
+DM0251,2025-04,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,11,7,3.8,0
+DM0252,2025-05,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,11,10,4.9,0
+DM0253,2025-06,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,9,7,3.7,0
+DM0254,2025-07,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,5,4,2.3,0
+DM0255,2025-09,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,9,8,3.7,0
+DM0256,2026-02,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,10,9,5.4,0
+DM0257,2026-03,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,10,8,4.1,0
+DM0258,2026-06,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,11,8,4.2,0
+DM0259,2026-09,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,13,9,4.9,0
+DM0260,2026-12,PT0026,Quarter Panel,BYD,Atto 3,Quarter Panel,10,9,5.8,0
+DM0261,2025-01,PT0027,Front Panel,Ford,Everest,Front Panel,7,6,2.9,0
+DM0262,2025-02,PT0027,Front Panel,Ford,Everest,Front Panel,7,5,2.0,0
+DM0263,2025-03,PT0027,Front Panel,Ford,Everest,Front Panel,11,8,3.6,0
+DM0264,2025-04,PT0027,Front Panel,Ford,Everest,Front Panel,11,8,3.3,0
+DM0265,2025-08,PT0027,Front Panel,Ford,Everest,Front Panel,13,12,8.2,0
+DM0266,2026-03,PT0027,Front Panel,Ford,Everest,Front Panel,17,14,7.6,0
+DM0267,2026-05,PT0027,Front Panel,Ford,Everest,Front Panel,15,10,7.3,0
+DM0268,2026-06,PT0027,Front Panel,Ford,Everest,Front Panel,15,11,6.1,0
+DM0269,2026-10,PT0027,Front Panel,Ford,Everest,Front Panel,18,15,7.5,0
+DM0270,2026-12,PT0027,Front Panel,Ford,Everest,Front Panel,21,17,10.5,0
+DM0271,2025-01,PT0028,Windshield,Honda,Brio,Windshield,7,6,4.3,0
+DM0272,2025-02,PT0028,Windshield,Honda,Brio,Windshield,7,6,2.8,0
+DM0273,2025-06,PT0028,Windshield,Honda,Brio,Windshield,2,1,0.6,0
+DM0274,2025-07,PT0028,Windshield,Honda,Brio,Windshield,1,0,0.0,0
+DM0275,2026-01,PT0028,Windshield,Honda,Brio,Windshield,1,0,0.0,0
+DM0276,2026-02,PT0028,Windshield,Honda,Brio,Windshield,1,0,0.0,0
+DM0277,2026-04,PT0028,Windshield,Honda,Brio,Windshield,1,0,0.0,0
+DM0278,2026-08,PT0028,Windshield,Honda,Brio,Windshield,1,0,0.0,0
+DM0279,2026-09,PT0028,Windshield,Honda,Brio,Windshield,1,0,0.0,0
+DM0280,2026-11,PT0028,Windshield,Honda,Brio,Windshield,1,0,0.0,0
+DM0281,2025-04,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,6,5,2.3,0
+DM0282,2025-05,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,3,2,1.0,0
+DM0283,2025-07,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,5,4,2.0,0
+DM0284,2025-09,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,6,4,2.0,0
+DM0285,2025-10,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,9,7,3.1,0
+DM0286,2026-02,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,2,1,0.5,0
+DM0287,2026-03,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,1,0,0.0,0
+DM0288,2026-04,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,0,0,0.0,0
+DM0289,2026-06,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,0,0,0.0,0
+DM0290,2026-10,PT0029,Quarter Panel,Mazda,Mazda 3,Quarter Panel,0,0,0.0,0
+DM0291,2025-01,PT0030,Front Fender,Honda,City,Front Fender,20,14,6.7,0
+DM0292,2025-02,PT0030,Front Fender,Honda,City,Front Fender,8,6,2.7,0
+DM0293,2025-06,PT0030,Front Fender,Honda,City,Front Fender,6,5,2.1,0
+DM0294,2025-11,PT0030,Front Fender,Honda,City,Front Fender,26,23,18.0,4
+DM0295,2026-04,PT0030,Front Fender,Honda,City,Front Fender,8,6,2.4,0
+DM0296,2026-06,PT0030,Front Fender,Honda,City,Front Fender,10,8,4.7,0
+DM0297,2026-07,PT0030,Front Fender,Honda,City,Front Fender,17,16,8.9,0
+DM0298,2026-09,PT0030,Front Fender,Honda,City,Front Fender,7,6,3.1,0
+DM0299,2026-11,PT0030,Front Fender,Honda,City,Front Fender,14,12,5.2,0
+DM0300,2026-12,PT0030,Front Fender,Honda,City,Front Fender,1,0,0.0,0
+DM0301,2025-03,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,5,3,1.6,0
+DM0302,2025-04,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,12,11,7.0,0
+DM0303,2025-06,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,2,1,0.4,0
+DM0304,2025-08,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,4,3,1.4,0
+DM0305,2026-01,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,6,5,2.4,0
+DM0306,2026-03,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,5,4,2.2,0
+DM0307,2026-05,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,5,4,1.7,0
+DM0308,2026-08,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,10,9,5.7,0
+DM0309,2026-09,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,4,3,1.6,0
+DM0310,2026-11,PT0031,Headlamp Assembly,Daihatsu,Ayla,Headlamp,5,4,2.3,0
+DM0311,2025-02,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,6,4,1.8,0
+DM0312,2025-03,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,5,3,2.4,0
+DM0313,2025-08,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,6,5,3.8,0
+DM0314,2025-11,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,11,10,4.9,0
+DM0315,2026-02,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,15,13,8.8,0
+DM0316,2026-03,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,14,13,8.4,0
+DM0317,2026-05,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,15,13,8.4,0
+DM0318,2026-07,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,16,11,5.1,0
+DM0319,2026-08,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,17,13,10.3,0
+DM0320,2026-12,PT0032,Quarter Panel,Honda,Mobilio,Quarter Panel,21,20,13.4,0
+DM0321,2025-05,PT0033,Windshield,Mazda,CX-5,Windshield,5,3,2.3,0
+DM0322,2025-07,PT0033,Windshield,Mazda,CX-5,Windshield,3,2,1.1,0
+DM0323,2025-08,PT0033,Windshield,Mazda,CX-5,Windshield,1,0,0.0,0
+DM0324,2025-09,PT0033,Windshield,Mazda,CX-5,Windshield,4,3,1.2,0
+DM0325,2025-10,PT0033,Windshield,Mazda,CX-5,Windshield,5,3,1.5,0
+DM0326,2025-11,PT0033,Windshield,Mazda,CX-5,Windshield,2,1,0.5,0
+DM0327,2026-01,PT0033,Windshield,Mazda,CX-5,Windshield,1,0,0.0,0
+DM0328,2026-08,PT0033,Windshield,Mazda,CX-5,Windshield,1,0,0.0,0
+DM0329,2026-10,PT0033,Windshield,Mazda,CX-5,Windshield,1,0,0.0,0
+DM0330,2026-12,PT0033,Windshield,Mazda,CX-5,Windshield,1,0,0.0,0
+DM0331,2025-01,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,12,11,4.8,0
+DM0332,2025-03,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,11,7,2.9,0
+DM0333,2025-04,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,10,8,3.5,0
+DM0334,2025-07,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,14,13,10.4,0
+DM0335,2025-09,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,10,9,4.0,0
+DM0336,2025-11,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,11,8,3.7,0
+DM0337,2026-03,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,5,4,2.5,0
+DM0338,2026-07,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,1,0,0.0,0
+DM0339,2026-08,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,4,3,1.2,0
+DM0340,2026-11,PT0034,Headlamp Assembly,Wuling,Confero,Headlamp,4,3,1.7,0
+DM0341,2025-03,PT0035,Trunk Lid,Honda,HR-V,Trunk,8,7,3.7,0
+DM0342,2025-05,PT0035,Trunk Lid,Honda,HR-V,Trunk,8,7,5.1,0
+DM0343,2025-06,PT0035,Trunk Lid,Honda,HR-V,Trunk,10,8,5.1,0
+DM0344,2025-08,PT0035,Trunk Lid,Honda,HR-V,Trunk,13,12,7.4,0
+DM0345,2025-09,PT0035,Trunk Lid,Honda,HR-V,Trunk,3,2,1.0,0
+DM0346,2025-10,PT0035,Trunk Lid,Honda,HR-V,Trunk,0,0,0.0,0
+DM0347,2025-12,PT0035,Trunk Lid,Honda,HR-V,Trunk,6,4,2.4,0
+DM0348,2026-02,PT0035,Trunk Lid,Honda,HR-V,Trunk,14,11,5.3,0
+DM0349,2026-03,PT0035,Trunk Lid,Honda,HR-V,Trunk,4,3,1.5,0
+DM0350,2026-10,PT0035,Trunk Lid,Honda,HR-V,Trunk,36,32,18.5,0
+DM0351,2025-01,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,11,8,4.6,0
+DM0352,2025-04,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,7,5,2.0,0
+DM0353,2025-10,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,8,6,2.5,0
+DM0354,2026-03,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,8,5,2.9,0
+DM0355,2026-05,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,12,10,6.5,0
+DM0356,2026-06,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,8,6,3.1,0
+DM0357,2026-08,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,9,7,4.5,0
+DM0358,2026-10,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,8,6,4.0,0
+DM0359,2026-11,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,9,8,4.4,0
+DM0360,2026-12,PT0036,Side Mirror Assembly,Hyundai,Stargazer,Side Mirror,8,5,2.4,0
+DM0361,2025-04,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,7,6,2.5,0
+DM0362,2025-05,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,6,5,2.4,0
+DM0363,2025-07,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,7,6,2.5,0
+DM0364,2025-09,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,10,8,5.4,0
+DM0365,2025-10,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,11,10,5.5,0
+DM0366,2025-12,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,11,9,3.6,0
+DM0367,2026-06,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,15,12,5.7,0
+DM0368,2026-10,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,14,13,6.0,0
+DM0369,2026-11,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,22,20,8.8,0
+DM0370,2026-12,PT0037,Side Mirror Assembly,Wuling,Cortez,Side Mirror,17,15,7.2,0
+DM0371,2025-02,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,2,1,0.4,0
+DM0372,2025-07,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,2,1,0.5,0
+DM0373,2025-09,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,5,4,1.7,0
+DM0374,2025-11,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,1,0,0.0,0
+DM0375,2026-04,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,1,0,0.0,0
+DM0376,2026-05,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,1,0,0.0,0
+DM0377,2026-06,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,1,0,0.0,0
+DM0378,2026-08,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,1,0,0.0,0
+DM0379,2026-09,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,1,0,0.0,0
+DM0380,2026-10,PT0038,Tail Lamp Assembly,Toyota,Fortuner,Tail Lamp,1,0,0.0,0
+DM0381,2025-01,PT0039,Front Panel,BYD,M6,Front Panel,10,7,4.0,0
+DM0382,2025-02,PT0039,Front Panel,BYD,M6,Front Panel,17,14,7.3,0
+DM0383,2025-05,PT0039,Front Panel,BYD,M6,Front Panel,17,15,9.4,0
+DM0384,2025-06,PT0039,Front Panel,BYD,M6,Front Panel,19,13,8.5,0
+DM0385,2025-09,PT0039,Front Panel,BYD,M6,Front Panel,15,10,6.7,0
+DM0386,2025-11,PT0039,Front Panel,BYD,M6,Front Panel,11,7,4.0,0
+DM0387,2025-12,PT0039,Front Panel,BYD,M6,Front Panel,12,10,5.3,0
+DM0388,2026-02,PT0039,Front Panel,BYD,M6,Front Panel,7,5,2.1,0
+DM0389,2026-09,PT0039,Front Panel,BYD,M6,Front Panel,7,6,3.3,0
+DM0390,2026-10,PT0039,Front Panel,BYD,M6,Front Panel,10,7,4.9,0
+DM0391,2025-01,PT0040,Hood Assembly,Nissan,X-Trail,Hood,11,8,3.9,0
+DM0392,2025-02,PT0040,Hood Assembly,Nissan,X-Trail,Hood,3,2,0.8,0
+DM0393,2025-03,PT0040,Hood Assembly,Nissan,X-Trail,Hood,8,6,2.5,0
+DM0394,2025-04,PT0040,Hood Assembly,Nissan,X-Trail,Hood,2,1,0.4,0
+DM0395,2025-05,PT0040,Hood Assembly,Nissan,X-Trail,Hood,3,2,1.5,0
+DM0396,2026-02,PT0040,Hood Assembly,Nissan,X-Trail,Hood,0,0,0.0,0
+DM0397,2026-03,PT0040,Hood Assembly,Nissan,X-Trail,Hood,3,2,1.5,0
+DM0398,2026-06,PT0040,Hood Assembly,Nissan,X-Trail,Hood,7,6,4.4,0
+DM0399,2026-10,PT0040,Hood Assembly,Nissan,X-Trail,Hood,9,8,4.7,0
+DM0400,2026-11,PT0040,Hood Assembly,Nissan,X-Trail,Hood,6,4,1.6,0
+DM0401,2025-02,PT0041,Hood Assembly,Wuling,Alvez,Hood,2,1,0.5,0
+DM0402,2025-05,PT0041,Hood Assembly,Wuling,Alvez,Hood,5,4,2.2,0
+DM0403,2025-10,PT0041,Hood Assembly,Wuling,Alvez,Hood,2,1,0.6,0
+DM0404,2025-12,PT0041,Hood Assembly,Wuling,Alvez,Hood,9,7,4.7,0
+DM0405,2026-02,PT0041,Hood Assembly,Wuling,Alvez,Hood,6,5,3.6,0
+DM0406,2026-03,PT0041,Hood Assembly,Wuling,Alvez,Hood,3,2,0.9,0
+DM0407,2026-06,PT0041,Hood Assembly,Wuling,Alvez,Hood,6,5,4.0,0
+DM0408,2026-07,PT0041,Hood Assembly,Wuling,Alvez,Hood,5,4,2.0,0
+DM0409,2026-09,PT0041,Hood Assembly,Wuling,Alvez,Hood,4,3,1.3,0
+DM0410,2026-12,PT0041,Hood Assembly,Wuling,Alvez,Hood,5,3,2.3,0
+DM0411,2025-02,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,4,3,1.7,0
+DM0412,2025-04,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,5,4,1.7,0
+DM0413,2025-05,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,8,6,4.8,0
+DM0414,2025-07,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,12,9,4.7,0
+DM0415,2025-08,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,10,9,4.1,0
+DM0416,2025-12,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,10,7,2.8,0
+DM0417,2026-02,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,8,6,2.5,0
+DM0418,2026-03,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,18,15,7.7,0
+DM0419,2026-06,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,15,13,5.7,0
+DM0420,2026-11,PT0042,Tail Lamp Assembly,Mazda,CX-3,Tail Lamp,18,13,5.6,0
+DM0421,2025-01,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,15,14,7.5,0
+DM0422,2025-05,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,11,9,5.8,0
+DM0423,2025-06,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,9,7,3.6,0
+DM0424,2025-08,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,11,10,7.0,0
+DM0425,2025-11,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,8,7,3.6,0
+DM0426,2026-02,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,8,5,3.0,0
+DM0427,2026-09,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,2,1,0.6,0
+DM0428,2026-10,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,7,6,2.9,0
+DM0429,2026-11,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,4,3,1.9,0
+DM0430,2026-12,PT0043,Rear Door Assembly,Toyota,Rush,Rear Door,1,0,0.0,0
+DM0431,2025-02,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,6,4,2.7,0
+DM0432,2025-04,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,4,3,2.2,0
+DM0433,2025-06,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,15,12,9.4,0
+DM0434,2025-07,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,8,6,3.4,0
+DM0435,2025-08,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,12,10,5.9,0
+DM0436,2026-01,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,4,3,1.8,0
+DM0437,2026-03,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,4,2,1.1,0
+DM0438,2026-04,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,0,0,0.0,0
+DM0439,2026-11,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,3,2,0.9,0
+DM0440,2026-12,PT0044,Rear Door Assembly,Wuling,Alvez,Rear Door,2,1,0.6,0
+DM0441,2025-01,PT0045,Front Panel,Hyundai,Creta,Front Panel,5,4,3.2,0
+DM0442,2025-03,PT0045,Front Panel,Hyundai,Creta,Front Panel,7,5,2.2,0
+DM0443,2025-07,PT0045,Front Panel,Hyundai,Creta,Front Panel,4,3,1.4,0
+DM0444,2025-08,PT0045,Front Panel,Hyundai,Creta,Front Panel,11,8,5.4,0
+DM0445,2025-09,PT0045,Front Panel,Hyundai,Creta,Front Panel,5,4,2.5,0
+DM0446,2025-10,PT0045,Front Panel,Hyundai,Creta,Front Panel,8,7,4.7,0
+DM0447,2025-11,PT0045,Front Panel,Hyundai,Creta,Front Panel,12,9,4.2,0
+DM0448,2026-01,PT0045,Front Panel,Hyundai,Creta,Front Panel,13,12,5.5,0
+DM0449,2026-07,PT0045,Front Panel,Hyundai,Creta,Front Panel,12,11,5.2,0
+DM0450,2026-11,PT0045,Front Panel,Hyundai,Creta,Front Panel,8,7,4.1,0
+DM0451,2025-01,PT0046,Windshield,Toyota,Agya,Windshield,7,5,3.1,0
+DM0452,2025-04,PT0046,Windshield,Toyota,Agya,Windshield,10,7,3.9,0
+DM0453,2025-09,PT0046,Windshield,Toyota,Agya,Windshield,6,5,3.1,0
+DM0454,2025-11,PT0046,Windshield,Toyota,Agya,Windshield,4,3,1.3,0
+DM0455,2025-12,PT0046,Windshield,Toyota,Agya,Windshield,7,5,2.2,0
+DM0456,2026-01,PT0046,Windshield,Toyota,Agya,Windshield,5,4,1.8,0
+DM0457,2026-03,PT0046,Windshield,Toyota,Agya,Windshield,7,5,3.4,0
+DM0458,2026-05,PT0046,Windshield,Toyota,Agya,Windshield,7,5,4.0,0
+DM0459,2026-06,PT0046,Windshield,Toyota,Agya,Windshield,6,5,2.3,0
+DM0460,2026-09,PT0046,Windshield,Toyota,Agya,Windshield,7,4,2.1,0
+DM0461,2025-02,PT0047,Roof Panel,Mazda,Mazda 3,Roof,12,10,4.7,0
+DM0462,2025-04,PT0047,Roof Panel,Mazda,Mazda 3,Roof,16,12,8.2,0
+DM0463,2025-06,PT0047,Roof Panel,Mazda,Mazda 3,Roof,14,10,5.2,0
+DM0464,2025-07,PT0047,Roof Panel,Mazda,Mazda 3,Roof,16,12,6.3,0
+DM0465,2025-09,PT0047,Roof Panel,Mazda,Mazda 3,Roof,19,18,11.0,0
+DM0466,2025-11,PT0047,Roof Panel,Mazda,Mazda 3,Roof,20,18,9.8,0
+DM0467,2025-12,PT0047,Roof Panel,Mazda,Mazda 3,Roof,20,18,8.3,0
+DM0468,2026-02,PT0047,Roof Panel,Mazda,Mazda 3,Roof,24,20,9.3,0
+DM0469,2026-07,PT0047,Roof Panel,Mazda,Mazda 3,Roof,22,17,12.3,0
+DM0470,2026-12,PT0047,Roof Panel,Mazda,Mazda 3,Roof,25,21,14.6,0
+DM0471,2025-01,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,4,3,1.2,0
+DM0472,2025-02,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,6,5,2.7,0
+DM0473,2025-04,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,6,5,3.9,0
+DM0474,2025-07,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,3,2,1.6,0
+DM0475,2025-09,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,2,1,0.7,0
+DM0476,2026-01,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,1,0,0.0,0
+DM0477,2026-02,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,1,0,0.0,0
+DM0478,2026-05,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,1,0,0.0,0
+DM0479,2026-07,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,1,0,0.0,0
+DM0480,2026-08,PT0048,Tail Lamp Assembly,BYD,M6,Tail Lamp,1,0,0.0,0
+DM0481,2025-03,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,5,3,1.6,0
+DM0482,2025-07,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,13,10,8.2,0
+DM0483,2025-11,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,13,11,5.8,0
+DM0484,2025-12,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,11,8,4.3,0
+DM0485,2026-02,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,13,11,6.3,0
+DM0486,2026-04,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,8,7,4.9,0
+DM0487,2026-05,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,0,0,0.0,0
+DM0488,2026-06,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,3,2,1.3,0
+DM0489,2026-10,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,2,1,0.7,0
+DM0490,2026-12,PT0049,Front Bumper Assembly,Ford,Territory,Front Bumper,2,1,0.4,0
+DM0491,2025-04,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,10,7,2.9,0
+DM0492,2025-05,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,7,5,3.3,0
+DM0493,2025-10,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,3,2,1.3,0
+DM0494,2025-11,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,4,3,2.3,0
+DM0495,2026-01,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,6,5,2.4,0
+DM0496,2026-02,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,9,6,3.5,0
+DM0497,2026-05,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,13,10,5.5,0
+DM0498,2026-09,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,7,6,2.8,0
+DM0499,2026-11,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,11,7,3.0,0
+DM0500,2026-12,PT0050,Headlamp Assembly,Wuling,Air ev,Headlamp,1,0,0.0,0
+DM0501,2025-01,PT0051,Trunk Lid,Honda,Mobilio,Trunk,7,6,2.4,0
+DM0502,2025-05,PT0051,Trunk Lid,Honda,Mobilio,Trunk,6,5,2.1,0
+DM0503,2025-06,PT0051,Trunk Lid,Honda,Mobilio,Trunk,9,6,2.5,0
+DM0504,2025-10,PT0051,Trunk Lid,Honda,Mobilio,Trunk,5,4,2.1,0
+DM0505,2026-01,PT0051,Trunk Lid,Honda,Mobilio,Trunk,7,5,2.1,0
+DM0506,2026-02,PT0051,Trunk Lid,Honda,Mobilio,Trunk,7,6,3.8,0
+DM0507,2026-07,PT0051,Trunk Lid,Honda,Mobilio,Trunk,2,1,0.5,0
+DM0508,2026-08,PT0051,Trunk Lid,Honda,Mobilio,Trunk,11,8,3.5,0
+DM0509,2026-10,PT0051,Trunk Lid,Honda,Mobilio,Trunk,5,3,2.0,0
+DM0510,2026-11,PT0051,Trunk Lid,Honda,Mobilio,Trunk,6,4,1.8,0
+DM0511,2025-07,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,13,12,5.0,0
+DM0512,2025-10,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,11,8,4.1,0
+DM0513,2025-11,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,18,15,6.5,0
+DM0514,2026-02,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,17,15,7.9,0
+DM0515,2026-03,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,17,13,6.0,0
+DM0516,2026-05,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,19,17,8.1,0
+DM0517,2026-06,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,22,15,6.9,0
+DM0518,2026-07,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,22,17,12.8,0
+DM0519,2026-08,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,25,19,14.6,0
+DM0520,2026-09,PT0052,Rear Bumper Assembly,Daihatsu,Sigra,Rear Bumper,22,19,9.5,0
+DM0521,2025-03,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,2,1,0.4,0
+DM0522,2025-06,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,1,0,0.0,0
+DM0523,2025-07,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,5,4,2.2,0
+DM0524,2025-10,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,4,3,1.6,0
+DM0525,2025-11,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,1,0,0.0,0
+DM0526,2026-02,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,1,0,0.0,0
+DM0527,2026-04,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,2,1,0.6,0
+DM0528,2026-05,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,1,0,0.0,0
+DM0529,2026-08,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,1,0,0.0,0
+DM0530,2026-11,PT0053,Rear Door Assembly,Toyota,Calya,Rear Door,1,0,0.0,0
+DM0531,2025-01,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,9,7,4.2,0
+DM0532,2025-02,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,13,9,3.7,0
+DM0533,2025-05,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,15,12,5.5,0
+DM0534,2025-07,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,13,9,6.9,0
+DM0535,2025-08,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,13,10,5.2,0
+DM0536,2025-10,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,8,6,4.5,0
+DM0537,2026-04,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,7,5,2.6,0
+DM0538,2026-09,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,5,4,1.8,0
+DM0539,2026-10,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,5,4,3.3,0
+DM0540,2026-12,PT0054,Front Fender,Hyundai,Ioniq 5,Front Fender,7,5,2.3,0
+DM0541,2025-03,PT0055,Front Fender,Hyundai,Creta,Front Fender,15,13,6.7,0
+DM0542,2025-04,PT0055,Front Fender,Hyundai,Creta,Front Fender,19,18,11.9,0
+DM0543,2025-07,PT0055,Front Fender,Hyundai,Creta,Front Fender,23,19,9.1,0
+DM0544,2026-01,PT0055,Front Fender,Hyundai,Creta,Front Fender,21,15,9.7,0
+DM0545,2026-02,PT0055,Front Fender,Hyundai,Creta,Front Fender,14,10,7.2,0
+DM0546,2026-03,PT0055,Front Fender,Hyundai,Creta,Front Fender,5,3,1.9,0
+DM0547,2026-04,PT0055,Front Fender,Hyundai,Creta,Front Fender,6,4,1.8,0
+DM0548,2026-06,PT0055,Front Fender,Hyundai,Creta,Front Fender,8,6,2.5,0
+DM0549,2026-07,PT0055,Front Fender,Hyundai,Creta,Front Fender,1,0,0.0,0
+DM0550,2026-08,PT0055,Front Fender,Hyundai,Creta,Front Fender,4,3,1.7,0
+DM0551,2025-01,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,7,5,4.1,0
+DM0552,2025-04,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,6,4,1.7,0
+DM0553,2025-05,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,4,3,1.3,0
+DM0554,2025-06,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,6,4,2.3,0
+DM0555,2025-08,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,6,5,2.4,0
+DM0556,2026-02,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,7,6,3.8,0
+DM0557,2026-03,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,4,3,1.4,0
+DM0558,2026-05,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,5,4,2.8,0
+DM0559,2026-09,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,7,5,3.1,0
+DM0560,2026-10,PT0056,Front Door Assembly,Hyundai,Tucson,Front Door,8,7,3.5,0
+DM0561,2025-04,PT0057,Front Door Assembly,Kia,Seltos,Front Door,16,15,6.8,0
+DM0562,2025-05,PT0057,Front Door Assembly,Kia,Seltos,Front Door,16,12,7.7,0
+DM0563,2025-08,PT0057,Front Door Assembly,Kia,Seltos,Front Door,17,15,9.0,0
+DM0564,2025-10,PT0057,Front Door Assembly,Kia,Seltos,Front Door,20,19,13.0,0
+DM0565,2025-11,PT0057,Front Door Assembly,Kia,Seltos,Front Door,18,17,11.9,0
+DM0566,2026-03,PT0057,Front Door Assembly,Kia,Seltos,Front Door,20,18,14.6,0
+DM0567,2026-05,PT0057,Front Door Assembly,Kia,Seltos,Front Door,27,24,9.9,5
+DM0568,2026-06,PT0057,Front Door Assembly,Kia,Seltos,Front Door,26,24,18.6,0
+DM0569,2026-07,PT0057,Front Door Assembly,Kia,Seltos,Front Door,26,24,11.6,5
+DM0570,2026-09,PT0057,Front Door Assembly,Kia,Seltos,Front Door,30,23,11.2,0
+DM0571,2025-06,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,9,8,6.2,0
+DM0572,2025-09,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,5,4,2.2,0
+DM0573,2026-01,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,4,3,1.6,0
+DM0574,2026-02,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,2,1,0.5,0
+DM0575,2026-03,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,4,3,1.3,0
+DM0576,2026-04,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,3,2,0.8,0
+DM0577,2026-05,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,3,2,1.0,0
+DM0578,2026-06,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,2,1,0.5,0
+DM0579,2026-08,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,1,0,0.0,0
+DM0580,2026-12,PT0058,Front Bumper Assembly,BYD,Dolphin,Front Bumper,1,0,0.0,0
+DM0581,2025-03,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,9,8,3.8,0
+DM0582,2025-08,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,13,10,4.6,0
+DM0583,2025-09,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,17,16,9.1,0
+DM0584,2025-12,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,18,12,7.8,0
+DM0585,2026-03,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,13,11,5.9,0
+DM0586,2026-04,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,7,6,3.1,0
+DM0587,2026-05,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,9,7,4.1,0
+DM0588,2026-09,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,12,11,5.6,0
+DM0589,2026-10,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,6,5,3.0,0
+DM0590,2026-12,PT0059,Quarter Panel,Suzuki,XL7,Quarter Panel,9,6,4.5,0
+DM0591,2025-03,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,13,10,4.1,0
+DM0592,2025-04,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,16,11,4.5,0
+DM0593,2025-05,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,19,14,8.7,0
+DM0594,2025-08,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,5,4,2.7,0
+DM0595,2025-09,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,13,10,5.5,0
+DM0596,2025-10,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,2,1,0.5,0
+DM0597,2025-11,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,13,10,6.3,0
+DM0598,2026-05,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,15,14,10.4,0
+DM0599,2026-06,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,4,3,1.5,0
+DM0600,2026-09,PT0060,Rear Bumper Assembly,Toyota,Fortuner,Rear Bumper,23,20,14.1,0
+DM0601,2025-03,PT0061,Front Panel,Wuling,Air ev,Front Panel,12,11,7.3,0
+DM0602,2025-05,PT0061,Front Panel,Wuling,Air ev,Front Panel,14,10,7.1,0
+DM0603,2025-07,PT0061,Front Panel,Wuling,Air ev,Front Panel,8,6,2.5,0
+DM0604,2025-11,PT0061,Front Panel,Wuling,Air ev,Front Panel,15,11,6.4,0
+DM0605,2026-01,PT0061,Front Panel,Wuling,Air ev,Front Panel,11,8,3.9,0
+DM0606,2026-02,PT0061,Front Panel,Wuling,Air ev,Front Panel,11,9,7.3,0
+DM0607,2026-03,PT0061,Front Panel,Wuling,Air ev,Front Panel,9,7,4.8,0
+DM0608,2026-07,PT0061,Front Panel,Wuling,Air ev,Front Panel,8,7,4.1,0
+DM0609,2026-09,PT0061,Front Panel,Wuling,Air ev,Front Panel,13,11,7.5,0
+DM0610,2026-11,PT0061,Front Panel,Wuling,Air ev,Front Panel,12,11,4.9,0
+DM0611,2025-01,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,0,0,0.0,0
+DM0612,2025-02,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,1,0,0.0,0
+DM0613,2025-06,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,5,3,1.8,0
+DM0614,2025-07,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,10,8,5.2,0
+DM0615,2026-01,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,8,7,3.7,0
+DM0616,2026-02,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,7,6,3.0,0
+DM0617,2026-04,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,11,9,4.6,0
+DM0618,2026-07,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,12,9,3.9,0
+DM0619,2026-08,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,9,7,3.1,0
+DM0620,2026-09,PT0062,Front Bumper Assembly,Hyundai,Ioniq 5,Front Bumper,16,14,8.8,0
+DM0621,2025-07,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,9,7,5.3,0
+DM0622,2025-08,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,10,7,5.2,0
+DM0623,2025-09,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,11,8,5.6,0
+DM0624,2025-10,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,9,8,4.3,0
+DM0625,2026-01,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,5,4,2.9,0
+DM0626,2026-02,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,2,1,0.7,0
+DM0627,2026-04,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,9,8,3.8,0
+DM0628,2026-06,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,3,2,0.8,0
+DM0629,2026-07,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,2,1,0.5,0
+DM0630,2026-09,PT0063,Front Bumper Assembly,Mitsubishi,Outlander,Front Bumper,1,0,0.0,0
+DM0631,2025-01,PT0064,Front Grille,Kia,Seltos,Grille,10,8,6.3,0
+DM0632,2025-05,PT0064,Front Grille,Kia,Seltos,Grille,12,9,7.4,0
+DM0633,2025-06,PT0064,Front Grille,Kia,Seltos,Grille,13,9,4.0,0
+DM0634,2025-11,PT0064,Front Grille,Kia,Seltos,Grille,13,12,6.5,0
+DM0635,2026-01,PT0064,Front Grille,Kia,Seltos,Grille,12,10,4.8,0
+DM0636,2026-03,PT0064,Front Grille,Kia,Seltos,Grille,8,6,2.6,0
+DM0637,2026-04,PT0064,Front Grille,Kia,Seltos,Grille,5,4,3.1,0
+DM0638,2026-06,PT0064,Front Grille,Kia,Seltos,Grille,5,3,1.4,0
+DM0639,2026-10,PT0064,Front Grille,Kia,Seltos,Grille,4,3,1.9,0
+DM0640,2026-11,PT0064,Front Grille,Kia,Seltos,Grille,10,8,5.6,0
+DM0641,2025-01,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,3,2,0.9,0
+DM0642,2025-03,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,7,6,3.1,0
+DM0643,2025-05,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,9,6,4.4,0
+DM0644,2025-06,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,6,5,2.2,0
+DM0645,2026-01,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,22,17,7.5,0
+DM0646,2026-02,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,2,1,0.5,0
+DM0647,2026-03,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,8,6,2.4,0
+DM0648,2026-07,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,18,13,5.7,0
+DM0649,2026-09,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,16,14,8.8,0
+DM0650,2026-11,PT0065,Rear Door Assembly,Wuling,Confero,Rear Door,6,5,2.8,0
+DM0651,2025-07,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,5,4,1.8,0
+DM0652,2025-09,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,5,4,1.6,0
+DM0653,2025-11,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,12,11,7.3,0
+DM0654,2026-01,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,7,6,3.1,0
+DM0655,2026-03,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,8,6,2.8,0
+DM0656,2026-05,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,3,2,1.4,0
+DM0657,2026-07,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,7,5,3.4,0
+DM0658,2026-10,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,8,6,4.7,0
+DM0659,2026-11,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,8,6,3.8,0
+DM0660,2026-12,PT0066,Side Mirror Assembly,Toyota,Rush,Side Mirror,8,6,3.7,0
+DM0661,2025-01,PT0067,Roof Panel,Ford,Ranger,Roof,9,8,5.1,0
+DM0662,2025-02,PT0067,Roof Panel,Ford,Ranger,Roof,10,7,3.0,0
+DM0663,2025-03,PT0067,Roof Panel,Ford,Ranger,Roof,8,7,3.4,0
+DM0664,2025-08,PT0067,Roof Panel,Ford,Ranger,Roof,11,8,3.3,0
+DM0665,2025-09,PT0067,Roof Panel,Ford,Ranger,Roof,15,14,5.8,0
+DM0666,2025-11,PT0067,Roof Panel,Ford,Ranger,Roof,15,14,6.0,0
+DM0667,2025-12,PT0067,Roof Panel,Ford,Ranger,Roof,19,14,6.0,0
+DM0668,2026-02,PT0067,Roof Panel,Ford,Ranger,Roof,20,15,7.1,0
+DM0669,2026-04,PT0067,Roof Panel,Ford,Ranger,Roof,23,21,9.6,0
+DM0670,2026-06,PT0067,Roof Panel,Ford,Ranger,Roof,24,21,11.4,0
+DM0671,2025-01,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,7,6,3.9,0
+DM0672,2025-02,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,7,5,2.8,0
+DM0673,2025-03,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,7,6,2.6,0
+DM0674,2025-05,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,2,1,0.5,0
+DM0675,2025-07,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,2,1,0.4,0
+DM0676,2025-08,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,1,0,0.0,0
+DM0677,2026-08,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,1,0,0.0,0
+DM0678,2026-09,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,2,1,0.5,0
+DM0679,2026-11,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,1,0,0.0,0
+DM0680,2026-12,PT0068,Side Mirror Assembly,Suzuki,XL7,Side Mirror,1,0,0.0,0
+DM0681,2025-04,PT0069,Windshield,BMW,3 Series,Windshield,9,6,3.2,0
+DM0682,2025-06,PT0069,Windshield,BMW,3 Series,Windshield,13,9,5.1,0
+DM0683,2025-07,PT0069,Windshield,BMW,3 Series,Windshield,15,11,7.1,0
+DM0684,2025-09,PT0069,Windshield,BMW,3 Series,Windshield,12,11,6.7,0
+DM0685,2025-10,PT0069,Windshield,BMW,3 Series,Windshield,12,10,5.2,0
+DM0686,2025-12,PT0069,Windshield,BMW,3 Series,Windshield,10,8,4.9,0
+DM0687,2026-03,PT0069,Windshield,BMW,3 Series,Windshield,6,5,4.0,0
+DM0688,2026-04,PT0069,Windshield,BMW,3 Series,Windshield,2,1,0.5,0
+DM0689,2026-07,PT0069,Windshield,BMW,3 Series,Windshield,8,6,4.4,0
+DM0690,2026-10,PT0069,Windshield,BMW,3 Series,Windshield,7,6,3.4,0
+DM0691,2025-01,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,11,7,2.9,0
+DM0692,2025-04,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,5,3,1.4,0
+DM0693,2025-06,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,6,4,2.0,0
+DM0694,2025-07,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,1,0,0.0,0
+DM0695,2025-10,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,5,3,1.5,0
+DM0696,2026-01,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,11,8,4.8,0
+DM0697,2026-08,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,13,12,8.5,0
+DM0698,2026-10,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,0,0,0.0,0
+DM0699,2026-11,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,6,4,1.9,0
+DM0700,2026-12,PT0070,Tail Lamp Assembly,Ford,Everest,Tail Lamp,11,8,3.9,0
+DM0701,2025-02,PT0071,Front Panel,Wuling,Alvez,Front Panel,5,4,3.3,0
+DM0702,2025-03,PT0071,Front Panel,Wuling,Alvez,Front Panel,5,4,2.9,0
+DM0703,2025-04,PT0071,Front Panel,Wuling,Alvez,Front Panel,5,3,1.4,0
+DM0704,2025-06,PT0071,Front Panel,Wuling,Alvez,Front Panel,8,5,2.4,0
+DM0705,2025-07,PT0071,Front Panel,Wuling,Alvez,Front Panel,6,5,2.0,0
+DM0706,2025-08,PT0071,Front Panel,Wuling,Alvez,Front Panel,11,9,6.6,0
+DM0707,2025-10,PT0071,Front Panel,Wuling,Alvez,Front Panel,9,6,3.5,0
+DM0708,2026-07,PT0071,Front Panel,Wuling,Alvez,Front Panel,7,6,4.5,0
+DM0709,2026-09,PT0071,Front Panel,Wuling,Alvez,Front Panel,9,7,3.0,0
+DM0710,2026-11,PT0071,Front Panel,Wuling,Alvez,Front Panel,6,4,1.8,0
+DM0711,2025-01,PT0072,Front Grille,BYD,Seal,Grille,0,0,0.0,0
+DM0712,2025-03,PT0072,Front Grille,BYD,Seal,Grille,3,2,0.8,0
+DM0713,2025-11,PT0072,Front Grille,BYD,Seal,Grille,7,5,2.6,0
+DM0714,2025-12,PT0072,Front Grille,BYD,Seal,Grille,8,5,2.4,0
+DM0715,2026-02,PT0072,Front Grille,BYD,Seal,Grille,11,9,4.2,0
+DM0716,2026-04,PT0072,Front Grille,BYD,Seal,Grille,11,9,6.4,0
+DM0717,2026-05,PT0072,Front Grille,BYD,Seal,Grille,14,11,5.3,0
+DM0718,2026-06,PT0072,Front Grille,BYD,Seal,Grille,17,16,12.2,0
+DM0719,2026-10,PT0072,Front Grille,BYD,Seal,Grille,15,10,4.6,0
+DM0720,2026-11,PT0072,Front Grille,BYD,Seal,Grille,18,15,8.8,0
+DM0721,2025-04,PT0073,Trunk Lid,Suzuki,XL7,Trunk,3,2,1.2,0
+DM0722,2025-05,PT0073,Trunk Lid,Suzuki,XL7,Trunk,5,3,1.9,0
+DM0723,2025-06,PT0073,Trunk Lid,Suzuki,XL7,Trunk,2,1,0.5,0
+DM0724,2025-09,PT0073,Trunk Lid,Suzuki,XL7,Trunk,4,3,1.5,0
+DM0725,2025-10,PT0073,Trunk Lid,Suzuki,XL7,Trunk,3,2,1.0,0
+DM0726,2025-12,PT0073,Trunk Lid,Suzuki,XL7,Trunk,2,1,0.5,0
+DM0727,2026-02,PT0073,Trunk Lid,Suzuki,XL7,Trunk,1,0,0.0,0
+DM0728,2026-03,PT0073,Trunk Lid,Suzuki,XL7,Trunk,4,3,1.4,0
+DM0729,2026-04,PT0073,Trunk Lid,Suzuki,XL7,Trunk,1,0,0.0,0
+DM0730,2026-10,PT0073,Trunk Lid,Suzuki,XL7,Trunk,1,0,0.0,0
+DM0731,2025-03,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,10,8,5.9,0
+DM0732,2025-05,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,8,6,3.0,0
+DM0733,2025-08,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,9,7,2.8,0
+DM0734,2025-09,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,16,15,6.2,0
+DM0735,2025-11,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,11,8,3.4,0
+DM0736,2026-02,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,5,4,2.4,0
+DM0737,2026-03,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,4,3,1.4,0
+DM0738,2026-04,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,6,5,2.3,0
+DM0739,2026-06,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,3,2,1.6,0
+DM0740,2026-07,PT0074,Side Mirror Assembly,Ford,Ranger,Side Mirror,6,4,3.2,0
+DM0741,2025-01,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,8,5,2.2,0
+DM0742,2025-08,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,9,7,3.5,0
+DM0743,2025-11,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,14,11,6.3,0
+DM0744,2026-01,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,11,10,7.7,0
+DM0745,2026-02,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,9,7,3.5,0
+DM0746,2026-03,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,9,7,4.4,0
+DM0747,2026-04,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,3,2,1.4,0
+DM0748,2026-07,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,4,3,1.6,0
+DM0749,2026-08,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,8,6,3.0,0
+DM0750,2026-12,PT0075,Side Mirror Assembly,Suzuki,Swift,Side Mirror,4,3,1.4,0
+DM0751,2025-06,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,1,0,0.0,0
+DM0752,2025-07,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,4,3,1.3,0
+DM0753,2025-09,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,2,1,0.8,0
+DM0754,2025-11,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,1,0,0.0,0
+DM0755,2025-12,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,4,3,1.9,0
+DM0756,2026-04,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,4,3,1.4,0
+DM0757,2026-05,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,2,1,0.5,0
+DM0758,2026-07,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,1,0,0.0,0
+DM0759,2026-10,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,7,6,3.2,0
+DM0760,2026-12,PT0076,Rear Bumper Assembly,Honda,Mobilio,Rear Bumper,3,2,0.9,0
+DM0761,2025-01,PT0077,Front Grille,Honda,Brio,Grille,0,0,0.0,0
+DM0762,2025-03,PT0077,Front Grille,Honda,Brio,Grille,7,5,2.3,0
+DM0763,2025-07,PT0077,Front Grille,Honda,Brio,Grille,4,3,1.3,0
+DM0764,2025-08,PT0077,Front Grille,Honda,Brio,Grille,12,11,8.9,0
+DM0765,2025-11,PT0077,Front Grille,Honda,Brio,Grille,9,8,5.1,0
+DM0766,2026-02,PT0077,Front Grille,Honda,Brio,Grille,12,8,3.8,0
+DM0767,2026-04,PT0077,Front Grille,Honda,Brio,Grille,7,6,4.6,0
+DM0768,2026-05,PT0077,Front Grille,Honda,Brio,Grille,10,8,4.8,0
+DM0769,2026-06,PT0077,Front Grille,Honda,Brio,Grille,17,14,7.2,0
+DM0770,2026-08,PT0077,Front Grille,Honda,Brio,Grille,17,13,8.5,0
+DM0771,2025-01,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,11,8,4.1,0
+DM0772,2025-03,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,6,5,3.3,0
+DM0773,2025-05,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,5,4,3.2,0
+DM0774,2025-08,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,7,6,4.0,0
+DM0775,2025-10,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,5,4,2.4,0
+DM0776,2026-01,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,1,0,0.0,0
+DM0777,2026-03,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,1,0,0.0,0
+DM0778,2026-04,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,1,0,0.0,0
+DM0779,2026-06,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,1,0,0.0,0
+DM0780,2026-11,PT0078,Trunk Lid,Hyundai,Santa Fe,Trunk,1,0,0.0,0
+DM0781,2025-06,PT0079,Trunk Lid,Kia,Carnival,Trunk,11,8,6.1,0
+DM0782,2025-11,PT0079,Trunk Lid,Kia,Carnival,Trunk,7,5,2.7,0
+DM0783,2025-12,PT0079,Trunk Lid,Kia,Carnival,Trunk,9,8,5.6,0
+DM0784,2026-02,PT0079,Trunk Lid,Kia,Carnival,Trunk,7,6,2.4,0
+DM0785,2026-04,PT0079,Trunk Lid,Kia,Carnival,Trunk,8,7,5.4,0
+DM0786,2026-05,PT0079,Trunk Lid,Kia,Carnival,Trunk,4,3,1.9,0
+DM0787,2026-06,PT0079,Trunk Lid,Kia,Carnival,Trunk,6,5,3.1,0
+DM0788,2026-07,PT0079,Trunk Lid,Kia,Carnival,Trunk,1,0,0.0,0
+DM0789,2026-10,PT0079,Trunk Lid,Kia,Carnival,Trunk,1,0,0.0,0
+DM0790,2026-12,PT0079,Trunk Lid,Kia,Carnival,Trunk,2,1,0.5,0
+DM0791,2025-02,PT0080,Front Panel,Isuzu,MU-X,Front Panel,2,1,0.5,0
+DM0792,2025-04,PT0080,Front Panel,Isuzu,MU-X,Front Panel,5,4,1.8,0
+DM0793,2025-07,PT0080,Front Panel,Isuzu,MU-X,Front Panel,0,0,0.0,0
+DM0794,2025-08,PT0080,Front Panel,Isuzu,MU-X,Front Panel,16,15,6.9,0
+DM0795,2025-09,PT0080,Front Panel,Isuzu,MU-X,Front Panel,8,6,5.0,0
+DM0796,2025-10,PT0080,Front Panel,Isuzu,MU-X,Front Panel,12,9,6.0,0
+DM0797,2025-11,PT0080,Front Panel,Isuzu,MU-X,Front Panel,9,7,3.1,0
+DM0798,2026-03,PT0080,Front Panel,Isuzu,MU-X,Front Panel,5,4,1.6,0
+DM0799,2026-10,PT0080,Front Panel,Isuzu,MU-X,Front Panel,21,14,6.8,0
+DM0800,2026-11,PT0080,Front Panel,Isuzu,MU-X,Front Panel,3,2,0.9,0
+DM0801,2025-02,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,15,10,5.3,0
+DM0802,2025-06,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,16,12,6.5,0
+DM0803,2025-07,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,9,6,2.4,0
+DM0804,2025-09,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,13,11,8.3,0
+DM0805,2025-10,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,11,10,4.2,0
+DM0806,2026-04,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,11,9,4.3,0
+DM0807,2026-05,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,14,11,4.5,0
+DM0808,2026-06,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,11,7,5.3,0
+DM0809,2026-09,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,12,8,3.5,0
+DM0810,2026-12,PT0081,Front Bumper Assembly,Isuzu,D-Max,Front Bumper,12,8,4.1,0
+DM0811,2025-01,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,3,2,0.8,0
+DM0812,2025-05,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,3,2,1.3,0
+DM0813,2025-06,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,8,6,2.7,0
+DM0814,2025-07,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,10,9,4.2,0
+DM0815,2025-08,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,10,7,4.5,0
+DM0816,2025-09,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,10,7,4.8,0
+DM0817,2025-10,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,11,10,5.1,0
+DM0818,2025-12,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,13,9,6.4,0
+DM0819,2026-06,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,20,16,9.3,0
+DM0820,2026-11,PT0082,Hood Assembly,Mitsubishi,Outlander,Hood,19,16,6.5,0
+DM0821,2025-01,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0822,2025-02,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,2,1,0.7,0
+DM0823,2025-04,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0824,2025-05,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0825,2025-08,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0826,2025-10,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0827,2026-04,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0828,2026-06,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0829,2026-08,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0830,2026-10,PT0083,Rear Door Assembly,Kia,Seltos,Rear Door,1,0,0.0,0
+DM0831,2025-02,PT0084,Front Panel,Wuling,Cortez,Front Panel,10,8,3.7,0
+DM0832,2025-03,PT0084,Front Panel,Wuling,Cortez,Front Panel,10,7,3.9,0
+DM0833,2025-04,PT0084,Front Panel,Wuling,Cortez,Front Panel,12,11,8.0,0
+DM0834,2025-06,PT0084,Front Panel,Wuling,Cortez,Front Panel,13,9,3.9,0
+DM0835,2025-08,PT0084,Front Panel,Wuling,Cortez,Front Panel,13,12,8.8,0
+DM0836,2025-09,PT0084,Front Panel,Wuling,Cortez,Front Panel,6,5,3.0,0
+DM0837,2025-11,PT0084,Front Panel,Wuling,Cortez,Front Panel,0,0,0.0,0
+DM0838,2026-01,PT0084,Front Panel,Wuling,Cortez,Front Panel,2,1,0.5,0
+DM0839,2026-03,PT0084,Front Panel,Wuling,Cortez,Front Panel,6,4,1.8,0
+DM0840,2026-04,PT0084,Front Panel,Wuling,Cortez,Front Panel,6,4,3.1,0
+DM0841,2025-02,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,2,1,0.6,0
+DM0842,2025-03,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,2,1,0.4,0
+DM0843,2025-05,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,8,7,4.3,0
+DM0844,2025-08,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,6,4,2.2,0
+DM0845,2025-10,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,8,6,3.1,0
+DM0846,2026-07,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,9,8,4.7,0
+DM0847,2026-08,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,10,7,3.4,0
+DM0848,2026-09,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,7,5,3.4,0
+DM0849,2026-10,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,4,3,1.9,0
+DM0850,2026-12,PT0085,Tail Lamp Assembly,Ford,Territory,Tail Lamp,15,14,11.2,0
+DM0851,2025-08,PT0086,Hood Assembly,Isuzu,D-Max,Hood,11,9,5.9,0
+DM0852,2026-01,PT0086,Hood Assembly,Isuzu,D-Max,Hood,8,6,3.5,0
+DM0853,2026-02,PT0086,Hood Assembly,Isuzu,D-Max,Hood,9,7,5.5,0
+DM0854,2026-03,PT0086,Hood Assembly,Isuzu,D-Max,Hood,8,6,4.4,0
+DM0855,2026-04,PT0086,Hood Assembly,Isuzu,D-Max,Hood,7,5,2.1,0
+DM0856,2026-05,PT0086,Hood Assembly,Isuzu,D-Max,Hood,10,8,4.0,0
+DM0857,2026-06,PT0086,Hood Assembly,Isuzu,D-Max,Hood,10,9,4.0,0
+DM0858,2026-08,PT0086,Hood Assembly,Isuzu,D-Max,Hood,5,4,1.8,0
+DM0859,2026-09,PT0086,Hood Assembly,Isuzu,D-Max,Hood,8,6,3.1,0
+DM0860,2026-10,PT0086,Hood Assembly,Isuzu,D-Max,Hood,7,5,2.1,0
+DM0861,2025-02,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,11,9,5.3,0
+DM0862,2025-04,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,12,9,5.6,0
+DM0863,2025-07,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,14,10,4.2,0
+DM0864,2025-10,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,15,14,11.0,0
+DM0865,2025-11,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,17,16,8.5,0
+DM0866,2026-02,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,21,19,7.6,0
+DM0867,2026-03,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,22,21,15.8,0
+DM0868,2026-07,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,21,18,11.6,0
+DM0869,2026-10,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,22,20,8.4,0
+DM0870,2026-11,PT0087,Headlamp Assembly,Isuzu,D-Max,Headlamp,26,18,7.2,7
+DM0871,2025-01,PT0088,Windshield,Honda,City,Windshield,7,5,2.2,0
+DM0872,2025-03,PT0088,Windshield,Honda,City,Windshield,4,3,2.1,0
+DM0873,2025-06,PT0088,Windshield,Honda,City,Windshield,4,3,1.3,0
+DM0874,2025-07,PT0088,Windshield,Honda,City,Windshield,7,6,2.5,0
+DM0875,2025-08,PT0088,Windshield,Honda,City,Windshield,1,0,0.0,0
+DM0876,2025-09,PT0088,Windshield,Honda,City,Windshield,5,4,2.1,0
+DM0877,2026-06,PT0088,Windshield,Honda,City,Windshield,3,2,1.4,0
+DM0878,2026-08,PT0088,Windshield,Honda,City,Windshield,3,2,0.9,0
+DM0879,2026-09,PT0088,Windshield,Honda,City,Windshield,1,0,0.0,0
+DM0880,2026-10,PT0088,Windshield,Honda,City,Windshield,1,0,0.0,0
+DM0881,2025-02,PT0089,Front Panel,Toyota,Fortuner,Front Panel,9,6,4.0,0
+DM0882,2025-08,PT0089,Front Panel,Toyota,Fortuner,Front Panel,15,12,10.0,0
+DM0883,2025-10,PT0089,Front Panel,Toyota,Fortuner,Front Panel,13,12,8.2,0
+DM0884,2025-12,PT0089,Front Panel,Toyota,Fortuner,Front Panel,16,11,5.2,0
+DM0885,2026-02,PT0089,Front Panel,Toyota,Fortuner,Front Panel,14,13,5.7,0
+DM0886,2026-03,PT0089,Front Panel,Toyota,Fortuner,Front Panel,9,7,5.7,0
+DM0887,2026-04,PT0089,Front Panel,Toyota,Fortuner,Front Panel,9,7,2.9,0
+DM0888,2026-05,PT0089,Front Panel,Toyota,Fortuner,Front Panel,5,4,1.7,0
+DM0889,2026-08,PT0089,Front Panel,Toyota,Fortuner,Front Panel,6,5,2.0,0
+DM0890,2026-10,PT0089,Front Panel,Toyota,Fortuner,Front Panel,6,4,1.6,0
+DM0891,2025-03,PT0090,Windshield,Wuling,Alvez,Windshield,7,5,3.8,0
+DM0892,2025-04,PT0090,Windshield,Wuling,Alvez,Windshield,5,3,2.2,0
+DM0893,2025-07,PT0090,Windshield,Wuling,Alvez,Windshield,16,11,4.5,0
+DM0894,2025-08,PT0090,Windshield,Wuling,Alvez,Windshield,5,4,1.6,0
+DM0895,2025-09,PT0090,Windshield,Wuling,Alvez,Windshield,11,9,6.3,0
+DM0896,2026-02,PT0090,Windshield,Wuling,Alvez,Windshield,8,7,3.3,0
+DM0897,2026-03,PT0090,Windshield,Wuling,Alvez,Windshield,8,7,3.1,0
+DM0898,2026-07,PT0090,Windshield,Wuling,Alvez,Windshield,12,9,4.6,0
+DM0899,2026-08,PT0090,Windshield,Wuling,Alvez,Windshield,6,4,2.5,0
+DM0900,2026-10,PT0090,Windshield,Wuling,Alvez,Windshield,2,1,0.7,0
+DM0901,2025-02,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,4,3,1.2,0
+DM0902,2025-03,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,3,2,1.2,0
+DM0903,2025-05,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,5,4,1.6,0
+DM0904,2025-06,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,3,2,1.0,0
+DM0905,2025-08,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,5,4,1.6,0
+DM0906,2025-09,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,3,2,1.0,0
+DM0907,2025-10,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,4,3,2.2,0
+DM0908,2026-04,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,3,2,1.3,0
+DM0909,2026-09,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,5,4,2.8,0
+DM0910,2026-10,PT0091,Rear Door Assembly,Daihatsu,Ayla,Rear Door,5,4,3.0,0
+DM0911,2025-04,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,9,8,3.9,0
+DM0912,2025-09,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,11,10,5.6,0
+DM0913,2025-10,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,10,7,4.6,0
+DM0914,2026-01,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,14,10,6.5,0
+DM0915,2026-03,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,17,12,10.0,0
+DM0916,2026-04,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,17,13,6.0,0
+DM0917,2026-07,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,15,14,6.0,0
+DM0918,2026-09,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,19,16,9.5,0
+DM0919,2026-10,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,21,18,13.5,0
+DM0920,2026-12,PT0092,Front Grille,Hyundai,Ioniq 5,Grille,20,16,6.9,0
+DM0921,2025-01,PT0093,Windshield,Hyundai,Creta,Windshield,9,8,3.8,0
+DM0922,2025-02,PT0093,Windshield,Hyundai,Creta,Windshield,10,7,5.4,0
+DM0923,2025-03,PT0093,Windshield,Hyundai,Creta,Windshield,8,7,4.4,0
+DM0924,2025-09,PT0093,Windshield,Hyundai,Creta,Windshield,8,6,2.5,0
+DM0925,2025-11,PT0093,Windshield,Hyundai,Creta,Windshield,4,2,1.4,0
+DM0926,2026-02,PT0093,Windshield,Hyundai,Creta,Windshield,8,6,2.8,0
+DM0927,2026-03,PT0093,Windshield,Hyundai,Creta,Windshield,4,3,1.3,0
+DM0928,2026-04,PT0093,Windshield,Hyundai,Creta,Windshield,6,4,2.0,0
+DM0929,2026-06,PT0093,Windshield,Hyundai,Creta,Windshield,3,2,1.1,0
+DM0930,2026-08,PT0093,Windshield,Hyundai,Creta,Windshield,2,1,0.4,0
+DM0931,2025-01,PT0094,Front Door Assembly,Nissan,Serena,Front Door,8,5,2.1,0
+DM0932,2025-02,PT0094,Front Door Assembly,Nissan,Serena,Front Door,10,7,5.3,0
+DM0933,2025-03,PT0094,Front Door Assembly,Nissan,Serena,Front Door,18,13,9.0,0
+DM0934,2025-06,PT0094,Front Door Assembly,Nissan,Serena,Front Door,12,10,4.7,0
+DM0935,2025-08,PT0094,Front Door Assembly,Nissan,Serena,Front Door,13,11,7.1,0
+DM0936,2025-09,PT0094,Front Door Assembly,Nissan,Serena,Front Door,6,4,2.7,0
+DM0937,2026-07,PT0094,Front Door Assembly,Nissan,Serena,Front Door,6,4,2.1,0
+DM0938,2026-09,PT0094,Front Door Assembly,Nissan,Serena,Front Door,5,4,2.9,0
+DM0939,2026-10,PT0094,Front Door Assembly,Nissan,Serena,Front Door,4,3,1.7,0
+DM0940,2026-11,PT0094,Front Door Assembly,Nissan,Serena,Front Door,4,3,1.5,0
+DM0941,2025-03,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,0,0,0.0,0
+DM0942,2025-06,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,5,3,2.4,0
+DM0943,2025-08,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,5,3,1.9,0
+DM0944,2025-09,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,8,5,2.2,0
+DM0945,2026-02,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,0,0,0.0,0
+DM0946,2026-03,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,2,1,0.5,0
+DM0947,2026-04,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,6,5,3.8,0
+DM0948,2026-05,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,14,12,8.3,0
+DM0949,2026-07,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,2,1,0.6,0
+DM0950,2026-09,PT0095,Rear Door Assembly,Honda,CR-V,Rear Door,20,16,10.4,0
+DM0951,2025-04,PT0096,Front Grille,Toyota,Veloz,Grille,16,13,8.7,0
+DM0952,2025-05,PT0096,Front Grille,Toyota,Veloz,Grille,16,12,9.4,0
+DM0953,2025-06,PT0096,Front Grille,Toyota,Veloz,Grille,14,12,5.8,0
+DM0954,2025-11,PT0096,Front Grille,Toyota,Veloz,Grille,14,10,6.1,0
+DM0955,2025-12,PT0096,Front Grille,Toyota,Veloz,Grille,15,12,4.9,0
+DM0956,2026-02,PT0096,Front Grille,Toyota,Veloz,Grille,13,11,5.7,0
+DM0957,2026-04,PT0096,Front Grille,Toyota,Veloz,Grille,18,17,7.5,0
+DM0958,2026-09,PT0096,Front Grille,Toyota,Veloz,Grille,15,12,6.3,0
+DM0959,2026-10,PT0096,Front Grille,Toyota,Veloz,Grille,15,14,7.7,0
+DM0960,2026-11,PT0096,Front Grille,Toyota,Veloz,Grille,16,15,8.2,0
+DM0961,2025-02,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,7,5,2.1,0
+DM0962,2025-03,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,12,10,5.4,0
+DM0963,2025-09,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,12,11,4.9,0
+DM0964,2025-11,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,15,13,6.5,0
+DM0965,2026-01,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,14,10,4.6,0
+DM0966,2026-03,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,19,14,5.6,0
+DM0967,2026-06,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,18,17,7.6,0
+DM0968,2026-09,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,23,16,9.1,0
+DM0969,2026-10,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,20,19,10.8,0
+DM0970,2026-12,PT0097,Front Door Assembly,Mitsubishi,Xpander,Front Door,22,21,10.4,0
+DM0971,2025-01,PT0098,Rear Fender,Nissan,Livina,Rear Fender,6,5,3.3,0
+DM0972,2025-02,PT0098,Rear Fender,Nissan,Livina,Rear Fender,6,5,2.1,0
+DM0973,2025-07,PT0098,Rear Fender,Nissan,Livina,Rear Fender,8,5,2.9,0
+DM0974,2025-10,PT0098,Rear Fender,Nissan,Livina,Rear Fender,8,6,3.7,0
+DM0975,2025-12,PT0098,Rear Fender,Nissan,Livina,Rear Fender,10,7,3.9,0
+DM0976,2026-01,PT0098,Rear Fender,Nissan,Livina,Rear Fender,3,2,0.9,0
+DM0977,2026-02,PT0098,Rear Fender,Nissan,Livina,Rear Fender,1,0,0.0,0
+DM0978,2026-03,PT0098,Rear Fender,Nissan,Livina,Rear Fender,3,2,1.2,0
+DM0979,2026-05,PT0098,Rear Fender,Nissan,Livina,Rear Fender,1,0,0.0,0
+DM0980,2026-06,PT0098,Rear Fender,Nissan,Livina,Rear Fender,1,0,0.0,0
+DM0981,2025-02,PT0099,Rear Fender,Honda,Civic,Rear Fender,2,1,0.5,0
+DM0982,2025-05,PT0099,Rear Fender,Honda,Civic,Rear Fender,7,5,3.2,0
+DM0983,2025-07,PT0099,Rear Fender,Honda,Civic,Rear Fender,10,8,4.9,0
+DM0984,2025-08,PT0099,Rear Fender,Honda,Civic,Rear Fender,8,6,3.5,0
+DM0985,2025-09,PT0099,Rear Fender,Honda,Civic,Rear Fender,8,6,3.0,0
+DM0986,2025-10,PT0099,Rear Fender,Honda,Civic,Rear Fender,5,3,1.9,0
+DM0987,2026-03,PT0099,Rear Fender,Honda,Civic,Rear Fender,0,0,0.0,0
+DM0988,2026-04,PT0099,Rear Fender,Honda,Civic,Rear Fender,0,0,0.0,0
+DM0989,2026-06,PT0099,Rear Fender,Honda,Civic,Rear Fender,0,0,0.0,0
+DM0990,2026-09,PT0099,Rear Fender,Honda,Civic,Rear Fender,5,3,1.3,0
+DM0991,2025-01,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,8,6,4.0,0
+DM0992,2025-04,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,10,9,3.8,0
+DM0993,2025-06,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,13,12,9.8,0
+DM0994,2025-08,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,3,2,1.3,0
+DM0995,2025-09,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,3,2,1.1,0
+DM0996,2025-10,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,11,9,6.8,0
+DM0997,2026-04,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,8,7,5.1,0
+DM0998,2026-08,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,7,6,3.4,0
+DM0999,2026-09,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,8,7,4.5,0
+DM1000,2026-11,PT0100,Headlamp Assembly,Honda,Brio,Headlamp,5,4,2.0,0
+DM1001,2025-03,PT0101,Front Panel,BYD,Dolphin,Front Panel,10,7,4.7,0
+DM1002,2025-04,PT0101,Front Panel,BYD,Dolphin,Front Panel,9,8,3.7,0
+DM1003,2025-05,PT0101,Front Panel,BYD,Dolphin,Front Panel,6,5,2.1,0
+DM1004,2025-08,PT0101,Front Panel,BYD,Dolphin,Front Panel,9,8,4.3,0
+DM1005,2025-09,PT0101,Front Panel,BYD,Dolphin,Front Panel,9,6,3.7,0
+DM1006,2025-10,PT0101,Front Panel,BYD,Dolphin,Front Panel,12,10,7.3,0
+DM1007,2026-02,PT0101,Front Panel,BYD,Dolphin,Front Panel,5,4,1.7,0
+DM1008,2026-03,PT0101,Front Panel,BYD,Dolphin,Front Panel,10,7,4.8,0
+DM1009,2026-04,PT0101,Front Panel,BYD,Dolphin,Front Panel,7,6,2.6,0
+DM1010,2026-09,PT0101,Front Panel,BYD,Dolphin,Front Panel,10,7,3.9,0
+DM1011,2025-04,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,9,8,3.8,0
+DM1012,2025-05,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,10,7,3.1,0
+DM1013,2025-08,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,13,11,5.4,0
+DM1014,2025-09,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,11,8,6.5,0
+DM1015,2026-01,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,17,13,6.6,0
+DM1016,2026-02,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,15,11,4.7,0
+DM1017,2026-03,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,14,12,7.3,0
+DM1018,2026-04,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,18,13,5.5,0
+DM1019,2026-09,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,16,14,6.7,0
+DM1020,2026-11,PT0102,Front Door Assembly,Daihatsu,Rocky,Front Door,23,18,10.6,0
+DM1021,2025-03,PT0103,Front Door Assembly,Toyota,Calya,Front Door,6,4,2.1,0
+DM1022,2025-05,PT0103,Front Door Assembly,Toyota,Calya,Front Door,8,7,3.0,0
+DM1023,2025-09,PT0103,Front Door Assembly,Toyota,Calya,Front Door,6,5,2.4,0
+DM1024,2025-11,PT0103,Front Door Assembly,Toyota,Calya,Front Door,1,0,0.0,0
+DM1025,2026-02,PT0103,Front Door Assembly,Toyota,Calya,Front Door,1,0,0.0,0
+DM1026,2026-05,PT0103,Front Door Assembly,Toyota,Calya,Front Door,3,2,1.7,0
+DM1027,2026-07,PT0103,Front Door Assembly,Toyota,Calya,Front Door,2,1,0.5,0
+DM1028,2026-08,PT0103,Front Door Assembly,Toyota,Calya,Front Door,2,1,0.8,0
+DM1029,2026-11,PT0103,Front Door Assembly,Toyota,Calya,Front Door,1,0,0.0,0
+DM1030,2026-12,PT0103,Front Door Assembly,Toyota,Calya,Front Door,1,0,0.0,0
+DM1031,2025-01,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,4,3,1.7,0
+DM1032,2025-05,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,9,7,4.2,0
+DM1033,2025-06,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,8,6,3.3,0
+DM1034,2025-10,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,9,8,3.5,0
+DM1035,2026-03,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,6,4,3.0,0
+DM1036,2026-04,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,2,1,0.5,0
+DM1037,2026-07,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,1,0,0.0,0
+DM1038,2026-08,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,0,0,0.0,0
+DM1039,2026-09,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,0,0,0.0,0
+DM1040,2026-11,PT0104,Headlamp Assembly,Nissan,X-Trail,Headlamp,0,0,0.0,0
+DM1041,2025-04,PT0105,Front Fender,Kia,Sonet,Front Fender,13,9,7.0,0
+DM1042,2025-07,PT0105,Front Fender,Kia,Sonet,Front Fender,2,1,0.5,0
+DM1043,2025-08,PT0105,Front Fender,Kia,Sonet,Front Fender,9,8,5.2,0
+DM1044,2025-11,PT0105,Front Fender,Kia,Sonet,Front Fender,2,1,0.4,0
+DM1045,2026-01,PT0105,Front Fender,Kia,Sonet,Front Fender,12,9,6.5,0
+DM1046,2026-03,PT0105,Front Fender,Kia,Sonet,Front Fender,9,8,3.4,0
+DM1047,2026-06,PT0105,Front Fender,Kia,Sonet,Front Fender,10,9,4.0,0
+DM1048,2026-09,PT0105,Front Fender,Kia,Sonet,Front Fender,3,2,1.0,0
+DM1049,2026-11,PT0105,Front Fender,Kia,Sonet,Front Fender,6,5,2.3,0
+DM1050,2026-12,PT0105,Front Fender,Kia,Sonet,Front Fender,3,2,0.8,0
+DM1051,2025-02,PT0106,Rear Fender,Ford,Everest,Rear Fender,11,8,4.6,0
+DM1052,2025-03,PT0106,Rear Fender,Ford,Everest,Rear Fender,14,11,8.8,0
+DM1053,2025-05,PT0106,Rear Fender,Ford,Everest,Rear Fender,13,11,5.7,0
+DM1054,2025-11,PT0106,Rear Fender,Ford,Everest,Rear Fender,11,8,3.7,0
+DM1055,2026-01,PT0106,Rear Fender,Ford,Everest,Rear Fender,15,11,5.8,0
+DM1056,2026-02,PT0106,Rear Fender,Ford,Everest,Rear Fender,12,11,4.6,0
+DM1057,2026-04,PT0106,Rear Fender,Ford,Everest,Rear Fender,14,12,6.5,0
+DM1058,2026-08,PT0106,Rear Fender,Ford,Everest,Rear Fender,11,10,4.4,0
+DM1059,2026-09,PT0106,Rear Fender,Ford,Everest,Rear Fender,12,11,7.7,0
+DM1060,2026-11,PT0106,Rear Fender,Ford,Everest,Rear Fender,17,12,8.8,0
+DM1061,2025-01,PT0107,Roof Panel,Toyota,Raize,Roof,16,12,5.3,0
+DM1062,2025-04,PT0107,Roof Panel,Toyota,Raize,Roof,17,15,10.4,0
+DM1063,2025-11,PT0107,Roof Panel,Toyota,Raize,Roof,17,15,9.2,0
+DM1064,2025-12,PT0107,Roof Panel,Toyota,Raize,Roof,19,13,7.8,0
+DM1065,2026-03,PT0107,Roof Panel,Toyota,Raize,Roof,21,19,11.9,0
+DM1066,2026-05,PT0107,Roof Panel,Toyota,Raize,Roof,23,21,12.9,0
+DM1067,2026-07,PT0107,Roof Panel,Toyota,Raize,Roof,21,16,10.1,0
+DM1068,2026-08,PT0107,Roof Panel,Toyota,Raize,Roof,26,24,13.2,0
+DM1069,2026-09,PT0107,Roof Panel,Toyota,Raize,Roof,24,21,8.7,0
+DM1070,2026-12,PT0107,Roof Panel,Toyota,Raize,Roof,31,22,9.3,0
+DM1071,2025-03,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,4,3,1.8,0
+DM1072,2025-05,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,5,3,2.4,0
+DM1073,2025-09,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,6,5,3.6,0
+DM1074,2025-11,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,2,1,0.6,0
+DM1075,2026-01,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,2,1,0.4,0
+DM1076,2026-02,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,3,2,1.2,0
+DM1077,2026-04,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,1,0,0.0,0
+DM1078,2026-05,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,1,0,0.0,0
+DM1079,2026-09,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,1,0,0.0,0
+DM1080,2026-12,PT0108,Rear Door Assembly,Hyundai,Ioniq 5,Rear Door,1,0,0.0,0
+DM1081,2025-02,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,8,7,4.9,0
+DM1082,2025-03,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,10,9,4.9,0
+DM1083,2025-04,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,12,11,8.4,0
+DM1084,2025-11,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,12,10,4.9,0
+DM1085,2026-01,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,11,9,3.7,0
+DM1086,2026-04,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,5,4,3.2,0
+DM1087,2026-06,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,3,2,1.2,0
+DM1088,2026-10,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,0,0,0.0,0
+DM1089,2026-11,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,0,0,0.0,0
+DM1090,2026-12,PT0109,Rear Fender,Hyundai,Ioniq 5,Rear Fender,0,0,0.0,0
+DM1091,2025-03,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,11,8,3.8,0
+DM1092,2025-04,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,2,1,0.7,0
+DM1093,2025-08,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,6,5,3.0,0
+DM1094,2025-10,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,2,1,0.6,0
+DM1095,2026-02,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,9,7,4.9,0
+DM1096,2026-03,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,12,11,6.9,0
+DM1097,2026-06,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,10,7,3.3,0
+DM1098,2026-08,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,10,8,4.9,0
+DM1099,2026-09,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,5,4,1.6,0
+DM1100,2026-10,PT0110,Trunk Lid,Mazda,Mazda 2,Trunk,13,10,4.2,0
+DM1101,2025-01,PT0111,Windshield,Honda,CR-V,Windshield,3,2,1.4,0
+DM1102,2025-02,PT0111,Windshield,Honda,CR-V,Windshield,2,1,0.4,0
+DM1103,2025-07,PT0111,Windshield,Honda,CR-V,Windshield,8,6,4.0,0
+DM1104,2025-10,PT0111,Windshield,Honda,CR-V,Windshield,10,9,6.6,0
+DM1105,2025-11,PT0111,Windshield,Honda,CR-V,Windshield,8,7,3.6,0
+DM1106,2025-12,PT0111,Windshield,Honda,CR-V,Windshield,7,5,3.0,0
+DM1107,2026-05,PT0111,Windshield,Honda,CR-V,Windshield,7,6,4.8,0
+DM1108,2026-09,PT0111,Windshield,Honda,CR-V,Windshield,7,6,3.9,0
+DM1109,2026-11,PT0111,Windshield,Honda,CR-V,Windshield,7,6,4.7,0
+DM1110,2026-12,PT0111,Windshield,Honda,CR-V,Windshield,6,5,2.4,0
+DM1111,2025-03,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,4,3,2.4,0
+DM1112,2025-05,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,5,4,2.3,0
+DM1113,2025-06,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,5,4,2.1,0
+DM1114,2025-08,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,7,5,3.6,0
+DM1115,2025-10,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,6,5,2.5,0
+DM1116,2026-02,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,11,8,3.9,0
+DM1117,2026-05,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,11,9,5.8,0
+DM1118,2026-06,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,12,10,7.3,0
+DM1119,2026-07,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,16,15,11.2,0
+DM1120,2026-08,PT0112,Front Door Assembly,Toyota,Fortuner,Front Door,20,18,13.3,0
+DM1121,2025-05,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,17,12,9.0,0
+DM1122,2025-08,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,11,8,5.5,0
+DM1123,2025-11,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,12,9,4.8,0
+DM1124,2026-01,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,14,10,4.7,0
+DM1125,2026-03,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,10,7,5.6,0
+DM1126,2026-04,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,10,8,5.4,0
+DM1127,2026-07,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,11,10,6.1,0
+DM1128,2026-08,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,7,4,1.9,0
+DM1129,2026-09,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,8,7,3.1,0
+DM1130,2026-10,PT0113,Front Door Assembly,Toyota,Yaris,Front Door,4,3,2.2,0
+DM1131,2025-01,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,7,5,2.7,0
+DM1132,2025-03,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,12,11,8.3,0
+DM1133,2025-06,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,10,7,4.7,0
+DM1134,2025-08,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,14,13,8.2,0
+DM1135,2025-09,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,11,9,6.8,0
+DM1136,2025-10,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,10,7,5.6,0
+DM1137,2026-03,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,6,4,1.8,0
+DM1138,2026-06,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,6,4,1.9,0
+DM1139,2026-11,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,4,2,0.9,0
+DM1140,2026-12,PT0114,Quarter Panel,Honda,CR-V,Quarter Panel,5,3,1.3,0
+DM1141,2025-07,PT0115,Windshield,Honda,BR-V,Windshield,12,10,7.0,0
+DM1142,2025-09,PT0115,Windshield,Honda,BR-V,Windshield,6,4,2.3,0
+DM1143,2025-10,PT0115,Windshield,Honda,BR-V,Windshield,12,10,4.3,0
+DM1144,2025-12,PT0115,Windshield,Honda,BR-V,Windshield,12,8,3.5,0
+DM1145,2026-02,PT0115,Windshield,Honda,BR-V,Windshield,8,6,3.5,0
+DM1146,2026-03,PT0115,Windshield,Honda,BR-V,Windshield,10,9,5.8,0
+DM1147,2026-04,PT0115,Windshield,Honda,BR-V,Windshield,2,1,0.4,0
+DM1148,2026-07,PT0115,Windshield,Honda,BR-V,Windshield,4,3,1.5,0
+DM1149,2026-09,PT0115,Windshield,Honda,BR-V,Windshield,7,6,4.5,0
+DM1150,2026-10,PT0115,Windshield,Honda,BR-V,Windshield,9,8,6.3,0
+DM1151,2025-01,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,5,4,2.8,0
+DM1152,2025-04,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,7,5,2.5,0
+DM1153,2025-08,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,5,4,1.9,0
+DM1154,2025-10,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,11,8,4.7,0
+DM1155,2025-12,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,4,3,2.4,0
+DM1156,2026-01,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,7,6,2.6,0
+DM1157,2026-02,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,8,7,5.1,0
+DM1158,2026-04,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,7,6,4.5,0
+DM1159,2026-06,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,6,4,3.2,0
+DM1160,2026-07,PT0116,Hood Assembly,Hyundai,Stargazer,Hood,6,4,2.5,0
+DM1161,2025-01,PT0117,Rear Fender,BYD,M6,Rear Fender,15,13,6.2,0
+DM1162,2025-02,PT0117,Rear Fender,BYD,M6,Rear Fender,16,14,7.2,0
+DM1163,2025-08,PT0117,Rear Fender,BYD,M6,Rear Fender,19,16,6.5,0
+DM1164,2025-09,PT0117,Rear Fender,BYD,M6,Rear Fender,23,20,12.2,0
+DM1165,2025-10,PT0117,Rear Fender,BYD,M6,Rear Fender,19,16,7.6,0
+DM1166,2026-01,PT0117,Rear Fender,BYD,M6,Rear Fender,19,13,6.3,0
+DM1167,2026-04,PT0117,Rear Fender,BYD,M6,Rear Fender,23,17,10.3,0
+DM1168,2026-05,PT0117,Rear Fender,BYD,M6,Rear Fender,30,27,15.9,0
+DM1169,2026-07,PT0117,Rear Fender,BYD,M6,Rear Fender,25,21,8.5,0
+DM1170,2026-10,PT0117,Rear Fender,BYD,M6,Rear Fender,31,22,10.8,8
+DM1171,2025-02,PT0118,Trunk Lid,Toyota,Calya,Trunk,13,12,5.1,0
+DM1172,2025-04,PT0118,Trunk Lid,Toyota,Calya,Trunk,7,5,2.7,0
+DM1173,2025-05,PT0118,Trunk Lid,Toyota,Calya,Trunk,9,6,2.4,0
+DM1174,2025-07,PT0118,Trunk Lid,Toyota,Calya,Trunk,10,7,4.7,0
+DM1175,2025-08,PT0118,Trunk Lid,Toyota,Calya,Trunk,5,4,2.3,0
+DM1176,2025-09,PT0118,Trunk Lid,Toyota,Calya,Trunk,4,3,1.7,0
+DM1177,2025-12,PT0118,Trunk Lid,Toyota,Calya,Trunk,2,1,0.6,0
+DM1178,2026-06,PT0118,Trunk Lid,Toyota,Calya,Trunk,1,0,0.0,0
+DM1179,2026-08,PT0118,Trunk Lid,Toyota,Calya,Trunk,1,0,0.0,0
+DM1180,2026-09,PT0118,Trunk Lid,Toyota,Calya,Trunk,1,0,0.0,0
+DM1181,2025-02,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,9,7,3.6,0
+DM1182,2025-03,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,10,7,5.3,0
+DM1183,2025-05,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,14,12,6.0,0
+DM1184,2025-10,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,10,7,3.8,0
+DM1185,2025-11,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,12,9,4.3,0
+DM1186,2025-12,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,10,9,5.4,0
+DM1187,2026-02,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,2,1,0.7,0
+DM1188,2026-03,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,4,3,1.6,0
+DM1189,2026-07,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,6,5,2.8,0
+DM1190,2026-10,PT0119,Tail Lamp Assembly,Toyota,Avanza,Tail Lamp,3,2,0.9,0
+DM1191,2025-05,PT0120,Trunk Lid,BYD,Dolphin,Trunk,18,13,5.9,0
+DM1192,2025-06,PT0120,Trunk Lid,BYD,Dolphin,Trunk,3,2,1.2,0
+DM1193,2025-07,PT0120,Trunk Lid,BYD,Dolphin,Trunk,7,6,2.4,0
+DM1194,2025-09,PT0120,Trunk Lid,BYD,Dolphin,Trunk,9,7,3.7,0
+DM1195,2025-12,PT0120,Trunk Lid,BYD,Dolphin,Trunk,19,17,13.5,0
+DM1196,2026-03,PT0120,Trunk Lid,BYD,Dolphin,Trunk,9,6,4.3,0
+DM1197,2026-05,PT0120,Trunk Lid,BYD,Dolphin,Trunk,8,7,3.3,0
+DM1198,2026-06,PT0120,Trunk Lid,BYD,Dolphin,Trunk,6,4,2.0,0
+DM1199,2026-08,PT0120,Trunk Lid,BYD,Dolphin,Trunk,8,6,2.5,0
+DM1200,2026-10,PT0120,Trunk Lid,BYD,Dolphin,Trunk,11,8,4.5,0
+DM1201,2025-03,PT0121,Front Panel,Suzuki,Baleno,Front Panel,7,6,2.8,0
+DM1202,2025-04,PT0121,Front Panel,Suzuki,Baleno,Front Panel,9,6,3.5,0
+DM1203,2025-05,PT0121,Front Panel,Suzuki,Baleno,Front Panel,12,11,4.8,0
+DM1204,2025-08,PT0121,Front Panel,Suzuki,Baleno,Front Panel,10,8,3.6,0
+DM1205,2025-10,PT0121,Front Panel,Suzuki,Baleno,Front Panel,14,11,5.4,0
+DM1206,2025-11,PT0121,Front Panel,Suzuki,Baleno,Front Panel,10,9,6.5,0
+DM1207,2026-01,PT0121,Front Panel,Suzuki,Baleno,Front Panel,10,8,4.2,0
+DM1208,2026-02,PT0121,Front Panel,Suzuki,Baleno,Front Panel,9,6,2.5,0
+DM1209,2026-03,PT0121,Front Panel,Suzuki,Baleno,Front Panel,10,9,4.9,0
+DM1210,2026-04,PT0121,Front Panel,Suzuki,Baleno,Front Panel,9,7,2.9,0
+DM1211,2025-01,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,20,15,7.7,0
+DM1212,2025-03,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,22,20,14.6,0
+DM1213,2025-04,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,20,16,8.1,0
+DM1214,2025-06,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,20,19,10.2,0
+DM1215,2025-09,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,21,17,6.9,0
+DM1216,2025-12,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,27,26,11.9,6
+DM1217,2026-01,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,25,24,13.4,0
+DM1218,2026-03,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,25,18,10.4,0
+DM1219,2026-06,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,31,28,12.9,6
+DM1220,2026-12,PT0122,Side Mirror Assembly,Mazda,CX-30,Side Mirror,37,33,13.7,0
+DM1221,2025-01,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,8,6,3.0,0
+DM1222,2025-04,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,9,7,4.2,0
+DM1223,2025-08,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,7,6,2.4,0
+DM1224,2025-09,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,5,4,1.6,0
+DM1225,2025-12,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,6,5,2.4,0
+DM1226,2026-01,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,3,2,1.5,0
+DM1227,2026-04,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,3,2,1.1,0
+DM1228,2026-07,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,2,1,0.5,0
+DM1229,2026-10,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,1,0,0.0,0
+DM1230,2026-12,PT0123,Quarter Panel,Isuzu,D-Max,Quarter Panel,1,0,0.0,0
+DM1231,2025-02,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,3,2,0.9,0
+DM1232,2025-03,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,5,4,3.2,0
+DM1233,2025-08,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,9,6,2.9,0
+DM1234,2025-10,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,6,4,1.8,0
+DM1235,2025-11,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,6,4,2.5,0
+DM1236,2026-02,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,3,2,0.9,0
+DM1237,2026-03,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,3,2,1.3,0
+DM1238,2026-06,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,0,0,0.0,0
+DM1239,2026-08,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,0,0,0.0,0
+DM1240,2026-12,PT0124,Tail Lamp Assembly,Mitsubishi,Triton,Tail Lamp,2,1,0.8,0
+DM1241,2025-02,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,9,8,3.7,0
+DM1242,2025-04,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,10,9,4.2,0
+DM1243,2025-05,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,11,9,6.0,0
+DM1244,2025-07,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,11,10,4.5,0
+DM1245,2025-08,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,4,3,1.5,0
+DM1246,2025-10,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,8,7,4.1,0
+DM1247,2026-04,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,4,3,1.2,0
+DM1248,2026-07,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,7,5,2.6,0
+DM1249,2026-11,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,1,0,0.0,0
+DM1250,2026-12,PT0125,Trunk Lid,Hyundai,Stargazer,Trunk,6,5,2.3,0
+DM1251,2025-04,PT0126,Roof Panel,Nissan,Serena,Roof,15,14,6.1,0
+DM1252,2025-05,PT0126,Roof Panel,Nissan,Serena,Roof,8,7,3.3,0
+DM1253,2025-12,PT0126,Roof Panel,Nissan,Serena,Roof,11,9,4.1,0
+DM1254,2026-02,PT0126,Roof Panel,Nissan,Serena,Roof,11,9,4.5,0
+DM1255,2026-03,PT0126,Roof Panel,Nissan,Serena,Roof,16,14,5.7,0
+DM1256,2026-05,PT0126,Roof Panel,Nissan,Serena,Roof,12,9,6.3,0
+DM1257,2026-06,PT0126,Roof Panel,Nissan,Serena,Roof,10,9,6.2,0
+DM1258,2026-07,PT0126,Roof Panel,Nissan,Serena,Roof,14,10,5.4,0
+DM1259,2026-08,PT0126,Roof Panel,Nissan,Serena,Roof,10,8,4.6,0
+DM1260,2026-10,PT0126,Roof Panel,Nissan,Serena,Roof,12,10,7.3,0
+DM1261,2025-02,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,8,7,4.6,0
+DM1262,2025-04,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,10,7,3.3,0
+DM1263,2025-07,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,14,10,7.1,0
+DM1264,2025-09,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,17,13,10.3,0
+DM1265,2025-12,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,13,12,6.0,0
+DM1266,2026-02,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,18,16,8.7,0
+DM1267,2026-03,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,17,14,8.4,0
+DM1268,2026-04,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,19,17,10.5,0
+DM1269,2026-05,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,22,16,11.1,0
+DM1270,2026-08,PT0127,Rear Door Assembly,Toyota,Agya,Rear Door,21,15,8.1,0
+DM1271,2025-02,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,13,10,5.3,0
+DM1272,2025-04,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,13,9,6.1,0
+DM1273,2025-09,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,10,7,4.3,0
+DM1274,2025-12,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,12,9,6.1,0
+DM1275,2026-01,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,6,5,2.6,0
+DM1276,2026-06,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,10,9,4.0,0
+DM1277,2026-09,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,3,2,1.7,0
+DM1278,2026-10,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,11,9,5.1,0
+DM1279,2026-11,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,4,3,1.5,0
+DM1280,2026-12,PT0128,Tail Lamp Assembly,Toyota,Rush,Tail Lamp,1,0,0.0,0
+DM1281,2025-01,PT0129,Front Grille,Toyota,Raize,Grille,8,7,4.3,0
+DM1282,2025-02,PT0129,Front Grille,Toyota,Raize,Grille,9,8,3.3,0
+DM1283,2025-03,PT0129,Front Grille,Toyota,Raize,Grille,14,11,5.8,0
+DM1284,2025-04,PT0129,Front Grille,Toyota,Raize,Grille,16,12,5.0,0
+DM1285,2025-07,PT0129,Front Grille,Toyota,Raize,Grille,9,8,4.7,0
+DM1286,2025-08,PT0129,Front Grille,Toyota,Raize,Grille,10,9,5.1,0
+DM1287,2025-11,PT0129,Front Grille,Toyota,Raize,Grille,2,1,0.4,0
+DM1288,2026-03,PT0129,Front Grille,Toyota,Raize,Grille,6,4,2.1,0
+DM1289,2026-08,PT0129,Front Grille,Toyota,Raize,Grille,5,4,2.8,0
+DM1290,2026-10,PT0129,Front Grille,Toyota,Raize,Grille,8,7,3.7,0
+DM1291,2025-03,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,4,2,1.6,0
+DM1292,2025-07,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,12,10,4.5,0
+DM1293,2025-08,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,1,0,0.0,0
+DM1294,2025-11,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,6,4,2.1,0
+DM1295,2026-01,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,11,10,4.1,0
+DM1296,2026-06,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,3,2,1.0,0
+DM1297,2026-07,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,6,5,2.3,0
+DM1298,2026-08,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,9,6,3.3,0
+DM1299,2026-11,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,7,5,3.8,0
+DM1300,2026-12,PT0130,Rear Door Assembly,Hyundai,Tucson,Rear Door,10,7,3.1,0
+DM1301,2025-01,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,2,1,0.5,0
+DM1302,2025-02,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,6,4,2.6,0
+DM1303,2025-05,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,2,1,0.5,0
+DM1304,2025-06,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,7,5,4.1,0
+DM1305,2025-09,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,5,4,2.1,0
+DM1306,2026-06,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,3,2,1.0,0
+DM1307,2026-08,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,8,7,3.6,0
+DM1308,2026-09,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,2,1,0.8,0
+DM1309,2026-11,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,5,4,3.0,0
+DM1310,2026-12,PT0131,Quarter Panel,Honda,BR-V,Quarter Panel,4,3,1.9,0
+DM1311,2025-01,PT0132,Front Panel,Honda,Brio,Front Panel,8,5,2.3,0
+DM1312,2025-05,PT0132,Front Panel,Honda,Brio,Front Panel,10,8,4.7,0
+DM1313,2025-06,PT0132,Front Panel,Honda,Brio,Front Panel,9,8,4.4,0
+DM1314,2025-08,PT0132,Front Panel,Honda,Brio,Front Panel,8,6,4.4,0
+DM1315,2025-11,PT0132,Front Panel,Honda,Brio,Front Panel,12,9,4.0,0
+DM1316,2025-12,PT0132,Front Panel,Honda,Brio,Front Panel,12,10,4.1,0
+DM1317,2026-09,PT0132,Front Panel,Honda,Brio,Front Panel,19,14,6.7,0
+DM1318,2026-10,PT0132,Front Panel,Honda,Brio,Front Panel,16,15,6.7,0
+DM1319,2026-11,PT0132,Front Panel,Honda,Brio,Front Panel,17,15,8.9,0
+DM1320,2026-12,PT0132,Front Panel,Honda,Brio,Front Panel,19,18,9.4,0
+DM1321,2025-02,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,4,3,2.2,0
+DM1322,2025-03,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,4,2,1.0,0
+DM1323,2025-04,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,7,6,2.5,0
+DM1324,2025-05,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,2,1,0.5,0
+DM1325,2025-09,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,1,0,0.0,0
+DM1326,2025-12,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,3,2,1.0,0
+DM1327,2026-02,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,3,2,1.4,0
+DM1328,2026-03,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,1,0,0.0,0
+DM1329,2026-04,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,1,0,0.0,0
+DM1330,2026-05,PT0133,Headlamp Assembly,Mitsubishi,Triton,Headlamp,1,0,0.0,0
+DM1331,2025-02,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,9,8,3.3,0
+DM1332,2025-04,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,17,16,8.9,0
+DM1333,2025-08,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,16,13,8.2,0
+DM1334,2025-10,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,16,11,8.3,0
+DM1335,2025-11,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,17,15,8.2,0
+DM1336,2026-03,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,13,10,7.3,0
+DM1337,2026-05,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,9,8,6.0,0
+DM1338,2026-07,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,11,9,3.8,0
+DM1339,2026-09,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,5,3,1.7,0
+DM1340,2026-10,PT0134,Side Mirror Assembly,Mitsubishi,Pajero Sport,Side Mirror,10,8,5.0,0
+DM1341,2025-01,PT0135,Front Grille,Mazda,CX-5,Grille,22,19,9.8,0
+DM1342,2025-02,PT0135,Front Grille,Mazda,CX-5,Grille,3,2,1.2,0
+DM1343,2025-03,PT0135,Front Grille,Mazda,CX-5,Grille,0,0,0.0,0
+DM1344,2025-04,PT0135,Front Grille,Mazda,CX-5,Grille,17,11,7.2,0
+DM1345,2026-01,PT0135,Front Grille,Mazda,CX-5,Grille,7,5,2.3,0
+DM1346,2026-02,PT0135,Front Grille,Mazda,CX-5,Grille,11,9,3.9,0
+DM1347,2026-03,PT0135,Front Grille,Mazda,CX-5,Grille,9,6,2.8,0
+DM1348,2026-04,PT0135,Front Grille,Mazda,CX-5,Grille,4,3,1.7,0
+DM1349,2026-05,PT0135,Front Grille,Mazda,CX-5,Grille,2,1,0.6,0
+DM1350,2026-10,PT0135,Front Grille,Mazda,CX-5,Grille,16,13,9.1,0
+DM1351,2025-03,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,8,7,3.1,0
+DM1352,2025-05,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,6,5,3.6,0
+DM1353,2025-09,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,7,6,3.9,0
+DM1354,2025-10,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,3,2,1.5,0
+DM1355,2025-11,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,4,2,1.6,0
+DM1356,2026-01,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,8,6,4.8,0
+DM1357,2026-08,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,4,3,1.7,0
+DM1358,2026-09,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,7,6,2.5,0
+DM1359,2026-11,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,6,5,2.6,0
+DM1360,2026-12,PT0136,Front Bumper Assembly,Toyota,Avanza,Front Bumper,6,5,2.8,0
+DM1361,2025-04,PT0137,Trunk Lid,Mazda,CX-5,Trunk,4,3,1.8,0
+DM1362,2025-07,PT0137,Trunk Lid,Mazda,CX-5,Trunk,9,6,2.7,0
+DM1363,2025-10,PT0137,Trunk Lid,Mazda,CX-5,Trunk,12,11,7.0,0
+DM1364,2026-02,PT0137,Trunk Lid,Mazda,CX-5,Trunk,11,9,4.8,0
+DM1365,2026-03,PT0137,Trunk Lid,Mazda,CX-5,Trunk,12,9,4.9,0
+DM1366,2026-04,PT0137,Trunk Lid,Mazda,CX-5,Trunk,12,10,4.3,0
+DM1367,2026-05,PT0137,Trunk Lid,Mazda,CX-5,Trunk,12,11,5.5,0
+DM1368,2026-06,PT0137,Trunk Lid,Mazda,CX-5,Trunk,16,11,5.9,0
+DM1369,2026-08,PT0137,Trunk Lid,Mazda,CX-5,Trunk,16,13,9.1,0
+DM1370,2026-12,PT0137,Trunk Lid,Mazda,CX-5,Trunk,15,14,6.8,0
+DM1371,2025-04,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,10,9,4.2,0
+DM1372,2025-07,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,9,7,4.2,0
+DM1373,2025-08,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,5,3,1.6,0
+DM1374,2025-11,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,6,4,2.4,0
+DM1375,2026-01,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,7,4,2.7,0
+DM1376,2026-02,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,4,3,1.8,0
+DM1377,2026-03,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,1,0,0.0,0
+DM1378,2026-09,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,1,0,0.0,0
+DM1379,2026-10,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,3,2,0.9,0
+DM1380,2026-12,PT0138,Side Mirror Assembly,Wuling,Air ev,Side Mirror,1,0,0.0,0
+DM1381,2025-02,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,7,6,3.9,0
+DM1382,2025-03,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,9,7,4.9,0
+DM1383,2025-05,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,9,8,4.8,0
+DM1384,2025-09,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,9,8,3.5,0
+DM1385,2025-11,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,9,7,4.1,0
+DM1386,2025-12,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,7,6,3.2,0
+DM1387,2026-04,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,5,4,1.7,0
+DM1388,2026-05,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,0,0,0.0,0
+DM1389,2026-06,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,2,1,0.5,0
+DM1390,2026-10,PT0139,Front Bumper Assembly,Hyundai,Tucson,Front Bumper,5,4,2.9,0
+DM1391,2025-02,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,11,8,6.2,0
+DM1392,2025-04,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,7,6,4.1,0
+DM1393,2025-05,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,14,10,6.0,0
+DM1394,2025-07,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,0,0,0.0,0
+DM1395,2025-11,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,8,5,3.3,0
+DM1396,2025-12,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,17,16,7.5,0
+DM1397,2026-02,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,5,4,2.2,0
+DM1398,2026-06,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,10,7,5.0,0
+DM1399,2026-08,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,10,9,7.3,0
+DM1400,2026-11,PT0140,Rear Bumper Assembly,Wuling,Alvez,Rear Bumper,3,2,1.0,0
+DM1401,2025-02,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,5,3,1.5,0
+DM1402,2025-03,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,4,2,1.0,0
+DM1403,2025-04,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,0,0,0.0,0
+DM1404,2025-07,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,6,4,2.8,0
+DM1405,2025-10,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,7,6,3.0,0
+DM1406,2025-12,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,2,1,0.8,0
+DM1407,2026-02,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,6,5,2.4,0
+DM1408,2026-08,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,2,1,0.8,0
+DM1409,2026-10,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,4,3,1.2,0
+DM1410,2026-12,PT0141,Tail Lamp Assembly,Mitsubishi,Outlander,Tail Lamp,2,1,0.7,0
+DM1411,2025-04,PT0142,Front Panel,Suzuki,Swift,Front Panel,8,7,3.5,0
+DM1412,2025-08,PT0142,Front Panel,Suzuki,Swift,Front Panel,4,3,1.3,0
+DM1413,2025-09,PT0142,Front Panel,Suzuki,Swift,Front Panel,7,5,2.4,0
+DM1414,2025-10,PT0142,Front Panel,Suzuki,Swift,Front Panel,7,5,2.3,0
+DM1415,2025-12,PT0142,Front Panel,Suzuki,Swift,Front Panel,13,10,5.6,0
+DM1416,2026-04,PT0142,Front Panel,Suzuki,Swift,Front Panel,15,13,8.7,0
+DM1417,2026-06,PT0142,Front Panel,Suzuki,Swift,Front Panel,16,13,9.7,0
+DM1418,2026-08,PT0142,Front Panel,Suzuki,Swift,Front Panel,16,12,5.2,0
+DM1419,2026-09,PT0142,Front Panel,Suzuki,Swift,Front Panel,14,11,6.3,0
+DM1420,2026-10,PT0142,Front Panel,Suzuki,Swift,Front Panel,19,14,10.6,0
+DM1421,2025-01,PT0143,Front Panel,BMW,3 Series,Front Panel,11,9,4.5,0
+DM1422,2025-03,PT0143,Front Panel,BMW,3 Series,Front Panel,13,9,4.1,0
+DM1423,2025-08,PT0143,Front Panel,BMW,3 Series,Front Panel,12,10,7.4,0
+DM1424,2025-09,PT0143,Front Panel,BMW,3 Series,Front Panel,7,5,3.7,0
+DM1425,2026-02,PT0143,Front Panel,BMW,3 Series,Front Panel,9,7,3.1,0
+DM1426,2026-06,PT0143,Front Panel,BMW,3 Series,Front Panel,8,7,3.2,0
+DM1427,2026-07,PT0143,Front Panel,BMW,3 Series,Front Panel,1,0,0.0,0
+DM1428,2026-08,PT0143,Front Panel,BMW,3 Series,Front Panel,6,4,3.2,0
+DM1429,2026-09,PT0143,Front Panel,BMW,3 Series,Front Panel,3,2,1.3,0
+DM1430,2026-10,PT0143,Front Panel,BMW,3 Series,Front Panel,1,0,0.0,0
+DM1431,2025-01,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,13,10,5.1,0
+DM1432,2025-02,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,17,15,6.8,0
+DM1433,2025-05,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,20,18,13.6,0
+DM1434,2025-06,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,17,12,6.6,0
+DM1435,2025-09,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,18,13,5.6,0
+DM1436,2025-10,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,16,12,5.1,0
+DM1437,2025-11,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,15,12,8.3,0
+DM1438,2025-12,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,8,7,3.1,0
+DM1439,2026-01,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,9,7,5.2,0
+DM1440,2026-11,PT0144,Front Door Assembly,Honda,Mobilio,Front Door,12,8,3.9,0
+DM1441,2025-01,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,8,7,4.3,0
+DM1442,2025-03,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,8,6,4.3,0
+DM1443,2025-05,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,10,8,5.2,0
+DM1444,2025-06,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,2,1,0.6,0
+DM1445,2025-07,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,9,7,4.5,0
+DM1446,2026-01,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,1,0,0.0,0
+DM1447,2026-02,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,15,12,5.4,0
+DM1448,2026-03,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,23,19,11.3,0
+DM1449,2026-05,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,18,15,9.8,0
+DM1450,2026-09,PT0145,Front Door Assembly,Mazda,CX-5,Front Door,14,11,6.7,0
+DM1451,2025-02,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,4,3,1.4,0
+DM1452,2025-03,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,8,7,3.4,0
+DM1453,2025-05,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,10,9,5.1,0
+DM1454,2025-06,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,10,9,6.4,0
+DM1455,2025-10,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,9,6,3.5,0
+DM1456,2025-11,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,10,8,4.2,0
+DM1457,2025-12,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,9,8,3.8,0
+DM1458,2026-01,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,8,5,2.0,0
+DM1459,2026-07,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,9,6,4.6,0
+DM1460,2026-12,PT0146,Quarter Panel,Hyundai,Santa Fe,Quarter Panel,11,8,3.3,0
+DM1461,2025-02,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,5,4,3.1,0
+DM1462,2025-03,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,6,4,3.1,0
+DM1463,2025-07,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,7,4,2.4,0
+DM1464,2025-09,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,7,6,3.0,0
+DM1465,2026-02,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,12,10,4.7,0
+DM1466,2026-03,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,15,13,5.4,0
+DM1467,2026-04,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,16,15,7.4,0
+DM1468,2026-07,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,17,14,9.6,0
+DM1469,2026-08,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,19,17,7.6,0
+DM1470,2026-10,PT0147,Quarter Panel,Mercedes-Benz,C-Class,Quarter Panel,19,14,11.3,0
+DM1471,2025-04,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,2,1,0.5,0
+DM1472,2025-07,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,6,4,2.8,0
+DM1473,2025-09,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,6,4,2.6,0
+DM1474,2025-10,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,1,0,0.0,0
+DM1475,2025-12,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,1,0,0.0,0
+DM1476,2026-02,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,1,0,0.0,0
+DM1477,2026-04,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,1,0,0.0,0
+DM1478,2026-05,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,2,1,0.8,0
+DM1479,2026-09,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,1,0,0.0,0
+DM1480,2026-12,PT0148,Tail Lamp Assembly,Mercedes-Benz,E-Class,Tail Lamp,1,0,0.0,0
+DM1481,2025-01,PT0149,Front Door Assembly,Honda,HR-V,Front Door,10,8,3.3,0
+DM1482,2025-02,PT0149,Front Door Assembly,Honda,HR-V,Front Door,14,10,5.0,0
+DM1483,2025-04,PT0149,Front Door Assembly,Honda,HR-V,Front Door,14,10,4.2,0
+DM1484,2025-07,PT0149,Front Door Assembly,Honda,HR-V,Front Door,13,11,7.1,0
+DM1485,2025-08,PT0149,Front Door Assembly,Honda,HR-V,Front Door,12,9,6.7,0
+DM1486,2025-10,PT0149,Front Door Assembly,Honda,HR-V,Front Door,7,5,3.2,0
+DM1487,2026-01,PT0149,Front Door Assembly,Honda,HR-V,Front Door,4,3,1.3,0
+DM1488,2026-10,PT0149,Front Door Assembly,Honda,HR-V,Front Door,2,1,0.4,0
+DM1489,2026-11,PT0149,Front Door Assembly,Honda,HR-V,Front Door,4,3,1.5,0
+DM1490,2026-12,PT0149,Front Door Assembly,Honda,HR-V,Front Door,5,4,1.6,0
+DM1491,2025-01,PT0150,Trunk Lid,BMW,3 Series,Trunk,23,19,8.6,0
+DM1492,2025-03,PT0150,Trunk Lid,BMW,3 Series,Trunk,4,3,1.2,0
+DM1493,2025-04,PT0150,Trunk Lid,BMW,3 Series,Trunk,10,8,4.4,0
+DM1494,2025-05,PT0150,Trunk Lid,BMW,3 Series,Trunk,5,4,3.2,0
+DM1495,2025-06,PT0150,Trunk Lid,BMW,3 Series,Trunk,3,2,1.6,0
+DM1496,2025-09,PT0150,Trunk Lid,BMW,3 Series,Trunk,18,16,6.4,0
+DM1497,2025-10,PT0150,Trunk Lid,BMW,3 Series,Trunk,10,9,6.0,0
+DM1498,2025-11,PT0150,Trunk Lid,BMW,3 Series,Trunk,7,5,2.0,0
+DM1499,2026-02,PT0150,Trunk Lid,BMW,3 Series,Trunk,8,6,4.9,0
+DM1500,2026-04,PT0150,Trunk Lid,BMW,3 Series,Trunk,2,1,0.7,0

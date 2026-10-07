@@ -1,0 +1,1501 @@
+transaction_id,transaction_date,part_id,part_name,transaction_type,quantity,unit,reference_type,reference_id,unit_cost,total_cost,notes
+TRX0001,2026-01-01,PT0149,Front Door Assembly,OUT,3,set,Repair Order,RO0002,2614000,7842000,Used for body repair
+TRX0002,2026-01-01,PT0140,Rear Bumper Assembly,IN,10,pcs,Purchase Order,PO0001,1473000,14730000,Supplier delivery received
+TRX0003,2026-01-01,PT0119,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0002,946000,7568000,Used for replacement
+TRX0004,2026-01-01,PT0017,Quarter Panel,OUT,8,pcs,Repair Order,RO0003,1180000,9440000,Used for replacement
+TRX0005,2026-01-01,PT0012,Front Grille,OUT,15,pcs,Repair Order,RO0004,783000,11745000,Used for body repair
+TRX0006,2026-01-02,PT0132,Front Panel,IN,20,pcs,Purchase Order,PO0002,1096000,21920000,Supplier delivery received
+TRX0007,2026-01-02,PT0049,Front Bumper Assembly,IN,6,pcs,Purchase Order,PO0002,2632000,15792000,Stock replenishment
+TRX0008,2026-01-02,PT0070,Tail Lamp Assembly,IN,16,set,Purchase Order,PO0002,1386000,22176000,Stock replenishment
+TRX0009,2026-01-02,PT0113,Front Door Assembly,OUT,2,set,Repair Order,RO0005,2704000,5408000,Used for replacement
+TRX0010,2026-01-02,PT0128,Tail Lamp Assembly,OUT,6,set,Repair Order,RO0005,870000,5220000,Used for body repair
+TRX0011,2026-01-02,PT0022,Rear Bumper Assembly,OUT,2,pcs,Repair Order,RO0006,1658000,3316000,Used for replacement
+TRX0012,2026-01-03,PT0140,Rear Bumper Assembly,IN,8,pcs,Purchase Order,PO0003,1473000,11784000,Supplier delivery received
+TRX0013,2026-01-03,PT0076,Rear Bumper Assembly,IN,18,pcs,Purchase Order,PO0004,1531000,27558000,Stock replenishment
+TRX0014,2026-01-04,PT0090,Windshield,IN,16,pcs,Purchase Order,PO0004,1757000,28112000,Stock replenishment
+TRX0015,2026-01-04,PT0071,Front Panel,OUT,13,pcs,Repair Order,RO0006,956000,12428000,Used for vehicle repair
+TRX0016,2026-01-04,PT0104,Headlamp Assembly,IN,10,set,Purchase Order,PO0004,1217000,12170000,Purchase received
+TRX0017,2026-01-04,PT0113,Front Door Assembly,IN,7,set,Purchase Order,PO0005,2704000,18928000,Supplier delivery received
+TRX0018,2026-01-04,PT0094,Front Door Assembly,IN,6,set,Purchase Order,PO0005,2670000,16020000,Supplier delivery received
+TRX0019,2026-01-04,PT0116,Hood Assembly,OUT,6,pcs,Repair Order,RO0007,3167000,19002000,Used for vehicle repair
+TRX0020,2026-01-05,PT0147,Quarter Panel,IN,16,pcs,Purchase Order,PO0006,3129000,50064000,Supplier delivery received
+TRX0021,2026-01-05,PT0072,Front Grille,IN,8,pcs,Purchase Order,PO0007,1127000,9016000,Purchase received
+TRX0022,2026-01-05,PT0128,Tail Lamp Assembly,OUT,15,set,Repair Order,RO0008,870000,13050000,Used for body repair
+TRX0023,2026-01-05,PT0067,Roof Panel,IN,11,pcs,Purchase Order,PO0007,5217000,57387000,Stock replenishment
+TRX0024,2026-01-05,PT0126,Roof Panel,IN,9,pcs,Purchase Order,PO0007,3160000,28440000,Stock replenishment
+TRX0025,2026-01-06,PT0045,Front Panel,OUT,8,pcs,Repair Order,RO0008,1646000,13168000,Used for body repair
+TRX0026,2026-01-06,PT0089,Front Panel,OUT,9,pcs,Repair Order,RO0009,981000,8829000,Used for body repair
+TRX0027,2026-01-07,PT0041,Hood Assembly,OUT,15,pcs,Repair Order,RO0009,1867000,28005000,Used for replacement
+TRX0028,2026-01-07,PT0093,Windshield,OUT,2,pcs,Repair Order,RO0009,2134000,4268000,Used for replacement
+TRX0029,2026-01-08,PT0061,Front Panel,OUT,1,pcs,Repair Order,RO0010,1026000,1026000,Used for body repair
+TRX0030,2026-01-08,PT0120,Trunk Lid,OUT,9,pcs,Repair Order,RO0011,2755000,24795000,Used for vehicle repair
+TRX0031,2026-01-08,PT0017,Quarter Panel,IN,20,pcs,Purchase Order,PO0007,1180000,23600000,Stock replenishment
+TRX0032,2026-01-08,PT0148,Tail Lamp Assembly,IN,15,set,Purchase Order,PO0007,2533000,37995000,Stock replenishment
+TRX0033,2026-01-08,PT0120,Trunk Lid,OUT,6,pcs,Repair Order,RO0012,2755000,16530000,Used for replacement
+TRX0034,2026-01-08,PT0034,Headlamp Assembly,IN,6,set,Purchase Order,PO0007,1325000,7950000,Supplier delivery received
+TRX0035,2026-01-09,PT0040,Hood Assembly,IN,10,pcs,Purchase Order,PO0008,2159000,21590000,Supplier delivery received
+TRX0036,2026-01-09,PT0058,Front Bumper Assembly,IN,14,pcs,Purchase Order,PO0008,2608000,36512000,Stock replenishment
+TRX0037,2026-01-09,PT0051,Trunk Lid,OUT,9,pcs,Repair Order,RO0013,1631000,14679000,Used for body repair
+TRX0038,2026-01-09,PT0137,Trunk Lid,IN,10,pcs,Purchase Order,PO0008,3199000,31990000,Supplier delivery received
+TRX0039,2026-01-10,PT0040,Hood Assembly,IN,15,pcs,Purchase Order,PO0008,2159000,32385000,Supplier delivery received
+TRX0040,2026-01-10,PT0011,Rear Fender,OUT,1,pcs,Repair Order,RO0014,923000,923000,Used for body repair
+TRX0041,2026-01-10,PT0054,Front Fender,OUT,7,pcs,Repair Order,RO0014,1157000,8099000,Used for vehicle repair
+TRX0042,2026-01-10,PT0128,Tail Lamp Assembly,OUT,9,set,Repair Order,RO0015,870000,7830000,Used for body repair
+TRX0043,2026-01-10,PT0124,Tail Lamp Assembly,IN,17,set,Purchase Order,PO0009,887000,15079000,Purchase received
+TRX0044,2026-01-11,PT0016,Rear Door Assembly,IN,18,set,Purchase Order,PO0009,2891000,52038000,Purchase received
+TRX0045,2026-01-11,PT0088,Windshield,OUT,6,pcs,Repair Order,RO0015,1401000,8406000,Used for body repair
+TRX0046,2026-01-11,PT0089,Front Panel,OUT,3,pcs,Repair Order,RO0015,981000,2943000,Used for vehicle repair
+TRX0047,2026-01-11,PT0082,Hood Assembly,IN,8,pcs,Purchase Order,PO0010,2074000,16592000,Purchase received
+TRX0048,2026-01-11,PT0037,Side Mirror Assembly,IN,14,set,Purchase Order,PO0010,631000,8834000,Supplier delivery received
+TRX0049,2026-01-11,PT0108,Rear Door Assembly,IN,10,set,Purchase Order,PO0010,4462000,44620000,Supplier delivery received
+TRX0050,2026-01-11,PT0081,Front Bumper Assembly,IN,10,pcs,Purchase Order,PO0010,1492000,14920000,Supplier delivery received
+TRX0051,2026-01-12,PT0120,Trunk Lid,OUT,5,pcs,Repair Order,RO0016,2755000,13775000,Used for vehicle repair
+TRX0052,2026-01-13,PT0101,Front Panel,OUT,4,pcs,Repair Order,RO0017,1766000,7064000,Used for body repair
+TRX0053,2026-01-13,PT0013,Quarter Panel,IN,20,pcs,Purchase Order,PO0010,1108000,22160000,Supplier delivery received
+TRX0054,2026-01-13,PT0121,Front Panel,IN,5,pcs,Purchase Order,PO0010,957000,4785000,Stock replenishment
+TRX0055,2026-01-13,PT0035,Trunk Lid,OUT,2,pcs,Repair Order,RO0017,1680000,3360000,Used for body repair
+TRX0056,2026-01-13,PT0012,Front Grille,IN,11,pcs,Purchase Order,PO0011,783000,8613000,Stock replenishment
+TRX0057,2026-01-14,PT0019,Windshield,IN,19,pcs,Purchase Order,PO0011,1665000,31635000,Stock replenishment
+TRX0058,2026-01-14,PT0031,Headlamp Assembly,IN,8,set,Purchase Order,PO0012,1135000,9080000,Stock replenishment
+TRX0059,2026-01-14,PT0143,Front Panel,OUT,2,pcs,Repair Order,RO0018,2779000,5558000,Used for repaint preparation
+TRX0060,2026-01-14,PT0129,Front Grille,IN,6,pcs,Purchase Order,PO0013,681000,4086000,Stock replenishment
+TRX0061,2026-01-14,PT0122,Side Mirror Assembly,OUT,3,set,Repair Order,RO0018,976000,2928000,Used for replacement
+TRX0062,2026-01-14,PT0084,Front Panel,OUT,6,pcs,Repair Order,RO0019,1179000,7074000,Used for body repair
+TRX0063,2026-01-14,PT0087,Headlamp Assembly,OUT,9,set,Repair Order,RO0020,1418000,12762000,Used for body repair
+TRX0064,2026-01-14,PT0122,Side Mirror Assembly,OUT,6,set,Repair Order,RO0021,976000,5856000,Used for vehicle repair
+TRX0065,2026-01-15,PT0107,Roof Panel,OUT,13,pcs,Repair Order,RO0021,3058000,39754000,Used for vehicle repair
+TRX0066,2026-01-15,PT0122,Side Mirror Assembly,IN,12,set,Purchase Order,PO0013,976000,11712000,Supplier delivery received
+TRX0067,2026-01-15,PT0123,Quarter Panel,IN,17,pcs,Purchase Order,PO0014,1277000,21709000,Supplier delivery received
+TRX0068,2026-01-15,PT0063,Front Bumper Assembly,IN,8,pcs,Purchase Order,PO0015,1713000,13704000,Stock replenishment
+TRX0069,2026-01-15,PT0081,Front Bumper Assembly,IN,18,pcs,Purchase Order,PO0015,1492000,26856000,Stock replenishment
+TRX0070,2026-01-15,PT0129,Front Grille,OUT,15,pcs,Repair Order,RO0022,681000,10215000,Used for vehicle repair
+TRX0071,2026-01-15,PT0036,Side Mirror Assembly,OUT,9,set,Repair Order,RO0023,932000,8388000,Used for repaint preparation
+TRX0072,2026-01-16,PT0135,Front Grille,IN,10,pcs,Purchase Order,PO0015,1120000,11200000,Supplier delivery received
+TRX0073,2026-01-16,PT0088,Windshield,OUT,11,pcs,Repair Order,RO0023,1401000,15411000,Used for body repair
+TRX0074,2026-01-16,PT0124,Tail Lamp Assembly,IN,12,set,Purchase Order,PO0016,887000,10644000,Stock replenishment
+TRX0075,2026-01-16,PT0058,Front Bumper Assembly,OUT,5,pcs,Repair Order,RO0023,2608000,13040000,Used for replacement
+TRX0076,2026-01-17,PT0126,Roof Panel,IN,16,pcs,Purchase Order,PO0016,3160000,50560000,Supplier delivery received
+TRX0077,2026-01-17,PT0071,Front Panel,IN,17,pcs,Purchase Order,PO0016,956000,16252000,Stock replenishment
+TRX0078,2026-01-17,PT0089,Front Panel,OUT,13,pcs,Repair Order,RO0024,981000,12753000,Used for vehicle repair
+TRX0079,2026-01-17,PT0074,Side Mirror Assembly,OUT,2,set,Repair Order,RO0025,825000,1650000,Used for repaint preparation
+TRX0080,2026-01-17,PT0066,Side Mirror Assembly,OUT,4,set,Repair Order,RO0026,613000,2452000,Used for body repair
+TRX0081,2026-01-18,PT0144,Front Door Assembly,OUT,3,set,Repair Order,RO0027,2555000,7665000,Used for replacement
+TRX0082,2026-01-19,PT0063,Front Bumper Assembly,IN,12,pcs,Purchase Order,PO0016,1713000,20556000,Purchase received
+TRX0083,2026-01-19,PT0026,Quarter Panel,IN,20,pcs,Purchase Order,PO0017,2097000,41940000,Purchase received
+TRX0084,2026-01-19,PT0002,Rear Bumper Assembly,OUT,15,pcs,Repair Order,RO0028,1412000,21180000,Used for repaint preparation
+TRX0085,2026-01-19,PT0123,Quarter Panel,OUT,13,pcs,Repair Order,RO0028,1277000,16601000,Used for body repair
+TRX0086,2026-01-20,PT0074,Side Mirror Assembly,OUT,15,set,Repair Order,RO0028,825000,12375000,Used for replacement
+TRX0087,2026-01-20,PT0137,Trunk Lid,OUT,14,pcs,Repair Order,RO0028,3199000,44786000,Used for replacement
+TRX0088,2026-01-20,PT0107,Roof Panel,OUT,3,pcs,Repair Order,RO0028,3058000,9174000,Used for vehicle repair
+TRX0089,2026-01-20,PT0102,Front Door Assembly,OUT,3,set,Repair Order,RO0028,2268000,6804000,Used for body repair
+TRX0090,2026-01-20,PT0010,Headlamp Assembly,IN,8,set,Purchase Order,PO0017,1113000,8904000,Stock replenishment
+TRX0091,2026-01-20,PT0073,Trunk Lid,OUT,11,pcs,Repair Order,RO0029,1650000,18150000,Used for repaint preparation
+TRX0092,2026-01-21,PT0035,Trunk Lid,IN,19,pcs,Purchase Order,PO0018,1680000,31920000,Purchase received
+TRX0093,2026-01-21,PT0085,Tail Lamp Assembly,IN,19,set,Purchase Order,PO0018,1278000,24282000,Supplier delivery received
+TRX0094,2026-01-21,PT0048,Tail Lamp Assembly,IN,15,set,Purchase Order,PO0018,1376000,20640000,Supplier delivery received
+TRX0095,2026-01-21,PT0050,Headlamp Assembly,IN,17,set,Purchase Order,PO0018,1169000,19873000,Supplier delivery received
+TRX0096,2026-01-21,PT0084,Front Panel,IN,8,pcs,Purchase Order,PO0019,1179000,9432000,Purchase received
+TRX0097,2026-01-21,PT0123,Quarter Panel,IN,12,pcs,Purchase Order,PO0020,1277000,15324000,Stock replenishment
+TRX0098,2026-01-21,PT0061,Front Panel,IN,13,pcs,Purchase Order,PO0020,1026000,13338000,Stock replenishment
+TRX0099,2026-01-22,PT0150,Trunk Lid,OUT,1,pcs,Repair Order,RO0030,4952000,4952000,Used for body repair
+TRX0100,2026-01-22,PT0061,Front Panel,IN,8,pcs,Purchase Order,PO0020,1026000,8208000,Purchase received
+TRX0101,2026-01-22,PT0104,Headlamp Assembly,OUT,15,set,Repair Order,RO0030,1217000,18255000,Used for body repair
+TRX0102,2026-01-22,PT0031,Headlamp Assembly,OUT,5,set,Repair Order,RO0031,1135000,5675000,Used for replacement
+TRX0103,2026-01-23,PT0057,Front Door Assembly,OUT,8,set,Repair Order,RO0032,2515000,20120000,Used for body repair
+TRX0104,2026-01-23,PT0107,Roof Panel,OUT,15,pcs,Repair Order,RO0033,3058000,45870000,Used for replacement
+TRX0105,2026-01-23,PT0064,Front Grille,OUT,10,pcs,Repair Order,RO0033,766000,7660000,Used for vehicle repair
+TRX0106,2026-01-23,PT0135,Front Grille,IN,16,pcs,Purchase Order,PO0021,1120000,17920000,Supplier delivery received
+TRX0107,2026-01-23,PT0029,Quarter Panel,IN,11,pcs,Purchase Order,PO0021,1815000,19965000,Purchase received
+TRX0108,2026-01-23,PT0043,Rear Door Assembly,IN,19,set,Purchase Order,PO0022,2314000,43966000,Purchase received
+TRX0109,2026-01-23,PT0150,Trunk Lid,OUT,15,pcs,Repair Order,RO0034,4952000,74280000,Used for vehicle repair
+TRX0110,2026-01-24,PT0117,Rear Fender,IN,18,pcs,Purchase Order,PO0022,1235000,22230000,Purchase received
+TRX0111,2026-01-24,PT0144,Front Door Assembly,OUT,5,set,Repair Order,RO0034,2555000,12775000,Used for repaint preparation
+TRX0112,2026-01-24,PT0066,Side Mirror Assembly,OUT,12,set,Repair Order,RO0035,613000,7356000,Used for vehicle repair
+TRX0113,2026-01-24,PT0012,Front Grille,IN,7,pcs,Purchase Order,PO0022,783000,5481000,Purchase received
+TRX0114,2026-01-24,PT0018,Side Mirror Assembly,OUT,8,set,Repair Order,RO0036,909000,7272000,Used for repaint preparation
+TRX0115,2026-01-24,PT0047,Roof Panel,OUT,7,pcs,Repair Order,RO0037,5304000,37128000,Used for repaint preparation
+TRX0116,2026-01-25,PT0115,Windshield,OUT,15,pcs,Repair Order,RO0038,1369000,20535000,Used for vehicle repair
+TRX0117,2026-01-25,PT0139,Front Bumper Assembly,IN,16,pcs,Purchase Order,PO0023,2199000,35184000,Supplier delivery received
+TRX0118,2026-01-26,PT0101,Front Panel,OUT,12,pcs,Repair Order,RO0038,1766000,21192000,Used for vehicle repair
+TRX0119,2026-01-26,PT0006,Rear Bumper Assembly,OUT,8,pcs,Repair Order,RO0038,2328000,18624000,Used for repaint preparation
+TRX0120,2026-01-26,PT0137,Trunk Lid,IN,12,pcs,Purchase Order,PO0024,3199000,38388000,Stock replenishment
+TRX0121,2026-01-26,PT0040,Hood Assembly,IN,8,pcs,Purchase Order,PO0025,2159000,17272000,Supplier delivery received
+TRX0122,2026-01-26,PT0108,Rear Door Assembly,OUT,15,set,Repair Order,RO0038,4462000,66930000,Used for vehicle repair
+TRX0123,2026-01-26,PT0062,Front Bumper Assembly,IN,8,pcs,Purchase Order,PO0025,2193000,17544000,Stock replenishment
+TRX0124,2026-01-26,PT0013,Quarter Panel,IN,6,pcs,Purchase Order,PO0025,1108000,6648000,Purchase received
+TRX0125,2026-01-27,PT0139,Front Bumper Assembly,IN,6,pcs,Purchase Order,PO0026,2199000,13194000,Stock replenishment
+TRX0126,2026-01-27,PT0060,Rear Bumper Assembly,OUT,12,pcs,Repair Order,RO0039,1436000,17232000,Used for body repair
+TRX0127,2026-01-27,PT0061,Front Panel,IN,9,pcs,Purchase Order,PO0026,1026000,9234000,Supplier delivery received
+TRX0128,2026-01-27,PT0057,Front Door Assembly,IN,13,set,Purchase Order,PO0027,2515000,32695000,Supplier delivery received
+TRX0129,2026-01-27,PT0045,Front Panel,OUT,7,pcs,Repair Order,RO0040,1646000,11522000,Used for vehicle repair
+TRX0130,2026-01-27,PT0089,Front Panel,OUT,4,pcs,Repair Order,RO0040,981000,3924000,Used for body repair
+TRX0131,2026-01-27,PT0107,Roof Panel,IN,14,pcs,Purchase Order,PO0028,3058000,42812000,Supplier delivery received
+TRX0132,2026-01-27,PT0122,Side Mirror Assembly,IN,12,set,Purchase Order,PO0029,976000,11712000,Supplier delivery received
+TRX0133,2026-01-27,PT0037,Side Mirror Assembly,OUT,15,set,Repair Order,RO0041,631000,9465000,Used for repaint preparation
+TRX0134,2026-01-28,PT0107,Roof Panel,OUT,3,pcs,Repair Order,RO0042,3058000,9174000,Used for body repair
+TRX0135,2026-01-28,PT0053,Rear Door Assembly,IN,7,set,Purchase Order,PO0029,2635000,18445000,Stock replenishment
+TRX0136,2026-01-28,PT0024,Quarter Panel,OUT,4,pcs,Repair Order,RO0043,1176000,4704000,Used for repaint preparation
+TRX0137,2026-01-28,PT0011,Rear Fender,OUT,4,pcs,Repair Order,RO0043,923000,3692000,Used for replacement
+TRX0138,2026-01-28,PT0123,Quarter Panel,IN,15,pcs,Purchase Order,PO0030,1277000,19155000,Purchase received
+TRX0139,2026-01-29,PT0055,Front Fender,OUT,12,pcs,Repair Order,RO0044,1167000,14004000,Used for repaint preparation
+TRX0140,2026-01-29,PT0063,Front Bumper Assembly,OUT,12,pcs,Repair Order,RO0045,1713000,20556000,Used for replacement
+TRX0141,2026-01-29,PT0142,Front Panel,IN,14,pcs,Purchase Order,PO0031,945000,13230000,Supplier delivery received
+TRX0142,2026-01-29,PT0092,Front Grille,IN,16,pcs,Purchase Order,PO0031,946000,15136000,Stock replenishment
+TRX0143,2026-01-30,PT0120,Trunk Lid,IN,20,pcs,Purchase Order,PO0031,2755000,55100000,Stock replenishment
+TRX0144,2026-01-30,PT0053,Rear Door Assembly,IN,18,set,Purchase Order,PO0032,2635000,47430000,Purchase received
+TRX0145,2026-01-30,PT0038,Tail Lamp Assembly,IN,18,set,Purchase Order,PO0033,1037000,18666000,Purchase received
+TRX0146,2026-01-30,PT0085,Tail Lamp Assembly,IN,12,set,Purchase Order,PO0033,1278000,15336000,Supplier delivery received
+TRX0147,2026-01-30,PT0087,Headlamp Assembly,IN,20,set,Purchase Order,PO0033,1418000,28360000,Supplier delivery received
+TRX0148,2026-01-31,PT0126,Roof Panel,OUT,12,pcs,Repair Order,RO0045,3160000,37920000,Used for replacement
+TRX0149,2026-01-31,PT0036,Side Mirror Assembly,OUT,8,set,Repair Order,RO0046,932000,7456000,Used for vehicle repair
+TRX0150,2026-01-31,PT0135,Front Grille,IN,7,pcs,Purchase Order,PO0033,1120000,7840000,Supplier delivery received
+TRX0151,2026-01-31,PT0013,Quarter Panel,OUT,7,pcs,Repair Order,RO0047,1108000,7756000,Used for replacement
+TRX0152,2026-01-31,PT0018,Side Mirror Assembly,OUT,1,set,Repair Order,RO0048,909000,909000,Used for repaint preparation
+TRX0153,2026-02-01,PT0096,Front Grille,IN,20,pcs,Purchase Order,PO0033,805000,16100000,Purchase received
+TRX0154,2026-02-01,PT0002,Rear Bumper Assembly,OUT,7,pcs,Repair Order,RO0049,1412000,9884000,Used for body repair
+TRX0155,2026-02-01,PT0138,Side Mirror Assembly,OUT,1,set,Repair Order,RO0050,673000,673000,Used for repaint preparation
+TRX0156,2026-02-01,PT0046,Windshield,IN,8,pcs,Purchase Order,PO0033,1587000,12696000,Purchase received
+TRX0157,2026-02-01,PT0050,Headlamp Assembly,OUT,5,set,Repair Order,RO0050,1169000,5845000,Used for body repair
+TRX0158,2026-02-01,PT0102,Front Door Assembly,IN,17,set,Purchase Order,PO0033,2268000,38556000,Purchase received
+TRX0159,2026-02-02,PT0058,Front Bumper Assembly,IN,7,pcs,Purchase Order,PO0033,2608000,18256000,Supplier delivery received
+TRX0160,2026-02-02,PT0009,Roof Panel,IN,17,pcs,Purchase Order,PO0034,3561000,60537000,Stock replenishment
+TRX0161,2026-02-02,PT0015,Front Grille,OUT,12,pcs,Repair Order,RO0051,768000,9216000,Used for repaint preparation
+TRX0162,2026-02-02,PT0112,Front Door Assembly,OUT,6,set,Repair Order,RO0052,2509000,15054000,Used for vehicle repair
+TRX0163,2026-02-02,PT0136,Front Bumper Assembly,OUT,4,pcs,Repair Order,RO0053,1410000,5640000,Used for repaint preparation
+TRX0164,2026-02-02,PT0070,Tail Lamp Assembly,IN,7,set,Purchase Order,PO0034,1386000,9702000,Stock replenishment
+TRX0165,2026-02-03,PT0140,Rear Bumper Assembly,OUT,1,pcs,Repair Order,RO0054,1473000,1473000,Used for body repair
+TRX0166,2026-02-03,PT0005,Hood Assembly,OUT,1,pcs,Repair Order,RO0054,2136000,2136000,Used for repaint preparation
+TRX0167,2026-02-03,PT0020,Side Mirror Assembly,IN,12,set,Purchase Order,PO0034,636000,7632000,Stock replenishment
+TRX0168,2026-02-03,PT0139,Front Bumper Assembly,IN,9,pcs,Purchase Order,PO0034,2199000,19791000,Supplier delivery received
+TRX0169,2026-02-04,PT0021,Side Mirror Assembly,IN,16,set,Purchase Order,PO0035,623000,9968000,Stock replenishment
+TRX0170,2026-02-04,PT0060,Rear Bumper Assembly,OUT,6,pcs,Repair Order,RO0054,1436000,8616000,Used for repaint preparation
+TRX0171,2026-02-04,PT0084,Front Panel,IN,13,pcs,Purchase Order,PO0035,1179000,15327000,Stock replenishment
+TRX0172,2026-02-04,PT0126,Roof Panel,IN,17,pcs,Purchase Order,PO0035,3160000,53720000,Supplier delivery received
+TRX0173,2026-02-04,PT0150,Trunk Lid,OUT,2,pcs,Repair Order,RO0054,4952000,9904000,Used for body repair
+TRX0174,2026-02-04,PT0064,Front Grille,OUT,2,pcs,Repair Order,RO0055,766000,1532000,Used for repaint preparation
+TRX0175,2026-02-05,PT0040,Hood Assembly,OUT,6,pcs,Repair Order,RO0056,2159000,12954000,Used for vehicle repair
+TRX0176,2026-02-05,PT0002,Rear Bumper Assembly,OUT,8,pcs,Repair Order,RO0057,1412000,11296000,Used for body repair
+TRX0177,2026-02-05,PT0027,Front Panel,IN,10,pcs,Purchase Order,PO0035,1469000,14690000,Supplier delivery received
+TRX0178,2026-02-05,PT0143,Front Panel,OUT,1,pcs,Repair Order,RO0058,2779000,2779000,Used for body repair
+TRX0179,2026-02-05,PT0142,Front Panel,IN,15,pcs,Purchase Order,PO0035,945000,14175000,Purchase received
+TRX0180,2026-02-05,PT0075,Side Mirror Assembly,IN,7,set,Purchase Order,PO0035,552000,3864000,Supplier delivery received
+TRX0181,2026-02-05,PT0063,Front Bumper Assembly,OUT,3,pcs,Repair Order,RO0058,1713000,5139000,Used for replacement
+TRX0182,2026-02-05,PT0036,Side Mirror Assembly,IN,13,set,Purchase Order,PO0035,932000,12116000,Purchase received
+TRX0183,2026-02-05,PT0043,Rear Door Assembly,IN,18,set,Purchase Order,PO0036,2314000,41652000,Purchase received
+TRX0184,2026-02-05,PT0093,Windshield,IN,12,pcs,Purchase Order,PO0036,2134000,25608000,Stock replenishment
+TRX0185,2026-02-05,PT0051,Trunk Lid,OUT,3,pcs,Repair Order,RO0059,1631000,4893000,Used for repaint preparation
+TRX0186,2026-02-05,PT0086,Hood Assembly,OUT,7,pcs,Repair Order,RO0059,2200000,15400000,Used for body repair
+TRX0187,2026-02-06,PT0113,Front Door Assembly,IN,9,set,Purchase Order,PO0037,2704000,24336000,Supplier delivery received
+TRX0188,2026-02-06,PT0052,Rear Bumper Assembly,OUT,3,pcs,Repair Order,RO0059,1353000,4059000,Used for body repair
+TRX0189,2026-02-06,PT0075,Side Mirror Assembly,OUT,11,set,Repair Order,RO0060,552000,6072000,Used for replacement
+TRX0190,2026-02-06,PT0084,Front Panel,IN,17,pcs,Purchase Order,PO0038,1179000,20043000,Supplier delivery received
+TRX0191,2026-02-06,PT0052,Rear Bumper Assembly,OUT,9,pcs,Repair Order,RO0061,1353000,12177000,Used for vehicle repair
+TRX0192,2026-02-06,PT0119,Tail Lamp Assembly,OUT,4,set,Repair Order,RO0062,946000,3784000,Used for body repair
+TRX0193,2026-02-07,PT0018,Side Mirror Assembly,OUT,13,set,Repair Order,RO0062,909000,11817000,Used for repaint preparation
+TRX0194,2026-02-07,PT0036,Side Mirror Assembly,OUT,4,set,Repair Order,RO0063,932000,3728000,Used for replacement
+TRX0195,2026-02-07,PT0109,Rear Fender,OUT,2,pcs,Repair Order,RO0064,1310000,2620000,Used for repaint preparation
+TRX0196,2026-02-07,PT0150,Trunk Lid,IN,18,pcs,Purchase Order,PO0038,4952000,89136000,Stock replenishment
+TRX0197,2026-02-07,PT0138,Side Mirror Assembly,OUT,15,set,Repair Order,RO0065,673000,10095000,Used for replacement
+TRX0198,2026-02-07,PT0091,Rear Door Assembly,IN,6,set,Purchase Order,PO0038,2725000,16350000,Supplier delivery received
+TRX0199,2026-02-07,PT0103,Front Door Assembly,OUT,6,set,Repair Order,RO0065,2851000,17106000,Used for repaint preparation
+TRX0200,2026-02-08,PT0028,Windshield,IN,13,pcs,Purchase Order,PO0039,1686000,21918000,Supplier delivery received
+TRX0201,2026-02-08,PT0133,Headlamp Assembly,OUT,12,set,Repair Order,RO0066,1360000,16320000,Used for repaint preparation
+TRX0202,2026-02-08,PT0096,Front Grille,IN,9,pcs,Purchase Order,PO0040,805000,7245000,Purchase received
+TRX0203,2026-02-08,PT0124,Tail Lamp Assembly,IN,18,set,Purchase Order,PO0040,887000,15966000,Purchase received
+TRX0204,2026-02-08,PT0030,Front Fender,OUT,3,pcs,Repair Order,RO0067,741000,2223000,Used for body repair
+TRX0205,2026-02-08,PT0117,Rear Fender,OUT,9,pcs,Repair Order,RO0068,1235000,11115000,Used for repaint preparation
+TRX0206,2026-02-08,PT0025,Trunk Lid,IN,19,pcs,Purchase Order,PO0041,2602000,49438000,Stock replenishment
+TRX0207,2026-02-09,PT0012,Front Grille,OUT,2,pcs,Repair Order,RO0069,783000,1566000,Used for body repair
+TRX0208,2026-02-09,PT0028,Windshield,OUT,3,pcs,Repair Order,RO0069,1686000,5058000,Used for replacement
+TRX0209,2026-02-09,PT0133,Headlamp Assembly,IN,10,set,Purchase Order,PO0042,1360000,13600000,Stock replenishment
+TRX0210,2026-02-09,PT0119,Tail Lamp Assembly,IN,17,set,Purchase Order,PO0042,946000,16082000,Purchase received
+TRX0211,2026-02-09,PT0111,Windshield,IN,11,pcs,Purchase Order,PO0042,1430000,15730000,Stock replenishment
+TRX0212,2026-02-10,PT0100,Headlamp Assembly,IN,11,set,Purchase Order,PO0043,1207000,13277000,Supplier delivery received
+TRX0213,2026-02-10,PT0017,Quarter Panel,OUT,13,pcs,Repair Order,RO0069,1180000,15340000,Used for replacement
+TRX0214,2026-02-10,PT0094,Front Door Assembly,IN,19,set,Purchase Order,PO0044,2670000,50730000,Supplier delivery received
+TRX0215,2026-02-10,PT0126,Roof Panel,OUT,11,pcs,Repair Order,RO0070,3160000,34760000,Used for repaint preparation
+TRX0216,2026-02-10,PT0101,Front Panel,OUT,6,pcs,Repair Order,RO0071,1766000,10596000,Used for repaint preparation
+TRX0217,2026-02-10,PT0045,Front Panel,OUT,5,pcs,Repair Order,RO0071,1646000,8230000,Used for vehicle repair
+TRX0218,2026-02-11,PT0035,Trunk Lid,IN,12,pcs,Purchase Order,PO0045,1680000,20160000,Purchase received
+TRX0219,2026-02-11,PT0096,Front Grille,OUT,9,pcs,Repair Order,RO0072,805000,7245000,Used for replacement
+TRX0220,2026-02-11,PT0148,Tail Lamp Assembly,IN,10,set,Purchase Order,PO0045,2533000,25330000,Supplier delivery received
+TRX0221,2026-02-11,PT0045,Front Panel,OUT,4,pcs,Repair Order,RO0073,1646000,6584000,Used for replacement
+TRX0222,2026-02-11,PT0081,Front Bumper Assembly,OUT,10,pcs,Repair Order,RO0074,1492000,14920000,Used for body repair
+TRX0223,2026-02-11,PT0003,Rear Door Assembly,OUT,4,set,Repair Order,RO0074,2692000,10768000,Used for repaint preparation
+TRX0224,2026-02-11,PT0105,Front Fender,OUT,7,pcs,Repair Order,RO0074,773000,5411000,Used for repaint preparation
+TRX0225,2026-02-11,PT0126,Roof Panel,IN,5,pcs,Purchase Order,PO0045,3160000,15800000,Purchase received
+TRX0226,2026-02-11,PT0075,Side Mirror Assembly,IN,12,set,Purchase Order,PO0045,552000,6624000,Purchase received
+TRX0227,2026-02-11,PT0118,Trunk Lid,OUT,13,pcs,Repair Order,RO0074,1978000,25714000,Used for vehicle repair
+TRX0228,2026-02-11,PT0147,Quarter Panel,IN,16,pcs,Purchase Order,PO0045,3129000,50064000,Purchase received
+TRX0229,2026-02-12,PT0113,Front Door Assembly,OUT,7,set,Repair Order,RO0075,2704000,18928000,Used for replacement
+TRX0230,2026-02-12,PT0077,Front Grille,OUT,1,pcs,Repair Order,RO0076,760000,760000,Used for body repair
+TRX0231,2026-02-13,PT0023,Rear Bumper Assembly,IN,8,pcs,Purchase Order,PO0045,1719000,13752000,Purchase received
+TRX0232,2026-02-13,PT0054,Front Fender,OUT,10,pcs,Repair Order,RO0076,1157000,11570000,Used for repaint preparation
+TRX0233,2026-02-13,PT0043,Rear Door Assembly,OUT,13,set,Repair Order,RO0077,2314000,30082000,Used for replacement
+TRX0234,2026-02-13,PT0016,Rear Door Assembly,OUT,9,set,Repair Order,RO0078,2891000,26019000,Used for replacement
+TRX0235,2026-02-13,PT0083,Rear Door Assembly,OUT,5,set,Repair Order,RO0079,2653000,13265000,Used for body repair
+TRX0236,2026-02-13,PT0132,Front Panel,OUT,11,pcs,Repair Order,RO0079,1096000,12056000,Used for replacement
+TRX0237,2026-02-13,PT0106,Rear Fender,OUT,5,pcs,Repair Order,RO0079,1189000,5945000,Used for replacement
+TRX0238,2026-02-13,PT0034,Headlamp Assembly,IN,15,set,Purchase Order,PO0045,1325000,19875000,Supplier delivery received
+TRX0239,2026-02-13,PT0101,Front Panel,OUT,10,pcs,Repair Order,RO0079,1766000,17660000,Used for repaint preparation
+TRX0240,2026-02-14,PT0097,Front Door Assembly,OUT,11,set,Repair Order,RO0079,2345000,25795000,Used for vehicle repair
+TRX0241,2026-02-14,PT0104,Headlamp Assembly,OUT,1,set,Repair Order,RO0079,1217000,1217000,Used for body repair
+TRX0242,2026-02-15,PT0117,Rear Fender,OUT,6,pcs,Repair Order,RO0080,1235000,7410000,Used for vehicle repair
+TRX0243,2026-02-15,PT0118,Trunk Lid,OUT,12,pcs,Repair Order,RO0081,1978000,23736000,Used for vehicle repair
+TRX0244,2026-02-16,PT0137,Trunk Lid,IN,18,pcs,Purchase Order,PO0045,3199000,57582000,Stock replenishment
+TRX0245,2026-02-16,PT0069,Windshield,IN,14,pcs,Purchase Order,PO0046,4417000,61838000,Supplier delivery received
+TRX0246,2026-02-16,PT0034,Headlamp Assembly,OUT,8,set,Repair Order,RO0081,1325000,10600000,Used for vehicle repair
+TRX0247,2026-02-16,PT0012,Front Grille,IN,19,pcs,Purchase Order,PO0047,783000,14877000,Purchase received
+TRX0248,2026-02-16,PT0113,Front Door Assembly,OUT,7,set,Repair Order,RO0082,2704000,18928000,Used for replacement
+TRX0249,2026-02-16,PT0078,Trunk Lid,IN,13,pcs,Purchase Order,PO0048,3187000,41431000,Stock replenishment
+TRX0250,2026-02-16,PT0065,Rear Door Assembly,IN,10,set,Purchase Order,PO0049,2944000,29440000,Supplier delivery received
+TRX0251,2026-02-16,PT0079,Trunk Lid,OUT,13,pcs,Repair Order,RO0083,1748000,22724000,Used for vehicle repair
+TRX0252,2026-02-16,PT0025,Trunk Lid,IN,20,pcs,Purchase Order,PO0050,2602000,52040000,Supplier delivery received
+TRX0253,2026-02-16,PT0058,Front Bumper Assembly,OUT,8,pcs,Repair Order,RO0084,2608000,20864000,Used for body repair
+TRX0254,2026-02-16,PT0031,Headlamp Assembly,OUT,7,set,Repair Order,RO0084,1135000,7945000,Used for repaint preparation
+TRX0255,2026-02-17,PT0019,Windshield,IN,7,pcs,Purchase Order,PO0050,1665000,11655000,Purchase received
+TRX0256,2026-02-17,PT0027,Front Panel,IN,14,pcs,Purchase Order,PO0051,1469000,20566000,Purchase received
+TRX0257,2026-02-17,PT0037,Side Mirror Assembly,IN,5,set,Purchase Order,PO0051,631000,3155000,Purchase received
+TRX0258,2026-02-17,PT0113,Front Door Assembly,IN,11,set,Purchase Order,PO0051,2704000,29744000,Purchase received
+TRX0259,2026-02-17,PT0106,Rear Fender,OUT,8,pcs,Repair Order,RO0084,1189000,9512000,Used for vehicle repair
+TRX0260,2026-02-17,PT0026,Quarter Panel,IN,8,pcs,Purchase Order,PO0051,2097000,16776000,Stock replenishment
+TRX0261,2026-02-17,PT0090,Windshield,OUT,6,pcs,Repair Order,RO0084,1757000,10542000,Used for replacement
+TRX0262,2026-02-17,PT0071,Front Panel,OUT,4,pcs,Repair Order,RO0085,956000,3824000,Used for body repair
+TRX0263,2026-02-17,PT0007,Hood Assembly,OUT,11,pcs,Repair Order,RO0085,3382000,37202000,Used for replacement
+TRX0264,2026-02-18,PT0133,Headlamp Assembly,OUT,4,set,Repair Order,RO0085,1360000,5440000,Used for body repair
+TRX0265,2026-02-18,PT0014,Rear Fender,OUT,13,pcs,Repair Order,RO0085,858000,11154000,Used for repaint preparation
+TRX0266,2026-02-18,PT0099,Rear Fender,IN,20,pcs,Purchase Order,PO0051,770000,15400000,Purchase received
+TRX0267,2026-02-19,PT0136,Front Bumper Assembly,OUT,1,pcs,Repair Order,RO0085,1410000,1410000,Used for body repair
+TRX0268,2026-02-19,PT0034,Headlamp Assembly,IN,18,set,Purchase Order,PO0052,1325000,23850000,Supplier delivery received
+TRX0269,2026-02-19,PT0045,Front Panel,IN,7,pcs,Purchase Order,PO0053,1646000,11522000,Purchase received
+TRX0270,2026-02-19,PT0004,Hood Assembly,IN,6,pcs,Purchase Order,PO0053,1856000,11136000,Stock replenishment
+TRX0271,2026-02-19,PT0130,Rear Door Assembly,IN,18,set,Purchase Order,PO0053,3887000,69966000,Stock replenishment
+TRX0272,2026-02-20,PT0022,Rear Bumper Assembly,OUT,9,pcs,Repair Order,RO0085,1658000,14922000,Used for body repair
+TRX0273,2026-02-20,PT0022,Rear Bumper Assembly,IN,11,pcs,Purchase Order,PO0053,1658000,18238000,Purchase received
+TRX0274,2026-02-20,PT0138,Side Mirror Assembly,IN,7,set,Purchase Order,PO0054,673000,4711000,Stock replenishment
+TRX0275,2026-02-20,PT0062,Front Bumper Assembly,IN,7,pcs,Purchase Order,PO0054,2193000,15351000,Purchase received
+TRX0276,2026-02-20,PT0117,Rear Fender,OUT,1,pcs,Repair Order,RO0086,1235000,1235000,Used for replacement
+TRX0277,2026-02-20,PT0031,Headlamp Assembly,IN,9,set,Purchase Order,PO0054,1135000,10215000,Purchase received
+TRX0278,2026-02-20,PT0128,Tail Lamp Assembly,OUT,9,set,Repair Order,RO0087,870000,7830000,Used for body repair
+TRX0279,2026-02-20,PT0043,Rear Door Assembly,IN,13,set,Purchase Order,PO0054,2314000,30082000,Purchase received
+TRX0280,2026-02-21,PT0008,Front Door Assembly,IN,18,set,Purchase Order,PO0055,2505000,45090000,Purchase received
+TRX0281,2026-02-21,PT0068,Side Mirror Assembly,OUT,10,set,Repair Order,RO0087,608000,6080000,Used for repaint preparation
+TRX0282,2026-02-21,PT0117,Rear Fender,OUT,1,pcs,Repair Order,RO0088,1235000,1235000,Used for replacement
+TRX0283,2026-02-21,PT0095,Rear Door Assembly,IN,8,set,Purchase Order,PO0055,2958000,23664000,Supplier delivery received
+TRX0284,2026-02-21,PT0030,Front Fender,IN,5,pcs,Purchase Order,PO0056,741000,3705000,Purchase received
+TRX0285,2026-02-21,PT0063,Front Bumper Assembly,IN,16,pcs,Purchase Order,PO0057,1713000,27408000,Purchase received
+TRX0286,2026-02-21,PT0046,Windshield,OUT,14,pcs,Repair Order,RO0089,1587000,22218000,Used for repaint preparation
+TRX0287,2026-02-22,PT0058,Front Bumper Assembly,IN,18,pcs,Purchase Order,PO0057,2608000,46944000,Stock replenishment
+TRX0288,2026-02-22,PT0070,Tail Lamp Assembly,OUT,10,set,Repair Order,RO0090,1386000,13860000,Used for vehicle repair
+TRX0289,2026-02-22,PT0046,Windshield,IN,6,pcs,Purchase Order,PO0057,1587000,9522000,Purchase received
+TRX0290,2026-02-22,PT0120,Trunk Lid,OUT,13,pcs,Repair Order,RO0090,2755000,35815000,Used for body repair
+TRX0291,2026-02-22,PT0023,Rear Bumper Assembly,OUT,1,pcs,Repair Order,RO0091,1719000,1719000,Used for body repair
+TRX0292,2026-02-22,PT0145,Front Door Assembly,OUT,12,set,Repair Order,RO0091,3445000,41340000,Used for repaint preparation
+TRX0293,2026-02-22,PT0095,Rear Door Assembly,OUT,8,set,Repair Order,RO0091,2958000,23664000,Used for replacement
+TRX0294,2026-02-22,PT0140,Rear Bumper Assembly,OUT,4,pcs,Repair Order,RO0092,1473000,5892000,Used for repaint preparation
+TRX0295,2026-02-23,PT0007,Hood Assembly,IN,16,pcs,Purchase Order,PO0057,3382000,54112000,Supplier delivery received
+TRX0296,2026-02-23,PT0003,Rear Door Assembly,OUT,1,set,Repair Order,RO0092,2692000,2692000,Used for repaint preparation
+TRX0297,2026-02-23,PT0079,Trunk Lid,IN,12,pcs,Purchase Order,PO0057,1748000,20976000,Purchase received
+TRX0298,2026-02-23,PT0037,Side Mirror Assembly,OUT,2,set,Repair Order,RO0093,631000,1262000,Used for replacement
+TRX0299,2026-02-24,PT0134,Side Mirror Assembly,IN,16,set,Purchase Order,PO0057,684000,10944000,Supplier delivery received
+TRX0300,2026-02-24,PT0022,Rear Bumper Assembly,OUT,9,pcs,Repair Order,RO0094,1658000,14922000,Used for repaint preparation
+TRX0301,2026-02-24,PT0020,Side Mirror Assembly,OUT,1,set,Repair Order,RO0095,636000,636000,Used for replacement
+TRX0302,2026-02-24,PT0061,Front Panel,IN,15,pcs,Purchase Order,PO0057,1026000,15390000,Stock replenishment
+TRX0303,2026-02-24,PT0084,Front Panel,IN,13,pcs,Purchase Order,PO0058,1179000,15327000,Purchase received
+TRX0304,2026-02-24,PT0035,Trunk Lid,OUT,10,pcs,Repair Order,RO0096,1680000,16800000,Used for vehicle repair
+TRX0305,2026-02-25,PT0043,Rear Door Assembly,IN,15,set,Purchase Order,PO0058,2314000,34710000,Supplier delivery received
+TRX0306,2026-02-25,PT0092,Front Grille,OUT,4,pcs,Repair Order,RO0097,946000,3784000,Used for repaint preparation
+TRX0307,2026-02-25,PT0068,Side Mirror Assembly,OUT,2,set,Repair Order,RO0098,608000,1216000,Used for body repair
+TRX0308,2026-02-25,PT0011,Rear Fender,IN,15,pcs,Purchase Order,PO0059,923000,13845000,Supplier delivery received
+TRX0309,2026-02-25,PT0064,Front Grille,OUT,7,pcs,Repair Order,RO0099,766000,5362000,Used for body repair
+TRX0310,2026-02-25,PT0067,Roof Panel,OUT,3,pcs,Repair Order,RO0100,5217000,15651000,Used for repaint preparation
+TRX0311,2026-02-25,PT0116,Hood Assembly,OUT,9,pcs,Repair Order,RO0101,3167000,28503000,Used for repaint preparation
+TRX0312,2026-02-25,PT0027,Front Panel,OUT,3,pcs,Repair Order,RO0102,1469000,4407000,Used for vehicle repair
+TRX0313,2026-02-26,PT0057,Front Door Assembly,IN,17,set,Purchase Order,PO0060,2515000,42755000,Supplier delivery received
+TRX0314,2026-02-26,PT0022,Rear Bumper Assembly,OUT,5,pcs,Repair Order,RO0102,1658000,8290000,Used for vehicle repair
+TRX0315,2026-02-26,PT0006,Rear Bumper Assembly,OUT,2,pcs,Repair Order,RO0102,2328000,4656000,Used for repaint preparation
+TRX0316,2026-02-26,PT0033,Windshield,IN,15,pcs,Purchase Order,PO0061,2680000,40200000,Stock replenishment
+TRX0317,2026-02-26,PT0013,Quarter Panel,IN,18,pcs,Purchase Order,PO0061,1108000,19944000,Stock replenishment
+TRX0318,2026-02-27,PT0128,Tail Lamp Assembly,IN,18,set,Purchase Order,PO0062,870000,15660000,Purchase received
+TRX0319,2026-02-27,PT0048,Tail Lamp Assembly,IN,19,set,Purchase Order,PO0062,1376000,26144000,Purchase received
+TRX0320,2026-02-27,PT0063,Front Bumper Assembly,OUT,8,pcs,Repair Order,RO0103,1713000,13704000,Used for repaint preparation
+TRX0321,2026-02-27,PT0016,Rear Door Assembly,IN,17,set,Purchase Order,PO0063,2891000,49147000,Purchase received
+TRX0322,2026-02-28,PT0135,Front Grille,IN,5,pcs,Purchase Order,PO0063,1120000,5600000,Supplier delivery received
+TRX0323,2026-02-28,PT0092,Front Grille,OUT,13,pcs,Repair Order,RO0104,946000,12298000,Used for body repair
+TRX0324,2026-02-28,PT0100,Headlamp Assembly,IN,5,set,Purchase Order,PO0064,1207000,6035000,Purchase received
+TRX0325,2026-02-28,PT0008,Front Door Assembly,OUT,13,set,Repair Order,RO0105,2505000,32565000,Used for repaint preparation
+TRX0326,2026-02-28,PT0136,Front Bumper Assembly,IN,12,pcs,Purchase Order,PO0064,1410000,16920000,Purchase received
+TRX0327,2026-02-28,PT0064,Front Grille,OUT,5,pcs,Repair Order,RO0106,766000,3830000,Used for vehicle repair
+TRX0328,2026-02-28,PT0057,Front Door Assembly,OUT,13,set,Repair Order,RO0107,2515000,32695000,Used for replacement
+TRX0329,2026-02-28,PT0046,Windshield,IN,15,pcs,Purchase Order,PO0064,1587000,23805000,Supplier delivery received
+TRX0330,2026-02-28,PT0092,Front Grille,OUT,1,pcs,Repair Order,RO0107,946000,946000,Used for body repair
+TRX0331,2026-02-28,PT0146,Quarter Panel,OUT,10,pcs,Repair Order,RO0107,2108000,21080000,Used for repaint preparation
+TRX0332,2026-02-28,PT0139,Front Bumper Assembly,IN,20,pcs,Purchase Order,PO0065,2199000,43980000,Purchase received
+TRX0333,2026-02-28,PT0060,Rear Bumper Assembly,OUT,1,pcs,Repair Order,RO0108,1436000,1436000,Used for vehicle repair
+TRX0334,2026-02-28,PT0085,Tail Lamp Assembly,OUT,4,set,Repair Order,RO0108,1278000,5112000,Used for body repair
+TRX0335,2026-03-01,PT0046,Windshield,OUT,14,pcs,Repair Order,RO0108,1587000,22218000,Used for vehicle repair
+TRX0336,2026-03-01,PT0006,Rear Bumper Assembly,IN,9,pcs,Purchase Order,PO0065,2328000,20952000,Supplier delivery received
+TRX0337,2026-03-01,PT0094,Front Door Assembly,OUT,6,set,Repair Order,RO0108,2670000,16020000,Used for repaint preparation
+TRX0338,2026-03-01,PT0026,Quarter Panel,IN,15,pcs,Purchase Order,PO0066,2097000,31455000,Purchase received
+TRX0339,2026-03-01,PT0112,Front Door Assembly,OUT,8,set,Repair Order,RO0108,2509000,20072000,Used for replacement
+TRX0340,2026-03-01,PT0144,Front Door Assembly,OUT,5,set,Repair Order,RO0108,2555000,12775000,Used for replacement
+TRX0341,2026-03-02,PT0045,Front Panel,IN,14,pcs,Purchase Order,PO0067,1646000,23044000,Supplier delivery received
+TRX0342,2026-03-02,PT0001,Hood Assembly,OUT,10,pcs,Repair Order,RO0109,2244000,22440000,Used for vehicle repair
+TRX0343,2026-03-03,PT0047,Roof Panel,OUT,1,pcs,Repair Order,RO0109,5304000,5304000,Used for vehicle repair
+TRX0344,2026-03-03,PT0128,Tail Lamp Assembly,IN,7,set,Purchase Order,PO0068,870000,6090000,Stock replenishment
+TRX0345,2026-03-03,PT0043,Rear Door Assembly,OUT,2,set,Repair Order,RO0109,2314000,4628000,Used for body repair
+TRX0346,2026-03-03,PT0115,Windshield,IN,11,pcs,Purchase Order,PO0069,1369000,15059000,Purchase received
+TRX0347,2026-03-03,PT0090,Windshield,IN,8,pcs,Purchase Order,PO0069,1757000,14056000,Purchase received
+TRX0348,2026-03-03,PT0099,Rear Fender,IN,18,pcs,Purchase Order,PO0069,770000,13860000,Stock replenishment
+TRX0349,2026-03-04,PT0127,Rear Door Assembly,OUT,6,set,Repair Order,RO0110,2462000,14772000,Used for vehicle repair
+TRX0350,2026-03-04,PT0123,Quarter Panel,OUT,10,pcs,Repair Order,RO0110,1277000,12770000,Used for replacement
+TRX0351,2026-03-04,PT0042,Tail Lamp Assembly,OUT,13,set,Repair Order,RO0110,1311000,17043000,Used for body repair
+TRX0352,2026-03-04,PT0006,Rear Bumper Assembly,IN,8,pcs,Purchase Order,PO0070,2328000,18624000,Purchase received
+TRX0353,2026-03-04,PT0097,Front Door Assembly,IN,7,set,Purchase Order,PO0070,2345000,16415000,Purchase received
+TRX0354,2026-03-05,PT0087,Headlamp Assembly,OUT,10,set,Repair Order,RO0110,1418000,14180000,Used for vehicle repair
+TRX0355,2026-03-05,PT0111,Windshield,OUT,3,pcs,Repair Order,RO0110,1430000,4290000,Used for repaint preparation
+TRX0356,2026-03-05,PT0041,Hood Assembly,IN,15,pcs,Purchase Order,PO0071,1867000,28005000,Purchase received
+TRX0357,2026-03-05,PT0105,Front Fender,OUT,12,pcs,Repair Order,RO0110,773000,9276000,Used for body repair
+TRX0358,2026-03-05,PT0073,Trunk Lid,IN,8,pcs,Purchase Order,PO0072,1650000,13200000,Supplier delivery received
+TRX0359,2026-03-06,PT0141,Tail Lamp Assembly,OUT,3,set,Repair Order,RO0111,873000,2619000,Used for vehicle repair
+TRX0360,2026-03-06,PT0110,Trunk Lid,IN,20,pcs,Purchase Order,PO0073,3190000,63800000,Purchase received
+TRX0361,2026-03-06,PT0053,Rear Door Assembly,IN,14,set,Purchase Order,PO0073,2635000,36890000,Stock replenishment
+TRX0362,2026-03-06,PT0030,Front Fender,IN,17,pcs,Purchase Order,PO0073,741000,12597000,Supplier delivery received
+TRX0363,2026-03-06,PT0068,Side Mirror Assembly,IN,17,set,Purchase Order,PO0074,608000,10336000,Stock replenishment
+TRX0364,2026-03-06,PT0095,Rear Door Assembly,IN,6,set,Purchase Order,PO0075,2958000,17748000,Stock replenishment
+TRX0365,2026-03-06,PT0068,Side Mirror Assembly,IN,13,set,Purchase Order,PO0075,608000,7904000,Purchase received
+TRX0366,2026-03-06,PT0025,Trunk Lid,IN,16,pcs,Purchase Order,PO0075,2602000,41632000,Stock replenishment
+TRX0367,2026-03-07,PT0059,Quarter Panel,OUT,14,pcs,Repair Order,RO0112,1342000,18788000,Used for repaint preparation
+TRX0368,2026-03-07,PT0138,Side Mirror Assembly,OUT,15,set,Repair Order,RO0113,673000,10095000,Used for replacement
+TRX0369,2026-03-07,PT0122,Side Mirror Assembly,IN,17,set,Purchase Order,PO0075,976000,16592000,Supplier delivery received
+TRX0370,2026-03-07,PT0009,Roof Panel,OUT,15,pcs,Repair Order,RO0114,3561000,53415000,Used for replacement
+TRX0371,2026-03-07,PT0031,Headlamp Assembly,OUT,8,set,Repair Order,RO0115,1135000,9080000,Used for replacement
+TRX0372,2026-03-08,PT0055,Front Fender,OUT,3,pcs,Repair Order,RO0116,1167000,3501000,Used for vehicle repair
+TRX0373,2026-03-08,PT0112,Front Door Assembly,IN,9,set,Purchase Order,PO0075,2509000,22581000,Stock replenishment
+TRX0374,2026-03-08,PT0082,Hood Assembly,OUT,15,pcs,Repair Order,RO0116,2074000,31110000,Used for vehicle repair
+TRX0375,2026-03-08,PT0100,Headlamp Assembly,OUT,9,set,Repair Order,RO0117,1207000,10863000,Used for body repair
+TRX0376,2026-03-08,PT0134,Side Mirror Assembly,OUT,14,set,Repair Order,RO0118,684000,9576000,Used for repaint preparation
+TRX0377,2026-03-09,PT0029,Quarter Panel,IN,9,pcs,Purchase Order,PO0075,1815000,16335000,Supplier delivery received
+TRX0378,2026-03-09,PT0026,Quarter Panel,OUT,10,pcs,Repair Order,RO0118,2097000,20970000,Used for body repair
+TRX0379,2026-03-09,PT0138,Side Mirror Assembly,OUT,15,set,Repair Order,RO0119,673000,10095000,Used for repaint preparation
+TRX0380,2026-03-09,PT0125,Trunk Lid,OUT,8,pcs,Repair Order,RO0120,2806000,22448000,Used for body repair
+TRX0381,2026-03-09,PT0104,Headlamp Assembly,IN,17,set,Purchase Order,PO0076,1217000,20689000,Stock replenishment
+TRX0382,2026-03-09,PT0061,Front Panel,IN,20,pcs,Purchase Order,PO0076,1026000,20520000,Stock replenishment
+TRX0383,2026-03-09,PT0006,Rear Bumper Assembly,IN,14,pcs,Purchase Order,PO0077,2328000,32592000,Stock replenishment
+TRX0384,2026-03-09,PT0026,Quarter Panel,OUT,4,pcs,Repair Order,RO0121,2097000,8388000,Used for repaint preparation
+TRX0385,2026-03-10,PT0083,Rear Door Assembly,IN,18,set,Purchase Order,PO0077,2653000,47754000,Purchase received
+TRX0386,2026-03-10,PT0049,Front Bumper Assembly,IN,18,pcs,Purchase Order,PO0077,2632000,47376000,Supplier delivery received
+TRX0387,2026-03-11,PT0096,Front Grille,OUT,9,pcs,Repair Order,RO0121,805000,7245000,Used for vehicle repair
+TRX0388,2026-03-11,PT0080,Front Panel,OUT,7,pcs,Repair Order,RO0122,1101000,7707000,Used for vehicle repair
+TRX0389,2026-03-11,PT0045,Front Panel,IN,11,pcs,Purchase Order,PO0077,1646000,18106000,Purchase received
+TRX0390,2026-03-12,PT0009,Roof Panel,OUT,6,pcs,Repair Order,RO0122,3561000,21366000,Used for body repair
+TRX0391,2026-03-12,PT0095,Rear Door Assembly,OUT,9,set,Repair Order,RO0123,2958000,26622000,Used for vehicle repair
+TRX0392,2026-03-12,PT0008,Front Door Assembly,IN,20,set,Purchase Order,PO0077,2505000,50100000,Purchase received
+TRX0393,2026-03-12,PT0122,Side Mirror Assembly,OUT,6,set,Repair Order,RO0124,976000,5856000,Used for body repair
+TRX0394,2026-03-12,PT0024,Quarter Panel,IN,17,pcs,Purchase Order,PO0078,1176000,19992000,Supplier delivery received
+TRX0395,2026-03-12,PT0055,Front Fender,OUT,11,pcs,Repair Order,RO0125,1167000,12837000,Used for replacement
+TRX0396,2026-03-12,PT0069,Windshield,OUT,9,pcs,Repair Order,RO0126,4417000,39753000,Used for vehicle repair
+TRX0397,2026-03-13,PT0122,Side Mirror Assembly,OUT,11,set,Repair Order,RO0127,976000,10736000,Used for vehicle repair
+TRX0398,2026-03-13,PT0058,Front Bumper Assembly,IN,14,pcs,Purchase Order,PO0078,2608000,36512000,Supplier delivery received
+TRX0399,2026-03-13,PT0071,Front Panel,IN,17,pcs,Purchase Order,PO0078,956000,16252000,Stock replenishment
+TRX0400,2026-03-13,PT0065,Rear Door Assembly,IN,14,set,Purchase Order,PO0078,2944000,41216000,Supplier delivery received
+TRX0401,2026-03-13,PT0102,Front Door Assembly,OUT,1,set,Repair Order,RO0128,2268000,2268000,Used for body repair
+TRX0402,2026-03-14,PT0144,Front Door Assembly,OUT,2,set,Repair Order,RO0129,2555000,5110000,Used for vehicle repair
+TRX0403,2026-03-14,PT0124,Tail Lamp Assembly,IN,13,set,Purchase Order,PO0078,887000,11531000,Stock replenishment
+TRX0404,2026-03-14,PT0067,Roof Panel,OUT,5,pcs,Repair Order,RO0130,5217000,26085000,Used for replacement
+TRX0405,2026-03-14,PT0015,Front Grille,OUT,13,pcs,Repair Order,RO0130,768000,9984000,Used for repaint preparation
+TRX0406,2026-03-15,PT0082,Hood Assembly,OUT,12,pcs,Repair Order,RO0131,2074000,24888000,Used for repaint preparation
+TRX0407,2026-03-15,PT0076,Rear Bumper Assembly,IN,18,pcs,Purchase Order,PO0078,1531000,27558000,Supplier delivery received
+TRX0408,2026-03-15,PT0010,Headlamp Assembly,OUT,10,set,Repair Order,RO0131,1113000,11130000,Used for body repair
+TRX0409,2026-03-15,PT0057,Front Door Assembly,OUT,11,set,Repair Order,RO0131,2515000,27665000,Used for body repair
+TRX0410,2026-03-15,PT0130,Rear Door Assembly,IN,10,set,Purchase Order,PO0078,3887000,38870000,Supplier delivery received
+TRX0411,2026-03-16,PT0047,Roof Panel,IN,20,pcs,Purchase Order,PO0079,5304000,106080000,Stock replenishment
+TRX0412,2026-03-16,PT0144,Front Door Assembly,IN,10,set,Purchase Order,PO0079,2555000,25550000,Stock replenishment
+TRX0413,2026-03-16,PT0023,Rear Bumper Assembly,IN,12,pcs,Purchase Order,PO0079,1719000,20628000,Stock replenishment
+TRX0414,2026-03-16,PT0108,Rear Door Assembly,OUT,6,set,Repair Order,RO0132,4462000,26772000,Used for body repair
+TRX0415,2026-03-16,PT0119,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0133,946000,7568000,Used for vehicle repair
+TRX0416,2026-03-17,PT0121,Front Panel,OUT,9,pcs,Repair Order,RO0134,957000,8613000,Used for repaint preparation
+TRX0417,2026-03-17,PT0136,Front Bumper Assembly,IN,6,pcs,Purchase Order,PO0079,1410000,8460000,Purchase received
+TRX0418,2026-03-17,PT0036,Side Mirror Assembly,OUT,6,set,Repair Order,RO0135,932000,5592000,Used for repaint preparation
+TRX0419,2026-03-17,PT0037,Side Mirror Assembly,IN,10,set,Purchase Order,PO0079,631000,6310000,Stock replenishment
+TRX0420,2026-03-17,PT0086,Hood Assembly,OUT,3,pcs,Repair Order,RO0136,2200000,6600000,Used for vehicle repair
+TRX0421,2026-03-17,PT0002,Rear Bumper Assembly,OUT,4,pcs,Repair Order,RO0136,1412000,5648000,Used for replacement
+TRX0422,2026-03-17,PT0148,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0136,2533000,20264000,Used for vehicle repair
+TRX0423,2026-03-18,PT0034,Headlamp Assembly,OUT,11,set,Repair Order,RO0137,1325000,14575000,Used for repaint preparation
+TRX0424,2026-03-18,PT0123,Quarter Panel,IN,6,pcs,Purchase Order,PO0079,1277000,7662000,Supplier delivery received
+TRX0425,2026-03-18,PT0096,Front Grille,OUT,15,pcs,Repair Order,RO0138,805000,12075000,Used for replacement
+TRX0426,2026-03-18,PT0005,Hood Assembly,IN,12,pcs,Purchase Order,PO0080,2136000,25632000,Stock replenishment
+TRX0427,2026-03-18,PT0080,Front Panel,IN,17,pcs,Purchase Order,PO0080,1101000,18717000,Stock replenishment
+TRX0428,2026-03-18,PT0043,Rear Door Assembly,IN,6,set,Purchase Order,PO0081,2314000,13884000,Stock replenishment
+TRX0429,2026-03-19,PT0117,Rear Fender,OUT,10,pcs,Repair Order,RO0139,1235000,12350000,Used for repaint preparation
+TRX0430,2026-03-19,PT0035,Trunk Lid,IN,20,pcs,Purchase Order,PO0082,1680000,33600000,Purchase received
+TRX0431,2026-03-19,PT0043,Rear Door Assembly,OUT,15,set,Repair Order,RO0139,2314000,34710000,Used for vehicle repair
+TRX0432,2026-03-19,PT0059,Quarter Panel,IN,9,pcs,Purchase Order,PO0083,1342000,12078000,Purchase received
+TRX0433,2026-03-19,PT0130,Rear Door Assembly,IN,16,set,Purchase Order,PO0083,3887000,62192000,Purchase received
+TRX0434,2026-03-20,PT0097,Front Door Assembly,OUT,5,set,Repair Order,RO0139,2345000,11725000,Used for vehicle repair
+TRX0435,2026-03-20,PT0013,Quarter Panel,OUT,11,pcs,Repair Order,RO0139,1108000,12188000,Used for vehicle repair
+TRX0436,2026-03-20,PT0030,Front Fender,IN,17,pcs,Purchase Order,PO0084,741000,12597000,Stock replenishment
+TRX0437,2026-03-20,PT0122,Side Mirror Assembly,OUT,4,set,Repair Order,RO0139,976000,3904000,Used for vehicle repair
+TRX0438,2026-03-20,PT0078,Trunk Lid,IN,8,pcs,Purchase Order,PO0084,3187000,25496000,Stock replenishment
+TRX0439,2026-03-20,PT0036,Side Mirror Assembly,IN,8,set,Purchase Order,PO0084,932000,7456000,Supplier delivery received
+TRX0440,2026-03-20,PT0031,Headlamp Assembly,IN,8,set,Purchase Order,PO0084,1135000,9080000,Supplier delivery received
+TRX0441,2026-03-20,PT0052,Rear Bumper Assembly,OUT,14,pcs,Repair Order,RO0140,1353000,18942000,Used for replacement
+TRX0442,2026-03-20,PT0092,Front Grille,OUT,5,pcs,Repair Order,RO0141,946000,4730000,Used for repaint preparation
+TRX0443,2026-03-21,PT0054,Front Fender,OUT,8,pcs,Repair Order,RO0142,1157000,9256000,Used for vehicle repair
+TRX0444,2026-03-21,PT0004,Hood Assembly,OUT,15,pcs,Repair Order,RO0143,1856000,27840000,Used for repaint preparation
+TRX0445,2026-03-21,PT0039,Front Panel,OUT,9,pcs,Repair Order,RO0144,1518000,13662000,Used for vehicle repair
+TRX0446,2026-03-21,PT0066,Side Mirror Assembly,OUT,8,set,Repair Order,RO0144,613000,4904000,Used for body repair
+TRX0447,2026-03-21,PT0068,Side Mirror Assembly,OUT,2,set,Repair Order,RO0144,608000,1216000,Used for vehicle repair
+TRX0448,2026-03-21,PT0075,Side Mirror Assembly,IN,15,set,Purchase Order,PO0084,552000,8280000,Purchase received
+TRX0449,2026-03-21,PT0025,Trunk Lid,OUT,15,pcs,Repair Order,RO0145,2602000,39030000,Used for replacement
+TRX0450,2026-03-21,PT0044,Rear Door Assembly,IN,19,set,Purchase Order,PO0084,2983000,56677000,Stock replenishment
+TRX0451,2026-03-21,PT0024,Quarter Panel,IN,15,pcs,Purchase Order,PO0085,1176000,17640000,Stock replenishment
+TRX0452,2026-03-22,PT0103,Front Door Assembly,OUT,5,set,Repair Order,RO0145,2851000,14255000,Used for repaint preparation
+TRX0453,2026-03-22,PT0108,Rear Door Assembly,OUT,2,set,Repair Order,RO0146,4462000,8924000,Used for vehicle repair
+TRX0454,2026-03-22,PT0041,Hood Assembly,IN,20,pcs,Purchase Order,PO0085,1867000,37340000,Supplier delivery received
+TRX0455,2026-03-22,PT0113,Front Door Assembly,IN,17,set,Purchase Order,PO0085,2704000,45968000,Supplier delivery received
+TRX0456,2026-03-22,PT0008,Front Door Assembly,OUT,15,set,Repair Order,RO0146,2505000,37575000,Used for replacement
+TRX0457,2026-03-22,PT0124,Tail Lamp Assembly,OUT,2,set,Repair Order,RO0146,887000,1774000,Used for repaint preparation
+TRX0458,2026-03-22,PT0012,Front Grille,IN,15,pcs,Purchase Order,PO0086,783000,11745000,Supplier delivery received
+TRX0459,2026-03-22,PT0135,Front Grille,OUT,10,pcs,Repair Order,RO0146,1120000,11200000,Used for replacement
+TRX0460,2026-03-23,PT0087,Headlamp Assembly,OUT,12,set,Repair Order,RO0146,1418000,17016000,Used for vehicle repair
+TRX0461,2026-03-23,PT0111,Windshield,OUT,4,pcs,Repair Order,RO0147,1430000,5720000,Used for repaint preparation
+TRX0462,2026-03-23,PT0039,Front Panel,OUT,1,pcs,Repair Order,RO0148,1518000,1518000,Used for replacement
+TRX0463,2026-03-23,PT0130,Rear Door Assembly,OUT,14,set,Repair Order,RO0149,3887000,54418000,Used for replacement
+TRX0464,2026-03-23,PT0020,Side Mirror Assembly,OUT,6,set,Repair Order,RO0150,636000,3816000,Used for body repair
+TRX0465,2026-03-23,PT0013,Quarter Panel,OUT,9,pcs,Repair Order,RO0150,1108000,9972000,Used for repaint preparation
+TRX0466,2026-03-24,PT0061,Front Panel,IN,19,pcs,Purchase Order,PO0086,1026000,19494000,Stock replenishment
+TRX0467,2026-03-24,PT0023,Rear Bumper Assembly,OUT,8,pcs,Repair Order,RO0151,1719000,13752000,Used for repaint preparation
+TRX0468,2026-03-24,PT0005,Hood Assembly,IN,18,pcs,Purchase Order,PO0087,2136000,38448000,Supplier delivery received
+TRX0469,2026-03-24,PT0001,Hood Assembly,OUT,5,pcs,Repair Order,RO0151,2244000,11220000,Used for replacement
+TRX0470,2026-03-24,PT0117,Rear Fender,OUT,6,pcs,Repair Order,RO0151,1235000,7410000,Used for replacement
+TRX0471,2026-03-25,PT0117,Rear Fender,IN,20,pcs,Purchase Order,PO0087,1235000,24700000,Stock replenishment
+TRX0472,2026-03-25,PT0116,Hood Assembly,IN,12,pcs,Purchase Order,PO0088,3167000,38004000,Stock replenishment
+TRX0473,2026-03-25,PT0075,Side Mirror Assembly,OUT,6,set,Repair Order,RO0151,552000,3312000,Used for vehicle repair
+TRX0474,2026-03-25,PT0043,Rear Door Assembly,OUT,14,set,Repair Order,RO0151,2314000,32396000,Used for repaint preparation
+TRX0475,2026-03-25,PT0028,Windshield,IN,11,pcs,Purchase Order,PO0089,1686000,18546000,Stock replenishment
+TRX0476,2026-03-26,PT0056,Front Door Assembly,OUT,13,set,Repair Order,RO0152,3589000,46657000,Used for body repair
+TRX0477,2026-03-26,PT0028,Windshield,OUT,1,pcs,Repair Order,RO0152,1686000,1686000,Used for vehicle repair
+TRX0478,2026-03-26,PT0116,Hood Assembly,OUT,10,pcs,Repair Order,RO0152,3167000,31670000,Used for replacement
+TRX0479,2026-03-26,PT0128,Tail Lamp Assembly,IN,6,set,Purchase Order,PO0089,870000,5220000,Stock replenishment
+TRX0480,2026-03-26,PT0150,Trunk Lid,OUT,9,pcs,Repair Order,RO0152,4952000,44568000,Used for replacement
+TRX0481,2026-03-26,PT0149,Front Door Assembly,IN,9,set,Purchase Order,PO0090,2614000,23526000,Supplier delivery received
+TRX0482,2026-03-27,PT0083,Rear Door Assembly,OUT,7,set,Repair Order,RO0153,2653000,18571000,Used for replacement
+TRX0483,2026-03-27,PT0071,Front Panel,IN,15,pcs,Purchase Order,PO0090,956000,14340000,Stock replenishment
+TRX0484,2026-03-27,PT0035,Trunk Lid,IN,14,pcs,Purchase Order,PO0090,1680000,23520000,Supplier delivery received
+TRX0485,2026-03-28,PT0081,Front Bumper Assembly,OUT,15,pcs,Repair Order,RO0154,1492000,22380000,Used for replacement
+TRX0486,2026-03-28,PT0052,Rear Bumper Assembly,IN,14,pcs,Purchase Order,PO0090,1353000,18942000,Supplier delivery received
+TRX0487,2026-03-29,PT0034,Headlamp Assembly,OUT,11,set,Repair Order,RO0154,1325000,14575000,Used for replacement
+TRX0488,2026-03-29,PT0129,Front Grille,OUT,11,pcs,Repair Order,RO0155,681000,7491000,Used for vehicle repair
+TRX0489,2026-03-29,PT0091,Rear Door Assembly,OUT,10,set,Repair Order,RO0156,2725000,27250000,Used for repaint preparation
+TRX0490,2026-03-30,PT0137,Trunk Lid,IN,18,pcs,Purchase Order,PO0090,3199000,57582000,Supplier delivery received
+TRX0491,2026-03-30,PT0028,Windshield,IN,9,pcs,Purchase Order,PO0091,1686000,15174000,Purchase received
+TRX0492,2026-03-30,PT0052,Rear Bumper Assembly,IN,10,pcs,Purchase Order,PO0091,1353000,13530000,Supplier delivery received
+TRX0493,2026-03-31,PT0065,Rear Door Assembly,IN,6,set,Purchase Order,PO0091,2944000,17664000,Stock replenishment
+TRX0494,2026-03-31,PT0053,Rear Door Assembly,OUT,1,set,Repair Order,RO0157,2635000,2635000,Used for repaint preparation
+TRX0495,2026-03-31,PT0027,Front Panel,OUT,11,pcs,Repair Order,RO0157,1469000,16159000,Used for replacement
+TRX0496,2026-03-31,PT0144,Front Door Assembly,IN,14,set,Purchase Order,PO0091,2555000,35770000,Purchase received
+TRX0497,2026-03-31,PT0098,Rear Fender,IN,15,pcs,Purchase Order,PO0091,935000,14025000,Purchase received
+TRX0498,2026-03-31,PT0004,Hood Assembly,OUT,1,pcs,Repair Order,RO0157,1856000,1856000,Used for repaint preparation
+TRX0499,2026-03-31,PT0058,Front Bumper Assembly,OUT,12,pcs,Repair Order,RO0157,2608000,31296000,Used for body repair
+TRX0500,2026-04-01,PT0140,Rear Bumper Assembly,OUT,4,pcs,Repair Order,RO0157,1473000,5892000,Used for replacement
+TRX0501,2026-04-01,PT0076,Rear Bumper Assembly,IN,7,pcs,Purchase Order,PO0092,1531000,10717000,Purchase received
+TRX0502,2026-04-01,PT0132,Front Panel,IN,6,pcs,Purchase Order,PO0092,1096000,6576000,Supplier delivery received
+TRX0503,2026-04-01,PT0068,Side Mirror Assembly,IN,13,set,Purchase Order,PO0093,608000,7904000,Stock replenishment
+TRX0504,2026-04-02,PT0040,Hood Assembly,IN,15,pcs,Purchase Order,PO0093,2159000,32385000,Supplier delivery received
+TRX0505,2026-04-02,PT0078,Trunk Lid,OUT,10,pcs,Repair Order,RO0158,3187000,31870000,Used for vehicle repair
+TRX0506,2026-04-02,PT0082,Hood Assembly,OUT,3,pcs,Repair Order,RO0159,2074000,6222000,Used for replacement
+TRX0507,2026-04-02,PT0107,Roof Panel,OUT,7,pcs,Repair Order,RO0160,3058000,21406000,Used for replacement
+TRX0508,2026-04-03,PT0055,Front Fender,OUT,6,pcs,Repair Order,RO0161,1167000,7002000,Used for replacement
+TRX0509,2026-04-03,PT0136,Front Bumper Assembly,OUT,9,pcs,Repair Order,RO0161,1410000,12690000,Used for vehicle repair
+TRX0510,2026-04-03,PT0030,Front Fender,OUT,8,pcs,Repair Order,RO0162,741000,5928000,Used for replacement
+TRX0511,2026-04-03,PT0011,Rear Fender,OUT,6,pcs,Repair Order,RO0163,923000,5538000,Used for vehicle repair
+TRX0512,2026-04-03,PT0099,Rear Fender,IN,14,pcs,Purchase Order,PO0094,770000,10780000,Supplier delivery received
+TRX0513,2026-04-03,PT0096,Front Grille,OUT,9,pcs,Repair Order,RO0164,805000,7245000,Used for vehicle repair
+TRX0514,2026-04-04,PT0076,Rear Bumper Assembly,OUT,4,pcs,Repair Order,RO0165,1531000,6124000,Used for vehicle repair
+TRX0515,2026-04-04,PT0025,Trunk Lid,IN,5,pcs,Purchase Order,PO0094,2602000,13010000,Purchase received
+TRX0516,2026-04-04,PT0055,Front Fender,OUT,7,pcs,Repair Order,RO0165,1167000,8169000,Used for replacement
+TRX0517,2026-04-05,PT0138,Side Mirror Assembly,OUT,15,set,Repair Order,RO0165,673000,10095000,Used for repaint preparation
+TRX0518,2026-04-05,PT0019,Windshield,OUT,3,pcs,Repair Order,RO0166,1665000,4995000,Used for body repair
+TRX0519,2026-04-06,PT0010,Headlamp Assembly,IN,6,set,Purchase Order,PO0095,1113000,6678000,Stock replenishment
+TRX0520,2026-04-06,PT0143,Front Panel,IN,12,pcs,Purchase Order,PO0095,2779000,33348000,Stock replenishment
+TRX0521,2026-04-07,PT0100,Headlamp Assembly,OUT,7,set,Repair Order,RO0167,1207000,8449000,Used for vehicle repair
+TRX0522,2026-04-07,PT0100,Headlamp Assembly,OUT,9,set,Repair Order,RO0168,1207000,10863000,Used for vehicle repair
+TRX0523,2026-04-07,PT0150,Trunk Lid,IN,7,pcs,Purchase Order,PO0096,4952000,34664000,Supplier delivery received
+TRX0524,2026-04-08,PT0028,Windshield,IN,14,pcs,Purchase Order,PO0096,1686000,23604000,Stock replenishment
+TRX0525,2026-04-08,PT0113,Front Door Assembly,IN,5,set,Purchase Order,PO0096,2704000,13520000,Supplier delivery received
+TRX0526,2026-04-08,PT0057,Front Door Assembly,IN,17,set,Purchase Order,PO0096,2515000,42755000,Supplier delivery received
+TRX0527,2026-04-08,PT0076,Rear Bumper Assembly,OUT,3,pcs,Repair Order,RO0169,1531000,4593000,Used for body repair
+TRX0528,2026-04-08,PT0003,Rear Door Assembly,OUT,9,set,Repair Order,RO0170,2692000,24228000,Used for vehicle repair
+TRX0529,2026-04-08,PT0002,Rear Bumper Assembly,OUT,7,pcs,Repair Order,RO0171,1412000,9884000,Used for vehicle repair
+TRX0530,2026-04-08,PT0079,Trunk Lid,IN,16,pcs,Purchase Order,PO0097,1748000,27968000,Supplier delivery received
+TRX0531,2026-04-08,PT0132,Front Panel,IN,10,pcs,Purchase Order,PO0098,1096000,10960000,Stock replenishment
+TRX0532,2026-04-09,PT0050,Headlamp Assembly,IN,6,set,Purchase Order,PO0098,1169000,7014000,Supplier delivery received
+TRX0533,2026-04-09,PT0119,Tail Lamp Assembly,OUT,2,set,Repair Order,RO0172,946000,1892000,Used for vehicle repair
+TRX0534,2026-04-09,PT0065,Rear Door Assembly,IN,20,set,Purchase Order,PO0098,2944000,58880000,Stock replenishment
+TRX0535,2026-04-09,PT0033,Windshield,OUT,4,pcs,Repair Order,RO0173,2680000,10720000,Used for vehicle repair
+TRX0536,2026-04-09,PT0050,Headlamp Assembly,IN,19,set,Purchase Order,PO0099,1169000,22211000,Supplier delivery received
+TRX0537,2026-04-09,PT0079,Trunk Lid,OUT,3,pcs,Repair Order,RO0174,1748000,5244000,Used for body repair
+TRX0538,2026-04-09,PT0081,Front Bumper Assembly,OUT,3,pcs,Repair Order,RO0175,1492000,4476000,Used for replacement
+TRX0539,2026-04-10,PT0057,Front Door Assembly,OUT,11,set,Repair Order,RO0176,2515000,27665000,Used for body repair
+TRX0540,2026-04-10,PT0035,Trunk Lid,OUT,6,pcs,Repair Order,RO0176,1680000,10080000,Used for repaint preparation
+TRX0541,2026-04-10,PT0115,Windshield,IN,14,pcs,Purchase Order,PO0099,1369000,19166000,Purchase received
+TRX0542,2026-04-10,PT0045,Front Panel,OUT,2,pcs,Repair Order,RO0176,1646000,3292000,Used for replacement
+TRX0543,2026-04-11,PT0138,Side Mirror Assembly,IN,7,set,Purchase Order,PO0099,673000,4711000,Purchase received
+TRX0544,2026-04-12,PT0130,Rear Door Assembly,OUT,14,set,Repair Order,RO0177,3887000,54418000,Used for repaint preparation
+TRX0545,2026-04-12,PT0055,Front Fender,OUT,9,pcs,Repair Order,RO0178,1167000,10503000,Used for repaint preparation
+TRX0546,2026-04-12,PT0039,Front Panel,IN,12,pcs,Purchase Order,PO0099,1518000,18216000,Supplier delivery received
+TRX0547,2026-04-12,PT0075,Side Mirror Assembly,IN,7,set,Purchase Order,PO0100,552000,3864000,Supplier delivery received
+TRX0548,2026-04-12,PT0003,Rear Door Assembly,OUT,14,set,Repair Order,RO0178,2692000,37688000,Used for replacement
+TRX0549,2026-04-12,PT0132,Front Panel,IN,10,pcs,Purchase Order,PO0101,1096000,10960000,Supplier delivery received
+TRX0550,2026-04-12,PT0038,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0178,1037000,8296000,Used for vehicle repair
+TRX0551,2026-04-13,PT0057,Front Door Assembly,OUT,4,set,Repair Order,RO0179,2515000,10060000,Used for body repair
+TRX0552,2026-04-13,PT0060,Rear Bumper Assembly,IN,11,pcs,Purchase Order,PO0101,1436000,15796000,Stock replenishment
+TRX0553,2026-04-13,PT0100,Headlamp Assembly,OUT,2,set,Repair Order,RO0179,1207000,2414000,Used for vehicle repair
+TRX0554,2026-04-13,PT0083,Rear Door Assembly,IN,13,set,Purchase Order,PO0101,2653000,34489000,Stock replenishment
+TRX0555,2026-04-13,PT0149,Front Door Assembly,OUT,3,set,Repair Order,RO0180,2614000,7842000,Used for repaint preparation
+TRX0556,2026-04-15,PT0094,Front Door Assembly,OUT,15,set,Repair Order,RO0180,2670000,40050000,Used for body repair
+TRX0557,2026-04-15,PT0097,Front Door Assembly,OUT,4,set,Repair Order,RO0181,2345000,9380000,Used for body repair
+TRX0558,2026-04-15,PT0089,Front Panel,OUT,1,pcs,Repair Order,RO0181,981000,981000,Used for vehicle repair
+TRX0559,2026-04-15,PT0129,Front Grille,OUT,8,pcs,Repair Order,RO0182,681000,5448000,Used for vehicle repair
+TRX0560,2026-04-16,PT0132,Front Panel,OUT,4,pcs,Repair Order,RO0183,1096000,4384000,Used for replacement
+TRX0561,2026-04-16,PT0093,Windshield,OUT,14,pcs,Repair Order,RO0184,2134000,29876000,Used for replacement
+TRX0562,2026-04-17,PT0107,Roof Panel,OUT,12,pcs,Repair Order,RO0185,3058000,36696000,Used for repaint preparation
+TRX0563,2026-04-17,PT0123,Quarter Panel,IN,10,pcs,Purchase Order,PO0101,1277000,12770000,Stock replenishment
+TRX0564,2026-04-18,PT0006,Rear Bumper Assembly,IN,9,pcs,Purchase Order,PO0101,2328000,20952000,Purchase received
+TRX0565,2026-04-18,PT0035,Trunk Lid,OUT,1,pcs,Repair Order,RO0185,1680000,1680000,Used for replacement
+TRX0566,2026-04-18,PT0015,Front Grille,IN,10,pcs,Purchase Order,PO0101,768000,7680000,Stock replenishment
+TRX0567,2026-04-18,PT0145,Front Door Assembly,OUT,15,set,Repair Order,RO0185,3445000,51675000,Used for body repair
+TRX0568,2026-04-19,PT0022,Rear Bumper Assembly,IN,20,pcs,Purchase Order,PO0101,1658000,33160000,Purchase received
+TRX0569,2026-04-19,PT0057,Front Door Assembly,OUT,10,set,Repair Order,RO0186,2515000,25150000,Used for replacement
+TRX0570,2026-04-19,PT0131,Quarter Panel,IN,15,pcs,Purchase Order,PO0101,1257000,18855000,Supplier delivery received
+TRX0571,2026-04-19,PT0018,Side Mirror Assembly,IN,17,set,Purchase Order,PO0102,909000,15453000,Purchase received
+TRX0572,2026-04-19,PT0052,Rear Bumper Assembly,OUT,15,pcs,Repair Order,RO0187,1353000,20295000,Used for repaint preparation
+TRX0573,2026-04-19,PT0039,Front Panel,OUT,3,pcs,Repair Order,RO0188,1518000,4554000,Used for vehicle repair
+TRX0574,2026-04-19,PT0137,Trunk Lid,OUT,2,pcs,Repair Order,RO0189,3199000,6398000,Used for replacement
+TRX0575,2026-04-19,PT0139,Front Bumper Assembly,OUT,15,pcs,Repair Order,RO0189,2199000,32985000,Used for repaint preparation
+TRX0576,2026-04-19,PT0134,Side Mirror Assembly,IN,6,set,Purchase Order,PO0102,684000,4104000,Stock replenishment
+TRX0577,2026-04-20,PT0059,Quarter Panel,OUT,8,pcs,Repair Order,RO0189,1342000,10736000,Used for repaint preparation
+TRX0578,2026-04-20,PT0090,Windshield,OUT,12,pcs,Repair Order,RO0189,1757000,21084000,Used for vehicle repair
+TRX0579,2026-04-20,PT0109,Rear Fender,IN,20,pcs,Purchase Order,PO0102,1310000,26200000,Purchase received
+TRX0580,2026-04-20,PT0073,Trunk Lid,OUT,9,pcs,Repair Order,RO0190,1650000,14850000,Used for replacement
+TRX0581,2026-04-20,PT0002,Rear Bumper Assembly,OUT,13,pcs,Repair Order,RO0191,1412000,18356000,Used for vehicle repair
+TRX0582,2026-04-20,PT0134,Side Mirror Assembly,IN,11,set,Purchase Order,PO0102,684000,7524000,Stock replenishment
+TRX0583,2026-04-21,PT0105,Front Fender,IN,9,pcs,Purchase Order,PO0102,773000,6957000,Supplier delivery received
+TRX0584,2026-04-21,PT0065,Rear Door Assembly,IN,18,set,Purchase Order,PO0102,2944000,52992000,Supplier delivery received
+TRX0585,2026-04-21,PT0071,Front Panel,OUT,7,pcs,Repair Order,RO0191,956000,6692000,Used for repaint preparation
+TRX0586,2026-04-21,PT0142,Front Panel,OUT,8,pcs,Repair Order,RO0192,945000,7560000,Used for repaint preparation
+TRX0587,2026-04-21,PT0065,Rear Door Assembly,OUT,10,set,Repair Order,RO0193,2944000,29440000,Used for repaint preparation
+TRX0588,2026-04-21,PT0036,Side Mirror Assembly,OUT,11,set,Repair Order,RO0194,932000,10252000,Used for replacement
+TRX0589,2026-04-21,PT0115,Windshield,OUT,3,pcs,Repair Order,RO0195,1369000,4107000,Used for repaint preparation
+TRX0590,2026-04-22,PT0087,Headlamp Assembly,OUT,10,set,Repair Order,RO0195,1418000,14180000,Used for vehicle repair
+TRX0591,2026-04-22,PT0042,Tail Lamp Assembly,IN,5,set,Purchase Order,PO0102,1311000,6555000,Purchase received
+TRX0592,2026-04-22,PT0121,Front Panel,OUT,2,pcs,Repair Order,RO0196,957000,1914000,Used for body repair
+TRX0593,2026-04-22,PT0057,Front Door Assembly,IN,6,set,Purchase Order,PO0102,2515000,15090000,Stock replenishment
+TRX0594,2026-04-23,PT0134,Side Mirror Assembly,IN,6,set,Purchase Order,PO0102,684000,4104000,Purchase received
+TRX0595,2026-04-23,PT0127,Rear Door Assembly,IN,11,set,Purchase Order,PO0102,2462000,27082000,Supplier delivery received
+TRX0596,2026-04-23,PT0074,Side Mirror Assembly,IN,12,set,Purchase Order,PO0102,825000,9900000,Supplier delivery received
+TRX0597,2026-04-23,PT0010,Headlamp Assembly,IN,5,set,Purchase Order,PO0102,1113000,5565000,Purchase received
+TRX0598,2026-04-23,PT0071,Front Panel,OUT,6,pcs,Repair Order,RO0196,956000,5736000,Used for repaint preparation
+TRX0599,2026-04-23,PT0052,Rear Bumper Assembly,OUT,12,pcs,Repair Order,RO0196,1353000,16236000,Used for vehicle repair
+TRX0600,2026-04-23,PT0141,Tail Lamp Assembly,IN,16,set,Purchase Order,PO0103,873000,13968000,Stock replenishment
+TRX0601,2026-04-23,PT0058,Front Bumper Assembly,OUT,4,pcs,Repair Order,RO0197,2608000,10432000,Used for repaint preparation
+TRX0602,2026-04-23,PT0148,Tail Lamp Assembly,IN,10,set,Purchase Order,PO0103,2533000,25330000,Purchase received
+TRX0603,2026-04-24,PT0144,Front Door Assembly,IN,14,set,Purchase Order,PO0104,2555000,35770000,Purchase received
+TRX0604,2026-04-24,PT0132,Front Panel,OUT,15,pcs,Repair Order,RO0198,1096000,16440000,Used for body repair
+TRX0605,2026-04-24,PT0114,Quarter Panel,OUT,10,pcs,Repair Order,RO0199,1403000,14030000,Used for replacement
+TRX0606,2026-04-24,PT0087,Headlamp Assembly,OUT,8,set,Repair Order,RO0199,1418000,11344000,Used for vehicle repair
+TRX0607,2026-04-24,PT0124,Tail Lamp Assembly,IN,7,set,Purchase Order,PO0105,887000,6209000,Purchase received
+TRX0608,2026-04-24,PT0059,Quarter Panel,OUT,7,pcs,Repair Order,RO0199,1342000,9394000,Used for vehicle repair
+TRX0609,2026-04-25,PT0068,Side Mirror Assembly,IN,7,set,Purchase Order,PO0106,608000,4256000,Supplier delivery received
+TRX0610,2026-04-25,PT0088,Windshield,IN,10,pcs,Purchase Order,PO0106,1401000,14010000,Stock replenishment
+TRX0611,2026-04-25,PT0056,Front Door Assembly,OUT,5,set,Repair Order,RO0200,3589000,17945000,Used for replacement
+TRX0612,2026-04-25,PT0128,Tail Lamp Assembly,OUT,4,set,Repair Order,RO0200,870000,3480000,Used for body repair
+TRX0613,2026-04-25,PT0053,Rear Door Assembly,IN,12,set,Purchase Order,PO0106,2635000,31620000,Stock replenishment
+TRX0614,2026-04-26,PT0040,Hood Assembly,OUT,2,pcs,Repair Order,RO0200,2159000,4318000,Used for repaint preparation
+TRX0615,2026-04-26,PT0002,Rear Bumper Assembly,IN,6,pcs,Purchase Order,PO0106,1412000,8472000,Stock replenishment
+TRX0616,2026-04-26,PT0081,Front Bumper Assembly,OUT,15,pcs,Repair Order,RO0200,1492000,22380000,Used for body repair
+TRX0617,2026-04-26,PT0126,Roof Panel,IN,13,pcs,Purchase Order,PO0107,3160000,41080000,Supplier delivery received
+TRX0618,2026-04-26,PT0033,Windshield,IN,18,pcs,Purchase Order,PO0107,2680000,48240000,Supplier delivery received
+TRX0619,2026-04-26,PT0009,Roof Panel,OUT,4,pcs,Repair Order,RO0200,3561000,14244000,Used for replacement
+TRX0620,2026-04-26,PT0118,Trunk Lid,OUT,12,pcs,Repair Order,RO0201,1978000,23736000,Used for body repair
+TRX0621,2026-04-26,PT0003,Rear Door Assembly,IN,11,set,Purchase Order,PO0108,2692000,29612000,Purchase received
+TRX0622,2026-04-27,PT0084,Front Panel,IN,13,pcs,Purchase Order,PO0109,1179000,15327000,Stock replenishment
+TRX0623,2026-04-27,PT0061,Front Panel,IN,15,pcs,Purchase Order,PO0110,1026000,15390000,Stock replenishment
+TRX0624,2026-04-27,PT0109,Rear Fender,IN,16,pcs,Purchase Order,PO0111,1310000,20960000,Stock replenishment
+TRX0625,2026-04-27,PT0072,Front Grille,OUT,10,pcs,Repair Order,RO0202,1127000,11270000,Used for replacement
+TRX0626,2026-04-27,PT0026,Quarter Panel,OUT,13,pcs,Repair Order,RO0203,2097000,27261000,Used for repaint preparation
+TRX0627,2026-04-28,PT0098,Rear Fender,IN,9,pcs,Purchase Order,PO0111,935000,8415000,Purchase received
+TRX0628,2026-04-28,PT0046,Windshield,IN,9,pcs,Purchase Order,PO0111,1587000,14283000,Supplier delivery received
+TRX0629,2026-04-28,PT0133,Headlamp Assembly,OUT,6,set,Repair Order,RO0203,1360000,8160000,Used for body repair
+TRX0630,2026-04-28,PT0065,Rear Door Assembly,OUT,10,set,Repair Order,RO0204,2944000,29440000,Used for vehicle repair
+TRX0631,2026-04-28,PT0042,Tail Lamp Assembly,IN,13,set,Purchase Order,PO0111,1311000,17043000,Supplier delivery received
+TRX0632,2026-04-28,PT0025,Trunk Lid,IN,15,pcs,Purchase Order,PO0112,2602000,39030000,Stock replenishment
+TRX0633,2026-04-29,PT0144,Front Door Assembly,OUT,13,set,Repair Order,RO0205,2555000,33215000,Used for vehicle repair
+TRX0634,2026-04-29,PT0106,Rear Fender,IN,11,pcs,Purchase Order,PO0112,1189000,13079000,Supplier delivery received
+TRX0635,2026-04-29,PT0138,Side Mirror Assembly,IN,14,set,Purchase Order,PO0113,673000,9422000,Supplier delivery received
+TRX0636,2026-04-29,PT0131,Quarter Panel,OUT,12,pcs,Repair Order,RO0206,1257000,15084000,Used for vehicle repair
+TRX0637,2026-04-30,PT0098,Rear Fender,OUT,8,pcs,Repair Order,RO0206,935000,7480000,Used for replacement
+TRX0638,2026-04-30,PT0043,Rear Door Assembly,OUT,15,set,Repair Order,RO0207,2314000,34710000,Used for repaint preparation
+TRX0639,2026-04-30,PT0019,Windshield,IN,15,pcs,Purchase Order,PO0114,1665000,24975000,Stock replenishment
+TRX0640,2026-04-30,PT0075,Side Mirror Assembly,OUT,10,set,Repair Order,RO0207,552000,5520000,Used for body repair
+TRX0641,2026-04-30,PT0114,Quarter Panel,OUT,6,pcs,Repair Order,RO0207,1403000,8418000,Used for repaint preparation
+TRX0642,2026-04-30,PT0106,Rear Fender,IN,5,pcs,Purchase Order,PO0115,1189000,5945000,Purchase received
+TRX0643,2026-04-30,PT0065,Rear Door Assembly,OUT,12,set,Repair Order,RO0207,2944000,35328000,Used for replacement
+TRX0644,2026-05-01,PT0043,Rear Door Assembly,IN,8,set,Purchase Order,PO0116,2314000,18512000,Stock replenishment
+TRX0645,2026-05-01,PT0141,Tail Lamp Assembly,IN,17,set,Purchase Order,PO0116,873000,14841000,Purchase received
+TRX0646,2026-05-01,PT0027,Front Panel,IN,9,pcs,Purchase Order,PO0117,1469000,13221000,Stock replenishment
+TRX0647,2026-05-01,PT0080,Front Panel,IN,14,pcs,Purchase Order,PO0117,1101000,15414000,Purchase received
+TRX0648,2026-05-01,PT0034,Headlamp Assembly,OUT,3,set,Repair Order,RO0208,1325000,3975000,Used for body repair
+TRX0649,2026-05-01,PT0084,Front Panel,OUT,8,pcs,Repair Order,RO0208,1179000,9432000,Used for body repair
+TRX0650,2026-05-01,PT0141,Tail Lamp Assembly,IN,10,set,Purchase Order,PO0117,873000,8730000,Stock replenishment
+TRX0651,2026-05-01,PT0145,Front Door Assembly,IN,14,set,Purchase Order,PO0117,3445000,48230000,Stock replenishment
+TRX0652,2026-05-02,PT0139,Front Bumper Assembly,IN,7,pcs,Purchase Order,PO0117,2199000,15393000,Stock replenishment
+TRX0653,2026-05-02,PT0106,Rear Fender,IN,14,pcs,Purchase Order,PO0118,1189000,16646000,Supplier delivery received
+TRX0654,2026-05-02,PT0035,Trunk Lid,IN,20,pcs,Purchase Order,PO0118,1680000,33600000,Supplier delivery received
+TRX0655,2026-05-02,PT0126,Roof Panel,OUT,8,pcs,Repair Order,RO0209,3160000,25280000,Used for repaint preparation
+TRX0656,2026-05-02,PT0075,Side Mirror Assembly,OUT,13,set,Repair Order,RO0210,552000,7176000,Used for body repair
+TRX0657,2026-05-02,PT0049,Front Bumper Assembly,IN,18,pcs,Purchase Order,PO0119,2632000,47376000,Purchase received
+TRX0658,2026-05-02,PT0100,Headlamp Assembly,IN,12,set,Purchase Order,PO0120,1207000,14484000,Stock replenishment
+TRX0659,2026-05-03,PT0062,Front Bumper Assembly,OUT,13,pcs,Repair Order,RO0210,2193000,28509000,Used for body repair
+TRX0660,2026-05-03,PT0073,Trunk Lid,OUT,9,pcs,Repair Order,RO0210,1650000,14850000,Used for repaint preparation
+TRX0661,2026-05-03,PT0049,Front Bumper Assembly,OUT,3,pcs,Repair Order,RO0211,2632000,7896000,Used for vehicle repair
+TRX0662,2026-05-03,PT0117,Rear Fender,OUT,5,pcs,Repair Order,RO0211,1235000,6175000,Used for repaint preparation
+TRX0663,2026-05-03,PT0049,Front Bumper Assembly,IN,9,pcs,Purchase Order,PO0121,2632000,23688000,Supplier delivery received
+TRX0664,2026-05-03,PT0006,Rear Bumper Assembly,IN,8,pcs,Purchase Order,PO0122,2328000,18624000,Purchase received
+TRX0665,2026-05-03,PT0113,Front Door Assembly,OUT,4,set,Repair Order,RO0212,2704000,10816000,Used for vehicle repair
+TRX0666,2026-05-03,PT0127,Rear Door Assembly,IN,18,set,Purchase Order,PO0123,2462000,44316000,Stock replenishment
+TRX0667,2026-05-03,PT0096,Front Grille,OUT,13,pcs,Repair Order,RO0213,805000,10465000,Used for vehicle repair
+TRX0668,2026-05-04,PT0038,Tail Lamp Assembly,IN,17,set,Purchase Order,PO0124,1037000,17629000,Stock replenishment
+TRX0669,2026-05-04,PT0047,Roof Panel,IN,13,pcs,Purchase Order,PO0124,5304000,68952000,Purchase received
+TRX0670,2026-05-04,PT0032,Quarter Panel,OUT,12,pcs,Repair Order,RO0214,1217000,14604000,Used for repaint preparation
+TRX0671,2026-05-04,PT0064,Front Grille,OUT,1,pcs,Repair Order,RO0215,766000,766000,Used for vehicle repair
+TRX0672,2026-05-04,PT0134,Side Mirror Assembly,OUT,4,set,Repair Order,RO0216,684000,2736000,Used for body repair
+TRX0673,2026-05-04,PT0083,Rear Door Assembly,IN,6,set,Purchase Order,PO0124,2653000,15918000,Supplier delivery received
+TRX0674,2026-05-04,PT0134,Side Mirror Assembly,IN,20,set,Purchase Order,PO0124,684000,13680000,Purchase received
+TRX0675,2026-05-05,PT0093,Windshield,OUT,14,pcs,Repair Order,RO0216,2134000,29876000,Used for vehicle repair
+TRX0676,2026-05-05,PT0061,Front Panel,OUT,6,pcs,Repair Order,RO0217,1026000,6156000,Used for body repair
+TRX0677,2026-05-05,PT0150,Trunk Lid,IN,12,pcs,Purchase Order,PO0125,4952000,59424000,Purchase received
+TRX0678,2026-05-05,PT0149,Front Door Assembly,OUT,8,set,Repair Order,RO0217,2614000,20912000,Used for replacement
+TRX0679,2026-05-05,PT0096,Front Grille,OUT,4,pcs,Repair Order,RO0218,805000,3220000,Used for vehicle repair
+TRX0680,2026-05-05,PT0087,Headlamp Assembly,OUT,13,set,Repair Order,RO0218,1418000,18434000,Used for vehicle repair
+TRX0681,2026-05-05,PT0092,Front Grille,OUT,12,pcs,Repair Order,RO0219,946000,11352000,Used for vehicle repair
+TRX0682,2026-05-05,PT0033,Windshield,OUT,6,pcs,Repair Order,RO0219,2680000,16080000,Used for body repair
+TRX0683,2026-05-06,PT0113,Front Door Assembly,OUT,1,set,Repair Order,RO0219,2704000,2704000,Used for body repair
+TRX0684,2026-05-06,PT0035,Trunk Lid,IN,6,pcs,Purchase Order,PO0125,1680000,10080000,Stock replenishment
+TRX0685,2026-05-06,PT0144,Front Door Assembly,IN,20,set,Purchase Order,PO0126,2555000,51100000,Purchase received
+TRX0686,2026-05-06,PT0140,Rear Bumper Assembly,IN,19,pcs,Purchase Order,PO0127,1473000,27987000,Supplier delivery received
+TRX0687,2026-05-06,PT0142,Front Panel,IN,9,pcs,Purchase Order,PO0127,945000,8505000,Stock replenishment
+TRX0688,2026-05-06,PT0139,Front Bumper Assembly,IN,5,pcs,Purchase Order,PO0127,2199000,10995000,Supplier delivery received
+TRX0689,2026-05-07,PT0098,Rear Fender,OUT,15,pcs,Repair Order,RO0220,935000,14025000,Used for body repair
+TRX0690,2026-05-07,PT0062,Front Bumper Assembly,IN,7,pcs,Purchase Order,PO0127,2193000,15351000,Supplier delivery received
+TRX0691,2026-05-07,PT0100,Headlamp Assembly,IN,20,set,Purchase Order,PO0127,1207000,24140000,Purchase received
+TRX0692,2026-05-07,PT0073,Trunk Lid,IN,15,pcs,Purchase Order,PO0128,1650000,24750000,Supplier delivery received
+TRX0693,2026-05-07,PT0018,Side Mirror Assembly,IN,9,set,Purchase Order,PO0129,909000,8181000,Purchase received
+TRX0694,2026-05-07,PT0052,Rear Bumper Assembly,IN,11,pcs,Purchase Order,PO0130,1353000,14883000,Supplier delivery received
+TRX0695,2026-05-08,PT0100,Headlamp Assembly,OUT,9,set,Repair Order,RO0220,1207000,10863000,Used for body repair
+TRX0696,2026-05-08,PT0013,Quarter Panel,IN,7,pcs,Purchase Order,PO0131,1108000,7756000,Purchase received
+TRX0697,2026-05-08,PT0126,Roof Panel,OUT,14,pcs,Repair Order,RO0221,3160000,44240000,Used for vehicle repair
+TRX0698,2026-05-08,PT0093,Windshield,OUT,15,pcs,Repair Order,RO0222,2134000,32010000,Used for body repair
+TRX0699,2026-05-08,PT0015,Front Grille,OUT,5,pcs,Repair Order,RO0223,768000,3840000,Used for vehicle repair
+TRX0700,2026-05-08,PT0078,Trunk Lid,IN,11,pcs,Purchase Order,PO0131,3187000,35057000,Purchase received
+TRX0701,2026-05-09,PT0026,Quarter Panel,OUT,9,pcs,Repair Order,RO0224,2097000,18873000,Used for replacement
+TRX0702,2026-05-09,PT0135,Front Grille,OUT,10,pcs,Repair Order,RO0224,1120000,11200000,Used for replacement
+TRX0703,2026-05-09,PT0143,Front Panel,OUT,7,pcs,Repair Order,RO0224,2779000,19453000,Used for body repair
+TRX0704,2026-05-09,PT0118,Trunk Lid,OUT,4,pcs,Repair Order,RO0224,1978000,7912000,Used for replacement
+TRX0705,2026-05-09,PT0047,Roof Panel,OUT,9,pcs,Repair Order,RO0225,5304000,47736000,Used for replacement
+TRX0706,2026-05-09,PT0137,Trunk Lid,OUT,8,pcs,Repair Order,RO0225,3199000,25592000,Used for body repair
+TRX0707,2026-05-09,PT0141,Tail Lamp Assembly,OUT,6,set,Repair Order,RO0225,873000,5238000,Used for repaint preparation
+TRX0708,2026-05-09,PT0111,Windshield,OUT,6,pcs,Repair Order,RO0225,1430000,8580000,Used for replacement
+TRX0709,2026-05-10,PT0097,Front Door Assembly,OUT,6,set,Repair Order,RO0226,2345000,14070000,Used for repaint preparation
+TRX0710,2026-05-10,PT0115,Windshield,OUT,1,pcs,Repair Order,RO0226,1369000,1369000,Used for body repair
+TRX0711,2026-05-10,PT0005,Hood Assembly,OUT,15,pcs,Repair Order,RO0227,2136000,32040000,Used for body repair
+TRX0712,2026-05-10,PT0057,Front Door Assembly,IN,15,set,Purchase Order,PO0132,2515000,37725000,Supplier delivery received
+TRX0713,2026-05-10,PT0071,Front Panel,OUT,9,pcs,Repair Order,RO0228,956000,8604000,Used for replacement
+TRX0714,2026-05-11,PT0025,Trunk Lid,IN,16,pcs,Purchase Order,PO0133,2602000,41632000,Stock replenishment
+TRX0715,2026-05-11,PT0094,Front Door Assembly,OUT,4,set,Repair Order,RO0229,2670000,10680000,Used for body repair
+TRX0716,2026-05-11,PT0024,Quarter Panel,OUT,10,pcs,Repair Order,RO0229,1176000,11760000,Used for vehicle repair
+TRX0717,2026-05-11,PT0084,Front Panel,OUT,3,pcs,Repair Order,RO0230,1179000,3537000,Used for vehicle repair
+TRX0718,2026-05-11,PT0077,Front Grille,IN,17,pcs,Purchase Order,PO0134,760000,12920000,Purchase received
+TRX0719,2026-05-12,PT0086,Hood Assembly,IN,18,pcs,Purchase Order,PO0134,2200000,39600000,Purchase received
+TRX0720,2026-05-12,PT0059,Quarter Panel,OUT,14,pcs,Repair Order,RO0230,1342000,18788000,Used for vehicle repair
+TRX0721,2026-05-12,PT0098,Rear Fender,IN,6,pcs,Purchase Order,PO0135,935000,5610000,Supplier delivery received
+TRX0722,2026-05-12,PT0039,Front Panel,IN,12,pcs,Purchase Order,PO0136,1518000,18216000,Supplier delivery received
+TRX0723,2026-05-13,PT0101,Front Panel,OUT,13,pcs,Repair Order,RO0231,1766000,22958000,Used for vehicle repair
+TRX0724,2026-05-13,PT0057,Front Door Assembly,IN,17,set,Purchase Order,PO0137,2515000,42755000,Stock replenishment
+TRX0725,2026-05-14,PT0022,Rear Bumper Assembly,OUT,12,pcs,Repair Order,RO0232,1658000,19896000,Used for repaint preparation
+TRX0726,2026-05-14,PT0068,Side Mirror Assembly,IN,18,set,Purchase Order,PO0137,608000,10944000,Purchase received
+TRX0727,2026-05-14,PT0035,Trunk Lid,OUT,4,pcs,Repair Order,RO0233,1680000,6720000,Used for replacement
+TRX0728,2026-05-15,PT0144,Front Door Assembly,OUT,12,set,Repair Order,RO0234,2555000,30660000,Used for replacement
+TRX0729,2026-05-15,PT0019,Windshield,IN,18,pcs,Purchase Order,PO0138,1665000,29970000,Supplier delivery received
+TRX0730,2026-05-15,PT0023,Rear Bumper Assembly,IN,18,pcs,Purchase Order,PO0138,1719000,30942000,Stock replenishment
+TRX0731,2026-05-15,PT0049,Front Bumper Assembly,IN,5,pcs,Purchase Order,PO0138,2632000,13160000,Purchase received
+TRX0732,2026-05-16,PT0090,Windshield,OUT,13,pcs,Repair Order,RO0235,1757000,22841000,Used for replacement
+TRX0733,2026-05-16,PT0113,Front Door Assembly,IN,12,set,Purchase Order,PO0139,2704000,32448000,Stock replenishment
+TRX0734,2026-05-16,PT0040,Hood Assembly,OUT,14,pcs,Repair Order,RO0236,2159000,30226000,Used for vehicle repair
+TRX0735,2026-05-16,PT0063,Front Bumper Assembly,OUT,15,pcs,Repair Order,RO0237,1713000,25695000,Used for body repair
+TRX0736,2026-05-16,PT0004,Hood Assembly,IN,8,pcs,Purchase Order,PO0140,1856000,14848000,Stock replenishment
+TRX0737,2026-05-16,PT0006,Rear Bumper Assembly,IN,11,pcs,Purchase Order,PO0141,2328000,25608000,Supplier delivery received
+TRX0738,2026-05-16,PT0067,Roof Panel,OUT,3,pcs,Repair Order,RO0237,5217000,15651000,Used for replacement
+TRX0739,2026-05-16,PT0005,Hood Assembly,IN,6,pcs,Purchase Order,PO0142,2136000,12816000,Purchase received
+TRX0740,2026-05-16,PT0073,Trunk Lid,IN,13,pcs,Purchase Order,PO0143,1650000,21450000,Supplier delivery received
+TRX0741,2026-05-16,PT0003,Rear Door Assembly,IN,13,set,Purchase Order,PO0143,2692000,34996000,Supplier delivery received
+TRX0742,2026-05-16,PT0093,Windshield,OUT,1,pcs,Repair Order,RO0238,2134000,2134000,Used for repaint preparation
+TRX0743,2026-05-16,PT0060,Rear Bumper Assembly,OUT,9,pcs,Repair Order,RO0238,1436000,12924000,Used for vehicle repair
+TRX0744,2026-05-16,PT0081,Front Bumper Assembly,OUT,10,pcs,Repair Order,RO0239,1492000,14920000,Used for replacement
+TRX0745,2026-05-16,PT0051,Trunk Lid,OUT,8,pcs,Repair Order,RO0240,1631000,13048000,Used for vehicle repair
+TRX0746,2026-05-17,PT0011,Rear Fender,IN,14,pcs,Purchase Order,PO0144,923000,12922000,Stock replenishment
+TRX0747,2026-05-17,PT0041,Hood Assembly,IN,16,pcs,Purchase Order,PO0145,1867000,29872000,Stock replenishment
+TRX0748,2026-05-17,PT0061,Front Panel,OUT,9,pcs,Repair Order,RO0241,1026000,9234000,Used for vehicle repair
+TRX0749,2026-05-17,PT0066,Side Mirror Assembly,OUT,1,set,Repair Order,RO0241,613000,613000,Used for body repair
+TRX0750,2026-05-17,PT0058,Front Bumper Assembly,IN,17,pcs,Purchase Order,PO0145,2608000,44336000,Purchase received
+TRX0751,2026-05-17,PT0098,Rear Fender,OUT,11,pcs,Repair Order,RO0241,935000,10285000,Used for replacement
+TRX0752,2026-05-17,PT0107,Roof Panel,IN,9,pcs,Purchase Order,PO0145,3058000,27522000,Stock replenishment
+TRX0753,2026-05-18,PT0085,Tail Lamp Assembly,IN,9,set,Purchase Order,PO0146,1278000,11502000,Purchase received
+TRX0754,2026-05-18,PT0149,Front Door Assembly,OUT,1,set,Repair Order,RO0241,2614000,2614000,Used for body repair
+TRX0755,2026-05-18,PT0135,Front Grille,OUT,7,pcs,Repair Order,RO0241,1120000,7840000,Used for replacement
+TRX0756,2026-05-19,PT0145,Front Door Assembly,OUT,6,set,Repair Order,RO0242,3445000,20670000,Used for vehicle repair
+TRX0757,2026-05-19,PT0048,Tail Lamp Assembly,IN,9,set,Purchase Order,PO0146,1376000,12384000,Stock replenishment
+TRX0758,2026-05-19,PT0106,Rear Fender,OUT,5,pcs,Repair Order,RO0243,1189000,5945000,Used for body repair
+TRX0759,2026-05-20,PT0039,Front Panel,OUT,2,pcs,Repair Order,RO0244,1518000,3036000,Used for vehicle repair
+TRX0760,2026-05-20,PT0069,Windshield,OUT,10,pcs,Repair Order,RO0245,4417000,44170000,Used for replacement
+TRX0761,2026-05-20,PT0060,Rear Bumper Assembly,OUT,3,pcs,Repair Order,RO0246,1436000,4308000,Used for repaint preparation
+TRX0762,2026-05-20,PT0035,Trunk Lid,OUT,10,pcs,Repair Order,RO0247,1680000,16800000,Used for body repair
+TRX0763,2026-05-20,PT0048,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0248,1376000,11008000,Used for replacement
+TRX0764,2026-05-20,PT0050,Headlamp Assembly,IN,18,set,Purchase Order,PO0146,1169000,21042000,Purchase received
+TRX0765,2026-05-20,PT0070,Tail Lamp Assembly,OUT,4,set,Repair Order,RO0248,1386000,5544000,Used for replacement
+TRX0766,2026-05-20,PT0053,Rear Door Assembly,IN,19,set,Purchase Order,PO0146,2635000,50065000,Stock replenishment
+TRX0767,2026-05-20,PT0084,Front Panel,OUT,15,pcs,Repair Order,RO0249,1179000,17685000,Used for repaint preparation
+TRX0768,2026-05-20,PT0011,Rear Fender,OUT,14,pcs,Repair Order,RO0250,923000,12922000,Used for body repair
+TRX0769,2026-05-21,PT0101,Front Panel,OUT,12,pcs,Repair Order,RO0251,1766000,21192000,Used for vehicle repair
+TRX0770,2026-05-21,PT0134,Side Mirror Assembly,IN,19,set,Purchase Order,PO0146,684000,12996000,Purchase received
+TRX0771,2026-05-21,PT0063,Front Bumper Assembly,OUT,7,pcs,Repair Order,RO0251,1713000,11991000,Used for vehicle repair
+TRX0772,2026-05-21,PT0143,Front Panel,IN,6,pcs,Purchase Order,PO0147,2779000,16674000,Stock replenishment
+TRX0773,2026-05-21,PT0102,Front Door Assembly,OUT,13,set,Repair Order,RO0251,2268000,29484000,Used for repaint preparation
+TRX0774,2026-05-21,PT0043,Rear Door Assembly,IN,6,set,Purchase Order,PO0147,2314000,13884000,Purchase received
+TRX0775,2026-05-22,PT0119,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0252,946000,7568000,Used for vehicle repair
+TRX0776,2026-05-22,PT0047,Roof Panel,OUT,15,pcs,Repair Order,RO0252,5304000,79560000,Used for replacement
+TRX0777,2026-05-22,PT0101,Front Panel,IN,19,pcs,Purchase Order,PO0148,1766000,33554000,Stock replenishment
+TRX0778,2026-05-22,PT0052,Rear Bumper Assembly,OUT,2,pcs,Repair Order,RO0253,1353000,2706000,Used for replacement
+TRX0779,2026-05-22,PT0032,Quarter Panel,IN,19,pcs,Purchase Order,PO0148,1217000,23123000,Purchase received
+TRX0780,2026-05-22,PT0135,Front Grille,OUT,12,pcs,Repair Order,RO0253,1120000,13440000,Used for replacement
+TRX0781,2026-05-22,PT0097,Front Door Assembly,IN,6,set,Purchase Order,PO0148,2345000,14070000,Stock replenishment
+TRX0782,2026-05-23,PT0145,Front Door Assembly,OUT,3,set,Repair Order,RO0254,3445000,10335000,Used for replacement
+TRX0783,2026-05-23,PT0046,Windshield,OUT,1,pcs,Repair Order,RO0255,1587000,1587000,Used for body repair
+TRX0784,2026-05-23,PT0115,Windshield,IN,10,pcs,Purchase Order,PO0149,1369000,13690000,Purchase received
+TRX0785,2026-05-23,PT0052,Rear Bumper Assembly,IN,13,pcs,Purchase Order,PO0150,1353000,17589000,Stock replenishment
+TRX0786,2026-05-23,PT0128,Tail Lamp Assembly,OUT,1,set,Repair Order,RO0255,870000,870000,Used for repaint preparation
+TRX0787,2026-05-23,PT0061,Front Panel,IN,20,pcs,Purchase Order,PO0150,1026000,20520000,Stock replenishment
+TRX0788,2026-05-23,PT0021,Side Mirror Assembly,OUT,1,set,Repair Order,RO0256,623000,623000,Used for body repair
+TRX0789,2026-05-23,PT0143,Front Panel,OUT,4,pcs,Repair Order,RO0257,2779000,11116000,Used for replacement
+TRX0790,2026-05-23,PT0015,Front Grille,OUT,1,pcs,Repair Order,RO0258,768000,768000,Used for vehicle repair
+TRX0791,2026-05-23,PT0148,Tail Lamp Assembly,OUT,5,set,Repair Order,RO0259,2533000,12665000,Used for vehicle repair
+TRX0792,2026-05-23,PT0013,Quarter Panel,IN,10,pcs,Purchase Order,PO0151,1108000,11080000,Stock replenishment
+TRX0793,2026-05-24,PT0147,Quarter Panel,OUT,3,pcs,Repair Order,RO0259,3129000,9387000,Used for body repair
+TRX0794,2026-05-24,PT0010,Headlamp Assembly,IN,14,set,Purchase Order,PO0152,1113000,15582000,Stock replenishment
+TRX0795,2026-05-25,PT0018,Side Mirror Assembly,OUT,14,set,Repair Order,RO0260,909000,12726000,Used for body repair
+TRX0796,2026-05-25,PT0121,Front Panel,IN,13,pcs,Purchase Order,PO0153,957000,12441000,Stock replenishment
+TRX0797,2026-05-25,PT0135,Front Grille,IN,11,pcs,Purchase Order,PO0153,1120000,12320000,Purchase received
+TRX0798,2026-05-25,PT0147,Quarter Panel,OUT,11,pcs,Repair Order,RO0261,3129000,34419000,Used for vehicle repair
+TRX0799,2026-05-25,PT0124,Tail Lamp Assembly,OUT,10,set,Repair Order,RO0261,887000,8870000,Used for body repair
+TRX0800,2026-05-25,PT0110,Trunk Lid,OUT,6,pcs,Repair Order,RO0262,3190000,19140000,Used for body repair
+TRX0801,2026-05-26,PT0034,Headlamp Assembly,OUT,8,set,Repair Order,RO0263,1325000,10600000,Used for repaint preparation
+TRX0802,2026-05-26,PT0127,Rear Door Assembly,OUT,15,set,Repair Order,RO0263,2462000,36930000,Used for body repair
+TRX0803,2026-05-26,PT0050,Headlamp Assembly,IN,5,set,Purchase Order,PO0153,1169000,5845000,Purchase received
+TRX0804,2026-05-26,PT0054,Front Fender,OUT,7,pcs,Repair Order,RO0264,1157000,8099000,Used for body repair
+TRX0805,2026-05-26,PT0090,Windshield,OUT,11,pcs,Repair Order,RO0265,1757000,19327000,Used for replacement
+TRX0806,2026-05-26,PT0073,Trunk Lid,IN,7,pcs,Purchase Order,PO0154,1650000,11550000,Supplier delivery received
+TRX0807,2026-05-26,PT0141,Tail Lamp Assembly,IN,5,set,Purchase Order,PO0155,873000,4365000,Stock replenishment
+TRX0808,2026-05-27,PT0088,Windshield,IN,5,pcs,Purchase Order,PO0155,1401000,7005000,Purchase received
+TRX0809,2026-05-27,PT0085,Tail Lamp Assembly,OUT,15,set,Repair Order,RO0265,1278000,19170000,Used for repaint preparation
+TRX0810,2026-05-27,PT0010,Headlamp Assembly,OUT,8,set,Repair Order,RO0266,1113000,8904000,Used for repaint preparation
+TRX0811,2026-05-27,PT0138,Side Mirror Assembly,OUT,8,set,Repair Order,RO0266,673000,5384000,Used for repaint preparation
+TRX0812,2026-05-27,PT0015,Front Grille,OUT,5,pcs,Repair Order,RO0267,768000,3840000,Used for body repair
+TRX0813,2026-05-27,PT0143,Front Panel,OUT,4,pcs,Repair Order,RO0268,2779000,11116000,Used for body repair
+TRX0814,2026-05-28,PT0091,Rear Door Assembly,IN,9,set,Purchase Order,PO0156,2725000,24525000,Purchase received
+TRX0815,2026-05-28,PT0087,Headlamp Assembly,OUT,9,set,Repair Order,RO0268,1418000,12762000,Used for repaint preparation
+TRX0816,2026-05-28,PT0048,Tail Lamp Assembly,OUT,14,set,Repair Order,RO0268,1376000,19264000,Used for body repair
+TRX0817,2026-05-28,PT0081,Front Bumper Assembly,OUT,5,pcs,Repair Order,RO0269,1492000,7460000,Used for repaint preparation
+TRX0818,2026-05-28,PT0061,Front Panel,IN,14,pcs,Purchase Order,PO0157,1026000,14364000,Stock replenishment
+TRX0819,2026-05-28,PT0045,Front Panel,IN,6,pcs,Purchase Order,PO0157,1646000,9876000,Purchase received
+TRX0820,2026-05-28,PT0114,Quarter Panel,OUT,8,pcs,Repair Order,RO0269,1403000,11224000,Used for replacement
+TRX0821,2026-05-28,PT0049,Front Bumper Assembly,IN,20,pcs,Purchase Order,PO0157,2632000,52640000,Supplier delivery received
+TRX0822,2026-05-29,PT0080,Front Panel,OUT,3,pcs,Repair Order,RO0269,1101000,3303000,Used for vehicle repair
+TRX0823,2026-05-29,PT0133,Headlamp Assembly,OUT,3,set,Repair Order,RO0270,1360000,4080000,Used for vehicle repair
+TRX0824,2026-05-29,PT0118,Trunk Lid,IN,8,pcs,Purchase Order,PO0158,1978000,15824000,Purchase received
+TRX0825,2026-05-30,PT0023,Rear Bumper Assembly,IN,6,pcs,Purchase Order,PO0159,1719000,10314000,Supplier delivery received
+TRX0826,2026-05-30,PT0080,Front Panel,IN,14,pcs,Purchase Order,PO0159,1101000,15414000,Purchase received
+TRX0827,2026-05-30,PT0083,Rear Door Assembly,IN,14,set,Purchase Order,PO0160,2653000,37142000,Stock replenishment
+TRX0828,2026-05-30,PT0113,Front Door Assembly,OUT,5,set,Repair Order,RO0271,2704000,13520000,Used for body repair
+TRX0829,2026-05-31,PT0030,Front Fender,IN,8,pcs,Purchase Order,PO0161,741000,5928000,Stock replenishment
+TRX0830,2026-05-31,PT0141,Tail Lamp Assembly,IN,9,set,Purchase Order,PO0161,873000,7857000,Stock replenishment
+TRX0831,2026-05-31,PT0147,Quarter Panel,IN,7,pcs,Purchase Order,PO0162,3129000,21903000,Stock replenishment
+TRX0832,2026-05-31,PT0139,Front Bumper Assembly,IN,9,pcs,Purchase Order,PO0163,2199000,19791000,Supplier delivery received
+TRX0833,2026-05-31,PT0013,Quarter Panel,IN,6,pcs,Purchase Order,PO0164,1108000,6648000,Stock replenishment
+TRX0834,2026-06-01,PT0046,Windshield,OUT,15,pcs,Repair Order,RO0272,1587000,23805000,Used for repaint preparation
+TRX0835,2026-06-01,PT0092,Front Grille,IN,11,pcs,Purchase Order,PO0164,946000,10406000,Supplier delivery received
+TRX0836,2026-06-01,PT0137,Trunk Lid,IN,19,pcs,Purchase Order,PO0164,3199000,60781000,Purchase received
+TRX0837,2026-06-01,PT0120,Trunk Lid,IN,14,pcs,Purchase Order,PO0164,2755000,38570000,Supplier delivery received
+TRX0838,2026-06-01,PT0120,Trunk Lid,OUT,4,pcs,Repair Order,RO0273,2755000,11020000,Used for body repair
+TRX0839,2026-06-01,PT0094,Front Door Assembly,IN,15,set,Purchase Order,PO0164,2670000,40050000,Stock replenishment
+TRX0840,2026-06-01,PT0117,Rear Fender,OUT,2,pcs,Repair Order,RO0274,1235000,2470000,Used for body repair
+TRX0841,2026-06-01,PT0123,Quarter Panel,OUT,3,pcs,Repair Order,RO0275,1277000,3831000,Used for body repair
+TRX0842,2026-06-02,PT0148,Tail Lamp Assembly,IN,8,set,Purchase Order,PO0164,2533000,20264000,Supplier delivery received
+TRX0843,2026-06-02,PT0028,Windshield,IN,7,pcs,Purchase Order,PO0164,1686000,11802000,Supplier delivery received
+TRX0844,2026-06-02,PT0119,Tail Lamp Assembly,IN,18,set,Purchase Order,PO0165,946000,17028000,Purchase received
+TRX0845,2026-06-02,PT0141,Tail Lamp Assembly,IN,20,set,Purchase Order,PO0166,873000,17460000,Stock replenishment
+TRX0846,2026-06-03,PT0054,Front Fender,OUT,10,pcs,Repair Order,RO0276,1157000,11570000,Used for repaint preparation
+TRX0847,2026-06-03,PT0146,Quarter Panel,OUT,5,pcs,Repair Order,RO0276,2108000,10540000,Used for replacement
+TRX0848,2026-06-03,PT0020,Side Mirror Assembly,OUT,12,set,Repair Order,RO0277,636000,7632000,Used for repaint preparation
+TRX0849,2026-06-03,PT0030,Front Fender,OUT,8,pcs,Repair Order,RO0278,741000,5928000,Used for vehicle repair
+TRX0850,2026-06-03,PT0114,Quarter Panel,IN,17,pcs,Purchase Order,PO0167,1403000,23851000,Purchase received
+TRX0851,2026-06-04,PT0098,Rear Fender,IN,6,pcs,Purchase Order,PO0168,935000,5610000,Purchase received
+TRX0852,2026-06-04,PT0149,Front Door Assembly,IN,5,set,Purchase Order,PO0168,2614000,13070000,Supplier delivery received
+TRX0853,2026-06-04,PT0039,Front Panel,OUT,5,pcs,Repair Order,RO0279,1518000,7590000,Used for repaint preparation
+TRX0854,2026-06-04,PT0051,Trunk Lid,IN,15,pcs,Purchase Order,PO0169,1631000,24465000,Supplier delivery received
+TRX0855,2026-06-04,PT0078,Trunk Lid,OUT,15,pcs,Repair Order,RO0280,3187000,47805000,Used for body repair
+TRX0856,2026-06-04,PT0023,Rear Bumper Assembly,OUT,10,pcs,Repair Order,RO0280,1719000,17190000,Used for repaint preparation
+TRX0857,2026-06-04,PT0033,Windshield,OUT,1,pcs,Repair Order,RO0281,2680000,2680000,Used for vehicle repair
+TRX0858,2026-06-04,PT0001,Hood Assembly,OUT,2,pcs,Repair Order,RO0282,2244000,4488000,Used for body repair
+TRX0859,2026-06-04,PT0008,Front Door Assembly,IN,17,set,Purchase Order,PO0169,2505000,42585000,Supplier delivery received
+TRX0860,2026-06-05,PT0098,Rear Fender,IN,18,pcs,Purchase Order,PO0169,935000,16830000,Supplier delivery received
+TRX0861,2026-06-05,PT0045,Front Panel,OUT,4,pcs,Repair Order,RO0283,1646000,6584000,Used for body repair
+TRX0862,2026-06-05,PT0107,Roof Panel,IN,9,pcs,Purchase Order,PO0170,3058000,27522000,Purchase received
+TRX0863,2026-06-05,PT0005,Hood Assembly,IN,20,pcs,Purchase Order,PO0170,2136000,42720000,Purchase received
+TRX0864,2026-06-05,PT0022,Rear Bumper Assembly,IN,18,pcs,Purchase Order,PO0170,1658000,29844000,Supplier delivery received
+TRX0865,2026-06-06,PT0109,Rear Fender,OUT,8,pcs,Repair Order,RO0284,1310000,10480000,Used for repaint preparation
+TRX0866,2026-06-06,PT0099,Rear Fender,IN,10,pcs,Purchase Order,PO0170,770000,7700000,Purchase received
+TRX0867,2026-06-06,PT0148,Tail Lamp Assembly,OUT,12,set,Repair Order,RO0285,2533000,30396000,Used for body repair
+TRX0868,2026-06-06,PT0106,Rear Fender,OUT,10,pcs,Repair Order,RO0286,1189000,11890000,Used for vehicle repair
+TRX0869,2026-06-07,PT0146,Quarter Panel,OUT,2,pcs,Repair Order,RO0287,2108000,4216000,Used for repaint preparation
+TRX0870,2026-06-07,PT0021,Side Mirror Assembly,IN,13,set,Purchase Order,PO0170,623000,8099000,Purchase received
+TRX0871,2026-06-07,PT0134,Side Mirror Assembly,OUT,2,set,Repair Order,RO0288,684000,1368000,Used for vehicle repair
+TRX0872,2026-06-07,PT0139,Front Bumper Assembly,OUT,5,pcs,Repair Order,RO0288,2199000,10995000,Used for body repair
+TRX0873,2026-06-08,PT0137,Trunk Lid,OUT,8,pcs,Repair Order,RO0289,3199000,25592000,Used for repaint preparation
+TRX0874,2026-06-08,PT0147,Quarter Panel,OUT,7,pcs,Repair Order,RO0290,3129000,21903000,Used for body repair
+TRX0875,2026-06-08,PT0075,Side Mirror Assembly,IN,14,set,Purchase Order,PO0170,552000,7728000,Supplier delivery received
+TRX0876,2026-06-08,PT0067,Roof Panel,IN,20,pcs,Purchase Order,PO0170,5217000,104340000,Supplier delivery received
+TRX0877,2026-06-08,PT0014,Rear Fender,OUT,5,pcs,Repair Order,RO0290,858000,4290000,Used for vehicle repair
+TRX0878,2026-06-08,PT0074,Side Mirror Assembly,OUT,3,set,Repair Order,RO0291,825000,2475000,Used for body repair
+TRX0879,2026-06-08,PT0065,Rear Door Assembly,IN,13,set,Purchase Order,PO0171,2944000,38272000,Stock replenishment
+TRX0880,2026-06-08,PT0004,Hood Assembly,OUT,3,pcs,Repair Order,RO0291,1856000,5568000,Used for replacement
+TRX0881,2026-06-08,PT0115,Windshield,IN,10,pcs,Purchase Order,PO0172,1369000,13690000,Supplier delivery received
+TRX0882,2026-06-08,PT0061,Front Panel,OUT,13,pcs,Repair Order,RO0292,1026000,13338000,Used for vehicle repair
+TRX0883,2026-06-09,PT0088,Windshield,OUT,3,pcs,Repair Order,RO0293,1401000,4203000,Used for replacement
+TRX0884,2026-06-09,PT0127,Rear Door Assembly,OUT,7,set,Repair Order,RO0293,2462000,17234000,Used for replacement
+TRX0885,2026-06-09,PT0113,Front Door Assembly,OUT,3,set,Repair Order,RO0294,2704000,8112000,Used for body repair
+TRX0886,2026-06-09,PT0014,Rear Fender,OUT,2,pcs,Repair Order,RO0295,858000,1716000,Used for repaint preparation
+TRX0887,2026-06-09,PT0103,Front Door Assembly,OUT,8,set,Repair Order,RO0295,2851000,22808000,Used for replacement
+TRX0888,2026-06-09,PT0098,Rear Fender,OUT,7,pcs,Repair Order,RO0296,935000,6545000,Used for replacement
+TRX0889,2026-06-10,PT0136,Front Bumper Assembly,OUT,1,pcs,Repair Order,RO0297,1410000,1410000,Used for repaint preparation
+TRX0890,2026-06-10,PT0098,Rear Fender,OUT,9,pcs,Repair Order,RO0297,935000,8415000,Used for vehicle repair
+TRX0891,2026-06-10,PT0025,Trunk Lid,OUT,11,pcs,Repair Order,RO0298,2602000,28622000,Used for repaint preparation
+TRX0892,2026-06-10,PT0070,Tail Lamp Assembly,IN,13,set,Purchase Order,PO0172,1386000,18018000,Stock replenishment
+TRX0893,2026-06-10,PT0150,Trunk Lid,IN,12,pcs,Purchase Order,PO0172,4952000,59424000,Supplier delivery received
+TRX0894,2026-06-10,PT0050,Headlamp Assembly,OUT,11,set,Repair Order,RO0298,1169000,12859000,Used for replacement
+TRX0895,2026-06-10,PT0081,Front Bumper Assembly,OUT,11,pcs,Repair Order,RO0299,1492000,16412000,Used for vehicle repair
+TRX0896,2026-06-11,PT0004,Hood Assembly,IN,8,pcs,Purchase Order,PO0172,1856000,14848000,Stock replenishment
+TRX0897,2026-06-11,PT0057,Front Door Assembly,OUT,5,set,Repair Order,RO0300,2515000,12575000,Used for vehicle repair
+TRX0898,2026-06-11,PT0024,Quarter Panel,IN,11,pcs,Purchase Order,PO0172,1176000,12936000,Supplier delivery received
+TRX0899,2026-06-11,PT0032,Quarter Panel,OUT,2,pcs,Repair Order,RO0301,1217000,2434000,Used for replacement
+TRX0900,2026-06-11,PT0097,Front Door Assembly,OUT,6,set,Repair Order,RO0302,2345000,14070000,Used for replacement
+TRX0901,2026-06-11,PT0029,Quarter Panel,OUT,5,pcs,Repair Order,RO0303,1815000,9075000,Used for vehicle repair
+TRX0902,2026-06-11,PT0117,Rear Fender,OUT,5,pcs,Repair Order,RO0303,1235000,6175000,Used for body repair
+TRX0903,2026-06-12,PT0066,Side Mirror Assembly,IN,7,set,Purchase Order,PO0173,613000,4291000,Purchase received
+TRX0904,2026-06-12,PT0098,Rear Fender,IN,6,pcs,Purchase Order,PO0174,935000,5610000,Stock replenishment
+TRX0905,2026-06-12,PT0046,Windshield,IN,20,pcs,Purchase Order,PO0174,1587000,31740000,Purchase received
+TRX0906,2026-06-13,PT0101,Front Panel,IN,20,pcs,Purchase Order,PO0175,1766000,35320000,Supplier delivery received
+TRX0907,2026-06-13,PT0111,Windshield,IN,8,pcs,Purchase Order,PO0175,1430000,11440000,Supplier delivery received
+TRX0908,2026-06-14,PT0067,Roof Panel,IN,7,pcs,Purchase Order,PO0176,5217000,36519000,Supplier delivery received
+TRX0909,2026-06-14,PT0065,Rear Door Assembly,OUT,1,set,Repair Order,RO0303,2944000,2944000,Used for replacement
+TRX0910,2026-06-14,PT0001,Hood Assembly,OUT,1,pcs,Repair Order,RO0304,2244000,2244000,Used for body repair
+TRX0911,2026-06-14,PT0101,Front Panel,OUT,9,pcs,Repair Order,RO0304,1766000,15894000,Used for repaint preparation
+TRX0912,2026-06-14,PT0123,Quarter Panel,IN,7,pcs,Purchase Order,PO0176,1277000,8939000,Purchase received
+TRX0913,2026-06-15,PT0099,Rear Fender,OUT,14,pcs,Repair Order,RO0304,770000,10780000,Used for vehicle repair
+TRX0914,2026-06-15,PT0146,Quarter Panel,IN,16,pcs,Purchase Order,PO0177,2108000,33728000,Stock replenishment
+TRX0915,2026-06-15,PT0103,Front Door Assembly,IN,7,set,Purchase Order,PO0178,2851000,19957000,Stock replenishment
+TRX0916,2026-06-15,PT0021,Side Mirror Assembly,OUT,13,set,Repair Order,RO0304,623000,8099000,Used for replacement
+TRX0917,2026-06-15,PT0046,Windshield,OUT,7,pcs,Repair Order,RO0304,1587000,11109000,Used for body repair
+TRX0918,2026-06-15,PT0100,Headlamp Assembly,OUT,11,set,Repair Order,RO0304,1207000,13277000,Used for repaint preparation
+TRX0919,2026-06-16,PT0022,Rear Bumper Assembly,OUT,8,pcs,Repair Order,RO0304,1658000,13264000,Used for replacement
+TRX0920,2026-06-16,PT0010,Headlamp Assembly,IN,12,set,Purchase Order,PO0178,1113000,13356000,Purchase received
+TRX0921,2026-06-16,PT0139,Front Bumper Assembly,OUT,8,pcs,Repair Order,RO0305,2199000,17592000,Used for repaint preparation
+TRX0922,2026-06-16,PT0005,Hood Assembly,IN,6,pcs,Purchase Order,PO0179,2136000,12816000,Supplier delivery received
+TRX0923,2026-06-16,PT0011,Rear Fender,IN,11,pcs,Purchase Order,PO0179,923000,10153000,Supplier delivery received
+TRX0924,2026-06-16,PT0134,Side Mirror Assembly,OUT,11,set,Repair Order,RO0305,684000,7524000,Used for replacement
+TRX0925,2026-06-17,PT0149,Front Door Assembly,IN,7,set,Purchase Order,PO0180,2614000,18298000,Purchase received
+TRX0926,2026-06-17,PT0126,Roof Panel,OUT,8,pcs,Repair Order,RO0305,3160000,25280000,Used for vehicle repair
+TRX0927,2026-06-17,PT0063,Front Bumper Assembly,OUT,3,pcs,Repair Order,RO0306,1713000,5139000,Used for vehicle repair
+TRX0928,2026-06-17,PT0079,Trunk Lid,OUT,2,pcs,Repair Order,RO0307,1748000,3496000,Used for replacement
+TRX0929,2026-06-17,PT0017,Quarter Panel,OUT,2,pcs,Repair Order,RO0308,1180000,2360000,Used for replacement
+TRX0930,2026-06-17,PT0017,Quarter Panel,OUT,7,pcs,Repair Order,RO0309,1180000,8260000,Used for repaint preparation
+TRX0931,2026-06-18,PT0084,Front Panel,IN,9,pcs,Purchase Order,PO0181,1179000,10611000,Purchase received
+TRX0932,2026-06-18,PT0012,Front Grille,OUT,6,pcs,Repair Order,RO0310,783000,4698000,Used for body repair
+TRX0933,2026-06-18,PT0037,Side Mirror Assembly,OUT,3,set,Repair Order,RO0310,631000,1893000,Used for replacement
+TRX0934,2026-06-18,PT0113,Front Door Assembly,IN,6,set,Purchase Order,PO0182,2704000,16224000,Supplier delivery received
+TRX0935,2026-06-18,PT0097,Front Door Assembly,IN,5,set,Purchase Order,PO0182,2345000,11725000,Purchase received
+TRX0936,2026-06-18,PT0002,Rear Bumper Assembly,IN,7,pcs,Purchase Order,PO0182,1412000,9884000,Supplier delivery received
+TRX0937,2026-06-18,PT0073,Trunk Lid,IN,20,pcs,Purchase Order,PO0182,1650000,33000000,Purchase received
+TRX0938,2026-06-19,PT0037,Side Mirror Assembly,OUT,9,set,Repair Order,RO0311,631000,5679000,Used for replacement
+TRX0939,2026-06-19,PT0045,Front Panel,OUT,1,pcs,Repair Order,RO0312,1646000,1646000,Used for repaint preparation
+TRX0940,2026-06-19,PT0023,Rear Bumper Assembly,OUT,13,pcs,Repair Order,RO0313,1719000,22347000,Used for repaint preparation
+TRX0941,2026-06-19,PT0002,Rear Bumper Assembly,OUT,4,pcs,Repair Order,RO0314,1412000,5648000,Used for vehicle repair
+TRX0942,2026-06-19,PT0093,Windshield,OUT,9,pcs,Repair Order,RO0315,2134000,19206000,Used for repaint preparation
+TRX0943,2026-06-19,PT0054,Front Fender,IN,11,pcs,Purchase Order,PO0183,1157000,12727000,Purchase received
+TRX0944,2026-06-20,PT0122,Side Mirror Assembly,OUT,3,set,Repair Order,RO0315,976000,2928000,Used for vehicle repair
+TRX0945,2026-06-20,PT0014,Rear Fender,OUT,5,pcs,Repair Order,RO0316,858000,4290000,Used for body repair
+TRX0946,2026-06-20,PT0086,Hood Assembly,OUT,15,pcs,Repair Order,RO0316,2200000,33000000,Used for vehicle repair
+TRX0947,2026-06-20,PT0027,Front Panel,OUT,15,pcs,Repair Order,RO0317,1469000,22035000,Used for replacement
+TRX0948,2026-06-20,PT0008,Front Door Assembly,OUT,2,set,Repair Order,RO0318,2505000,5010000,Used for replacement
+TRX0949,2026-06-20,PT0114,Quarter Panel,OUT,6,pcs,Repair Order,RO0319,1403000,8418000,Used for body repair
+TRX0950,2026-06-20,PT0059,Quarter Panel,OUT,6,pcs,Repair Order,RO0320,1342000,8052000,Used for replacement
+TRX0951,2026-06-21,PT0106,Rear Fender,OUT,7,pcs,Repair Order,RO0320,1189000,8323000,Used for vehicle repair
+TRX0952,2026-06-21,PT0121,Front Panel,OUT,1,pcs,Repair Order,RO0320,957000,957000,Used for replacement
+TRX0953,2026-06-21,PT0056,Front Door Assembly,OUT,8,set,Repair Order,RO0321,3589000,28712000,Used for body repair
+TRX0954,2026-06-21,PT0035,Trunk Lid,OUT,4,pcs,Repair Order,RO0321,1680000,6720000,Used for body repair
+TRX0955,2026-06-22,PT0052,Rear Bumper Assembly,IN,6,pcs,Purchase Order,PO0183,1353000,8118000,Purchase received
+TRX0956,2026-06-22,PT0072,Front Grille,IN,19,pcs,Purchase Order,PO0183,1127000,21413000,Purchase received
+TRX0957,2026-06-22,PT0088,Windshield,IN,14,pcs,Purchase Order,PO0183,1401000,19614000,Supplier delivery received
+TRX0958,2026-06-22,PT0044,Rear Door Assembly,OUT,9,set,Repair Order,RO0321,2983000,26847000,Used for vehicle repair
+TRX0959,2026-06-22,PT0106,Rear Fender,OUT,8,pcs,Repair Order,RO0321,1189000,9512000,Used for replacement
+TRX0960,2026-06-23,PT0122,Side Mirror Assembly,OUT,5,set,Repair Order,RO0322,976000,4880000,Used for repaint preparation
+TRX0961,2026-06-23,PT0064,Front Grille,IN,18,pcs,Purchase Order,PO0183,766000,13788000,Supplier delivery received
+TRX0962,2026-06-23,PT0039,Front Panel,OUT,15,pcs,Repair Order,RO0323,1518000,22770000,Used for vehicle repair
+TRX0963,2026-06-23,PT0011,Rear Fender,OUT,12,pcs,Repair Order,RO0323,923000,11076000,Used for vehicle repair
+TRX0964,2026-06-23,PT0109,Rear Fender,OUT,8,pcs,Repair Order,RO0323,1310000,10480000,Used for vehicle repair
+TRX0965,2026-06-23,PT0116,Hood Assembly,OUT,1,pcs,Repair Order,RO0324,3167000,3167000,Used for vehicle repair
+TRX0966,2026-06-23,PT0105,Front Fender,OUT,3,pcs,Repair Order,RO0325,773000,2319000,Used for replacement
+TRX0967,2026-06-23,PT0024,Quarter Panel,IN,14,pcs,Purchase Order,PO0184,1176000,16464000,Stock replenishment
+TRX0968,2026-06-24,PT0147,Quarter Panel,OUT,1,pcs,Repair Order,RO0325,3129000,3129000,Used for repaint preparation
+TRX0969,2026-06-24,PT0036,Side Mirror Assembly,OUT,7,set,Repair Order,RO0326,932000,6524000,Used for body repair
+TRX0970,2026-06-24,PT0119,Tail Lamp Assembly,OUT,1,set,Repair Order,RO0326,946000,946000,Used for vehicle repair
+TRX0971,2026-06-24,PT0099,Rear Fender,OUT,6,pcs,Repair Order,RO0327,770000,4620000,Used for body repair
+TRX0972,2026-06-24,PT0110,Trunk Lid,OUT,12,pcs,Repair Order,RO0327,3190000,38280000,Used for replacement
+TRX0973,2026-06-24,PT0021,Side Mirror Assembly,OUT,6,set,Repair Order,RO0327,623000,3738000,Used for vehicle repair
+TRX0974,2026-06-24,PT0132,Front Panel,OUT,11,pcs,Repair Order,RO0328,1096000,12056000,Used for vehicle repair
+TRX0975,2026-06-24,PT0029,Quarter Panel,IN,19,pcs,Purchase Order,PO0184,1815000,34485000,Stock replenishment
+TRX0976,2026-06-25,PT0094,Front Door Assembly,IN,7,set,Purchase Order,PO0184,2670000,18690000,Purchase received
+TRX0977,2026-06-25,PT0036,Side Mirror Assembly,OUT,1,set,Repair Order,RO0329,932000,932000,Used for repaint preparation
+TRX0978,2026-06-26,PT0149,Front Door Assembly,OUT,12,set,Repair Order,RO0330,2614000,31368000,Used for replacement
+TRX0979,2026-06-26,PT0083,Rear Door Assembly,IN,13,set,Purchase Order,PO0184,2653000,34489000,Stock replenishment
+TRX0980,2026-06-26,PT0071,Front Panel,IN,16,pcs,Purchase Order,PO0185,956000,15296000,Stock replenishment
+TRX0981,2026-06-26,PT0129,Front Grille,OUT,2,pcs,Repair Order,RO0331,681000,1362000,Used for body repair
+TRX0982,2026-06-26,PT0116,Hood Assembly,OUT,6,pcs,Repair Order,RO0331,3167000,19002000,Used for vehicle repair
+TRX0983,2026-06-26,PT0049,Front Bumper Assembly,OUT,8,pcs,Repair Order,RO0332,2632000,21056000,Used for repaint preparation
+TRX0984,2026-06-26,PT0046,Windshield,IN,7,pcs,Purchase Order,PO0186,1587000,11109000,Stock replenishment
+TRX0985,2026-06-27,PT0029,Quarter Panel,OUT,8,pcs,Repair Order,RO0333,1815000,14520000,Used for replacement
+TRX0986,2026-06-28,PT0134,Side Mirror Assembly,OUT,1,set,Repair Order,RO0334,684000,684000,Used for replacement
+TRX0987,2026-06-28,PT0122,Side Mirror Assembly,IN,19,set,Purchase Order,PO0186,976000,18544000,Purchase received
+TRX0988,2026-06-28,PT0075,Side Mirror Assembly,IN,5,set,Purchase Order,PO0186,552000,2760000,Purchase received
+TRX0989,2026-06-28,PT0134,Side Mirror Assembly,OUT,7,set,Repair Order,RO0335,684000,4788000,Used for body repair
+TRX0990,2026-06-29,PT0125,Trunk Lid,OUT,12,pcs,Repair Order,RO0336,2806000,33672000,Used for repaint preparation
+TRX0991,2026-06-29,PT0118,Trunk Lid,IN,9,pcs,Purchase Order,PO0186,1978000,17802000,Stock replenishment
+TRX0992,2026-06-29,PT0044,Rear Door Assembly,OUT,4,set,Repair Order,RO0337,2983000,11932000,Used for body repair
+TRX0993,2026-06-29,PT0013,Quarter Panel,IN,14,pcs,Purchase Order,PO0186,1108000,15512000,Purchase received
+TRX0994,2026-06-29,PT0042,Tail Lamp Assembly,OUT,5,set,Repair Order,RO0338,1311000,6555000,Used for replacement
+TRX0995,2026-06-29,PT0040,Hood Assembly,IN,8,pcs,Purchase Order,PO0187,2159000,17272000,Stock replenishment
+TRX0996,2026-06-29,PT0148,Tail Lamp Assembly,IN,13,set,Purchase Order,PO0188,2533000,32929000,Purchase received
+TRX0997,2026-06-30,PT0144,Front Door Assembly,OUT,11,set,Repair Order,RO0339,2555000,28105000,Used for body repair
+TRX0998,2026-06-30,PT0038,Tail Lamp Assembly,IN,10,set,Purchase Order,PO0188,1037000,10370000,Purchase received
+TRX0999,2026-06-30,PT0007,Hood Assembly,IN,20,pcs,Purchase Order,PO0188,3382000,67640000,Stock replenishment
+TRX1000,2026-06-30,PT0082,Hood Assembly,IN,15,pcs,Purchase Order,PO0188,2074000,31110000,Stock replenishment
+TRX1001,2026-06-30,PT0122,Side Mirror Assembly,OUT,13,set,Repair Order,RO0339,976000,12688000,Used for replacement
+TRX1002,2026-06-30,PT0145,Front Door Assembly,OUT,4,set,Repair Order,RO0340,3445000,13780000,Used for vehicle repair
+TRX1003,2026-07-01,PT0123,Quarter Panel,OUT,3,pcs,Repair Order,RO0340,1277000,3831000,Used for vehicle repair
+TRX1004,2026-07-01,PT0079,Trunk Lid,IN,12,pcs,Purchase Order,PO0188,1748000,20976000,Purchase received
+TRX1005,2026-07-01,PT0084,Front Panel,IN,11,pcs,Purchase Order,PO0188,1179000,12969000,Purchase received
+TRX1006,2026-07-01,PT0072,Front Grille,IN,7,pcs,Purchase Order,PO0188,1127000,7889000,Stock replenishment
+TRX1007,2026-07-01,PT0023,Rear Bumper Assembly,OUT,7,pcs,Repair Order,RO0341,1719000,12033000,Used for body repair
+TRX1008,2026-07-01,PT0131,Quarter Panel,OUT,15,pcs,Repair Order,RO0341,1257000,18855000,Used for repaint preparation
+TRX1009,2026-07-02,PT0038,Tail Lamp Assembly,OUT,7,set,Repair Order,RO0342,1037000,7259000,Used for body repair
+TRX1010,2026-07-03,PT0004,Hood Assembly,IN,16,pcs,Purchase Order,PO0189,1856000,29696000,Stock replenishment
+TRX1011,2026-07-03,PT0144,Front Door Assembly,IN,19,set,Purchase Order,PO0189,2555000,48545000,Stock replenishment
+TRX1012,2026-07-03,PT0114,Quarter Panel,IN,18,pcs,Purchase Order,PO0189,1403000,25254000,Stock replenishment
+TRX1013,2026-07-03,PT0036,Side Mirror Assembly,IN,7,set,Purchase Order,PO0190,932000,6524000,Stock replenishment
+TRX1014,2026-07-03,PT0122,Side Mirror Assembly,OUT,9,set,Repair Order,RO0342,976000,8784000,Used for vehicle repair
+TRX1015,2026-07-03,PT0097,Front Door Assembly,IN,18,set,Purchase Order,PO0190,2345000,42210000,Stock replenishment
+TRX1016,2026-07-04,PT0107,Roof Panel,IN,19,pcs,Purchase Order,PO0190,3058000,58102000,Purchase received
+TRX1017,2026-07-04,PT0052,Rear Bumper Assembly,IN,17,pcs,Purchase Order,PO0191,1353000,23001000,Stock replenishment
+TRX1018,2026-07-05,PT0011,Rear Fender,OUT,5,pcs,Repair Order,RO0342,923000,4615000,Used for body repair
+TRX1019,2026-07-05,PT0127,Rear Door Assembly,OUT,8,set,Repair Order,RO0343,2462000,19696000,Used for vehicle repair
+TRX1020,2026-07-05,PT0040,Hood Assembly,IN,20,pcs,Purchase Order,PO0192,2159000,43180000,Supplier delivery received
+TRX1021,2026-07-05,PT0074,Side Mirror Assembly,IN,20,set,Purchase Order,PO0192,825000,16500000,Supplier delivery received
+TRX1022,2026-07-05,PT0063,Front Bumper Assembly,IN,13,pcs,Purchase Order,PO0192,1713000,22269000,Purchase received
+TRX1023,2026-07-05,PT0093,Windshield,OUT,5,pcs,Repair Order,RO0344,2134000,10670000,Used for body repair
+TRX1024,2026-07-05,PT0122,Side Mirror Assembly,OUT,14,set,Repair Order,RO0345,976000,13664000,Used for vehicle repair
+TRX1025,2026-07-05,PT0067,Roof Panel,IN,6,pcs,Purchase Order,PO0193,5217000,31302000,Stock replenishment
+TRX1026,2026-07-05,PT0035,Trunk Lid,IN,6,pcs,Purchase Order,PO0194,1680000,10080000,Stock replenishment
+TRX1027,2026-07-05,PT0092,Front Grille,IN,14,pcs,Purchase Order,PO0194,946000,13244000,Purchase received
+TRX1028,2026-07-06,PT0132,Front Panel,IN,10,pcs,Purchase Order,PO0194,1096000,10960000,Supplier delivery received
+TRX1029,2026-07-06,PT0043,Rear Door Assembly,OUT,14,set,Repair Order,RO0346,2314000,32396000,Used for body repair
+TRX1030,2026-07-06,PT0070,Tail Lamp Assembly,OUT,12,set,Repair Order,RO0347,1386000,16632000,Used for body repair
+TRX1031,2026-07-06,PT0037,Side Mirror Assembly,IN,14,set,Purchase Order,PO0195,631000,8834000,Stock replenishment
+TRX1032,2026-07-06,PT0106,Rear Fender,IN,10,pcs,Purchase Order,PO0196,1189000,11890000,Purchase received
+TRX1033,2026-07-06,PT0129,Front Grille,IN,11,pcs,Purchase Order,PO0196,681000,7491000,Supplier delivery received
+TRX1034,2026-07-07,PT0135,Front Grille,OUT,12,pcs,Repair Order,RO0348,1120000,13440000,Used for vehicle repair
+TRX1035,2026-07-07,PT0107,Roof Panel,OUT,2,pcs,Repair Order,RO0349,3058000,6116000,Used for replacement
+TRX1036,2026-07-08,PT0005,Hood Assembly,OUT,5,pcs,Repair Order,RO0349,2136000,10680000,Used for replacement
+TRX1037,2026-07-08,PT0114,Quarter Panel,OUT,10,pcs,Repair Order,RO0350,1403000,14030000,Used for body repair
+TRX1038,2026-07-08,PT0045,Front Panel,OUT,1,pcs,Repair Order,RO0350,1646000,1646000,Used for vehicle repair
+TRX1039,2026-07-08,PT0057,Front Door Assembly,IN,9,set,Purchase Order,PO0196,2515000,22635000,Stock replenishment
+TRX1040,2026-07-08,PT0033,Windshield,IN,7,pcs,Purchase Order,PO0196,2680000,18760000,Purchase received
+TRX1041,2026-07-08,PT0020,Side Mirror Assembly,IN,20,set,Purchase Order,PO0196,636000,12720000,Purchase received
+TRX1042,2026-07-08,PT0051,Trunk Lid,IN,6,pcs,Purchase Order,PO0196,1631000,9786000,Stock replenishment
+TRX1043,2026-07-09,PT0012,Front Grille,IN,5,pcs,Purchase Order,PO0196,783000,3915000,Purchase received
+TRX1044,2026-07-09,PT0053,Rear Door Assembly,OUT,4,set,Repair Order,RO0351,2635000,10540000,Used for body repair
+TRX1045,2026-07-09,PT0008,Front Door Assembly,IN,13,set,Purchase Order,PO0196,2505000,32565000,Stock replenishment
+TRX1046,2026-07-09,PT0091,Rear Door Assembly,IN,12,set,Purchase Order,PO0196,2725000,32700000,Purchase received
+TRX1047,2026-07-09,PT0026,Quarter Panel,OUT,13,pcs,Repair Order,RO0352,2097000,27261000,Used for replacement
+TRX1048,2026-07-09,PT0050,Headlamp Assembly,OUT,3,set,Repair Order,RO0352,1169000,3507000,Used for vehicle repair
+TRX1049,2026-07-09,PT0026,Quarter Panel,OUT,15,pcs,Repair Order,RO0353,2097000,31455000,Used for repaint preparation
+TRX1050,2026-07-10,PT0094,Front Door Assembly,OUT,3,set,Repair Order,RO0354,2670000,8010000,Used for vehicle repair
+TRX1051,2026-07-10,PT0047,Roof Panel,OUT,7,pcs,Repair Order,RO0355,5304000,37128000,Used for replacement
+TRX1052,2026-07-10,PT0105,Front Fender,IN,15,pcs,Purchase Order,PO0197,773000,11595000,Purchase received
+TRX1053,2026-07-10,PT0134,Side Mirror Assembly,IN,16,set,Purchase Order,PO0197,684000,10944000,Supplier delivery received
+TRX1054,2026-07-11,PT0011,Rear Fender,IN,20,pcs,Purchase Order,PO0198,923000,18460000,Stock replenishment
+TRX1055,2026-07-11,PT0117,Rear Fender,OUT,5,pcs,Repair Order,RO0355,1235000,6175000,Used for repaint preparation
+TRX1056,2026-07-11,PT0058,Front Bumper Assembly,OUT,5,pcs,Repair Order,RO0355,2608000,13040000,Used for repaint preparation
+TRX1057,2026-07-11,PT0049,Front Bumper Assembly,OUT,15,pcs,Repair Order,RO0355,2632000,39480000,Used for repaint preparation
+TRX1058,2026-07-11,PT0095,Rear Door Assembly,IN,20,set,Purchase Order,PO0198,2958000,59160000,Stock replenishment
+TRX1059,2026-07-11,PT0113,Front Door Assembly,OUT,11,set,Repair Order,RO0356,2704000,29744000,Used for replacement
+TRX1060,2026-07-11,PT0102,Front Door Assembly,IN,8,set,Purchase Order,PO0198,2268000,18144000,Purchase received
+TRX1061,2026-07-12,PT0017,Quarter Panel,IN,11,pcs,Purchase Order,PO0199,1180000,12980000,Supplier delivery received
+TRX1062,2026-07-12,PT0104,Headlamp Assembly,IN,18,set,Purchase Order,PO0199,1217000,21906000,Stock replenishment
+TRX1063,2026-07-12,PT0149,Front Door Assembly,IN,17,set,Purchase Order,PO0200,2614000,44438000,Supplier delivery received
+TRX1064,2026-07-12,PT0104,Headlamp Assembly,OUT,9,set,Repair Order,RO0357,1217000,10953000,Used for repaint preparation
+TRX1065,2026-07-13,PT0028,Windshield,IN,20,pcs,Purchase Order,PO0200,1686000,33720000,Supplier delivery received
+TRX1066,2026-07-13,PT0035,Trunk Lid,IN,6,pcs,Purchase Order,PO0200,1680000,10080000,Stock replenishment
+TRX1067,2026-07-14,PT0007,Hood Assembly,OUT,7,pcs,Repair Order,RO0357,3382000,23674000,Used for body repair
+TRX1068,2026-07-14,PT0040,Hood Assembly,IN,8,pcs,Purchase Order,PO0200,2159000,17272000,Supplier delivery received
+TRX1069,2026-07-14,PT0134,Side Mirror Assembly,OUT,13,set,Repair Order,RO0358,684000,8892000,Used for body repair
+TRX1070,2026-07-14,PT0128,Tail Lamp Assembly,OUT,5,set,Repair Order,RO0359,870000,4350000,Used for vehicle repair
+TRX1071,2026-07-14,PT0009,Roof Panel,OUT,1,pcs,Repair Order,RO0360,3561000,3561000,Used for body repair
+TRX1072,2026-07-14,PT0097,Front Door Assembly,IN,6,set,Purchase Order,PO0201,2345000,14070000,Supplier delivery received
+TRX1073,2026-07-14,PT0078,Trunk Lid,OUT,3,pcs,Repair Order,RO0361,3187000,9561000,Used for replacement
+TRX1074,2026-07-14,PT0080,Front Panel,OUT,8,pcs,Repair Order,RO0361,1101000,8808000,Used for repaint preparation
+TRX1075,2026-07-14,PT0142,Front Panel,OUT,10,pcs,Repair Order,RO0362,945000,9450000,Used for replacement
+TRX1076,2026-07-14,PT0130,Rear Door Assembly,IN,13,set,Purchase Order,PO0201,3887000,50531000,Stock replenishment
+TRX1077,2026-07-14,PT0091,Rear Door Assembly,OUT,5,set,Repair Order,RO0363,2725000,13625000,Used for vehicle repair
+TRX1078,2026-07-14,PT0012,Front Grille,IN,16,pcs,Purchase Order,PO0202,783000,12528000,Supplier delivery received
+TRX1079,2026-07-15,PT0150,Trunk Lid,IN,15,pcs,Purchase Order,PO0203,4952000,74280000,Stock replenishment
+TRX1080,2026-07-15,PT0089,Front Panel,IN,18,pcs,Purchase Order,PO0204,981000,17658000,Supplier delivery received
+TRX1081,2026-07-15,PT0063,Front Bumper Assembly,IN,14,pcs,Purchase Order,PO0204,1713000,23982000,Supplier delivery received
+TRX1082,2026-07-15,PT0017,Quarter Panel,OUT,2,pcs,Repair Order,RO0364,1180000,2360000,Used for vehicle repair
+TRX1083,2026-07-15,PT0138,Side Mirror Assembly,IN,19,set,Purchase Order,PO0204,673000,12787000,Stock replenishment
+TRX1084,2026-07-15,PT0146,Quarter Panel,OUT,7,pcs,Repair Order,RO0365,2108000,14756000,Used for repaint preparation
+TRX1085,2026-07-15,PT0006,Rear Bumper Assembly,OUT,7,pcs,Repair Order,RO0366,2328000,16296000,Used for body repair
+TRX1086,2026-07-15,PT0147,Quarter Panel,IN,20,pcs,Purchase Order,PO0205,3129000,62580000,Supplier delivery received
+TRX1087,2026-07-16,PT0053,Rear Door Assembly,IN,15,set,Purchase Order,PO0206,2635000,39525000,Stock replenishment
+TRX1088,2026-07-16,PT0094,Front Door Assembly,OUT,4,set,Repair Order,RO0367,2670000,10680000,Used for vehicle repair
+TRX1089,2026-07-16,PT0138,Side Mirror Assembly,IN,13,set,Purchase Order,PO0207,673000,8749000,Supplier delivery received
+TRX1090,2026-07-16,PT0103,Front Door Assembly,OUT,10,set,Repair Order,RO0367,2851000,28510000,Used for vehicle repair
+TRX1091,2026-07-16,PT0149,Front Door Assembly,IN,15,set,Purchase Order,PO0208,2614000,39210000,Supplier delivery received
+TRX1092,2026-07-16,PT0136,Front Bumper Assembly,OUT,4,pcs,Repair Order,RO0368,1410000,5640000,Used for vehicle repair
+TRX1093,2026-07-17,PT0078,Trunk Lid,OUT,5,pcs,Repair Order,RO0369,3187000,15935000,Used for body repair
+TRX1094,2026-07-17,PT0052,Rear Bumper Assembly,IN,13,pcs,Purchase Order,PO0208,1353000,17589000,Stock replenishment
+TRX1095,2026-07-17,PT0141,Tail Lamp Assembly,IN,5,set,Purchase Order,PO0208,873000,4365000,Supplier delivery received
+TRX1096,2026-07-17,PT0048,Tail Lamp Assembly,OUT,4,set,Repair Order,RO0369,1376000,5504000,Used for repaint preparation
+TRX1097,2026-07-17,PT0069,Windshield,OUT,9,pcs,Repair Order,RO0369,4417000,39753000,Used for repaint preparation
+TRX1098,2026-07-18,PT0145,Front Door Assembly,OUT,1,set,Repair Order,RO0370,3445000,3445000,Used for body repair
+TRX1099,2026-07-18,PT0119,Tail Lamp Assembly,IN,9,set,Purchase Order,PO0208,946000,8514000,Stock replenishment
+TRX1100,2026-07-18,PT0112,Front Door Assembly,IN,7,set,Purchase Order,PO0208,2509000,17563000,Stock replenishment
+TRX1101,2026-07-19,PT0069,Windshield,OUT,11,pcs,Repair Order,RO0371,4417000,48587000,Used for replacement
+TRX1102,2026-07-19,PT0104,Headlamp Assembly,IN,9,set,Purchase Order,PO0209,1217000,10953000,Purchase received
+TRX1103,2026-07-19,PT0080,Front Panel,OUT,9,pcs,Repair Order,RO0371,1101000,9909000,Used for repaint preparation
+TRX1104,2026-07-19,PT0010,Headlamp Assembly,IN,13,set,Purchase Order,PO0210,1113000,14469000,Stock replenishment
+TRX1105,2026-07-19,PT0072,Front Grille,OUT,3,pcs,Repair Order,RO0371,1127000,3381000,Used for vehicle repair
+TRX1106,2026-07-20,PT0125,Trunk Lid,OUT,1,pcs,Repair Order,RO0371,2806000,2806000,Used for vehicle repair
+TRX1107,2026-07-21,PT0081,Front Bumper Assembly,OUT,2,pcs,Repair Order,RO0371,1492000,2984000,Used for repaint preparation
+TRX1108,2026-07-22,PT0094,Front Door Assembly,OUT,15,set,Repair Order,RO0372,2670000,40050000,Used for replacement
+TRX1109,2026-07-22,PT0061,Front Panel,IN,8,pcs,Purchase Order,PO0210,1026000,8208000,Supplier delivery received
+TRX1110,2026-07-22,PT0135,Front Grille,IN,7,pcs,Purchase Order,PO0211,1120000,7840000,Purchase received
+TRX1111,2026-07-22,PT0081,Front Bumper Assembly,IN,17,pcs,Purchase Order,PO0211,1492000,25364000,Supplier delivery received
+TRX1112,2026-07-22,PT0061,Front Panel,OUT,4,pcs,Repair Order,RO0373,1026000,4104000,Used for replacement
+TRX1113,2026-07-22,PT0055,Front Fender,OUT,8,pcs,Repair Order,RO0374,1167000,9336000,Used for vehicle repair
+TRX1114,2026-07-22,PT0126,Roof Panel,OUT,12,pcs,Repair Order,RO0374,3160000,37920000,Used for body repair
+TRX1115,2026-07-23,PT0140,Rear Bumper Assembly,IN,12,pcs,Purchase Order,PO0211,1473000,17676000,Purchase received
+TRX1116,2026-07-23,PT0093,Windshield,OUT,1,pcs,Repair Order,RO0374,2134000,2134000,Used for vehicle repair
+TRX1117,2026-07-23,PT0009,Roof Panel,OUT,1,pcs,Repair Order,RO0374,3561000,3561000,Used for replacement
+TRX1118,2026-07-23,PT0065,Rear Door Assembly,OUT,5,set,Repair Order,RO0374,2944000,14720000,Used for body repair
+TRX1119,2026-07-23,PT0032,Quarter Panel,OUT,4,pcs,Repair Order,RO0374,1217000,4868000,Used for repaint preparation
+TRX1120,2026-07-24,PT0003,Rear Door Assembly,OUT,7,set,Repair Order,RO0374,2692000,18844000,Used for body repair
+TRX1121,2026-07-24,PT0078,Trunk Lid,IN,12,pcs,Purchase Order,PO0212,3187000,38244000,Purchase received
+TRX1122,2026-07-24,PT0113,Front Door Assembly,OUT,15,set,Repair Order,RO0374,2704000,40560000,Used for repaint preparation
+TRX1123,2026-07-24,PT0009,Roof Panel,IN,7,pcs,Purchase Order,PO0212,3561000,24927000,Stock replenishment
+TRX1124,2026-07-24,PT0121,Front Panel,OUT,6,pcs,Repair Order,RO0374,957000,5742000,Used for vehicle repair
+TRX1125,2026-07-24,PT0042,Tail Lamp Assembly,OUT,9,set,Repair Order,RO0375,1311000,11799000,Used for repaint preparation
+TRX1126,2026-07-25,PT0141,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0375,873000,6984000,Used for vehicle repair
+TRX1127,2026-07-25,PT0048,Tail Lamp Assembly,OUT,13,set,Repair Order,RO0375,1376000,17888000,Used for vehicle repair
+TRX1128,2026-07-25,PT0103,Front Door Assembly,IN,14,set,Purchase Order,PO0213,2851000,39914000,Purchase received
+TRX1129,2026-07-25,PT0029,Quarter Panel,IN,9,pcs,Purchase Order,PO0213,1815000,16335000,Supplier delivery received
+TRX1130,2026-07-25,PT0106,Rear Fender,OUT,6,pcs,Repair Order,RO0376,1189000,7134000,Used for replacement
+TRX1131,2026-07-25,PT0067,Roof Panel,IN,15,pcs,Purchase Order,PO0213,5217000,78255000,Purchase received
+TRX1132,2026-07-25,PT0022,Rear Bumper Assembly,IN,10,pcs,Purchase Order,PO0214,1658000,16580000,Stock replenishment
+TRX1133,2026-07-26,PT0147,Quarter Panel,IN,5,pcs,Purchase Order,PO0214,3129000,15645000,Supplier delivery received
+TRX1134,2026-07-26,PT0059,Quarter Panel,OUT,2,pcs,Repair Order,RO0377,1342000,2684000,Used for replacement
+TRX1135,2026-07-26,PT0013,Quarter Panel,IN,18,pcs,Purchase Order,PO0214,1108000,19944000,Purchase received
+TRX1136,2026-07-26,PT0023,Rear Bumper Assembly,OUT,3,pcs,Repair Order,RO0377,1719000,5157000,Used for vehicle repair
+TRX1137,2026-07-26,PT0004,Hood Assembly,OUT,7,pcs,Repair Order,RO0377,1856000,12992000,Used for repaint preparation
+TRX1138,2026-07-27,PT0127,Rear Door Assembly,IN,11,set,Purchase Order,PO0215,2462000,27082000,Stock replenishment
+TRX1139,2026-07-27,PT0074,Side Mirror Assembly,OUT,7,set,Repair Order,RO0378,825000,5775000,Used for replacement
+TRX1140,2026-07-27,PT0056,Front Door Assembly,OUT,5,set,Repair Order,RO0378,3589000,17945000,Used for replacement
+TRX1141,2026-07-27,PT0108,Rear Door Assembly,IN,9,set,Purchase Order,PO0216,4462000,40158000,Stock replenishment
+TRX1142,2026-07-27,PT0061,Front Panel,OUT,15,pcs,Repair Order,RO0379,1026000,15390000,Used for repaint preparation
+TRX1143,2026-07-28,PT0022,Rear Bumper Assembly,IN,9,pcs,Purchase Order,PO0216,1658000,14922000,Supplier delivery received
+TRX1144,2026-07-28,PT0102,Front Door Assembly,OUT,12,set,Repair Order,RO0380,2268000,27216000,Used for repaint preparation
+TRX1145,2026-07-28,PT0066,Side Mirror Assembly,IN,6,set,Purchase Order,PO0217,613000,3678000,Purchase received
+TRX1146,2026-07-28,PT0121,Front Panel,OUT,5,pcs,Repair Order,RO0380,957000,4785000,Used for vehicle repair
+TRX1147,2026-07-28,PT0002,Rear Bumper Assembly,IN,17,pcs,Purchase Order,PO0218,1412000,24004000,Stock replenishment
+TRX1148,2026-07-28,PT0095,Rear Door Assembly,IN,6,set,Purchase Order,PO0218,2958000,17748000,Stock replenishment
+TRX1149,2026-07-28,PT0044,Rear Door Assembly,OUT,15,set,Repair Order,RO0381,2983000,44745000,Used for repaint preparation
+TRX1150,2026-07-29,PT0034,Headlamp Assembly,IN,18,set,Purchase Order,PO0219,1325000,23850000,Purchase received
+TRX1151,2026-07-29,PT0081,Front Bumper Assembly,IN,9,pcs,Purchase Order,PO0219,1492000,13428000,Stock replenishment
+TRX1152,2026-07-29,PT0093,Windshield,IN,14,pcs,Purchase Order,PO0219,2134000,29876000,Stock replenishment
+TRX1153,2026-07-29,PT0068,Side Mirror Assembly,OUT,7,set,Repair Order,RO0381,608000,4256000,Used for body repair
+TRX1154,2026-07-29,PT0126,Roof Panel,OUT,3,pcs,Repair Order,RO0382,3160000,9480000,Used for repaint preparation
+TRX1155,2026-07-29,PT0014,Rear Fender,IN,6,pcs,Purchase Order,PO0220,858000,5148000,Purchase received
+TRX1156,2026-07-30,PT0121,Front Panel,IN,19,pcs,Purchase Order,PO0220,957000,18183000,Stock replenishment
+TRX1157,2026-07-30,PT0011,Rear Fender,IN,20,pcs,Purchase Order,PO0220,923000,18460000,Purchase received
+TRX1158,2026-07-30,PT0038,Tail Lamp Assembly,IN,7,set,Purchase Order,PO0221,1037000,7259000,Stock replenishment
+TRX1159,2026-07-30,PT0047,Roof Panel,OUT,2,pcs,Repair Order,RO0383,5304000,10608000,Used for replacement
+TRX1160,2026-07-30,PT0150,Trunk Lid,OUT,1,pcs,Repair Order,RO0384,4952000,4952000,Used for replacement
+TRX1161,2026-07-30,PT0107,Roof Panel,OUT,4,pcs,Repair Order,RO0384,3058000,12232000,Used for vehicle repair
+TRX1162,2026-07-30,PT0085,Tail Lamp Assembly,IN,8,set,Purchase Order,PO0222,1278000,10224000,Supplier delivery received
+TRX1163,2026-07-31,PT0028,Windshield,OUT,3,pcs,Repair Order,RO0385,1686000,5058000,Used for repaint preparation
+TRX1164,2026-07-31,PT0123,Quarter Panel,OUT,5,pcs,Repair Order,RO0386,1277000,6385000,Used for vehicle repair
+TRX1165,2026-07-31,PT0085,Tail Lamp Assembly,OUT,11,set,Repair Order,RO0386,1278000,14058000,Used for repaint preparation
+TRX1166,2026-08-01,PT0084,Front Panel,OUT,12,pcs,Repair Order,RO0386,1179000,14148000,Used for replacement
+TRX1167,2026-08-01,PT0055,Front Fender,OUT,13,pcs,Repair Order,RO0386,1167000,15171000,Used for body repair
+TRX1168,2026-08-01,PT0015,Front Grille,OUT,9,pcs,Repair Order,RO0386,768000,6912000,Used for repaint preparation
+TRX1169,2026-08-01,PT0024,Quarter Panel,IN,10,pcs,Purchase Order,PO0223,1176000,11760000,Stock replenishment
+TRX1170,2026-08-01,PT0023,Rear Bumper Assembly,IN,11,pcs,Purchase Order,PO0224,1719000,18909000,Stock replenishment
+TRX1171,2026-08-01,PT0073,Trunk Lid,OUT,11,pcs,Repair Order,RO0387,1650000,18150000,Used for body repair
+TRX1172,2026-08-01,PT0126,Roof Panel,OUT,12,pcs,Repair Order,RO0387,3160000,37920000,Used for body repair
+TRX1173,2026-08-01,PT0034,Headlamp Assembly,IN,8,set,Purchase Order,PO0224,1325000,10600000,Supplier delivery received
+TRX1174,2026-08-01,PT0052,Rear Bumper Assembly,OUT,15,pcs,Repair Order,RO0388,1353000,20295000,Used for body repair
+TRX1175,2026-08-01,PT0145,Front Door Assembly,OUT,1,set,Repair Order,RO0388,3445000,3445000,Used for body repair
+TRX1176,2026-08-02,PT0048,Tail Lamp Assembly,IN,18,set,Purchase Order,PO0225,1376000,24768000,Supplier delivery received
+TRX1177,2026-08-02,PT0088,Windshield,OUT,11,pcs,Repair Order,RO0389,1401000,15411000,Used for replacement
+TRX1178,2026-08-02,PT0127,Rear Door Assembly,OUT,11,set,Repair Order,RO0390,2462000,27082000,Used for body repair
+TRX1179,2026-08-03,PT0120,Trunk Lid,IN,20,pcs,Purchase Order,PO0226,2755000,55100000,Purchase received
+TRX1180,2026-08-03,PT0077,Front Grille,OUT,9,pcs,Repair Order,RO0391,760000,6840000,Used for vehicle repair
+TRX1181,2026-08-03,PT0142,Front Panel,IN,6,pcs,Purchase Order,PO0226,945000,5670000,Supplier delivery received
+TRX1182,2026-08-03,PT0109,Rear Fender,IN,19,pcs,Purchase Order,PO0226,1310000,24890000,Supplier delivery received
+TRX1183,2026-08-03,PT0065,Rear Door Assembly,IN,7,set,Purchase Order,PO0226,2944000,20608000,Purchase received
+TRX1184,2026-08-03,PT0030,Front Fender,OUT,8,pcs,Repair Order,RO0392,741000,5928000,Used for replacement
+TRX1185,2026-08-03,PT0101,Front Panel,IN,18,pcs,Purchase Order,PO0226,1766000,31788000,Stock replenishment
+TRX1186,2026-08-04,PT0081,Front Bumper Assembly,OUT,8,pcs,Repair Order,RO0392,1492000,11936000,Used for repaint preparation
+TRX1187,2026-08-04,PT0068,Side Mirror Assembly,IN,10,set,Purchase Order,PO0227,608000,6080000,Purchase received
+TRX1188,2026-08-04,PT0067,Roof Panel,OUT,2,pcs,Repair Order,RO0393,5217000,10434000,Used for vehicle repair
+TRX1189,2026-08-04,PT0002,Rear Bumper Assembly,IN,5,pcs,Purchase Order,PO0228,1412000,7060000,Stock replenishment
+TRX1190,2026-08-04,PT0118,Trunk Lid,OUT,14,pcs,Repair Order,RO0393,1978000,27692000,Used for repaint preparation
+TRX1191,2026-08-05,PT0078,Trunk Lid,OUT,10,pcs,Repair Order,RO0394,3187000,31870000,Used for repaint preparation
+TRX1192,2026-08-05,PT0078,Trunk Lid,IN,9,pcs,Purchase Order,PO0229,3187000,28683000,Purchase received
+TRX1193,2026-08-05,PT0005,Hood Assembly,OUT,4,pcs,Repair Order,RO0394,2136000,8544000,Used for replacement
+TRX1194,2026-08-05,PT0124,Tail Lamp Assembly,OUT,11,set,Repair Order,RO0395,887000,9757000,Used for replacement
+TRX1195,2026-08-05,PT0023,Rear Bumper Assembly,IN,19,pcs,Purchase Order,PO0230,1719000,32661000,Stock replenishment
+TRX1196,2026-08-05,PT0006,Rear Bumper Assembly,IN,9,pcs,Purchase Order,PO0230,2328000,20952000,Stock replenishment
+TRX1197,2026-08-05,PT0125,Trunk Lid,OUT,14,pcs,Repair Order,RO0396,2806000,39284000,Used for replacement
+TRX1198,2026-08-05,PT0052,Rear Bumper Assembly,IN,17,pcs,Purchase Order,PO0231,1353000,23001000,Purchase received
+TRX1199,2026-08-05,PT0027,Front Panel,OUT,12,pcs,Repair Order,RO0397,1469000,17628000,Used for repaint preparation
+TRX1200,2026-08-05,PT0127,Rear Door Assembly,OUT,3,set,Repair Order,RO0398,2462000,7386000,Used for repaint preparation
+TRX1201,2026-08-05,PT0125,Trunk Lid,OUT,12,pcs,Repair Order,RO0398,2806000,33672000,Used for repaint preparation
+TRX1202,2026-08-06,PT0060,Rear Bumper Assembly,OUT,1,pcs,Repair Order,RO0399,1436000,1436000,Used for body repair
+TRX1203,2026-08-06,PT0142,Front Panel,IN,18,pcs,Purchase Order,PO0231,945000,17010000,Purchase received
+TRX1204,2026-08-06,PT0127,Rear Door Assembly,OUT,1,set,Repair Order,RO0400,2462000,2462000,Used for repaint preparation
+TRX1205,2026-08-06,PT0006,Rear Bumper Assembly,IN,11,pcs,Purchase Order,PO0231,2328000,25608000,Stock replenishment
+TRX1206,2026-08-06,PT0060,Rear Bumper Assembly,IN,15,pcs,Purchase Order,PO0231,1436000,21540000,Supplier delivery received
+TRX1207,2026-08-07,PT0120,Trunk Lid,IN,14,pcs,Purchase Order,PO0231,2755000,38570000,Stock replenishment
+TRX1208,2026-08-07,PT0107,Roof Panel,OUT,11,pcs,Repair Order,RO0400,3058000,33638000,Used for body repair
+TRX1209,2026-08-07,PT0121,Front Panel,OUT,14,pcs,Repair Order,RO0401,957000,13398000,Used for replacement
+TRX1210,2026-08-07,PT0073,Trunk Lid,OUT,2,pcs,Repair Order,RO0401,1650000,3300000,Used for replacement
+TRX1211,2026-08-08,PT0045,Front Panel,IN,20,pcs,Purchase Order,PO0232,1646000,32920000,Stock replenishment
+TRX1212,2026-08-08,PT0127,Rear Door Assembly,IN,11,set,Purchase Order,PO0232,2462000,27082000,Purchase received
+TRX1213,2026-08-08,PT0092,Front Grille,OUT,6,pcs,Repair Order,RO0401,946000,5676000,Used for replacement
+TRX1214,2026-08-08,PT0129,Front Grille,IN,7,pcs,Purchase Order,PO0233,681000,4767000,Purchase received
+TRX1215,2026-08-08,PT0059,Quarter Panel,IN,12,pcs,Purchase Order,PO0233,1342000,16104000,Stock replenishment
+TRX1216,2026-08-08,PT0091,Rear Door Assembly,OUT,13,set,Repair Order,RO0401,2725000,35425000,Used for body repair
+TRX1217,2026-08-08,PT0039,Front Panel,IN,8,pcs,Purchase Order,PO0233,1518000,12144000,Stock replenishment
+TRX1218,2026-08-09,PT0118,Trunk Lid,OUT,1,pcs,Repair Order,RO0401,1978000,1978000,Used for vehicle repair
+TRX1219,2026-08-09,PT0144,Front Door Assembly,IN,8,set,Purchase Order,PO0234,2555000,20440000,Purchase received
+TRX1220,2026-08-09,PT0053,Rear Door Assembly,OUT,3,set,Repair Order,RO0401,2635000,7905000,Used for repaint preparation
+TRX1221,2026-08-09,PT0130,Rear Door Assembly,OUT,14,set,Repair Order,RO0402,3887000,54418000,Used for body repair
+TRX1222,2026-08-09,PT0086,Hood Assembly,OUT,2,pcs,Repair Order,RO0402,2200000,4400000,Used for repaint preparation
+TRX1223,2026-08-09,PT0107,Roof Panel,OUT,1,pcs,Repair Order,RO0403,3058000,3058000,Used for repaint preparation
+TRX1224,2026-08-09,PT0088,Windshield,IN,10,pcs,Purchase Order,PO0235,1401000,14010000,Stock replenishment
+TRX1225,2026-08-09,PT0107,Roof Panel,IN,12,pcs,Purchase Order,PO0236,3058000,36696000,Supplier delivery received
+TRX1226,2026-08-09,PT0108,Rear Door Assembly,OUT,3,set,Repair Order,RO0403,4462000,13386000,Used for repaint preparation
+TRX1227,2026-08-10,PT0105,Front Fender,OUT,14,pcs,Repair Order,RO0404,773000,10822000,Used for body repair
+TRX1228,2026-08-10,PT0008,Front Door Assembly,IN,5,set,Purchase Order,PO0236,2505000,12525000,Supplier delivery received
+TRX1229,2026-08-10,PT0018,Side Mirror Assembly,IN,15,set,Purchase Order,PO0236,909000,13635000,Purchase received
+TRX1230,2026-08-11,PT0112,Front Door Assembly,IN,6,set,Purchase Order,PO0236,2509000,15054000,Supplier delivery received
+TRX1231,2026-08-11,PT0039,Front Panel,OUT,1,pcs,Repair Order,RO0404,1518000,1518000,Used for body repair
+TRX1232,2026-08-11,PT0108,Rear Door Assembly,IN,14,set,Purchase Order,PO0236,4462000,62468000,Stock replenishment
+TRX1233,2026-08-11,PT0089,Front Panel,IN,13,pcs,Purchase Order,PO0236,981000,12753000,Supplier delivery received
+TRX1234,2026-08-12,PT0038,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0404,1037000,8296000,Used for repaint preparation
+TRX1235,2026-08-12,PT0089,Front Panel,OUT,13,pcs,Repair Order,RO0404,981000,12753000,Used for replacement
+TRX1236,2026-08-12,PT0078,Trunk Lid,IN,15,pcs,Purchase Order,PO0237,3187000,47805000,Supplier delivery received
+TRX1237,2026-08-12,PT0033,Windshield,OUT,9,pcs,Repair Order,RO0405,2680000,24120000,Used for vehicle repair
+TRX1238,2026-08-12,PT0131,Quarter Panel,OUT,9,pcs,Repair Order,RO0406,1257000,11313000,Used for replacement
+TRX1239,2026-08-12,PT0006,Rear Bumper Assembly,IN,13,pcs,Purchase Order,PO0238,2328000,30264000,Stock replenishment
+TRX1240,2026-08-12,PT0109,Rear Fender,OUT,2,pcs,Repair Order,RO0406,1310000,2620000,Used for body repair
+TRX1241,2026-08-12,PT0067,Roof Panel,OUT,6,pcs,Repair Order,RO0407,5217000,31302000,Used for vehicle repair
+TRX1242,2026-08-12,PT0115,Windshield,IN,5,pcs,Purchase Order,PO0238,1369000,6845000,Purchase received
+TRX1243,2026-08-13,PT0149,Front Door Assembly,OUT,15,set,Repair Order,RO0407,2614000,39210000,Used for replacement
+TRX1244,2026-08-13,PT0090,Windshield,IN,9,pcs,Purchase Order,PO0238,1757000,15813000,Supplier delivery received
+TRX1245,2026-08-13,PT0064,Front Grille,IN,11,pcs,Purchase Order,PO0238,766000,8426000,Stock replenishment
+TRX1246,2026-08-13,PT0117,Rear Fender,IN,18,pcs,Purchase Order,PO0238,1235000,22230000,Purchase received
+TRX1247,2026-08-13,PT0024,Quarter Panel,IN,9,pcs,Purchase Order,PO0238,1176000,10584000,Stock replenishment
+TRX1248,2026-08-13,PT0020,Side Mirror Assembly,IN,17,set,Purchase Order,PO0238,636000,10812000,Supplier delivery received
+TRX1249,2026-08-13,PT0102,Front Door Assembly,OUT,10,set,Repair Order,RO0408,2268000,22680000,Used for repaint preparation
+TRX1250,2026-08-13,PT0113,Front Door Assembly,OUT,8,set,Repair Order,RO0408,2704000,21632000,Used for repaint preparation
+TRX1251,2026-08-14,PT0042,Tail Lamp Assembly,IN,9,set,Purchase Order,PO0238,1311000,11799000,Stock replenishment
+TRX1252,2026-08-14,PT0034,Headlamp Assembly,OUT,9,set,Repair Order,RO0408,1325000,11925000,Used for vehicle repair
+TRX1253,2026-08-14,PT0055,Front Fender,OUT,1,pcs,Repair Order,RO0408,1167000,1167000,Used for body repair
+TRX1254,2026-08-14,PT0031,Headlamp Assembly,OUT,7,set,Repair Order,RO0409,1135000,7945000,Used for body repair
+TRX1255,2026-08-14,PT0147,Quarter Panel,IN,9,pcs,Purchase Order,PO0239,3129000,28161000,Stock replenishment
+TRX1256,2026-08-14,PT0096,Front Grille,IN,20,pcs,Purchase Order,PO0240,805000,16100000,Purchase received
+TRX1257,2026-08-15,PT0037,Side Mirror Assembly,OUT,7,set,Repair Order,RO0410,631000,4417000,Used for body repair
+TRX1258,2026-08-15,PT0073,Trunk Lid,IN,20,pcs,Purchase Order,PO0241,1650000,33000000,Supplier delivery received
+TRX1259,2026-08-15,PT0090,Windshield,IN,6,pcs,Purchase Order,PO0241,1757000,10542000,Supplier delivery received
+TRX1260,2026-08-15,PT0080,Front Panel,OUT,15,pcs,Repair Order,RO0411,1101000,16515000,Used for repaint preparation
+TRX1261,2026-08-15,PT0122,Side Mirror Assembly,OUT,14,set,Repair Order,RO0411,976000,13664000,Used for replacement
+TRX1262,2026-08-15,PT0130,Rear Door Assembly,OUT,13,set,Repair Order,RO0412,3887000,50531000,Used for repaint preparation
+TRX1263,2026-08-15,PT0039,Front Panel,OUT,3,pcs,Repair Order,RO0413,1518000,4554000,Used for repaint preparation
+TRX1264,2026-08-15,PT0100,Headlamp Assembly,IN,17,set,Purchase Order,PO0242,1207000,20519000,Purchase received
+TRX1265,2026-08-15,PT0114,Quarter Panel,OUT,11,pcs,Repair Order,RO0414,1403000,15433000,Used for replacement
+TRX1266,2026-08-15,PT0007,Hood Assembly,OUT,13,pcs,Repair Order,RO0414,3382000,43966000,Used for body repair
+TRX1267,2026-08-15,PT0144,Front Door Assembly,OUT,11,set,Repair Order,RO0415,2555000,28105000,Used for replacement
+TRX1268,2026-08-15,PT0139,Front Bumper Assembly,OUT,1,pcs,Repair Order,RO0415,2199000,2199000,Used for replacement
+TRX1269,2026-08-16,PT0122,Side Mirror Assembly,OUT,1,set,Repair Order,RO0416,976000,976000,Used for replacement
+TRX1270,2026-08-16,PT0005,Hood Assembly,IN,11,pcs,Purchase Order,PO0243,2136000,23496000,Supplier delivery received
+TRX1271,2026-08-16,PT0149,Front Door Assembly,IN,15,set,Purchase Order,PO0243,2614000,39210000,Purchase received
+TRX1272,2026-08-16,PT0126,Roof Panel,OUT,1,pcs,Repair Order,RO0417,3160000,3160000,Used for replacement
+TRX1273,2026-08-16,PT0107,Roof Panel,IN,15,pcs,Purchase Order,PO0244,3058000,45870000,Purchase received
+TRX1274,2026-08-17,PT0030,Front Fender,OUT,9,pcs,Repair Order,RO0418,741000,6669000,Used for replacement
+TRX1275,2026-08-17,PT0047,Roof Panel,IN,7,pcs,Purchase Order,PO0245,5304000,37128000,Stock replenishment
+TRX1276,2026-08-18,PT0044,Rear Door Assembly,IN,15,set,Purchase Order,PO0246,2983000,44745000,Supplier delivery received
+TRX1277,2026-08-18,PT0015,Front Grille,IN,8,pcs,Purchase Order,PO0247,768000,6144000,Stock replenishment
+TRX1278,2026-08-18,PT0083,Rear Door Assembly,IN,8,set,Purchase Order,PO0248,2653000,21224000,Purchase received
+TRX1279,2026-08-18,PT0061,Front Panel,OUT,13,pcs,Repair Order,RO0419,1026000,13338000,Used for vehicle repair
+TRX1280,2026-08-18,PT0069,Windshield,IN,19,pcs,Purchase Order,PO0248,4417000,83923000,Purchase received
+TRX1281,2026-08-18,PT0124,Tail Lamp Assembly,IN,12,set,Purchase Order,PO0248,887000,10644000,Purchase received
+TRX1282,2026-08-18,PT0069,Windshield,OUT,10,pcs,Repair Order,RO0419,4417000,44170000,Used for replacement
+TRX1283,2026-08-19,PT0143,Front Panel,OUT,2,pcs,Repair Order,RO0420,2779000,5558000,Used for repaint preparation
+TRX1284,2026-08-19,PT0115,Windshield,IN,11,pcs,Purchase Order,PO0248,1369000,15059000,Purchase received
+TRX1285,2026-08-19,PT0096,Front Grille,OUT,3,pcs,Repair Order,RO0420,805000,2415000,Used for repaint preparation
+TRX1286,2026-08-19,PT0143,Front Panel,OUT,1,pcs,Repair Order,RO0420,2779000,2779000,Used for body repair
+TRX1287,2026-08-19,PT0043,Rear Door Assembly,IN,20,set,Purchase Order,PO0249,2314000,46280000,Stock replenishment
+TRX1288,2026-08-19,PT0098,Rear Fender,OUT,14,pcs,Repair Order,RO0420,935000,13090000,Used for body repair
+TRX1289,2026-08-19,PT0012,Front Grille,IN,7,pcs,Purchase Order,PO0250,783000,5481000,Stock replenishment
+TRX1290,2026-08-19,PT0032,Quarter Panel,OUT,12,pcs,Repair Order,RO0421,1217000,14604000,Used for body repair
+TRX1291,2026-08-20,PT0111,Windshield,IN,15,pcs,Purchase Order,PO0250,1430000,21450000,Stock replenishment
+TRX1292,2026-08-20,PT0067,Roof Panel,OUT,12,pcs,Repair Order,RO0422,5217000,62604000,Used for replacement
+TRX1293,2026-08-20,PT0083,Rear Door Assembly,IN,19,set,Purchase Order,PO0250,2653000,50407000,Stock replenishment
+TRX1294,2026-08-20,PT0005,Hood Assembly,OUT,3,pcs,Repair Order,RO0422,2136000,6408000,Used for vehicle repair
+TRX1295,2026-08-21,PT0122,Side Mirror Assembly,IN,5,set,Purchase Order,PO0250,976000,4880000,Stock replenishment
+TRX1296,2026-08-21,PT0143,Front Panel,OUT,1,pcs,Repair Order,RO0422,2779000,2779000,Used for vehicle repair
+TRX1297,2026-08-21,PT0020,Side Mirror Assembly,OUT,15,set,Repair Order,RO0422,636000,9540000,Used for repaint preparation
+TRX1298,2026-08-21,PT0032,Quarter Panel,IN,17,pcs,Purchase Order,PO0250,1217000,20689000,Stock replenishment
+TRX1299,2026-08-21,PT0100,Headlamp Assembly,IN,5,set,Purchase Order,PO0251,1207000,6035000,Stock replenishment
+TRX1300,2026-08-21,PT0050,Headlamp Assembly,IN,12,set,Purchase Order,PO0251,1169000,14028000,Stock replenishment
+TRX1301,2026-08-21,PT0092,Front Grille,IN,14,pcs,Purchase Order,PO0251,946000,13244000,Purchase received
+TRX1302,2026-08-21,PT0060,Rear Bumper Assembly,OUT,6,pcs,Repair Order,RO0423,1436000,8616000,Used for repaint preparation
+TRX1303,2026-08-21,PT0054,Front Fender,IN,17,pcs,Purchase Order,PO0252,1157000,19669000,Stock replenishment
+TRX1304,2026-08-21,PT0146,Quarter Panel,OUT,3,pcs,Repair Order,RO0424,2108000,6324000,Used for replacement
+TRX1305,2026-08-21,PT0017,Quarter Panel,OUT,12,pcs,Repair Order,RO0425,1180000,14160000,Used for body repair
+TRX1306,2026-08-21,PT0146,Quarter Panel,OUT,5,pcs,Repair Order,RO0425,2108000,10540000,Used for body repair
+TRX1307,2026-08-21,PT0050,Headlamp Assembly,OUT,1,set,Repair Order,RO0425,1169000,1169000,Used for body repair
+TRX1308,2026-08-22,PT0144,Front Door Assembly,OUT,1,set,Repair Order,RO0425,2555000,2555000,Used for vehicle repair
+TRX1309,2026-08-22,PT0083,Rear Door Assembly,IN,18,set,Purchase Order,PO0253,2653000,47754000,Supplier delivery received
+TRX1310,2026-08-22,PT0133,Headlamp Assembly,OUT,6,set,Repair Order,RO0426,1360000,8160000,Used for vehicle repair
+TRX1311,2026-08-22,PT0058,Front Bumper Assembly,IN,18,pcs,Purchase Order,PO0253,2608000,46944000,Stock replenishment
+TRX1312,2026-08-22,PT0002,Rear Bumper Assembly,IN,15,pcs,Purchase Order,PO0254,1412000,21180000,Supplier delivery received
+TRX1313,2026-08-22,PT0007,Hood Assembly,OUT,4,pcs,Repair Order,RO0426,3382000,13528000,Used for repaint preparation
+TRX1314,2026-08-23,PT0020,Side Mirror Assembly,OUT,4,set,Repair Order,RO0427,636000,2544000,Used for body repair
+TRX1315,2026-08-23,PT0017,Quarter Panel,OUT,2,pcs,Repair Order,RO0428,1180000,2360000,Used for repaint preparation
+TRX1316,2026-08-23,PT0007,Hood Assembly,OUT,11,pcs,Repair Order,RO0428,3382000,37202000,Used for body repair
+TRX1317,2026-08-23,PT0064,Front Grille,IN,12,pcs,Purchase Order,PO0254,766000,9192000,Purchase received
+TRX1318,2026-08-23,PT0086,Hood Assembly,OUT,4,pcs,Repair Order,RO0428,2200000,8800000,Used for repaint preparation
+TRX1319,2026-08-24,PT0025,Trunk Lid,OUT,10,pcs,Repair Order,RO0429,2602000,26020000,Used for vehicle repair
+TRX1320,2026-08-24,PT0009,Roof Panel,IN,7,pcs,Purchase Order,PO0254,3561000,24927000,Purchase received
+TRX1321,2026-08-24,PT0114,Quarter Panel,IN,18,pcs,Purchase Order,PO0255,1403000,25254000,Supplier delivery received
+TRX1322,2026-08-24,PT0015,Front Grille,OUT,5,pcs,Repair Order,RO0429,768000,3840000,Used for repaint preparation
+TRX1323,2026-08-24,PT0025,Trunk Lid,OUT,7,pcs,Repair Order,RO0430,2602000,18214000,Used for vehicle repair
+TRX1324,2026-08-24,PT0117,Rear Fender,IN,18,pcs,Purchase Order,PO0255,1235000,22230000,Supplier delivery received
+TRX1325,2026-08-25,PT0026,Quarter Panel,IN,5,pcs,Purchase Order,PO0255,2097000,10485000,Stock replenishment
+TRX1326,2026-08-25,PT0050,Headlamp Assembly,IN,5,set,Purchase Order,PO0255,1169000,5845000,Purchase received
+TRX1327,2026-08-25,PT0050,Headlamp Assembly,OUT,3,set,Repair Order,RO0430,1169000,3507000,Used for body repair
+TRX1328,2026-08-25,PT0091,Rear Door Assembly,IN,19,set,Purchase Order,PO0256,2725000,51775000,Purchase received
+TRX1329,2026-08-25,PT0012,Front Grille,IN,14,pcs,Purchase Order,PO0256,783000,10962000,Supplier delivery received
+TRX1330,2026-08-25,PT0092,Front Grille,IN,9,pcs,Purchase Order,PO0257,946000,8514000,Stock replenishment
+TRX1331,2026-08-25,PT0088,Windshield,IN,5,pcs,Purchase Order,PO0257,1401000,7005000,Supplier delivery received
+TRX1332,2026-08-25,PT0038,Tail Lamp Assembly,IN,6,set,Purchase Order,PO0257,1037000,6222000,Purchase received
+TRX1333,2026-08-25,PT0052,Rear Bumper Assembly,OUT,4,pcs,Repair Order,RO0430,1353000,5412000,Used for body repair
+TRX1334,2026-08-26,PT0049,Front Bumper Assembly,OUT,12,pcs,Repair Order,RO0430,2632000,31584000,Used for repaint preparation
+TRX1335,2026-08-26,PT0085,Tail Lamp Assembly,OUT,10,set,Repair Order,RO0430,1278000,12780000,Used for body repair
+TRX1336,2026-08-26,PT0108,Rear Door Assembly,IN,8,set,Purchase Order,PO0257,4462000,35696000,Purchase received
+TRX1337,2026-08-26,PT0127,Rear Door Assembly,IN,5,set,Purchase Order,PO0257,2462000,12310000,Supplier delivery received
+TRX1338,2026-08-26,PT0059,Quarter Panel,OUT,4,pcs,Repair Order,RO0431,1342000,5368000,Used for body repair
+TRX1339,2026-08-27,PT0097,Front Door Assembly,IN,10,set,Purchase Order,PO0257,2345000,23450000,Purchase received
+TRX1340,2026-08-27,PT0093,Windshield,IN,16,pcs,Purchase Order,PO0258,2134000,34144000,Purchase received
+TRX1341,2026-08-27,PT0037,Side Mirror Assembly,IN,11,set,Purchase Order,PO0258,631000,6941000,Stock replenishment
+TRX1342,2026-08-27,PT0012,Front Grille,OUT,4,pcs,Repair Order,RO0432,783000,3132000,Used for replacement
+TRX1343,2026-08-27,PT0057,Front Door Assembly,OUT,12,set,Repair Order,RO0433,2515000,30180000,Used for replacement
+TRX1344,2026-08-28,PT0046,Windshield,IN,10,pcs,Purchase Order,PO0258,1587000,15870000,Purchase received
+TRX1345,2026-08-28,PT0006,Rear Bumper Assembly,OUT,3,pcs,Repair Order,RO0434,2328000,6984000,Used for vehicle repair
+TRX1346,2026-08-28,PT0087,Headlamp Assembly,OUT,1,set,Repair Order,RO0435,1418000,1418000,Used for body repair
+TRX1347,2026-08-28,PT0096,Front Grille,OUT,9,pcs,Repair Order,RO0435,805000,7245000,Used for repaint preparation
+TRX1348,2026-08-28,PT0017,Quarter Panel,IN,9,pcs,Purchase Order,PO0258,1180000,10620000,Purchase received
+TRX1349,2026-08-29,PT0137,Trunk Lid,IN,16,pcs,Purchase Order,PO0259,3199000,51184000,Stock replenishment
+TRX1350,2026-08-29,PT0063,Front Bumper Assembly,OUT,13,pcs,Repair Order,RO0435,1713000,22269000,Used for replacement
+TRX1351,2026-08-29,PT0138,Side Mirror Assembly,IN,9,set,Purchase Order,PO0260,673000,6057000,Purchase received
+TRX1352,2026-08-29,PT0072,Front Grille,OUT,14,pcs,Repair Order,RO0436,1127000,15778000,Used for repaint preparation
+TRX1353,2026-08-29,PT0054,Front Fender,OUT,13,pcs,Repair Order,RO0437,1157000,15041000,Used for vehicle repair
+TRX1354,2026-08-29,PT0043,Rear Door Assembly,OUT,13,set,Repair Order,RO0437,2314000,30082000,Used for body repair
+TRX1355,2026-08-29,PT0128,Tail Lamp Assembly,OUT,3,set,Repair Order,RO0438,870000,2610000,Used for body repair
+TRX1356,2026-08-29,PT0135,Front Grille,OUT,12,pcs,Repair Order,RO0438,1120000,13440000,Used for repaint preparation
+TRX1357,2026-08-29,PT0069,Windshield,OUT,11,pcs,Repair Order,RO0438,4417000,48587000,Used for vehicle repair
+TRX1358,2026-08-29,PT0054,Front Fender,IN,11,pcs,Purchase Order,PO0260,1157000,12727000,Purchase received
+TRX1359,2026-08-29,PT0102,Front Door Assembly,IN,18,set,Purchase Order,PO0260,2268000,40824000,Supplier delivery received
+TRX1360,2026-08-30,PT0041,Hood Assembly,OUT,6,pcs,Repair Order,RO0439,1867000,11202000,Used for vehicle repair
+TRX1361,2026-08-30,PT0035,Trunk Lid,OUT,5,pcs,Repair Order,RO0440,1680000,8400000,Used for body repair
+TRX1362,2026-08-30,PT0059,Quarter Panel,OUT,8,pcs,Repair Order,RO0441,1342000,10736000,Used for body repair
+TRX1363,2026-08-31,PT0110,Trunk Lid,OUT,7,pcs,Repair Order,RO0442,3190000,22330000,Used for repaint preparation
+TRX1364,2026-08-31,PT0082,Hood Assembly,IN,5,pcs,Purchase Order,PO0261,2074000,10370000,Purchase received
+TRX1365,2026-08-31,PT0068,Side Mirror Assembly,OUT,6,set,Repair Order,RO0442,608000,3648000,Used for body repair
+TRX1366,2026-08-31,PT0129,Front Grille,OUT,11,pcs,Repair Order,RO0443,681000,7491000,Used for body repair
+TRX1367,2026-08-31,PT0059,Quarter Panel,IN,7,pcs,Purchase Order,PO0262,1342000,9394000,Supplier delivery received
+TRX1368,2026-08-31,PT0052,Rear Bumper Assembly,IN,15,pcs,Purchase Order,PO0263,1353000,20295000,Supplier delivery received
+TRX1369,2026-08-31,PT0071,Front Panel,IN,9,pcs,Purchase Order,PO0263,956000,8604000,Supplier delivery received
+TRX1370,2026-09-01,PT0140,Rear Bumper Assembly,OUT,1,pcs,Repair Order,RO0443,1473000,1473000,Used for body repair
+TRX1371,2026-09-01,PT0089,Front Panel,OUT,7,pcs,Repair Order,RO0443,981000,6867000,Used for vehicle repair
+TRX1372,2026-09-01,PT0121,Front Panel,OUT,7,pcs,Repair Order,RO0443,957000,6699000,Used for repaint preparation
+TRX1373,2026-09-01,PT0059,Quarter Panel,IN,11,pcs,Purchase Order,PO0263,1342000,14762000,Supplier delivery received
+TRX1374,2026-09-01,PT0142,Front Panel,OUT,12,pcs,Repair Order,RO0443,945000,11340000,Used for body repair
+TRX1375,2026-09-01,PT0022,Rear Bumper Assembly,IN,11,pcs,Purchase Order,PO0263,1658000,18238000,Supplier delivery received
+TRX1376,2026-09-02,PT0107,Roof Panel,IN,19,pcs,Purchase Order,PO0263,3058000,58102000,Purchase received
+TRX1377,2026-09-02,PT0096,Front Grille,IN,9,pcs,Purchase Order,PO0264,805000,7245000,Supplier delivery received
+TRX1378,2026-09-02,PT0003,Rear Door Assembly,OUT,11,set,Repair Order,RO0443,2692000,29612000,Used for body repair
+TRX1379,2026-09-03,PT0058,Front Bumper Assembly,IN,17,pcs,Purchase Order,PO0264,2608000,44336000,Supplier delivery received
+TRX1380,2026-09-03,PT0138,Side Mirror Assembly,IN,5,set,Purchase Order,PO0264,673000,3365000,Purchase received
+TRX1381,2026-09-04,PT0036,Side Mirror Assembly,IN,15,set,Purchase Order,PO0264,932000,13980000,Supplier delivery received
+TRX1382,2026-09-04,PT0147,Quarter Panel,OUT,7,pcs,Repair Order,RO0444,3129000,21903000,Used for repaint preparation
+TRX1383,2026-09-04,PT0017,Quarter Panel,OUT,4,pcs,Repair Order,RO0445,1180000,4720000,Used for body repair
+TRX1384,2026-09-04,PT0146,Quarter Panel,OUT,1,pcs,Repair Order,RO0446,2108000,2108000,Used for vehicle repair
+TRX1385,2026-09-05,PT0142,Front Panel,IN,20,pcs,Purchase Order,PO0265,945000,18900000,Purchase received
+TRX1386,2026-09-05,PT0018,Side Mirror Assembly,OUT,7,set,Repair Order,RO0447,909000,6363000,Used for replacement
+TRX1387,2026-09-05,PT0075,Side Mirror Assembly,OUT,2,set,Repair Order,RO0448,552000,1104000,Used for body repair
+TRX1388,2026-09-05,PT0133,Headlamp Assembly,IN,15,set,Purchase Order,PO0265,1360000,20400000,Stock replenishment
+TRX1389,2026-09-05,PT0101,Front Panel,IN,8,pcs,Purchase Order,PO0266,1766000,14128000,Stock replenishment
+TRX1390,2026-09-06,PT0123,Quarter Panel,OUT,7,pcs,Repair Order,RO0448,1277000,8939000,Used for replacement
+TRX1391,2026-09-06,PT0034,Headlamp Assembly,OUT,5,set,Repair Order,RO0449,1325000,6625000,Used for repaint preparation
+TRX1392,2026-09-06,PT0041,Hood Assembly,OUT,5,pcs,Repair Order,RO0450,1867000,9335000,Used for repaint preparation
+TRX1393,2026-09-06,PT0071,Front Panel,IN,9,pcs,Purchase Order,PO0266,956000,8604000,Stock replenishment
+TRX1394,2026-09-06,PT0064,Front Grille,OUT,15,pcs,Repair Order,RO0451,766000,11490000,Used for repaint preparation
+TRX1395,2026-09-06,PT0118,Trunk Lid,OUT,1,pcs,Repair Order,RO0451,1978000,1978000,Used for body repair
+TRX1396,2026-09-06,PT0117,Rear Fender,IN,14,pcs,Purchase Order,PO0267,1235000,17290000,Purchase received
+TRX1397,2026-09-06,PT0107,Roof Panel,IN,18,pcs,Purchase Order,PO0267,3058000,55044000,Supplier delivery received
+TRX1398,2026-09-07,PT0047,Roof Panel,OUT,1,pcs,Repair Order,RO0452,5304000,5304000,Used for vehicle repair
+TRX1399,2026-09-07,PT0062,Front Bumper Assembly,OUT,3,pcs,Repair Order,RO0453,2193000,6579000,Used for body repair
+TRX1400,2026-09-07,PT0018,Side Mirror Assembly,OUT,12,set,Repair Order,RO0453,909000,10908000,Used for repaint preparation
+TRX1401,2026-09-07,PT0106,Rear Fender,OUT,9,pcs,Repair Order,RO0454,1189000,10701000,Used for body repair
+TRX1402,2026-09-07,PT0020,Side Mirror Assembly,OUT,9,set,Repair Order,RO0454,636000,5724000,Used for body repair
+TRX1403,2026-09-08,PT0105,Front Fender,OUT,5,pcs,Repair Order,RO0455,773000,3865000,Used for vehicle repair
+TRX1404,2026-09-08,PT0119,Tail Lamp Assembly,IN,19,set,Purchase Order,PO0268,946000,17974000,Supplier delivery received
+TRX1405,2026-09-08,PT0103,Front Door Assembly,OUT,7,set,Repair Order,RO0456,2851000,19957000,Used for body repair
+TRX1406,2026-09-08,PT0030,Front Fender,OUT,3,pcs,Repair Order,RO0457,741000,2223000,Used for repaint preparation
+TRX1407,2026-09-08,PT0125,Trunk Lid,OUT,2,pcs,Repair Order,RO0458,2806000,5612000,Used for replacement
+TRX1408,2026-09-08,PT0113,Front Door Assembly,IN,13,set,Purchase Order,PO0268,2704000,35152000,Purchase received
+TRX1409,2026-09-09,PT0005,Hood Assembly,OUT,3,pcs,Repair Order,RO0459,2136000,6408000,Used for repaint preparation
+TRX1410,2026-09-09,PT0044,Rear Door Assembly,IN,5,set,Purchase Order,PO0268,2983000,14915000,Purchase received
+TRX1411,2026-09-09,PT0113,Front Door Assembly,IN,11,set,Purchase Order,PO0268,2704000,29744000,Supplier delivery received
+TRX1412,2026-09-09,PT0137,Trunk Lid,IN,6,pcs,Purchase Order,PO0268,3199000,19194000,Supplier delivery received
+TRX1413,2026-09-09,PT0027,Front Panel,IN,14,pcs,Purchase Order,PO0268,1469000,20566000,Supplier delivery received
+TRX1414,2026-09-10,PT0002,Rear Bumper Assembly,IN,17,pcs,Purchase Order,PO0268,1412000,24004000,Purchase received
+TRX1415,2026-09-10,PT0096,Front Grille,OUT,4,pcs,Repair Order,RO0460,805000,3220000,Used for repaint preparation
+TRX1416,2026-09-10,PT0008,Front Door Assembly,OUT,6,set,Repair Order,RO0460,2505000,15030000,Used for vehicle repair
+TRX1417,2026-09-10,PT0057,Front Door Assembly,OUT,2,set,Repair Order,RO0460,2515000,5030000,Used for replacement
+TRX1418,2026-09-11,PT0043,Rear Door Assembly,IN,8,set,Purchase Order,PO0268,2314000,18512000,Stock replenishment
+TRX1419,2026-09-11,PT0144,Front Door Assembly,OUT,10,set,Repair Order,RO0461,2555000,25550000,Used for repaint preparation
+TRX1420,2026-09-11,PT0110,Trunk Lid,IN,11,pcs,Purchase Order,PO0269,3190000,35090000,Stock replenishment
+TRX1421,2026-09-11,PT0045,Front Panel,IN,15,pcs,Purchase Order,PO0270,1646000,24690000,Purchase received
+TRX1422,2026-09-12,PT0118,Trunk Lid,IN,13,pcs,Purchase Order,PO0270,1978000,25714000,Stock replenishment
+TRX1423,2026-09-12,PT0012,Front Grille,IN,11,pcs,Purchase Order,PO0270,783000,8613000,Supplier delivery received
+TRX1424,2026-09-12,PT0128,Tail Lamp Assembly,OUT,2,set,Repair Order,RO0461,870000,1740000,Used for replacement
+TRX1425,2026-09-13,PT0065,Rear Door Assembly,OUT,10,set,Repair Order,RO0462,2944000,29440000,Used for repaint preparation
+TRX1426,2026-09-13,PT0035,Trunk Lid,IN,15,pcs,Purchase Order,PO0270,1680000,25200000,Supplier delivery received
+TRX1427,2026-09-13,PT0124,Tail Lamp Assembly,IN,5,set,Purchase Order,PO0270,887000,4435000,Supplier delivery received
+TRX1428,2026-09-13,PT0115,Windshield,IN,12,pcs,Purchase Order,PO0270,1369000,16428000,Supplier delivery received
+TRX1429,2026-09-14,PT0004,Hood Assembly,IN,8,pcs,Purchase Order,PO0271,1856000,14848000,Supplier delivery received
+TRX1430,2026-09-14,PT0110,Trunk Lid,OUT,10,pcs,Repair Order,RO0463,3190000,31900000,Used for replacement
+TRX1431,2026-09-14,PT0096,Front Grille,OUT,4,pcs,Repair Order,RO0464,805000,3220000,Used for replacement
+TRX1432,2026-09-14,PT0010,Headlamp Assembly,IN,19,set,Purchase Order,PO0271,1113000,21147000,Stock replenishment
+TRX1433,2026-09-14,PT0035,Trunk Lid,IN,6,pcs,Purchase Order,PO0271,1680000,10080000,Stock replenishment
+TRX1434,2026-09-15,PT0074,Side Mirror Assembly,OUT,4,set,Repair Order,RO0464,825000,3300000,Used for body repair
+TRX1435,2026-09-15,PT0088,Windshield,IN,6,pcs,Purchase Order,PO0271,1401000,8406000,Supplier delivery received
+TRX1436,2026-09-15,PT0064,Front Grille,OUT,12,pcs,Repair Order,RO0464,766000,9192000,Used for repaint preparation
+TRX1437,2026-09-15,PT0134,Side Mirror Assembly,IN,19,set,Purchase Order,PO0271,684000,12996000,Purchase received
+TRX1438,2026-09-15,PT0126,Roof Panel,IN,11,pcs,Purchase Order,PO0272,3160000,34760000,Purchase received
+TRX1439,2026-09-16,PT0053,Rear Door Assembly,IN,10,set,Purchase Order,PO0272,2635000,26350000,Purchase received
+TRX1440,2026-09-16,PT0061,Front Panel,OUT,7,pcs,Repair Order,RO0464,1026000,7182000,Used for body repair
+TRX1441,2026-09-16,PT0043,Rear Door Assembly,OUT,4,set,Repair Order,RO0465,2314000,9256000,Used for replacement
+TRX1442,2026-09-16,PT0078,Trunk Lid,IN,19,pcs,Purchase Order,PO0272,3187000,60553000,Purchase received
+TRX1443,2026-09-16,PT0070,Tail Lamp Assembly,OUT,8,set,Repair Order,RO0466,1386000,11088000,Used for body repair
+TRX1444,2026-09-17,PT0102,Front Door Assembly,IN,20,set,Purchase Order,PO0272,2268000,45360000,Supplier delivery received
+TRX1445,2026-09-17,PT0111,Windshield,OUT,14,pcs,Repair Order,RO0466,1430000,20020000,Used for repaint preparation
+TRX1446,2026-09-17,PT0006,Rear Bumper Assembly,OUT,7,pcs,Repair Order,RO0466,2328000,16296000,Used for body repair
+TRX1447,2026-09-17,PT0138,Side Mirror Assembly,IN,10,set,Purchase Order,PO0273,673000,6730000,Stock replenishment
+TRX1448,2026-09-17,PT0079,Trunk Lid,OUT,7,pcs,Repair Order,RO0467,1748000,12236000,Used for repaint preparation
+TRX1449,2026-09-17,PT0019,Windshield,IN,20,pcs,Purchase Order,PO0274,1665000,33300000,Purchase received
+TRX1450,2026-09-17,PT0002,Rear Bumper Assembly,IN,16,pcs,Purchase Order,PO0274,1412000,22592000,Stock replenishment
+TRX1451,2026-09-17,PT0102,Front Door Assembly,OUT,6,set,Repair Order,RO0468,2268000,13608000,Used for body repair
+TRX1452,2026-09-17,PT0019,Windshield,IN,6,pcs,Purchase Order,PO0274,1665000,9990000,Purchase received
+TRX1453,2026-09-17,PT0099,Rear Fender,OUT,3,pcs,Repair Order,RO0469,770000,2310000,Used for repaint preparation
+TRX1454,2026-09-17,PT0066,Side Mirror Assembly,OUT,13,set,Repair Order,RO0469,613000,7969000,Used for repaint preparation
+TRX1455,2026-09-17,PT0095,Rear Door Assembly,OUT,11,set,Repair Order,RO0470,2958000,32538000,Used for repaint preparation
+TRX1456,2026-09-18,PT0064,Front Grille,IN,6,pcs,Purchase Order,PO0274,766000,4596000,Stock replenishment
+TRX1457,2026-09-18,PT0008,Front Door Assembly,OUT,11,set,Repair Order,RO0471,2505000,27555000,Used for repaint preparation
+TRX1458,2026-09-18,PT0038,Tail Lamp Assembly,IN,10,set,Purchase Order,PO0275,1037000,10370000,Purchase received
+TRX1459,2026-09-18,PT0099,Rear Fender,IN,7,pcs,Purchase Order,PO0275,770000,5390000,Purchase received
+TRX1460,2026-09-18,PT0109,Rear Fender,IN,18,pcs,Purchase Order,PO0276,1310000,23580000,Stock replenishment
+TRX1461,2026-09-18,PT0129,Front Grille,OUT,11,pcs,Repair Order,RO0471,681000,7491000,Used for body repair
+TRX1462,2026-09-19,PT0106,Rear Fender,OUT,15,pcs,Repair Order,RO0471,1189000,17835000,Used for vehicle repair
+TRX1463,2026-09-19,PT0028,Windshield,OUT,13,pcs,Repair Order,RO0471,1686000,21918000,Used for replacement
+TRX1464,2026-09-19,PT0069,Windshield,OUT,12,pcs,Repair Order,RO0472,4417000,53004000,Used for body repair
+TRX1465,2026-09-19,PT0002,Rear Bumper Assembly,OUT,14,pcs,Repair Order,RO0473,1412000,19768000,Used for vehicle repair
+TRX1466,2026-09-20,PT0018,Side Mirror Assembly,OUT,7,set,Repair Order,RO0474,909000,6363000,Used for body repair
+TRX1467,2026-09-20,PT0111,Windshield,IN,16,pcs,Purchase Order,PO0277,1430000,22880000,Purchase received
+TRX1468,2026-09-20,PT0051,Trunk Lid,OUT,9,pcs,Repair Order,RO0474,1631000,14679000,Used for repaint preparation
+TRX1469,2026-09-21,PT0146,Quarter Panel,IN,10,pcs,Purchase Order,PO0278,2108000,21080000,Supplier delivery received
+TRX1470,2026-09-21,PT0047,Roof Panel,OUT,2,pcs,Repair Order,RO0475,5304000,10608000,Used for repaint preparation
+TRX1471,2026-09-21,PT0113,Front Door Assembly,OUT,10,set,Repair Order,RO0476,2704000,27040000,Used for replacement
+TRX1472,2026-09-21,PT0021,Side Mirror Assembly,IN,17,set,Purchase Order,PO0279,623000,10591000,Purchase received
+TRX1473,2026-09-22,PT0088,Windshield,IN,12,pcs,Purchase Order,PO0279,1401000,16812000,Supplier delivery received
+TRX1474,2026-09-22,PT0026,Quarter Panel,IN,13,pcs,Purchase Order,PO0279,2097000,27261000,Purchase received
+TRX1475,2026-09-22,PT0150,Trunk Lid,OUT,1,pcs,Repair Order,RO0477,4952000,4952000,Used for vehicle repair
+TRX1476,2026-09-23,PT0097,Front Door Assembly,OUT,13,set,Repair Order,RO0478,2345000,30485000,Used for repaint preparation
+TRX1477,2026-09-23,PT0122,Side Mirror Assembly,OUT,10,set,Repair Order,RO0479,976000,9760000,Used for body repair
+TRX1478,2026-09-23,PT0088,Windshield,OUT,14,pcs,Repair Order,RO0480,1401000,19614000,Used for body repair
+TRX1479,2026-09-24,PT0103,Front Door Assembly,IN,6,set,Purchase Order,PO0279,2851000,17106000,Stock replenishment
+TRX1480,2026-09-24,PT0026,Quarter Panel,IN,17,pcs,Purchase Order,PO0279,2097000,35649000,Purchase received
+TRX1481,2026-09-24,PT0007,Hood Assembly,OUT,14,pcs,Repair Order,RO0481,3382000,47348000,Used for replacement
+TRX1482,2026-09-25,PT0095,Rear Door Assembly,OUT,11,set,Repair Order,RO0481,2958000,32538000,Used for repaint preparation
+TRX1483,2026-09-25,PT0132,Front Panel,IN,11,pcs,Purchase Order,PO0280,1096000,12056000,Supplier delivery received
+TRX1484,2026-09-25,PT0083,Rear Door Assembly,IN,16,set,Purchase Order,PO0280,2653000,42448000,Supplier delivery received
+TRX1485,2026-09-25,PT0084,Front Panel,OUT,4,pcs,Repair Order,RO0481,1179000,4716000,Used for repaint preparation
+TRX1486,2026-09-26,PT0021,Side Mirror Assembly,IN,20,set,Purchase Order,PO0280,623000,12460000,Supplier delivery received
+TRX1487,2026-09-26,PT0026,Quarter Panel,OUT,5,pcs,Repair Order,RO0481,2097000,10485000,Used for replacement
+TRX1488,2026-09-26,PT0134,Side Mirror Assembly,OUT,13,set,Repair Order,RO0481,684000,8892000,Used for vehicle repair
+TRX1489,2026-09-26,PT0033,Windshield,OUT,2,pcs,Repair Order,RO0482,2680000,5360000,Used for repaint preparation
+TRX1490,2026-09-27,PT0044,Rear Door Assembly,OUT,2,set,Repair Order,RO0483,2983000,5966000,Used for replacement
+TRX1491,2026-09-27,PT0063,Front Bumper Assembly,IN,7,pcs,Purchase Order,PO0281,1713000,11991000,Supplier delivery received
+TRX1492,2026-09-27,PT0008,Front Door Assembly,IN,15,set,Purchase Order,PO0281,2505000,37575000,Stock replenishment
+TRX1493,2026-09-27,PT0057,Front Door Assembly,OUT,11,set,Repair Order,RO0484,2515000,27665000,Used for vehicle repair
+TRX1494,2026-09-27,PT0035,Trunk Lid,OUT,11,pcs,Repair Order,RO0484,1680000,18480000,Used for vehicle repair
+TRX1495,2026-09-27,PT0086,Hood Assembly,OUT,15,pcs,Repair Order,RO0485,2200000,33000000,Used for vehicle repair
+TRX1496,2026-09-28,PT0088,Windshield,IN,17,pcs,Purchase Order,PO0281,1401000,23817000,Supplier delivery received
+TRX1497,2026-09-28,PT0112,Front Door Assembly,OUT,4,set,Repair Order,RO0486,2509000,10036000,Used for body repair
+TRX1498,2026-09-28,PT0023,Rear Bumper Assembly,IN,15,pcs,Purchase Order,PO0281,1719000,25785000,Purchase received
+TRX1499,2026-09-28,PT0030,Front Fender,OUT,3,pcs,Repair Order,RO0486,741000,2223000,Used for repaint preparation
+TRX1500,2026-09-28,PT0148,Tail Lamp Assembly,OUT,5,set,Repair Order,RO0487,2533000,12665000,Used for replacement

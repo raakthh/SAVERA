@@ -1,0 +1,801 @@
+queue_id,repair_order_id,service_request_id,vehicle_id,plate_number,brand,model,vehicle_part,damage_type,severity,repair_action,priority,queue_number,estimated_repair_days,estimated_waiting_days,scheduled_date,actual_start_date,actual_completion_date,queue_status,technician_status
+QUE0001,RO0001,SR0001,VH0298,AB 3936 CD,Toyota,Innova,Rear Bumper,Paint Damage,Minor,Repaint,Medium,463,1,1658,2026-06-23,2026-06-23,2026-06-24,Completed,Finished
+QUE0002,RO0002,SR0002,VH0309,DP 6094 WM,Honda,Mobilio,Rear Bumper,Dent,Minor,Replace,Low,633,2,2001,2026-04-23,2026-04-23,NOT_COMPLETED,In Progress,Working
+QUE0003,RO0003,SR0003,VH0131,T 3329 YM,Toyota,Yaris,Hood,Dented,Moderate,Repaint,Medium,420,3,1568,2026-05-20,2026-05-20,NOT_COMPLETED,In Progress,Working
+QUE0004,RO0004,SR0004,VH0099,DP 7767 CR,Nissan,Livina,Rear Fender,Dented,Minor,Repair,Medium,233,1,1128,2026-01-20,2026-01-20,NOT_COMPLETED,In Progress,Working
+QUE0005,RO0005,SR0005,VH0240,H 6588 BQ,Daihatsu,Xenia,Rear Fender,Collision Damage,Severe,Replace,High,158,5,505,2026-06-14,2026-06-14,2026-06-20,Completed,Finished
+QUE0006,RO0006,SR0006,VH0341,E 6713 ZS,Daihatsu,Ayla,Front Panel,Dent,Severe,Replace,Urgent,16,6,30,2026-03-03,2026-03-03,2026-03-08,Completed,Finished
+QUE0007,RO0007,SR0007,VH0208,B 6780 ZF,Kia,Carnival,Side Mirror,Scratch,Severe,Replace,Urgent,10,4,19,2026-01-27,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0008,RO0008,SR0008,VH0012,F 5246 JR,Daihatsu,Xenia,Side Mirror,Shatter,Moderate,Replace,Medium,518,4,1785,2026-07-30,2026-07-30,NOT_COMPLETED,In Progress,Working
+QUE0009,RO0009,SR0009,VH0018,E 2605 QA,Honda,CR-V,Windshield,Crack,Moderate,Replace,Medium,364,4,1435,2026-04-19,2026-04-19,2026-04-24,Completed,Finished
+QUE0010,RO0010,SR0010,VH0335,A 5720 ET,Toyota,Agya,Headlamp,Crack,Moderate,Repair,High,81,5,300,2026-02-21,2026-02-21,2026-02-25,Completed,Finished
+QUE0011,RO0011,SR0011,VH0044,T 9402 UM,Daihatsu,Sigra,Rear Door,Scratch,Minor,Repaint,Medium,479,1,1704,2026-07-02,2026-07-02,2026-07-02,Completed,Finished
+QUE0012,RO0012,SR0012,VH0347,N 7107 JO,Nissan,Kicks,Rear Fender,Dent,Minor,Repaint,Low,599,1,1946,2026-02-26,2026-02-26,2026-03-01,Completed,Finished
+QUE0013,RO0013,SR0013,VH0072,AG 2841 KK,Daihatsu,Rocky,Hood,Dent,Minor,Repair,Medium,232,2,1126,2026-01-20,2026-01-20,NOT_COMPLETED,In Progress,Working
+QUE0014,RO0014,SR0014,VH0282,DK 4055 FT,Toyota,Veloz,Grille,Scratch,Moderate,Repair,Medium,472,5,1684,2026-06-25,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0015,RO0015,SR0015,VH0047,E 6897 BE,Daihatsu,Xenia,Rear Fender,Collision Damage,Severe,Replace,Urgent,26,5,54,2026-04-19,2026-04-19,2026-04-25,Completed,Finished
+QUE0016,RO0016,SR0016,VH0126,D 4770 ZQ,Nissan,Kicks,Windshield,Crack,Moderate,Repair,Medium,361,3,1426,2026-04-16,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0017,RO0017,SR0017,VH0235,DK 3770 XJ,Suzuki,Baleno,Side Mirror,Broken,Moderate,Replace,High,98,2,343,2026-03-14,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0018,RO0018,SR0018,VH0339,S 2294 KV,Hyundai,Stargazer,Windshield,Scratch,Minor,Repair,Medium,249,2,1162,2026-02-06,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0019,RO0019,SR0019,VH0177,DK 8428 VG,Honda,HR-V,Front Panel,Paint Damage,Severe,Repaint,Urgent,5,6,8,2026-01-19,2026-01-19,NOT_COMPLETED,In Progress,Working
+QUE0020,RO0020,SR0020,VH0113,DP 6055 LD,BYD,M6,Rear Door,Dented,Moderate,Replace,Medium,246,2,1157,2026-02-01,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0021,RO0021,SR0021,VH0176,E 1810 CD,Nissan,Kicks,Windshield,Crack,Moderate,Repair,Medium,476,5,1697,2026-06-27,2026-06-27,2026-07-02,Completed,Finished
+QUE0022,RO0022,SR0022,VH0066,F 4772 VD,Mitsubishi,Outlander,Front Bumper,Scratch,Moderate,Repair,High,170,4,535,2026-07-10,2026-07-10,2026-07-14,Completed,Finished
+QUE0023,RO0023,SR0023,VH0223,B 6034 KT,Suzuki,XL7,Front Panel,Paint Damage,Moderate,Repaint,High,92,5,325,2026-03-04,2026-03-04,2026-03-10,Completed,Finished
+QUE0024,RO0024,SR0024,VH0379,T 3324 RD,Mitsubishi,Xpander,Side Mirror,Crack,Minor,Repair,Medium,281,1,1250,2026-02-22,2026-02-22,2026-02-25,Completed,Finished
+QUE0025,RO0025,SR0025,VH0317,DD 4771 ZE,Toyota,Raize,Quarter Panel,Paint Damage,Minor,Repair,Medium,560,2,1880,2026-09-03,2026-09-03,2026-09-07,Completed,Finished
+QUE0026,RO0026,SR0026,VH0383,L 6994 IM,Wuling,Alvez,Headlamp,Crack,Minor,Replace,Medium,248,1,1161,2026-02-06,2026-02-06,2026-02-06,Completed,Finished
+QUE0027,RO0027,SR0027,VH0320,H 3477 VE,Suzuki,Ertiga,Windshield,Shatter,Minor,Replace,Low,704,2,2103,2026-07-05,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0028,RO0028,SR0028,VH0056,A 3624 FE,Toyota,Avanza,Quarter Panel,Dented,Severe,Repair,High,140,6,455,2026-05-17,2026-05-17,2026-05-23,Completed,Finished
+QUE0029,RO0029,SR0029,VH0376,DK 5839 RU,BYD,Dolphin,Headlamp,Shatter,Moderate,Replace,Medium,438,3,1606,2026-06-05,2026-06-05,2026-06-08,Completed,Finished
+QUE0030,RO0030,SR0030,VH0230,N 5895 VZ,Suzuki,Jimny,Headlamp,Crack,Minor,Repair,Low,654,1,2029,2026-05-16,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0031,RO0031,SR0031,VH0171,B 4838 WP,Toyota,Veloz,Windshield,Crack,Minor,Replace,Medium,245,1,1156,2026-01-29,2026-01-29,2026-01-29,Completed,Finished
+QUE0032,RO0032,SR0032,VH0230,N 5895 VZ,Suzuki,Jimny,Headlamp,Broken,Severe,Replace,High,0,8,0,2026-04-15,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0033,RO0033,SR0033,VH0359,F 9861 NO,Mazda,Mazda 2,Front Panel,Collision Damage,Minor,Repair,Low,605,1,1954,2026-03-03,2026-03-03,NOT_COMPLETED,In Progress,Working
+QUE0034,RO0034,SR0034,VH0371,K 9141 HY,Mitsubishi,Outlander,Windshield,Broken,Minor,Replace,Low,738,2,2156,2026-08-18,2026-08-18,2026-08-21,Completed,Finished
+QUE0035,RO0035,SR0035,VH0357,W 1866 IE,Honda,City,Roof,Paint Damage,Minor,Repaint,Medium,294,1,1278,2026-03-06,2026-03-06,NOT_COMPLETED,In Progress,Working
+QUE0036,RO0036,SR0036,VH0125,N 5863 FO,Toyota,Calya,Rear Door,Collision Damage,Minor,Replace,Low,642,1,2014,2026-05-06,2026-05-06,2026-05-08,Completed,Finished
+QUE0037,RO0037,SR0037,VH0388,E 4811 LM,Daihatsu,Xenia,Windshield,Scratch,Minor,Repair,Medium,287,1,1264,2026-03-01,2026-03-01,2026-03-03,Completed,Finished
+QUE0038,RO0038,SR0038,VH0018,E 2605 QA,Honda,CR-V,Windshield,Crack,Moderate,Replace,High,199,4,610,2026-08-22,2026-08-22,2026-08-27,Completed,Finished
+QUE0039,RO0039,SR0039,VH0029,L 9906 JD,Nissan,X-Trail,Windshield,Shatter,Severe,Replace,Urgent,35,9,74,2026-06-19,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0040,RO0040,SR0040,VH0191,B 7303 EW,BMW,3 Series,Grille,Scratch,Severe,Replace,High,121,10,401,2026-04-09,2026-04-09,2026-04-20,Completed,Finished
+QUE0041,RO0041,SR0041,VH0030,P 5008 NK,Toyota,Agya,Quarter Panel,Dent,Minor,Repaint,Medium,359,1,1423,2026-04-11,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0042,RO0042,SR0042,VH0376,DK 5839 RU,BYD,Dolphin,Hood,Scratch,Moderate,Repair,High,184,5,570,2026-08-04,2026-08-04,NOT_COMPLETED,In Progress,Working
+QUE0043,RO0043,SR0043,VH0110,AD 6336 VU,Toyota,Innova,Front Bumper,Collision Damage,Minor,Repair,Low,652,2,2026,2026-05-18,2026-05-18,2026-05-22,Completed,Finished
+QUE0044,RO0044,SR0044,VH0153,Z 6399 HI,Hyundai,Creta,Tail Lamp,Broken,Moderate,Replace,Medium,244,5,1151,2026-02-02,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0045,RO0045,SR0045,VH0363,P 7956 ES,Honda,BR-V,Hood,Dented,Minor,Repair,Medium,349,2,1405,2026-04-10,2026-04-10,2026-04-13,Completed,Finished
+QUE0046,RO0046,SR0046,VH0070,AE 8915 BO,Suzuki,Ertiga,Grille,Scratch,Severe,Replace,High,176,7,552,2026-07-20,2026-07-20,2026-07-26,Completed,Finished
+QUE0047,RO0047,SR0047,VH0199,G 9997 BZ,Suzuki,Jimny,Grille,Broken,Severe,Replace,Urgent,28,8,57,2026-05-19,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0048,RO0048,SR0048,VH0347,N 7107 JO,Nissan,Kicks,Rear Fender,Dent,Minor,Repaint,Medium,265,2,1206,2026-02-12,2026-02-12,2026-02-14,Completed,Finished
+QUE0049,RO0049,SR0049,VH0387,K 6471 TW,Honda,Mobilio,Grille,Broken,Minor,Replace,Low,577,2,1915,2026-01-16,2026-01-16,2026-01-17,Completed,Finished
+QUE0050,RO0050,SR0050,VH0007,L 3384 NV,Daihatsu,Ayla,Headlamp,Scratch,Minor,Repair,Low,613,1,1966,2026-03-19,2026-03-19,2026-03-20,Completed,Finished
+QUE0051,RO0051,SR0051,VH0283,M 8965 VS,BYD,M6,Grille,Broken,Minor,Replace,Low,668,1,2050,2026-05-25,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0052,RO0052,SR0052,VH0244,D 4852 PJ,Honda,Civic,Windshield,Shatter,Moderate,Replace,High,110,3,373,2026-03-21,2026-03-21,2026-03-24,Completed,Finished
+QUE0053,RO0053,SR0053,VH0096,D 7068 DY,Toyota,Fortuner,Side Mirror,Shatter,Moderate,Replace,High,62,5,248,2026-01-17,2026-01-17,2026-01-23,Completed,Finished
+QUE0054,RO0054,SR0054,VH0039,H 8084 PK,BYD,Seal,Tail Lamp,Crack,Moderate,Replace,Medium,215,4,1083,2026-01-04,2026-01-04,2026-01-07,Completed,Finished
+QUE0055,RO0055,SR0055,VH0080,S 3656 NK,Suzuki,Jimny,Trunk,Dent,Minor,Replace,Low,0,1,0,2026-08-13,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0056,RO0056,SR0056,VH0126,D 4770 ZQ,Nissan,Kicks,Front Panel,Scratch,Minor,Repaint,Low,673,2,2056,2026-05-31,2026-05-31,2026-06-03,Completed,Finished
+QUE0057,RO0057,SR0057,VH0357,W 1866 IE,Honda,City,Windshield,Shatter,Minor,Replace,Medium,320,1,1335,2026-03-19,2026-03-19,NOT_COMPLETED,In Progress,Working
+QUE0058,RO0058,SR0058,VH0217,D 3921 ZA,Daihatsu,Xenia,Roof,Dent,Minor,Replace,Low,655,1,2030,2026-05-19,2026-05-19,NOT_COMPLETED,In Progress,Working
+QUE0059,RO0059,SR0059,VH0400,M 4570 JY,Honda,City,Headlamp,Broken,Minor,Replace,Low,749,2,2173,2026-08-29,2026-08-29,NOT_COMPLETED,In Progress,Working
+QUE0060,RO0060,SR0060,VH0108,T 7906 QK,Honda,Civic,Front Bumper,Dent,Moderate,Replace,Medium,474,2,1693,2026-06-27,2026-06-27,NOT_COMPLETED,In Progress,Working
+QUE0061,RO0061,SR0061,VH0400,M 4570 JY,Honda,City,Roof,Paint Damage,Minor,Repaint,Low,646,2,2018,2026-05-13,2026-05-13,2026-05-17,Completed,Finished
+QUE0062,RO0062,SR0062,VH0032,L 5127 HY,Daihatsu,Xenia,Side Mirror,Broken,Minor,Replace,Low,601,2,1949,2026-02-26,2026-02-26,2026-03-01,Completed,Finished
+QUE0063,RO0063,SR0063,VH0001,W 8616 YU,Mitsubishi,Triton,Tail Lamp,Shatter,Severe,Replace,Urgent,0,7,0,2026-05-11,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0064,RO0064,SR0064,VH0329,G 8892 MI,Honda,BR-V,Headlamp,Shatter,Minor,Replace,Low,621,2,1980,2026-04-04,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0065,RO0065,SR0065,VH0007,L 3384 NV,Daihatsu,Ayla,Front Panel,Collision Damage,Moderate,Replace,Medium,380,5,1476,2026-04-25,2026-04-25,NOT_COMPLETED,In Progress,Working
+QUE0066,RO0066,SR0066,VH0036,G 9033 ZO,BYD,M6,Tail Lamp,Crack,Minor,Repair,Low,620,2,1978,2026-04-03,2026-04-03,2026-04-04,Completed,Finished
+QUE0067,RO0067,SR0067,VH0038,DD 2863 HL,Kia,Carnival,Side Mirror,Crack,Minor,Repair,Low,720,2,2128,2026-07-25,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0068,RO0068,SR0068,VH0194,M 2281 AL,Toyota,Raize,Tail Lamp,Crack,Minor,Replace,Medium,268,1,1210,2026-02-18,2026-02-18,2026-02-19,Completed,Finished
+QUE0069,RO0069,SR0069,VH0070,AE 8915 BO,Suzuki,Ertiga,Quarter Panel,Collision Damage,Severe,Repair,High,77,6,287,2026-02-08,2026-02-08,2026-02-13,Completed,Finished
+QUE0070,RO0070,SR0070,VH0094,AD 6105 EH,Honda,Mobilio,Front Panel,Collision Damage,Minor,Repair,Medium,340,2,1385,2026-04-02,2026-04-02,NOT_COMPLETED,In Progress,Working
+QUE0071,RO0071,SR0071,VH0075,S 1051 PD,Kia,Carnival,Side Mirror,Scratch,Severe,Replace,High,63,9,251,2026-01-16,2026-01-16,NOT_COMPLETED,In Progress,Working
+QUE0072,RO0072,SR0072,VH0158,E 7627 UN,Honda,HR-V,Headlamp,Shatter,Minor,Replace,Low,716,1,2121,2026-07-21,2026-07-21,2026-07-21,Completed,Finished
+QUE0073,RO0073,SR0073,VH0350,Z 7956 RO,Toyota,Raize,Tail Lamp,Crack,Minor,Replace,Medium,258,1,1189,2026-02-10,2026-02-10,2026-02-10,Completed,Finished
+QUE0074,RO0074,SR0074,VH0376,DK 5839 RU,BYD,Dolphin,Headlamp,Shatter,Moderate,Replace,Medium,321,3,1336,2026-03-20,2026-03-20,2026-03-25,Completed,Finished
+QUE0075,RO0075,SR0075,VH0043,M 9722 SM,Mitsubishi,Pajero Sport,Front Bumper,Scratch,Minor,Repair,Medium,355,1,1419,2026-04-11,2026-04-11,2026-04-13,Completed,Finished
+QUE0076,RO0076,SR0076,VH0373,K 6860 CL,Daihatsu,Xenia,Rear Fender,Collision Damage,Minor,Repair,Medium,395,1,1506,2026-05-06,2026-05-06,NOT_COMPLETED,In Progress,Working
+QUE0077,RO0077,SR0077,VH0038,DD 2863 HL,Kia,Carnival,Side Mirror,Scratch,Severe,Replace,High,134,5,440,2026-05-07,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0078,RO0078,SR0078,VH0057,F 2579 EL,Mitsubishi,Pajero Sport,Tail Lamp,Broken,Severe,Replace,High,149,8,479,2026-06-03,2026-06-03,2026-06-11,Completed,Finished
+QUE0079,RO0079,SR0079,VH0384,P 7603 MO,Mitsubishi,Outlander,Windshield,Broken,Minor,Replace,Low,733,2,2147,2026-08-11,2026-08-11,2026-08-14,Completed,Finished
+QUE0080,RO0080,SR0080,VH0349,L 2252 OF,Daihatsu,Terios,Headlamp,Shatter,Minor,Replace,Low,681,1,2069,2026-06-12,2026-06-12,2026-06-14,Completed,Finished
+QUE0081,RO0081,SR0081,VH0021,A 6466 HP,Toyota,Avanza,Front Panel,Collision Damage,Minor,Repair,Medium,266,1,1208,2026-02-16,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0082,RO0082,SR0082,VH0340,K 5454 GX,Kia,Sonet,Hood,Collision Damage,Severe,Replace,High,133,8,435,2026-05-04,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0083,RO0083,SR0083,VH0374,N 9205 KS,Hyundai,Stargazer,Tail Lamp,Broken,Minor,Replace,Medium,529,1,1814,2026-08-09,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0084,RO0084,SR0084,VH0314,F 3372 GP,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,Medium,366,2,1441,2026-04-16,2026-04-16,2026-04-20,Completed,Finished
+QUE0085,RO0085,SR0085,VH0341,E 6713 ZS,Daihatsu,Ayla,Rear Bumper,Paint Damage,Minor,Repair,Medium,426,1,1586,2026-05-24,2026-05-24,2026-05-24,Completed,Finished
+QUE0086,RO0086,SR0086,VH0094,AD 6105 EH,Honda,Mobilio,Rear Bumper,Scratch,Moderate,Repair,Medium,231,3,1123,2026-01-19,2026-01-19,2026-01-21,Completed,Finished
+QUE0087,RO0087,SR0087,VH0067,G 3289 GC,Daihatsu,Sigra,Rear Fender,Paint Damage,Minor,Repaint,Medium,239,1,1141,2026-01-22,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0088,RO0088,SR0088,VH0025,D 2001 WE,Mitsubishi,Xpander,Front Fender,Collision Damage,Moderate,Replace,Medium,431,3,1592,2026-05-26,2026-05-26,2026-05-28,Completed,Finished
+QUE0089,RO0089,SR0089,VH0358,B 2954 VL,Honda,BR-V,Rear Fender,Collision Damage,Minor,Repair,Medium,228,1,1116,2026-01-18,2026-01-18,NOT_COMPLETED,In Progress,Working
+QUE0090,RO0090,SR0090,VH0228,G 6135 IY,Suzuki,Jimny,Headlamp,Crack,Minor,Repair,Low,588,1,1932,2026-02-05,2026-02-05,2026-02-05,Completed,Finished
+QUE0091,RO0091,SR0091,VH0038,DD 2863 HL,Kia,Carnival,Grille,Scratch,Severe,Replace,Urgent,43,9,93,2026-08-03,2026-08-03,2026-08-11,Completed,Finished
+QUE0092,RO0092,SR0092,VH0321,W 4988 AH,Kia,Sonet,Side Mirror,Crack,Minor,Repair,Low,689,1,2078,2026-06-16,2026-06-16,2026-06-16,Completed,Finished
+QUE0093,RO0093,SR0093,VH0398,T 9968 ZW,Daihatsu,Ayla,Front Panel,Collision Damage,Moderate,Replace,Medium,515,4,1777,2026-07-31,2026-07-31,2026-08-04,Completed,Finished
+QUE0094,RO0094,SR0094,VH0165,L 1332 VK,Mitsubishi,Triton,Headlamp,Shatter,Moderate,Replace,High,95,5,332,2026-03-11,2026-03-11,2026-03-15,Completed,Finished
+QUE0095,RO0095,SR0095,VH0281,A 3036 HB,Daihatsu,Ayla,Rear Bumper,Paint Damage,Minor,Repair,Low,640,1,2012,2026-05-05,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0096,RO0096,SR0096,VH0285,AG 7571 DP,Mitsubishi,Outlander,Side Mirror,Shatter,Moderate,Replace,High,0,2,0,2026-04-03,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0097,RO0097,SR0097,VH0130,B 5052 UI,Toyota,Calya,Tail Lamp,Scratch,Minor,Repair,Low,618,2,1974,2026-03-28,2026-03-28,2026-03-30,Completed,Finished
+QUE0098,RO0098,SR0098,VH0164,N 8470 MN,Daihatsu,Ayla,Front Bumper,Dented,Moderate,Repair,Medium,0,5,0,2026-09-06,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0099,RO0099,SR0099,VH0129,A 5748 NK,Mitsubishi,Pajero Sport,Trunk,Dent,Moderate,Repaint,Medium,480,2,1705,2026-07-01,2026-07-01,2026-07-03,Completed,Finished
+QUE0100,RO0100,SR0100,VH0217,D 3921 ZA,Daihatsu,Xenia,Side Mirror,Crack,Moderate,Replace,High,0,2,0,2026-08-06,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0101,RO0101,SR0101,VH0237,T 1876 AJ,Hyundai,Santa Fe,Hood,Scratch,Moderate,Repaint,Medium,421,4,1571,2026-05-21,2026-05-21,2026-05-26,Completed,Finished
+QUE0102,RO0102,SR0102,VH0275,E 7837 QB,Suzuki,Baleno,Grille,Scratch,Moderate,Repair,Medium,566,4,1895,2026-09-13,2026-09-13,2026-09-16,Completed,Finished
+QUE0103,RO0103,SR0103,VH0093,DD 6756 RA,Kia,Sonet,Grille,Scratch,Minor,Repair,Medium,304,1,1301,2026-03-14,2026-03-14,NOT_COMPLETED,In Progress,Working
+QUE0104,RO0104,SR0104,VH0253,N 2783 OS,Honda,City,Side Mirror,Crack,Moderate,Replace,High,204,3,621,2026-09-01,2026-09-01,2026-09-06,Completed,Finished
+QUE0105,RO0105,SR0105,VH0077,DD 7419 SG,Honda,City,Tail Lamp,Scratch,Severe,Replace,Urgent,33,6,70,2026-06-18,2026-06-18,2026-06-25,Completed,Finished
+QUE0106,RO0106,SR0106,VH0353,K 5281 AB,Toyota,Veloz,Tail Lamp,Shatter,Severe,Replace,Urgent,17,7,32,2026-03-06,2026-03-06,2026-03-15,Completed,Finished
+QUE0107,RO0107,SR0107,VH0261,AD 9342 MR,BYD,Dolphin,Rear Bumper,Collision Damage,Minor,Repair,Low,641,1,2013,2026-05-05,2026-05-05,NOT_COMPLETED,In Progress,Working
+QUE0108,RO0108,SR0108,VH0190,F 2948 UC,Daihatsu,Terios,Front Bumper,Dent,Minor,Repair,Low,589,2,1933,2026-02-08,2026-02-08,2026-02-09,Completed,Finished
+QUE0109,RO0109,SR0109,VH0158,E 7627 UN,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,High,0,5,0,2026-03-24,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0110,RO0110,SR0110,VH0061,L 2717 OM,Honda,CR-V,Side Mirror,Scratch,Moderate,Repair,Medium,454,2,1639,2026-06-13,2026-06-13,NOT_COMPLETED,In Progress,Working
+QUE0111,RO0111,SR0111,VH0116,N 6727 FM,Daihatsu,Ayla,Rear Bumper,Dented,Minor,Repair,Medium,307,2,1305,2026-03-12,2026-03-12,2026-03-16,Completed,Finished
+QUE0112,RO0112,SR0112,VH0192,G 6365 NB,Honda,CR-V,Tail Lamp,Shatter,Minor,Replace,Low,657,2,2033,2026-05-21,2026-05-21,2026-05-25,Completed,Finished
+QUE0113,RO0113,SR0113,VH0350,Z 7956 RO,Toyota,Raize,Tail Lamp,Crack,Minor,Replace,Medium,437,2,1604,2026-06-02,2026-06-02,NOT_COMPLETED,In Progress,Working
+QUE0114,RO0114,SR0114,VH0330,F 8151 ET,Honda,Civic,Rear Door,Paint Damage,Moderate,Repaint,High,173,5,543,2026-07-16,2026-07-16,2026-07-23,Completed,Finished
+QUE0115,RO0115,SR0115,VH0041,AE 2938 RB,Daihatsu,Ayla,Windshield,Scratch,Minor,Repair,Low,603,1,1952,2026-02-28,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0116,RO0116,SR0116,VH0102,DD 4101 ZH,Toyota,Yaris,Rear Door,Dented,Minor,Repair,Low,610,1,1961,2026-03-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0117,RO0117,SR0117,VH0130,B 5052 UI,Toyota,Calya,Front Bumper,Collision Damage,Minor,Replace,Medium,348,2,1403,2026-04-03,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0118,RO0118,SR0118,VH0070,AE 8915 BO,Suzuki,Ertiga,Front Fender,Paint Damage,Severe,Repaint,High,187,8,578,2026-08-06,2026-08-06,2026-08-13,Completed,Finished
+QUE0119,RO0119,SR0119,VH0212,F 5620 EB,Toyota,Yaris,Side Mirror,Crack,Minor,Repair,Low,680,1,2068,2026-06-07,2026-06-07,2026-06-07,Completed,Finished
+QUE0120,RO0120,SR0120,VH0360,L 6601 VX,Nissan,X-Trail,Tail Lamp,Broken,Minor,Replace,Low,717,2,2122,2026-07-22,2026-07-22,2026-07-26,Completed,Finished
+QUE0121,RO0121,SR0121,VH0327,AG 6889 SF,Honda,CR-V,Front Bumper,Scratch,Minor,Repaint,Low,682,1,2070,2026-06-10,2026-06-10,NOT_COMPLETED,In Progress,Working
+QUE0122,RO0122,SR0122,VH0312,E 4133 ZK,Mitsubishi,Pajero Sport,Trunk,Paint Damage,Moderate,Repair,High,108,4,370,2026-03-22,2026-03-22,2026-03-26,Completed,Finished
+QUE0123,RO0123,SR0123,VH0330,F 8151 ET,Honda,Civic,Side Mirror,Broken,Minor,Replace,Medium,404,2,1529,2026-05-09,2026-05-09,NOT_COMPLETED,In Progress,Working
+QUE0124,RO0124,SR0124,VH0134,DP 5629 MF,Honda,CR-V,Side Mirror,Scratch,Moderate,Repair,Medium,368,5,1445,2026-04-21,2026-04-21,NOT_COMPLETED,In Progress,Working
+QUE0125,RO0125,SR0125,VH0037,AG 7688 UR,Mitsubishi,Triton,Front Panel,Dent,Moderate,Replace,Medium,520,2,1791,2026-08-04,2026-08-04,2026-08-08,Completed,Finished
+QUE0126,RO0126,SR0126,VH0172,DD 4470 BH,Toyota,Calya,Rear Door,Paint Damage,Minor,Repair,Low,568,2,1900,2026-01-09,2026-01-09,NOT_COMPLETED,In Progress,Working
+QUE0127,RO0127,SR0127,VH0175,W 8144 SY,Wuling,Confero,Hood,Dented,Minor,Repaint,Medium,494,1,1734,2026-07-13,2026-07-13,2026-07-14,Completed,Finished
+QUE0128,RO0128,SR0128,VH0264,P 2411 AD,Daihatsu,Xenia,Rear Fender,Paint Damage,Minor,Repaint,Medium,400,1,1520,2026-05-08,2026-05-08,2026-05-09,Completed,Finished
+QUE0129,RO0129,SR0129,VH0337,AB 8528 YS,BYD,Dolphin,Tail Lamp,Broken,Severe,Replace,High,118,5,394,2026-04-04,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0130,RO0130,SR0130,VH0257,T 7001 CK,Suzuki,Baleno,Headlamp,Shatter,Moderate,Replace,High,68,4,266,2026-01-26,2026-01-26,2026-01-31,Completed,Finished
+QUE0131,RO0131,SR0131,VH0327,AG 6889 SF,Honda,CR-V,Side Mirror,Scratch,Moderate,Repair,Medium,217,3,1088,2026-01-08,2026-01-08,NOT_COMPLETED,In Progress,Working
+QUE0132,RO0132,SR0132,VH0328,DP 8321 VE,Honda,CR-V,Rear Bumper,Scratch,Moderate,Repaint,Medium,561,5,1882,2026-09-06,2026-09-06,2026-09-13,Completed,Finished
+QUE0133,RO0133,SR0133,VH0267,L 7845 BH,Nissan,X-Trail,Windshield,Crack,Moderate,Repair,High,188,5,583,2026-08-05,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0134,RO0134,SR0134,VH0359,F 9861 NO,Mazda,Mazda 2,Grille,Crack,Minor,Replace,Low,637,1,2008,2026-04-30,2026-04-30,2026-05-02,Completed,Finished
+QUE0135,RO0135,SR0135,VH0022,AG 8330 DW,Hyundai,Creta,Hood,Collision Damage,Minor,Repair,Medium,514,1,1776,2026-07-30,2026-07-30,NOT_COMPLETED,In Progress,Working
+QUE0136,RO0136,SR0136,VH0366,DP 3156 MV,Isuzu,D-Max,Front Bumper,Collision Damage,Moderate,Replace,Medium,506,2,1759,2026-07-18,2026-07-18,2026-07-22,Completed,Finished
+QUE0137,RO0137,SR0137,VH0340,K 5454 GX,Kia,Sonet,Rear Bumper,Collision Damage,Minor,Repair,Low,702,1,2101,2026-06-30,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0138,RO0138,SR0138,VH0179,DK 5438 GQ,Toyota,Veloz,Headlamp,Scratch,Minor,Repair,Low,705,1,2105,2026-07-07,2026-07-07,NOT_COMPLETED,In Progress,Working
+QUE0139,RO0139,SR0139,VH0176,E 1810 CD,Nissan,Kicks,Tail Lamp,Crack,Minor,Replace,Low,729,1,2141,2026-08-06,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0140,RO0140,SR0140,VH0387,K 6471 TW,Honda,Mobilio,Side Mirror,Scratch,Moderate,Repair,High,212,3,645,2026-09-11,2026-09-11,2026-09-14,Completed,Finished
+QUE0141,RO0141,SR0141,VH0148,B 2277 XY,Mitsubishi,Pajero Sport,Front Fender,Paint Damage,Moderate,Repair,Medium,451,2,1634,2026-06-09,2026-06-09,2026-06-13,Completed,Finished
+QUE0142,RO0142,SR0142,VH0007,L 3384 NV,Daihatsu,Ayla,Tail Lamp,Scratch,Minor,Repair,Low,663,1,2042,2026-05-26,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0143,RO0143,SR0143,VH0232,S 3640 WE,Mitsubishi,Outlander,Side Mirror,Broken,Minor,Replace,Medium,358,1,1422,2026-04-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0144,RO0144,SR0144,VH0045,F 1098 CD,Toyota,Rush,Side Mirror,Shatter,Minor,Replace,Medium,442,2,1618,2026-06-05,2026-06-05,NOT_COMPLETED,In Progress,Working
+QUE0145,RO0145,SR0145,VH0354,AB 7512 LJ,Toyota,Yaris,Front Fender,Paint Damage,Moderate,Repaint,High,174,4,546,2026-07-15,2026-07-15,2026-07-18,Completed,Finished
+QUE0146,RO0146,SR0146,VH0225,T 3068 TW,BYD,Dolphin,Grille,Scratch,Moderate,Repair,Medium,0,5,0,2026-01-03,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0147,RO0147,SR0147,VH0151,A 1312 OL,Toyota,Veloz,Headlamp,Broken,Moderate,Replace,High,84,3,307,2026-02-22,2026-02-22,2026-02-24,Completed,Finished
+QUE0148,RO0148,SR0148,VH0162,K 8214 JA,Toyota,Innova,Grille,Crack,Minor,Replace,Medium,543,1,1845,2026-08-25,2026-08-25,2026-08-28,Completed,Finished
+QUE0149,RO0149,SR0149,VH0340,K 5454 GX,Kia,Sonet,Grille,Broken,Minor,Replace,Medium,331,2,1364,2026-03-24,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0150,RO0150,SR0150,VH0159,DP 1315 NK,Honda,Brio,Roof,Dented,Minor,Repaint,Low,659,1,2037,2026-05-22,2026-05-22,NOT_COMPLETED,In Progress,Working
+QUE0151,RO0151,SR0151,VH0152,M 6953 RW,Toyota,Innova,Rear Fender,Scratch,Severe,Repair,Urgent,27,5,56,2026-05-04,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0152,RO0152,SR0152,VH0045,F 1098 CD,Toyota,Rush,Grille,Shatter,Moderate,Replace,Medium,346,2,1399,2026-04-01,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0153,RO0153,SR0153,VH0190,F 2948 UC,Daihatsu,Terios,Front Fender,Collision Damage,Minor,Repair,Medium,383,1,1484,2026-04-25,2026-04-25,2026-04-25,Completed,Finished
+QUE0154,RO0154,SR0154,VH0353,K 5281 AB,Toyota,Veloz,Grille,Broken,Moderate,Replace,Medium,295,4,1279,2026-03-04,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0155,RO0155,SR0155,VH0266,DD 2191 HE,Daihatsu,Ayla,Rear Bumper,Scratch,Minor,Repaint,Medium,483,2,1710,2026-07-02,2026-07-02,2026-07-03,Completed,Finished
+QUE0156,RO0156,SR0156,VH0071,B 6159 JI,Daihatsu,Ayla,Rear Bumper,Scratch,Minor,Repaint,Medium,394,2,1504,2026-05-01,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0157,RO0157,SR0157,VH0212,F 5620 EB,Toyota,Yaris,Windshield,Shatter,Minor,Replace,Medium,247,2,1159,2026-02-05,2026-02-05,2026-02-08,Completed,Finished
+QUE0158,RO0158,SR0158,VH0075,S 1051 PD,Kia,Carnival,Rear Fender,Scratch,Minor,Repair,Medium,314,1,1322,2026-03-17,2026-03-17,2026-03-20,Completed,Finished
+QUE0159,RO0159,SR0159,VH0266,DD 2191 HE,Daihatsu,Ayla,Tail Lamp,Scratch,Minor,Repair,Medium,528,2,1812,2026-08-09,2026-08-09,2026-08-11,Completed,Finished
+QUE0160,RO0160,SR0160,VH0295,T 2605 CD,BYD,M6,Windshield,Broken,Moderate,Replace,High,135,3,443,2026-05-07,2026-05-07,2026-05-10,Completed,Finished
+QUE0161,RO0161,SR0161,VH0166,Z 5500 WI,Kia,Seltos,Side Mirror,Broken,Minor,Replace,Low,581,2,1921,2026-01-19,2026-01-19,NOT_COMPLETED,In Progress,Working
+QUE0162,RO0162,SR0162,VH0222,E 5498 RC,Daihatsu,Sigra,Headlamp,Shatter,Moderate,Replace,High,177,2,556,2026-07-22,2026-07-22,2026-07-26,Completed,Finished
+QUE0163,RO0163,SR0163,VH0352,S 3386 SI,Suzuki,Ertiga,Side Mirror,Broken,Minor,Replace,Medium,273,1,1226,2026-02-21,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0164,RO0164,SR0164,VH0121,B 5134 YX,Honda,CR-V,Rear Bumper,Scratch,Moderate,Repaint,High,185,3,573,2026-08-04,2026-08-04,2026-08-06,Completed,Finished
+QUE0165,RO0165,SR0165,VH0172,DD 4470 BH,Toyota,Calya,Front Panel,Dent,Minor,Replace,Medium,407,2,1534,2026-05-11,2026-05-11,2026-05-14,Completed,Finished
+QUE0166,RO0166,SR0166,VH0044,T 9402 UM,Daihatsu,Sigra,Trunk,Scratch,Minor,Repair,Medium,554,1,1866,2026-08-27,2026-08-27,NOT_COMPLETED,In Progress,Working
+QUE0167,RO0167,SR0167,VH0379,T 3324 RD,Mitsubishi,Xpander,Grille,Broken,Minor,Replace,Low,576,1,1914,2026-01-17,2026-01-17,NOT_COMPLETED,In Progress,Working
+QUE0168,RO0168,SR0168,VH0230,N 5895 VZ,Suzuki,Jimny,Headlamp,Crack,Minor,Repair,Low,639,1,2011,2026-05-01,2026-05-01,2026-05-01,Completed,Finished
+QUE0169,RO0169,SR0169,VH0125,N 5863 FO,Toyota,Calya,Front Door,Scratch,Minor,Repair,Medium,504,1,1756,2026-07-15,2026-07-15,2026-07-17,Completed,Finished
+QUE0170,RO0170,SR0170,VH0035,W 2299 HA,Honda,BR-V,Headlamp,Crack,Minor,Repair,Low,759,1,2188,2026-09-10,2026-09-10,2026-09-13,Completed,Finished
+QUE0171,RO0171,SR0171,VH0282,DK 4055 FT,Toyota,Veloz,Front Panel,Dent,Minor,Replace,Medium,465,2,1661,2026-06-22,2026-06-22,2026-06-23,Completed,Finished
+QUE0172,RO0172,SR0172,VH0371,K 9141 HY,Mitsubishi,Outlander,Front Bumper,Dented,Moderate,Repair,High,178,2,557,2026-07-19,2026-07-19,2026-07-21,Completed,Finished
+QUE0173,RO0173,SR0173,VH0115,W 4090 QW,Honda,HR-V,Front Bumper,Dent,Minor,Repaint,Low,715,2,2119,2026-07-24,2026-07-24,NOT_COMPLETED,In Progress,Working
+QUE0174,RO0174,SR0174,VH0233,E 4958 IT,Daihatsu,Sigra,Tail Lamp,Scratch,Minor,Repair,Medium,0,1,0,2026-01-30,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0175,RO0175,SR0175,VH0200,Z 5983 TK,Toyota,Calya,Front Panel,Dent,Minor,Replace,Low,664,2,2043,2026-05-22,2026-05-22,2026-05-26,Completed,Finished
+QUE0176,RO0176,SR0176,VH0056,A 3624 FE,Toyota,Avanza,Grille,Scratch,Minor,Repair,Medium,312,2,1318,2026-03-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0177,RO0177,SR0177,VH0117,H 5833 SC,Honda,CR-V,Windshield,Crack,Moderate,Replace,High,86,2,312,2026-02-25,2026-02-25,2026-03-01,Completed,Finished
+QUE0178,RO0178,SR0178,VH0048,E 7780 PM,Mitsubishi,Pajero Sport,Trunk,Dented,Minor,Repaint,Medium,242,1,1148,2026-01-29,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0179,RO0179,SR0179,VH0385,W 1624 EW,Toyota,Avanza,Tail Lamp,Broken,Minor,Replace,Low,760,2,2189,2026-09-07,2026-09-07,2026-09-08,Completed,Finished
+QUE0180,RO0180,SR0180,VH0197,E 1293 XH,Suzuki,Swift,Grille,Broken,Minor,Replace,Medium,470,2,1679,2026-06-23,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0181,RO0181,SR0181,VH0123,K 7953 XR,Honda,Mobilio,Rear Bumper,Scratch,Moderate,Repair,High,103,4,357,2026-03-15,2026-03-15,NOT_COMPLETED,In Progress,Working
+QUE0182,RO0182,SR0182,VH0179,DK 5438 GQ,Toyota,Veloz,Tail Lamp,Crack,Moderate,Replace,High,171,5,537,2026-07-13,2026-07-13,NOT_COMPLETED,In Progress,Working
+QUE0183,RO0183,SR0183,VH0023,T 1835 TZ,Honda,City,Front Bumper,Paint Damage,Minor,Repair,Low,0,2,0,2026-09-07,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0184,RO0184,SR0184,VH0049,T 2891 WF,Daihatsu,Terios,Rear Door,Scratch,Minor,Repair,Medium,282,1,1251,2026-02-23,2026-02-23,NOT_COMPLETED,In Progress,Working
+QUE0185,RO0185,SR0185,VH0047,E 6897 BE,Daihatsu,Xenia,Windshield,Scratch,Minor,Repair,Low,614,2,1967,2026-03-18,2026-03-18,NOT_COMPLETED,In Progress,Working
+QUE0186,RO0186,SR0186,VH0123,K 7953 XR,Honda,Mobilio,Rear Bumper,Scratch,Moderate,Repair,Medium,0,3,0,2026-07-05,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0187,RO0187,SR0187,VH0140,D 8256 RP,Isuzu,D-Max,Headlamp,Shatter,Minor,Replace,Medium,326,2,1352,2026-03-17,2026-03-17,NOT_COMPLETED,In Progress,Working
+QUE0188,RO0188,SR0188,VH0155,AB 5065 EY,Toyota,Agya,Quarter Panel,Dent,Minor,Repaint,Low,595,2,1941,2026-02-20,2026-02-20,2026-02-23,Completed,Finished
+QUE0189,RO0189,SR0189,VH0296,L 3768 MB,Ford,Everest,Rear Bumper,Paint Damage,Minor,Repaint,Medium,464,2,1659,2026-06-24,2026-06-24,2026-06-25,Completed,Finished
+QUE0190,RO0190,SR0190,VH0208,B 6780 ZF,Kia,Carnival,Windshield,Shatter,Moderate,Replace,Medium,458,3,1649,2026-06-19,2026-06-19,2026-06-21,Completed,Finished
+QUE0191,RO0191,SR0191,VH0250,W 5461 QJ,Daihatsu,Ayla,Grille,Shatter,Severe,Replace,Urgent,8,8,14,2026-01-24,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0192,RO0192,SR0192,VH0093,DD 6756 RA,Kia,Sonet,Rear Bumper,Collision Damage,Minor,Repair,Medium,477,1,1702,2026-06-28,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0193,RO0193,SR0193,VH0177,DK 8428 VG,Honda,HR-V,Front Door,Paint Damage,Minor,Repaint,Low,675,2,2060,2026-06-06,2026-06-06,NOT_COMPLETED,In Progress,Working
+QUE0194,RO0194,SR0194,VH0368,Z 8398 GW,Hyundai,Ioniq 5,Front Bumper,Paint Damage,Severe,Repair,High,131,7,429,2026-05-02,2026-05-02,NOT_COMPLETED,In Progress,Working
+QUE0195,RO0195,SR0195,VH0097,B 9808 UI,Daihatsu,Ayla,Grille,Shatter,Severe,Replace,Urgent,0,10,0,2026-06-27,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0196,RO0196,SR0196,VH0150,E 8684 DE,Toyota,Calya,Hood,Dent,Minor,Repaint,Medium,405,2,1531,2026-05-06,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0197,RO0197,SR0197,VH0289,M 9656 MV,Suzuki,Jimny,Headlamp,Broken,Severe,Replace,Urgent,48,4,105,2026-09-04,2026-09-04,2026-09-09,Completed,Finished
+QUE0198,RO0198,SR0198,VH0302,S 8160 DH,Suzuki,Baleno,Grille,Scratch,Moderate,Repair,High,137,2,449,2026-05-13,2026-05-13,2026-05-14,Completed,Finished
+QUE0199,RO0199,SR0199,VH0089,F 7506 AB,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,High,60,3,241,2026-01-15,2026-01-15,NOT_COMPLETED,In Progress,Working
+QUE0200,RO0200,SR0200,VH0213,G 5117 LS,Suzuki,Swift,Trunk,Collision Damage,Moderate,Repair,High,195,3,604,2026-08-19,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0201,RO0201,SR0201,VH0229,B 9051 EK,Honda,BR-V,Front Fender,Dented,Moderate,Repaint,High,125,2,414,2026-04-20,2026-04-20,2026-04-24,Completed,Finished
+QUE0202,RO0202,SR0202,VH0234,AE 6496 KY,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,High,88,4,315,2026-02-25,2026-02-25,NOT_COMPLETED,In Progress,Working
+QUE0203,RO0203,SR0203,VH0091,S 9446 YC,Honda,HR-V,Grille,Broken,Minor,Replace,Low,707,1,2107,2026-07-07,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0204,RO0204,SR0204,VH0058,P 1173 VU,Toyota,Veloz,Grille,Scratch,Moderate,Repair,High,139,5,452,2026-05-18,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0205,RO0205,SR0205,VH0342,AD 5395 AR,Mitsubishi,Pajero Sport,Trunk,Dented,Minor,Repaint,Medium,350,1,1407,2026-04-11,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0206,RO0206,SR0206,VH0303,H 8386 LY,Mitsubishi,Outlander,Tail Lamp,Broken,Minor,Replace,Medium,342,1,1390,2026-03-30,2026-03-30,2026-04-02,Completed,Finished
+QUE0207,RO0207,SR0207,VH0152,M 6953 RW,Toyota,Innova,Rear Door,Dent,Minor,Repaint,Low,626,2,1989,2026-04-16,2026-04-16,2026-04-17,Completed,Finished
+QUE0208,RO0208,SR0208,VH0028,D 9964 UH,Toyota,Avanza,Tail Lamp,Broken,Minor,Replace,Medium,224,1,1106,2026-01-14,2026-01-14,2026-01-16,Completed,Finished
+QUE0209,RO0209,SR0209,VH0330,F 8151 ET,Honda,Civic,Front Fender,Paint Damage,Moderate,Repaint,High,91,3,323,2026-03-06,2026-03-06,NOT_COMPLETED,In Progress,Working
+QUE0210,RO0210,SR0210,VH0189,M 5964 ZN,Mitsubishi,Pajero Sport,Tail Lamp,Broken,Severe,Replace,High,58,7,234,2026-01-13,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0211,RO0211,SR0211,VH0192,G 6365 NB,Honda,CR-V,Rear Fender,Dent,Minor,Repaint,Low,755,2,2182,2026-09-01,2026-09-01,NOT_COMPLETED,In Progress,Working
+QUE0212,RO0212,SR0212,VH0336,AE 6601 VY,Wuling,Air ev,Rear Fender,Dent,Minor,Replace,Medium,381,1,1481,2026-04-23,2026-04-23,2026-04-24,Completed,Finished
+QUE0213,RO0213,SR0213,VH0331,K 4083 NI,Daihatsu,Rocky,Headlamp,Crack,Moderate,Replace,High,0,2,0,2026-02-09,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0214,RO0214,SR0214,VH0226,DD 8294 LC,Honda,City,Headlamp,Broken,Minor,Replace,Medium,521,1,1793,2026-08-01,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0215,RO0215,SR0215,VH0115,W 4090 QW,Honda,HR-V,Tail Lamp,Shatter,Minor,Replace,Low,582,2,1923,2026-01-24,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0216,RO0216,SR0216,VH0068,AG 2801 VV,Honda,Mobilio,Side Mirror,Broken,Moderate,Replace,High,126,5,415,2026-04-20,2026-04-20,NOT_COMPLETED,In Progress,Working
+QUE0217,RO0217,SR0217,VH0206,AD 1042 TX,Toyota,Fortuner,Rear Fender,Paint Damage,Minor,Repair,Medium,0,2,0,2026-09-06,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0218,RO0218,SR0218,VH0193,AB 8391 WN,Honda,BR-V,Quarter Panel,Paint Damage,Minor,Repaint,Low,600,2,1947,2026-02-21,2026-02-21,2026-02-22,Completed,Finished
+QUE0219,RO0219,SR0219,VH0391,B 1207 KC,Toyota,Avanza,Front Panel,Collision Damage,Minor,Repair,Medium,328,2,1356,2026-03-21,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0220,RO0220,SR0220,VH0122,AD 3878 WC,Toyota,Innova,Rear Bumper,Dented,Minor,Repaint,Low,0,1,0,2026-05-05,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0221,RO0221,SR0221,VH0226,DD 8294 LC,Honda,City,Side Mirror,Shatter,Moderate,Replace,High,83,3,305,2026-02-22,2026-02-22,NOT_COMPLETED,In Progress,Working
+QUE0222,RO0222,SR0222,VH0369,DD 6084 RU,Daihatsu,Terios,Windshield,Scratch,Moderate,Repair,High,0,5,0,2026-08-10,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0223,RO0223,SR0223,VH0218,Z 7657 QD,Isuzu,MU-X,Grille,Broken,Moderate,Replace,Medium,292,2,1274,2026-03-05,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0224,RO0224,SR0224,VH0251,AG 2304 SK,Honda,Civic,Front Bumper,Dent,Moderate,Replace,High,179,5,558,2026-07-20,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0225,RO0225,SR0225,VH0002,P 8183 LW,Wuling,Confero,Tail Lamp,Shatter,Minor,Replace,Medium,0,2,0,2026-09-08,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0226,RO0226,SR0226,VH0078,L 4938 DH,Hyundai,Ioniq 5,Headlamp,Crack,Moderate,Replace,Medium,456,3,1644,2026-06-14,2026-06-14,2026-06-19,Completed,Finished
+QUE0227,RO0227,SR0227,VH0376,DK 5839 RU,BYD,Dolphin,Rear Fender,Dent,Severe,Repair,Urgent,13,4,25,2026-02-05,2026-02-05,NOT_COMPLETED,In Progress,Working
+QUE0228,RO0228,SR0228,VH0213,G 5117 LS,Suzuki,Swift,Front Fender,Paint Damage,Minor,Repair,Medium,225,2,1107,2026-01-11,2026-01-11,NOT_COMPLETED,In Progress,Working
+QUE0229,RO0229,SR0229,VH0225,T 3068 TW,BYD,Dolphin,Grille,Scratch,Moderate,Repair,High,155,5,493,2026-06-11,2026-06-11,2026-06-18,Completed,Finished
+QUE0230,RO0230,SR0230,VH0219,M 9071 OO,Suzuki,XL7,Windshield,Broken,Moderate,Replace,High,78,3,291,2026-02-06,2026-02-06,2026-02-10,Completed,Finished
+QUE0231,RO0231,SR0231,VH0309,DP 6094 WM,Honda,Mobilio,Windshield,Shatter,Minor,Replace,Low,619,2,1976,2026-04-01,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0232,RO0232,SR0232,VH0188,DP 3870 SZ,Daihatsu,Ayla,Grille,Shatter,Severe,Replace,Urgent,12,5,23,2026-02-01,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0233,RO0233,SR0233,VH0330,F 8151 ET,Honda,Civic,Trunk,Collision Damage,Minor,Replace,Low,623,2,1984,2026-04-08,2026-04-08,NOT_COMPLETED,In Progress,Working
+QUE0234,RO0234,SR0234,VH0400,M 4570 JY,Honda,City,Side Mirror,Crack,Moderate,Replace,Medium,236,4,1134,2026-01-25,2026-01-25,2026-01-30,Completed,Finished
+QUE0235,RO0235,SR0235,VH0073,DK 7941 VH,Honda,Brio,Front Bumper,Dented,Moderate,Repaint,Medium,531,2,1817,2026-08-10,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0236,RO0236,SR0236,VH0335,A 5720 ET,Toyota,Agya,Grille,Crack,Minor,Repair,Low,580,1,1920,2026-01-22,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0237,RO0237,SR0237,VH0241,DP 8347 XH,BYD,Seal,Hood,Collision Damage,Minor,Replace,Low,628,1,1993,2026-04-24,2026-04-24,2026-04-25,Completed,Finished
+QUE0238,RO0238,SR0238,VH0243,AE 8642 HU,Honda,Mobilio,Side Mirror,Broken,Minor,Replace,Medium,238,1,1140,2026-01-26,2026-01-26,NOT_COMPLETED,In Progress,Working
+QUE0239,RO0239,SR0239,VH0235,DK 3770 XJ,Suzuki,Baleno,Front Panel,Paint Damage,Minor,Repair,Medium,427,1,1587,2026-05-27,2026-05-27,NOT_COMPLETED,In Progress,Working
+QUE0240,RO0240,SR0240,VH0093,DD 6756 RA,Kia,Sonet,Front Fender,Collision Damage,Minor,Replace,Medium,338,2,1382,2026-03-27,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0241,RO0241,SR0241,VH0130,B 5052 UI,Toyota,Calya,Grille,Broken,Minor,Replace,Low,660,1,2038,2026-05-20,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0242,RO0242,SR0242,VH0048,E 7780 PM,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,High,165,3,525,2026-07-05,2026-07-05,2026-07-10,Completed,Finished
+QUE0243,RO0243,SR0243,VH0198,N 1260 DF,Mitsubishi,Outlander,Tail Lamp,Broken,Minor,Replace,Low,591,1,1936,2026-02-17,2026-02-17,NOT_COMPLETED,In Progress,Working
+QUE0244,RO0244,SR0244,VH0055,W 4643 QS,Nissan,X-Trail,Windshield,Scratch,Moderate,Repair,High,64,5,256,2026-01-21,2026-01-21,2026-01-27,Completed,Finished
+QUE0245,RO0245,SR0245,VH0014,N 8590 CF,Kia,Seltos,Front Panel,Collision Damage,Minor,Repair,Low,762,2,2192,2026-09-08,2026-09-08,NOT_COMPLETED,In Progress,Working
+QUE0246,RO0246,SR0246,VH0304,DP 6743 GI,Toyota,Raize,Hood,Dent,Severe,Replace,Urgent,25,7,52,2026-04-22,2026-04-22,NOT_COMPLETED,In Progress,Working
+QUE0247,RO0247,SR0247,VH0163,AE 8422 KI,Ford,Territory,Headlamp,Broken,Minor,Replace,Medium,216,1,1087,2026-01-02,2026-01-02,NOT_COMPLETED,In Progress,Working
+QUE0248,RO0248,SR0248,VH0147,DK 6359 YD,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,Medium,446,3,1626,2026-06-06,2026-06-06,NOT_COMPLETED,In Progress,Working
+QUE0249,RO0249,SR0249,VH0028,D 9964 UH,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,Medium,296,5,1283,2026-03-05,2026-03-05,2026-03-12,Completed,Finished
+QUE0250,RO0250,SR0250,VH0160,K 4580 XE,Honda,CR-V,Tail Lamp,Shatter,Minor,Replace,Medium,259,2,1190,2026-02-12,2026-02-12,NOT_COMPLETED,In Progress,Working
+QUE0251,RO0251,SR0251,VH0399,DP 2592 RT,Daihatsu,Rocky,Hood,Dent,Minor,Repair,Medium,533,1,1821,2026-08-12,2026-08-12,2026-08-14,Completed,Finished
+QUE0252,RO0252,SR0252,VH0140,D 8256 RP,Isuzu,D-Max,Side Mirror,Broken,Minor,Replace,Low,734,2,2149,2026-08-12,2026-08-12,NOT_COMPLETED,In Progress,Working
+QUE0253,RO0253,SR0253,VH0200,Z 5983 TK,Toyota,Calya,Tail Lamp,Scratch,Minor,Repair,Low,724,1,2134,2026-08-07,2026-08-07,2026-08-08,Completed,Finished
+QUE0254,RO0254,SR0254,VH0281,A 3036 HB,Daihatsu,Ayla,Rear Bumper,Dented,Minor,Repair,Medium,335,1,1374,2026-03-22,2026-03-22,2026-03-23,Completed,Finished
+QUE0255,RO0255,SR0255,VH0200,Z 5983 TK,Toyota,Calya,Rear Fender,Collision Damage,Moderate,Replace,High,132,4,433,2026-05-06,2026-05-06,2026-05-11,Completed,Finished
+QUE0256,RO0256,SR0256,VH0205,F 2820 TJ,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,High,163,3,520,2026-07-03,2026-07-03,NOT_COMPLETED,In Progress,Working
+QUE0257,RO0257,SR0257,VH0022,AG 8330 DW,Hyundai,Creta,Side Mirror,Broken,Moderate,Replace,Medium,274,5,1227,2026-02-19,2026-02-19,2026-02-25,Completed,Finished
+QUE0258,RO0258,SR0258,VH0171,B 4838 WP,Toyota,Veloz,Grille,Broken,Moderate,Replace,Medium,269,4,1211,2026-02-19,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0259,RO0259,SR0259,VH0021,A 6466 HP,Toyota,Avanza,Tail Lamp,Broken,Minor,Replace,Medium,562,2,1887,2026-09-08,2026-09-08,NOT_COMPLETED,In Progress,Working
+QUE0260,RO0260,SR0260,VH0205,F 2820 TJ,Toyota,Avanza,Quarter Panel,Dented,Severe,Repair,Urgent,3,8,3,2026-01-09,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0261,RO0261,SR0261,VH0362,N 6128 FL,Toyota,Raize,Windshield,Shatter,Minor,Replace,Medium,495,1,1735,2026-07-14,2026-07-14,NOT_COMPLETED,In Progress,Working
+QUE0262,RO0262,SR0262,VH0109,AE 6944 DU,Daihatsu,Terios,Front Fender,Collision Damage,Minor,Repair,Medium,563,1,1889,2026-09-09,2026-09-09,2026-09-12,Completed,Finished
+QUE0263,RO0263,SR0263,VH0229,B 9051 EK,Honda,BR-V,Windshield,Broken,Moderate,Replace,Medium,341,3,1387,2026-03-28,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0264,RO0264,SR0264,VH0339,S 2294 KV,Hyundai,Stargazer,Trunk,Paint Damage,Minor,Repaint,Medium,551,2,1862,2026-08-27,2026-08-27,2026-08-31,Completed,Finished
+QUE0265,RO0265,SR0265,VH0157,M 1442 MM,Mercedes-Benz,E-Class,Rear Fender,Collision Damage,Minor,Replace,Medium,0,2,0,2026-07-18,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0266,RO0266,SR0266,VH0146,AG 4341 WW,Nissan,X-Trail,Hood,Dented,Moderate,Replace,Medium,519,2,1789,2026-07-29,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0267,RO0267,SR0267,VH0244,D 4852 PJ,Honda,Civic,Windshield,Shatter,Moderate,Replace,High,113,5,378,2026-03-31,2026-03-31,2026-04-07,Completed,Finished
+QUE0268,RO0268,SR0268,VH0214,B 4717 HI,Toyota,Calya,Tail Lamp,Crack,Severe,Repair,High,164,6,522,2026-06-29,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0269,RO0269,SR0269,VH0371,K 9141 HY,Mitsubishi,Outlander,Windshield,Broken,Minor,Replace,Medium,309,2,1308,2026-03-12,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0270,RO0270,SR0270,VH0272,DP 7077 NT,Hyundai,Stargazer,Front Panel,Dent,Moderate,Repaint,High,210,3,640,2026-09-09,2026-09-09,2026-09-14,Completed,Finished
+QUE0271,RO0271,SR0271,VH0018,E 2605 QA,Honda,CR-V,Windshield,Crack,Moderate,Replace,High,129,4,425,2026-04-27,2026-04-27,2026-05-03,Completed,Finished
+QUE0272,RO0272,SR0272,VH0076,M 6714 HL,Suzuki,XL7,Windshield,Broken,Moderate,Replace,High,153,2,490,2026-06-07,2026-06-07,2026-06-11,Completed,Finished
+QUE0273,RO0273,SR0273,VH0394,F 1569 FN,Toyota,Veloz,Grille,Scratch,Moderate,Repair,Medium,315,4,1323,2026-03-18,2026-03-18,2026-03-22,Completed,Finished
+QUE0274,RO0274,SR0274,VH0100,F 9979 YH,BYD,Seal,Front Panel,Collision Damage,Severe,Replace,High,94,4,330,2026-03-06,2026-03-06,2026-03-11,Completed,Finished
+QUE0275,RO0275,SR0275,VH0032,L 5127 HY,Daihatsu,Xenia,Roof,Dent,Minor,Replace,Medium,424,2,1580,2026-05-21,2026-05-21,2026-05-22,Completed,Finished
+QUE0276,RO0276,SR0276,VH0133,S 5587 BN,Toyota,Agya,Quarter Panel,Dent,Minor,Repaint,Low,737,1,2155,2026-08-12,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0277,RO0277,SR0277,VH0224,N 3210 OS,Mazda,Mazda 2,Headlamp,Scratch,Minor,Repair,Medium,343,2,1391,2026-03-30,2026-03-30,2026-04-02,Completed,Finished
+QUE0278,RO0278,SR0278,VH0138,W 7265 LW,Honda,Brio,Roof,Dent,Moderate,Repaint,High,208,4,635,2026-09-03,2026-09-03,NOT_COMPLETED,In Progress,Working
+QUE0279,RO0279,SR0279,VH0257,T 7001 CK,Suzuki,Baleno,Windshield,Scratch,Minor,Repair,Low,643,1,2015,2026-05-09,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0280,RO0280,SR0280,VH0351,H 1588 YN,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,High,145,4,469,2026-06-01,2026-06-01,2026-06-05,Completed,Finished
+QUE0281,RO0281,SR0281,VH0274,DD 6022 DL,Toyota,Avanza,Tail Lamp,Broken,Minor,Replace,Low,669,1,2051,2026-05-30,2026-05-30,2026-06-01,Completed,Finished
+QUE0282,RO0282,SR0282,VH0294,D 1046 XV,Hyundai,Creta,Front Door,Scratch,Moderate,Repaint,Medium,557,2,1874,2026-09-02,2026-09-02,2026-09-06,Completed,Finished
+QUE0283,RO0283,SR0283,VH0074,DD 3252 DK,Honda,HR-V,Side Mirror,Shatter,Moderate,Replace,High,196,2,606,2026-08-19,2026-08-19,2026-08-21,Completed,Finished
+QUE0284,RO0284,SR0284,VH0168,B 4122 HL,Honda,City,Windshield,Shatter,Minor,Replace,Medium,492,2,1731,2026-07-11,2026-07-11,2026-07-12,Completed,Finished
+QUE0285,RO0285,SR0285,VH0267,L 7845 BH,Nissan,X-Trail,Trunk,Dent,Minor,Repair,Medium,534,2,1822,2026-08-13,2026-08-13,NOT_COMPLETED,In Progress,Working
+QUE0286,RO0286,SR0286,VH0214,B 4717 HI,Toyota,Calya,Side Mirror,Crack,Moderate,Replace,Medium,218,4,1091,2026-01-06,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0287,RO0287,SR0287,VH0260,DD 9886 EV,Toyota,Veloz,Grille,Scratch,Moderate,Repair,High,120,2,400,2026-04-08,2026-04-08,NOT_COMPLETED,In Progress,Working
+QUE0288,RO0288,SR0288,VH0385,W 1624 EW,Toyota,Avanza,Headlamp,Broken,Moderate,Replace,Medium,411,3,1545,2026-05-12,2026-05-12,2026-05-15,Completed,Finished
+QUE0289,RO0289,SR0289,VH0064,AG 6628 XN,Toyota,Rush,Quarter Panel,Scratch,Severe,Repaint,Urgent,6,10,9,2026-01-19,2026-01-19,2026-01-28,Completed,Finished
+QUE0290,RO0290,SR0290,VH0010,D 9660 AJ,Mitsubishi,Outlander,Tail Lamp,Broken,Minor,Replace,Low,690,1,2079,2026-06-19,2026-06-19,2026-06-19,Completed,Finished
+QUE0291,RO0291,SR0291,VH0051,S 7036 KY,Honda,BR-V,Quarter Panel,Paint Damage,Minor,Repaint,Low,725,2,2135,2026-08-05,2026-08-05,2026-08-06,Completed,Finished
+QUE0292,RO0292,SR0292,VH0123,K 7953 XR,Honda,Mobilio,Grille,Broken,Minor,Replace,Medium,316,1,1327,2026-03-16,2026-03-16,2026-03-17,Completed,Finished
+QUE0293,RO0293,SR0293,VH0156,F 6350 VX,Daihatsu,Rocky,Headlamp,Crack,Minor,Replace,Low,629,2,1994,2026-04-24,2026-04-24,2026-04-27,Completed,Finished
+QUE0294,RO0294,SR0294,VH0141,F 8079 UY,Isuzu,D-Max,Rear Fender,Paint Damage,Minor,Repair,Medium,0,1,0,2026-03-09,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0295,RO0295,SR0295,VH0327,AG 6889 SF,Honda,CR-V,Rear Fender,Dent,Minor,Repaint,Medium,513,1,1775,2026-07-26,2026-07-26,NOT_COMPLETED,In Progress,Working
+QUE0296,RO0296,SR0296,VH0124,S 7115 XS,Toyota,Avanza,Grille,Scratch,Minor,Repair,Low,679,1,2067,2026-06-06,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0297,RO0297,SR0297,VH0045,F 1098 CD,Toyota,Rush,Headlamp,Broken,Moderate,Replace,High,109,2,372,2026-03-19,2026-03-19,2026-03-20,Completed,Finished
+QUE0298,RO0298,SR0298,VH0380,W 3274 NX,Honda,HR-V,Front Door,Paint Damage,Minor,Repaint,Low,569,1,1902,2026-01-09,2026-01-09,2026-01-09,Completed,Finished
+QUE0299,RO0299,SR0299,VH0321,W 4988 AH,Kia,Sonet,Grille,Broken,Minor,Replace,Medium,444,2,1622,2026-06-08,2026-06-08,2026-06-09,Completed,Finished
+QUE0300,RO0300,SR0300,VH0133,S 5587 BN,Toyota,Agya,Front Fender,Dented,Moderate,Repair,Medium,468,5,1672,2026-06-24,2026-06-24,NOT_COMPLETED,In Progress,Working
+QUE0301,RO0301,SR0301,VH0271,AG 5485 MZ,Toyota,Calya,Rear Door,Paint Damage,Minor,Repair,Medium,347,2,1401,2026-04-02,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0302,RO0302,SR0302,VH0359,F 9861 NO,Mazda,Mazda 2,Hood,Scratch,Minor,Repair,Low,635,2,2004,2026-04-29,2026-04-29,2026-05-03,Completed,Finished
+QUE0303,RO0303,SR0303,VH0129,A 5748 NK,Mitsubishi,Pajero Sport,Trunk,Dent,Moderate,Repaint,Medium,222,2,1102,2026-01-09,2026-01-09,NOT_COMPLETED,In Progress,Working
+QUE0304,RO0304,SR0304,VH0084,G 3893 KQ,Honda,Brio,Front Door,Dented,Minor,Repair,Medium,505,2,1757,2026-07-15,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0305,RO0305,SR0305,VH0120,W 8323 ID,Honda,BR-V,Windshield,Broken,Moderate,Replace,Medium,324,4,1346,2026-03-16,2026-03-16,2026-03-21,Completed,Finished
+QUE0306,RO0306,SR0306,VH0065,DP 4001 YN,Mitsubishi,Pajero Sport,Side Mirror,Shatter,Minor,Replace,Medium,374,2,1464,2026-04-20,2026-04-20,2026-04-23,Completed,Finished
+QUE0307,RO0307,SR0307,VH0191,B 7303 EW,BMW,3 Series,Quarter Panel,Dent,Minor,Repair,Medium,213,2,1079,2026-01-05,2026-01-05,2026-01-07,Completed,Finished
+QUE0308,RO0308,SR0308,VH0127,D 7056 UV,Mitsubishi,Triton,Windshield,Crack,Moderate,Repair,High,69,5,268,2026-01-27,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0309,RO0309,SR0309,VH0255,M 9624 LM,Kia,Carnival,Rear Fender,Scratch,Minor,Repair,Medium,317,2,1328,2026-03-18,2026-03-18,2026-03-22,Completed,Finished
+QUE0310,RO0310,SR0310,VH0338,H 8375 TH,Mitsubishi,Pajero Sport,Trunk,Paint Damage,Moderate,Repair,Medium,546,2,1852,2026-08-22,2026-08-22,NOT_COMPLETED,In Progress,Working
+QUE0311,RO0311,SR0311,VH0299,Z 8597 NZ,Suzuki,Baleno,Grille,Scratch,Moderate,Repair,High,75,2,283,2026-02-07,2026-02-07,NOT_COMPLETED,In Progress,Working
+QUE0312,RO0312,SR0312,VH0268,DP 9844 AI,Honda,CR-V,Rear Bumper,Scratch,Moderate,Repaint,High,175,5,549,2026-07-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0313,RO0313,SR0313,VH0378,T 6539 AS,Honda,BR-V,Windshield,Crack,Severe,Repair,High,54,9,223,2026-01-08,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0314,RO0314,SR0314,VH0397,A 9118 ZG,Toyota,Raize,Grille,Scratch,Minor,Repair,Medium,416,1,1562,2026-05-17,2026-05-17,2026-05-19,Completed,Finished
+QUE0315,RO0315,SR0315,VH0378,T 6539 AS,Honda,BR-V,Windshield,Crack,Severe,Repair,Urgent,45,7,99,2026-08-13,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0316,RO0316,SR0316,VH0067,G 3289 GC,Daihatsu,Sigra,Windshield,Crack,Minor,Repair,Medium,385,1,1486,2026-04-30,2026-04-30,2026-05-03,Completed,Finished
+QUE0317,RO0317,SR0317,VH0234,AE 6496 KY,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,High,169,2,534,2026-07-10,2026-07-10,NOT_COMPLETED,In Progress,Working
+QUE0318,RO0318,SR0318,VH0115,W 4090 QW,Honda,HR-V,Front Panel,Paint Damage,Severe,Repaint,Urgent,40,7,87,2026-07-14,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0319,RO0319,SR0319,VH0070,AE 8915 BO,Suzuki,Ertiga,Windshield,Shatter,Minor,Replace,Low,713,1,2116,2026-07-20,2026-07-20,NOT_COMPLETED,In Progress,Working
+QUE0320,RO0320,SR0320,VH0095,S 7158 VP,Kia,Seltos,Side Mirror,Crack,Minor,Repair,Medium,462,1,1657,2026-06-21,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0321,RO0321,SR0321,VH0192,G 6365 NB,Honda,CR-V,Rear Bumper,Scratch,Moderate,Repaint,Medium,322,4,1339,2026-03-17,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0322,RO0322,SR0322,VH0122,AD 3878 WC,Toyota,Innova,Headlamp,Crack,Severe,Repair,Urgent,30,7,63,2026-06-01,2026-06-01,2026-06-10,Completed,Finished
+QUE0323,RO0323,SR0323,VH0351,H 1588 YN,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,Medium,538,3,1830,2026-08-19,2026-08-19,NOT_COMPLETED,In Progress,Working
+QUE0324,RO0324,SR0324,VH0183,D 1490 WK,Toyota,Rush,Trunk,Dented,Moderate,Repaint,Medium,255,2,1180,2026-02-09,2026-02-09,2026-02-12,Completed,Finished
+QUE0325,RO0325,SR0325,VH0154,A 2514 SV,Toyota,Veloz,Headlamp,Scratch,Minor,Repair,Medium,501,1,1751,2026-07-16,2026-07-16,2026-07-17,Completed,Finished
+QUE0326,RO0326,SR0326,VH0311,AE 8871 OC,Toyota,Innova,Headlamp,Crack,Severe,Repair,Urgent,20,10,40,2026-03-08,2026-03-08,2026-03-20,Completed,Finished
+QUE0327,RO0327,SR0327,VH0275,E 7837 QB,Suzuki,Baleno,Rear Fender,Paint Damage,Minor,Repair,Medium,539,2,1833,2026-08-19,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0328,RO0328,SR0328,VH0078,L 4938 DH,Hyundai,Ioniq 5,Front Fender,Scratch,Minor,Repair,Low,609,1,1960,2026-03-15,2026-03-15,2026-03-15,Completed,Finished
+QUE0329,RO0329,SR0329,VH0253,N 2783 OS,Honda,City,Front Panel,Paint Damage,Minor,Repaint,Low,748,1,2172,2026-08-28,2026-08-28,2026-08-30,Completed,Finished
+QUE0330,RO0330,SR0330,VH0170,AG 7538 RJ,Mazda,CX-30,Tail Lamp,Crack,Minor,Replace,Low,586,2,1929,2026-02-03,2026-02-03,2026-02-05,Completed,Finished
+QUE0331,RO0331,SR0331,VH0375,G 8446 QT,Ford,Ranger,Roof,Paint Damage,Severe,Repair,Urgent,44,10,96,2026-08-09,2026-08-09,2026-08-19,Completed,Finished
+QUE0332,RO0332,SR0332,VH0370,H 6990 AX,Kia,Carnival,Windshield,Shatter,Moderate,Replace,High,194,4,601,2026-08-19,2026-08-19,2026-08-25,Completed,Finished
+QUE0333,RO0333,SR0333,VH0129,A 5748 NK,Mitsubishi,Pajero Sport,Trunk,Paint Damage,Moderate,Repair,High,130,2,427,2026-04-28,2026-04-28,2026-05-02,Completed,Finished
+QUE0334,RO0334,SR0334,VH0178,M 1759 HB,Suzuki,Baleno,Grille,Scratch,Moderate,Repair,Medium,471,3,1681,2026-06-23,2026-06-23,NOT_COMPLETED,In Progress,Working
+QUE0335,RO0335,SR0335,VH0380,W 3274 NX,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,Medium,547,3,1854,2026-08-24,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0336,RO0336,SR0336,VH0067,G 3289 GC,Daihatsu,Sigra,Rear Fender,Paint Damage,Minor,Repaint,Low,735,2,2151,2026-08-10,2026-08-10,2026-08-12,Completed,Finished
+QUE0337,RO0337,SR0337,VH0075,S 1051 PD,Kia,Carnival,Rear Fender,Scratch,Minor,Repair,Medium,262,1,1198,2026-02-13,2026-02-13,2026-02-13,Completed,Finished
+QUE0338,RO0338,SR0338,VH0228,G 6135 IY,Suzuki,Jimny,Grille,Broken,Severe,Replace,High,172,5,540,2026-07-14,2026-07-14,NOT_COMPLETED,In Progress,Working
+QUE0339,RO0339,SR0339,VH0243,AE 8642 HU,Honda,Mobilio,Rear Bumper,Scratch,Moderate,Repair,High,197,3,607,2026-08-21,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0340,RO0340,SR0340,VH0007,L 3384 NV,Daihatsu,Ayla,Rear Bumper,Paint Damage,Minor,Repair,Low,612,2,1964,2026-03-17,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0341,RO0341,SR0341,VH0102,DD 4101 ZH,Toyota,Yaris,Trunk,Dented,Moderate,Repaint,Medium,522,4,1794,2026-08-02,2026-08-02,2026-08-05,Completed,Finished
+QUE0342,RO0342,SR0342,VH0080,S 3656 NK,Suzuki,Jimny,Windshield,Crack,Severe,Repair,Urgent,46,9,101,2026-08-15,2026-08-15,2026-08-24,Completed,Finished
+QUE0343,RO0343,SR0343,VH0370,H 6990 AX,Kia,Carnival,Side Mirror,Crack,Minor,Repair,Medium,388,1,1490,2026-04-27,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0344,RO0344,SR0344,VH0350,Z 7956 RO,Toyota,Raize,Tail Lamp,Crack,Minor,Replace,Medium,449,1,1632,2026-06-10,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0345,RO0345,SR0345,VH0198,N 1260 DF,Mitsubishi,Outlander,Side Mirror,Shatter,Moderate,Replace,High,59,5,238,2026-01-15,2026-01-15,NOT_COMPLETED,In Progress,Working
+QUE0346,RO0346,SR0346,VH0267,L 7845 BH,Nissan,X-Trail,Windshield,Broken,Moderate,Replace,Medium,310,5,1310,2026-03-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0347,RO0347,SR0347,VH0156,F 6350 VX,Daihatsu,Rocky,Headlamp,Shatter,Minor,Replace,Medium,447,1,1629,2026-06-08,2026-06-08,2026-06-08,Completed,Finished
+QUE0348,RO0348,SR0348,VH0294,D 1046 XV,Hyundai,Creta,Side Mirror,Broken,Moderate,Replace,High,76,4,285,2026-02-06,2026-02-06,2026-02-10,Completed,Finished
+QUE0349,RO0349,SR0349,VH0010,D 9660 AJ,Mitsubishi,Outlander,Side Mirror,Shatter,Moderate,Replace,High,71,5,273,2026-01-31,2026-01-31,2026-02-06,Completed,Finished
+QUE0350,RO0350,SR0350,VH0081,AE 2940 WK,Toyota,Avanza,Grille,Scratch,Minor,Repair,Medium,386,2,1487,2026-05-01,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0351,RO0351,SR0351,VH0198,N 1260 DF,Mitsubishi,Outlander,Windshield,Broken,Minor,Replace,Low,726,1,2137,2026-08-09,2026-08-09,2026-08-11,Completed,Finished
+QUE0352,RO0352,SR0352,VH0196,F 9183 SH,Hyundai,Creta,Front Bumper,Scratch,Moderate,Repaint,Medium,425,4,1582,2026-05-20,2026-05-20,2026-05-25,Completed,Finished
+QUE0353,RO0353,SR0353,VH0342,AD 5395 AR,Mitsubishi,Pajero Sport,Front Fender,Paint Damage,Moderate,Repair,Medium,271,4,1218,2026-02-17,2026-02-17,2026-02-22,Completed,Finished
+QUE0354,RO0354,SR0354,VH0035,W 2299 HA,Honda,BR-V,Rear Fender,Collision Damage,Minor,Repair,Low,694,2,2086,2026-06-24,2026-06-24,2026-06-26,Completed,Finished
+QUE0355,RO0355,SR0355,VH0311,AE 8871 OC,Toyota,Innova,Headlamp,Scratch,Minor,Repair,Low,670,1,2052,2026-05-26,2026-05-26,2026-05-28,Completed,Finished
+QUE0356,RO0356,SR0356,VH0293,Z 7168 YJ,Daihatsu,Terios,Windshield,Broken,Minor,Replace,Medium,401,1,1521,2026-05-04,2026-05-04,2026-05-05,Completed,Finished
+QUE0357,RO0357,SR0357,VH0228,G 6135 IY,Suzuki,Jimny,Windshield,Crack,Severe,Repair,High,206,9,627,2026-09-04,2026-09-04,2026-09-15,Completed,Finished
+QUE0358,RO0358,SR0358,VH0164,N 8470 MN,Daihatsu,Ayla,Front Bumper,Dented,Moderate,Repair,High,156,5,496,2026-06-12,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0359,RO0359,SR0359,VH0066,F 4772 VD,Mitsubishi,Outlander,Front Bumper,Scratch,Moderate,Repair,Medium,272,4,1222,2026-02-17,2026-02-17,NOT_COMPLETED,In Progress,Working
+QUE0360,RO0360,SR0360,VH0305,AD 6478 VT,Wuling,Air ev,Quarter Panel,Dented,Minor,Replace,Medium,378,2,1471,2026-04-24,2026-04-24,2026-04-25,Completed,Finished
+QUE0361,RO0361,SR0361,VH0122,AD 3878 WC,Toyota,Innova,Windshield,Scratch,Severe,Replace,Urgent,9,10,16,2026-01-23,2026-01-23,2026-02-01,Completed,Finished
+QUE0362,RO0362,SR0362,VH0303,H 8386 LY,Mitsubishi,Outlander,Windshield,Broken,Minor,Replace,Low,686,1,2074,2026-06-13,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0363,RO0363,SR0363,VH0078,L 4938 DH,Hyundai,Ioniq 5,Rear Fender,Paint Damage,Moderate,Repair,Medium,556,5,1869,2026-08-30,2026-08-30,2026-09-03,Completed,Finished
+QUE0364,RO0364,SR0364,VH0127,D 7056 UV,Mitsubishi,Triton,Headlamp,Shatter,Moderate,Replace,Medium,525,3,1801,2026-08-06,2026-08-06,2026-08-10,Completed,Finished
+QUE0365,RO0365,SR0365,VH0214,B 4717 HI,Toyota,Calya,Front Panel,Dent,Minor,Replace,Medium,548,1,1857,2026-08-27,2026-08-27,2026-08-29,Completed,Finished
+QUE0366,RO0366,SR0366,VH0346,G 1675 YR,Hyundai,Tucson,Headlamp,Shatter,Minor,Replace,Low,723,2,2132,2026-08-01,2026-08-01,2026-08-04,Completed,Finished
+QUE0367,RO0367,SR0367,VH0189,M 5964 ZN,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,Medium,412,3,1548,2026-05-12,2026-05-12,2026-05-16,Completed,Finished
+QUE0368,RO0368,SR0368,VH0284,D 9211 VY,Isuzu,D-Max,Front Panel,Dent,Severe,Replace,Urgent,38,6,82,2026-07-06,2026-07-06,2026-07-12,Completed,Finished
+QUE0369,RO0369,SR0369,VH0331,K 4083 NI,Daihatsu,Rocky,Headlamp,Shatter,Minor,Replace,Low,649,1,2022,2026-05-11,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0370,RO0370,SR0370,VH0307,B 6537 WW,Suzuki,Jimny,Hood,Dented,Moderate,Repaint,High,0,4,0,2026-07-24,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0371,RO0371,SR0371,VH0070,AE 8915 BO,Suzuki,Ertiga,Rear Door,Dent,Minor,Repair,Medium,532,2,1819,2026-08-11,2026-08-11,NOT_COMPLETED,In Progress,Working
+QUE0372,RO0372,SR0372,VH0069,L 6726 OI,Wuling,Cortez,Hood,Collision Damage,Moderate,Repair,High,97,4,341,2026-03-13,2026-03-13,NOT_COMPLETED,In Progress,Working
+QUE0373,RO0373,SR0373,VH0129,A 5748 NK,Mitsubishi,Pajero Sport,Side Mirror,Shatter,Minor,Replace,Medium,260,2,1192,2026-02-10,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0374,RO0374,SR0374,VH0009,K 9825 IE,Honda,Mobilio,Side Mirror,Broken,Minor,Replace,Medium,237,2,1138,2026-01-25,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0375,RO0375,SR0375,VH0214,B 4717 HI,Toyota,Calya,Rear Door,Paint Damage,Moderate,Repair,High,85,5,309,2026-02-23,2026-02-23,NOT_COMPLETED,In Progress,Working
+QUE0376,RO0376,SR0376,VH0393,H 4449 BT,BMW,5 Series,Rear Door,Paint Damage,Minor,Repair,Low,630,1,1996,2026-04-26,2026-04-26,NOT_COMPLETED,In Progress,Working
+QUE0377,RO0377,SR0377,VH0386,P 8354 LA,Daihatsu,Terios,Front Fender,Collision Damage,Minor,Repair,Medium,414,2,1556,2026-05-17,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0378,RO0378,SR0378,VH0344,H 3549 IY,Honda,Civic,Trunk,Collision Damage,Minor,Replace,Low,711,1,2113,2026-07-16,2026-07-16,NOT_COMPLETED,In Progress,Working
+QUE0379,RO0379,SR0379,VH0173,AE 5259 SF,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,High,146,2,472,2026-06-05,2026-06-05,NOT_COMPLETED,In Progress,Working
+QUE0380,RO0380,SR0380,VH0123,K 7953 XR,Honda,Mobilio,Side Mirror,Scratch,Moderate,Repair,Medium,311,3,1315,2026-03-11,2026-03-11,2026-03-14,Completed,Finished
+QUE0381,RO0381,SR0381,VH0230,N 5895 VZ,Suzuki,Jimny,Trunk,Dent,Minor,Replace,Medium,536,2,1825,2026-08-18,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0382,RO0382,SR0382,VH0109,AE 6944 DU,Daihatsu,Terios,Front Fender,Collision Damage,Minor,Repair,Medium,406,1,1533,2026-05-07,2026-05-07,2026-05-08,Completed,Finished
+QUE0383,RO0383,SR0383,VH0328,DP 8321 VE,Honda,CR-V,Side Mirror,Scratch,Moderate,Repair,High,106,3,363,2026-03-18,2026-03-18,2026-03-21,Completed,Finished
+QUE0384,RO0384,SR0384,VH0186,M 7202 CL,Toyota,Raize,Windshield,Shatter,Minor,Replace,Medium,0,2,0,2026-07-12,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0385,RO0385,SR0385,VH0300,E 9412 VP,Toyota,Calya,Front Panel,Dent,Minor,Replace,Low,662,2,2040,2026-05-25,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0386,RO0386,SR0386,VH0206,AD 1042 TX,Toyota,Fortuner,Grille,Broken,Moderate,Replace,High,49,5,213,2026-01-05,2026-01-05,NOT_COMPLETED,In Progress,Working
+QUE0387,RO0387,SR0387,VH0370,H 6990 AX,Kia,Carnival,Windshield,Scratch,Moderate,Repair,Medium,227,3,1113,2026-01-14,2026-01-14,2026-01-16,Completed,Finished
+QUE0388,RO0388,SR0388,VH0119,D 3487 NG,Honda,City,Front Bumper,Collision Damage,Moderate,Replace,High,168,3,532,2026-07-09,2026-07-09,NOT_COMPLETED,In Progress,Working
+QUE0389,RO0389,SR0389,VH0029,L 9906 JD,Nissan,X-Trail,Side Mirror,Scratch,Minor,Repair,Medium,214,2,1081,2026-01-03,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0390,RO0390,SR0390,VH0382,G 8144 VZ,Toyota,Innova,Windshield,Crack,Minor,Repair,Low,656,2,2031,2026-05-19,2026-05-19,NOT_COMPLETED,In Progress,Working
+QUE0391,RO0391,SR0391,VH0345,AD 2424 RT,Daihatsu,Xenia,Side Mirror,Broken,Minor,Replace,Low,730,1,2142,2026-08-07,2026-08-07,2026-08-07,Completed,Finished
+QUE0392,RO0392,SR0392,VH0238,DK 3954 PP,Daihatsu,Ayla,Front Door,Paint Damage,Moderate,Repaint,Medium,367,2,1443,2026-04-17,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0393,RO0393,SR0393,VH0359,F 9861 NO,Mazda,Mazda 2,Grille,Crack,Minor,Replace,Low,570,2,1903,2026-01-06,2026-01-06,NOT_COMPLETED,In Progress,Working
+QUE0394,RO0394,SR0394,VH0092,Z 3601 QQ,Suzuki,Baleno,Headlamp,Shatter,Moderate,Replace,High,201,3,615,2026-08-26,2026-08-26,2026-08-29,Completed,Finished
+QUE0395,RO0395,SR0395,VH0053,D 7721 UC,Honda,Brio,Headlamp,Shatter,Minor,Replace,Medium,433,1,1597,2026-05-26,2026-05-26,2026-05-28,Completed,Finished
+QUE0396,RO0396,SR0396,VH0025,D 2001 WE,Mitsubishi,Xpander,Rear Bumper,Collision Damage,Minor,Repair,Medium,428,1,1588,2026-05-25,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0397,RO0397,SR0397,VH0097,B 9808 UI,Daihatsu,Ayla,Headlamp,Scratch,Minor,Repair,Low,634,1,2003,2026-04-26,2026-04-26,2026-04-29,Completed,Finished
+QUE0398,RO0398,SR0398,VH0060,S 2613 DS,Toyota,Agya,Headlamp,Scratch,Minor,Repair,Low,740,1,2159,2026-08-17,2026-08-17,NOT_COMPLETED,In Progress,Working
+QUE0399,RO0399,SR0399,VH0336,AE 6601 VY,Wuling,Air ev,Grille,Broken,Minor,Replace,Medium,450,1,1633,2026-06-08,2026-06-08,2026-06-11,Completed,Finished
+QUE0400,RO0400,SR0400,VH0250,W 5461 QJ,Daihatsu,Ayla,Windshield,Scratch,Minor,Repair,Low,739,1,2158,2026-08-13,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0401,RO0401,SR0401,VH0326,G 6266 HK,Wuling,Air ev,Headlamp,Crack,Moderate,Replace,Medium,392,5,1497,2026-05-02,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0402,RO0402,SR0402,VH0380,W 3274 NX,Honda,HR-V,Front Panel,Paint Damage,Severe,Repaint,Urgent,19,10,37,2026-03-07,2026-03-07,2026-03-16,Completed,Finished
+QUE0403,RO0403,SR0403,VH0354,AB 7512 LJ,Toyota,Yaris,Front Fender,Paint Damage,Moderate,Repaint,Medium,511,5,1768,2026-07-23,2026-07-23,2026-07-27,Completed,Finished
+QUE0404,RO0404,SR0404,VH0261,AD 9342 MR,BYD,Dolphin,Rear Bumper,Collision Damage,Minor,Replace,Medium,362,1,1429,2026-04-12,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0405,RO0405,SR0405,VH0089,F 7506 AB,Mitsubishi,Pajero Sport,Front Bumper,Scratch,Minor,Repair,Medium,288,1,1265,2026-03-02,2026-03-02,NOT_COMPLETED,In Progress,Working
+QUE0406,RO0406,SR0406,VH0043,M 9722 SM,Mitsubishi,Pajero Sport,Front Bumper,Scratch,Minor,Repair,Medium,558,2,1876,2026-09-03,2026-09-03,2026-09-06,Completed,Finished
+QUE0407,RO0407,SR0407,VH0178,M 1759 HB,Suzuki,Baleno,Side Mirror,Broken,Moderate,Replace,Medium,226,4,1109,2026-01-13,2026-01-13,2026-01-17,Completed,Finished
+QUE0408,RO0408,SR0408,VH0153,Z 6399 HI,Hyundai,Creta,Hood,Collision Damage,Minor,Repair,Low,700,2,2097,2026-07-02,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0409,RO0409,SR0409,VH0169,AD 3879 WZ,Toyota,Fortuner,Grille,Broken,Minor,Replace,Low,750,1,2175,2026-08-30,2026-08-30,2026-09-01,Completed,Finished
+QUE0410,RO0410,SR0410,VH0076,M 6714 HL,Suzuki,XL7,Front Fender,Paint Damage,Minor,Repair,Medium,487,1,1722,2026-07-08,2026-07-08,2026-07-10,Completed,Finished
+QUE0411,RO0411,SR0411,VH0116,N 6727 FM,Daihatsu,Ayla,Windshield,Scratch,Minor,Repair,Medium,507,1,1761,2026-07-22,2026-07-22,2026-07-24,Completed,Finished
+QUE0412,RO0412,SR0412,VH0200,Z 5983 TK,Toyota,Calya,Rear Fender,Dented,Minor,Repaint,Medium,356,1,1420,2026-04-10,2026-04-10,2026-04-12,Completed,Finished
+QUE0413,RO0413,SR0413,VH0062,E 3217 NV,Suzuki,Ertiga,Side Mirror,Broken,Minor,Replace,Medium,301,1,1294,2026-03-10,2026-03-10,2026-03-10,Completed,Finished
+QUE0414,RO0414,SR0414,VH0102,DD 4101 ZH,Toyota,Yaris,Front Fender,Paint Damage,Moderate,Repaint,High,67,5,263,2026-01-21,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0415,RO0415,SR0415,VH0044,T 9402 UM,Daihatsu,Sigra,Side Mirror,Broken,Minor,Replace,Low,687,1,2075,2026-06-17,2026-06-17,2026-06-18,Completed,Finished
+QUE0416,RO0416,SR0416,VH0068,AG 2801 VV,Honda,Mobilio,Headlamp,Broken,Minor,Replace,Low,590,1,1935,2026-02-13,2026-02-13,NOT_COMPLETED,In Progress,Working
+QUE0417,RO0417,SR0417,VH0012,F 5246 JR,Daihatsu,Xenia,Side Mirror,Crack,Moderate,Replace,Medium,256,3,1182,2026-02-08,2026-02-08,NOT_COMPLETED,In Progress,Working
+QUE0418,RO0418,SR0418,VH0255,M 9624 LM,Kia,Carnival,Grille,Scratch,Severe,Replace,High,74,4,281,2026-02-03,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0419,RO0419,SR0419,VH0206,AD 1042 TX,Toyota,Fortuner,Front Bumper,Dented,Minor,Repaint,Low,722,1,2131,2026-08-04,2026-08-04,NOT_COMPLETED,In Progress,Working
+QUE0420,RO0420,SR0420,VH0143,P 6624 JM,Toyota,Veloz,Headlamp,Scratch,Minor,Repair,Medium,351,2,1408,2026-04-07,2026-04-07,NOT_COMPLETED,In Progress,Working
+QUE0421,RO0421,SR0421,VH0281,A 3036 HB,Daihatsu,Ayla,Windshield,Scratch,Minor,Repair,Medium,544,1,1846,2026-08-22,2026-08-22,2026-08-23,Completed,Finished
+QUE0422,RO0422,SR0422,VH0074,DD 3252 DK,Honda,HR-V,Tail Lamp,Broken,Moderate,Replace,High,209,4,637,2026-09-06,2026-09-06,2026-09-12,Completed,Finished
+QUE0423,RO0423,SR0423,VH0055,W 4643 QS,Nissan,X-Trail,Front Panel,Dent,Minor,Repaint,Low,758,1,2187,2026-09-05,2026-09-05,NOT_COMPLETED,In Progress,Working
+QUE0424,RO0424,SR0424,VH0350,Z 7956 RO,Toyota,Raize,Windshield,Shatter,Moderate,Replace,High,101,4,348,2026-03-16,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0425,RO0425,SR0425,VH0368,Z 8398 GW,Hyundai,Ioniq 5,Rear Fender,Paint Damage,Moderate,Repair,High,80,3,298,2026-02-10,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0426,RO0426,SR0426,VH0242,E 8287 DF,Toyota,Yaris,Side Mirror,Scratch,Moderate,Repair,High,151,3,487,2026-06-06,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0427,RO0427,SR0427,VH0096,D 7068 DY,Toyota,Fortuner,Rear Fender,Paint Damage,Minor,Repair,Low,731,2,2143,2026-08-11,2026-08-11,2026-08-13,Completed,Finished
+QUE0428,RO0428,SR0428,VH0028,D 9964 UH,Toyota,Avanza,Tail Lamp,Broken,Minor,Replace,Low,701,2,2099,2026-07-04,2026-07-04,2026-07-05,Completed,Finished
+QUE0429,RO0429,SR0429,VH0388,E 4811 LM,Daihatsu,Xenia,Rear Bumper,Paint Damage,Severe,Repaint,Urgent,47,4,104,2026-08-21,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0430,RO0430,SR0430,VH0325,Z 1714 MH,Mazda,CX-5,Front Fender,Dent,Moderate,Repaint,Medium,243,2,1149,2026-01-26,2026-01-26,2026-01-27,Completed,Finished
+QUE0431,RO0431,SR0431,VH0203,Z 9485 FF,Honda,City,Tail Lamp,Scratch,Severe,Replace,Urgent,24,8,50,2026-04-13,2026-04-13,NOT_COMPLETED,In Progress,Working
+QUE0432,RO0432,SR0432,VH0114,DK 9522 YT,Honda,Brio,Quarter Panel,Dented,Moderate,Repaint,High,50,3,216,2026-01-04,2026-01-04,2026-01-09,Completed,Finished
+QUE0433,RO0433,SR0433,VH0202,G 6212 KZ,Toyota,Calya,Front Door,Scratch,Minor,Repair,Low,658,2,2035,2026-05-21,2026-05-21,NOT_COMPLETED,In Progress,Working
+QUE0434,RO0434,SR0434,VH0357,W 1866 IE,Honda,City,Front Bumper,Paint Damage,Minor,Repair,Low,677,2,2064,2026-06-05,2026-06-05,NOT_COMPLETED,In Progress,Working
+QUE0435,RO0435,SR0435,VH0199,G 9997 BZ,Suzuki,Jimny,Hood,Dented,Moderate,Repaint,High,144,5,466,2026-05-20,2026-05-20,NOT_COMPLETED,In Progress,Working
+QUE0436,RO0436,SR0436,VH0359,F 9861 NO,Mazda,Mazda 2,Windshield,Scratch,Minor,Repair,Low,638,2,2009,2026-04-29,2026-04-29,2026-04-30,Completed,Finished
+QUE0437,RO0437,SR0437,VH0320,H 3477 VE,Suzuki,Ertiga,Rear Door,Dent,Minor,Repair,Low,608,2,1958,2026-03-10,2026-03-10,2026-03-12,Completed,Finished
+QUE0438,RO0438,SR0438,VH0357,W 1866 IE,Honda,City,Grille,Crack,Minor,Replace,Medium,452,2,1636,2026-06-06,2026-06-06,NOT_COMPLETED,In Progress,Working
+QUE0439,RO0439,SR0439,VH0315,N 5736 EF,Honda,BR-V,Roof,Scratch,Moderate,Repaint,High,138,3,450,2026-05-14,2026-05-14,2026-05-19,Completed,Finished
+QUE0440,RO0440,SR0440,VH0033,AE 2782 IF,Daihatsu,Terios,Tail Lamp,Shatter,Moderate,Replace,Medium,251,4,1169,2026-02-06,2026-02-06,2026-02-12,Completed,Finished
+QUE0441,RO0441,SR0441,VH0316,M 7123 GR,Suzuki,Jimny,Hood,Dented,Minor,Replace,Low,732,2,2145,2026-08-07,2026-08-07,2026-08-11,Completed,Finished
+QUE0442,RO0442,SR0442,VH0302,S 8160 DH,Suzuki,Baleno,Headlamp,Shatter,Moderate,Replace,Medium,323,3,1343,2026-03-16,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0443,RO0443,SR0443,VH0306,S 2585 CI,Wuling,Confero,Tail Lamp,Shatter,Minor,Replace,Medium,360,2,1424,2026-04-15,2026-04-15,2026-04-19,Completed,Finished
+QUE0444,RO0444,SR0444,VH0078,L 4938 DH,Hyundai,Ioniq 5,Front Bumper,Paint Damage,Severe,Repair,High,116,10,387,2026-04-07,2026-04-07,NOT_COMPLETED,In Progress,Working
+QUE0445,RO0445,SR0445,VH0236,E 1009 WK,Honda,CR-V,Side Mirror,Scratch,Moderate,Repair,High,99,3,345,2026-03-14,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0446,RO0446,SR0446,VH0307,B 6537 WW,Suzuki,Jimny,Hood,Dented,Moderate,Repaint,Medium,439,5,1609,2026-06-03,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0447,RO0447,SR0447,VH0041,AE 2938 RB,Daihatsu,Ayla,Tail Lamp,Scratch,Minor,Repair,Medium,329,1,1358,2026-03-20,2026-03-20,2026-03-21,Completed,Finished
+QUE0448,RO0448,SR0448,VH0376,DK 5839 RU,BYD,Dolphin,Grille,Broken,Severe,Replace,High,186,6,574,2026-07-31,2026-07-31,2026-08-05,Completed,Finished
+QUE0449,RO0449,SR0449,VH0068,AG 2801 VV,Honda,Mobilio,Windshield,Shatter,Minor,Replace,Medium,219,2,1095,2026-01-05,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0450,RO0450,SR0450,VH0315,N 5736 EF,Honda,BR-V,Headlamp,Shatter,Minor,Replace,Low,676,2,2062,2026-06-04,2026-06-04,2026-06-08,Completed,Finished
+QUE0451,RO0451,SR0451,VH0167,G 8788 OI,Suzuki,Ertiga,Tail Lamp,Crack,Minor,Replace,Low,741,2,2160,2026-08-18,2026-08-18,2026-08-21,Completed,Finished
+QUE0452,RO0452,SR0452,VH0253,N 2783 OS,Honda,City,Headlamp,Broken,Minor,Replace,Medium,549,2,1858,2026-08-25,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0453,RO0453,SR0453,VH0188,DP 3870 SZ,Daihatsu,Ayla,Windshield,Crack,Minor,Replace,Low,665,1,2045,2026-05-27,2026-05-27,2026-05-27,Completed,Finished
+QUE0454,RO0454,SR0454,VH0079,DP 2072 ZB,Toyota,Raize,Front Door,Dent,Moderate,Repair,High,127,2,418,2026-04-22,2026-04-22,2026-04-26,Completed,Finished
+QUE0455,RO0455,SR0455,VH0311,AE 8871 OC,Toyota,Innova,Front Bumper,Collision Damage,Minor,Repair,Medium,436,2,1602,2026-05-31,2026-05-31,2026-06-02,Completed,Finished
+QUE0456,RO0456,SR0456,VH0327,AG 6889 SF,Honda,CR-V,Windshield,Crack,Moderate,Replace,Medium,371,4,1456,2026-04-17,2026-04-17,2026-04-21,Completed,Finished
+QUE0457,RO0457,SR0457,VH0100,F 9979 YH,BYD,Seal,Quarter Panel,Dented,Minor,Repaint,Medium,488,1,1723,2026-07-09,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0458,RO0458,SR0458,VH0158,E 7627 UN,Honda,HR-V,Side Mirror,Shatter,Moderate,Replace,Medium,375,2,1466,2026-04-23,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0459,RO0459,SR0459,VH0233,E 4958 IT,Daihatsu,Sigra,Front Door,Dented,Severe,Repair,Urgent,15,9,28,2026-02-26,2026-02-26,2026-03-06,Completed,Finished
+QUE0460,RO0460,SR0460,VH0392,W 4214 FS,Toyota,Innova,Headlamp,Scratch,Minor,Repair,Medium,387,1,1489,2026-04-27,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0461,RO0461,SR0461,VH0292,T 6831 EP,Suzuki,XL7,Trunk,Collision Damage,Moderate,Replace,Medium,302,5,1295,2026-03-08,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0462,RO0462,SR0462,VH0017,W 2390 XM,Toyota,Fortuner,Grille,Broken,Moderate,Replace,Medium,332,5,1366,2026-03-20,2026-03-20,2026-03-27,Completed,Finished
+QUE0463,RO0463,SR0463,VH0188,DP 3870 SZ,Daihatsu,Ayla,Rear Bumper,Scratch,Minor,Repaint,Medium,333,1,1371,2026-03-21,2026-03-21,2026-03-21,Completed,Finished
+QUE0464,RO0464,SR0464,VH0134,DP 5629 MF,Honda,CR-V,Rear Bumper,Scratch,Moderate,Repaint,High,51,4,217,2026-01-08,2026-01-08,NOT_COMPLETED,In Progress,Working
+QUE0465,RO0465,SR0465,VH0162,K 8214 JA,Toyota,Innova,Headlamp,Scratch,Moderate,Repair,High,181,2,562,2026-07-26,2026-07-26,NOT_COMPLETED,In Progress,Working
+QUE0466,RO0466,SR0466,VH0202,G 6212 KZ,Toyota,Calya,Rear Door,Collision Damage,Minor,Replace,Low,578,1,1917,2026-01-16,2026-01-16,2026-01-17,Completed,Finished
+QUE0467,RO0467,SR0467,VH0162,K 8214 JA,Toyota,Innova,Headlamp,Broken,Minor,Replace,Medium,389,1,1491,2026-04-27,2026-04-27,2026-04-27,Completed,Finished
+QUE0468,RO0468,SR0468,VH0340,K 5454 GX,Kia,Sonet,Front Fender,Dent,Minor,Repair,Low,684,1,2072,2026-06-14,2026-06-14,NOT_COMPLETED,In Progress,Working
+QUE0469,RO0469,SR0469,VH0214,B 4717 HI,Toyota,Calya,Front Panel,Dent,Moderate,Repaint,High,111,2,375,2026-03-24,2026-03-24,2026-03-27,Completed,Finished
+QUE0470,RO0470,SR0470,VH0147,DK 6359 YD,Honda,HR-V,Front Door,Paint Damage,Minor,Repaint,Low,607,1,1957,2026-03-07,2026-03-07,2026-03-09,Completed,Finished
+QUE0471,RO0471,SR0471,VH0385,W 1624 EW,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,Medium,336,5,1375,2026-03-23,2026-03-23,NOT_COMPLETED,In Progress,Working
+QUE0472,RO0472,SR0472,VH0181,F 8779 YT,Honda,BR-V,Quarter Panel,Paint Damage,Minor,Repaint,Low,631,2,1997,2026-04-25,2026-04-25,NOT_COMPLETED,In Progress,Working
+QUE0473,RO0473,SR0473,VH0068,AG 2801 VV,Honda,Mobilio,Side Mirror,Broken,Minor,Replace,Low,636,2,2006,2026-04-28,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0474,RO0474,SR0474,VH0135,D 1291 YF,Daihatsu,Sigra,Headlamp,Shatter,Moderate,Replace,High,198,3,609,2026-08-20,2026-08-20,NOT_COMPLETED,In Progress,Working
+QUE0475,RO0475,SR0475,VH0328,DP 8321 VE,Honda,CR-V,Windshield,Crack,Moderate,Replace,Medium,473,4,1689,2026-06-28,2026-06-28,2026-07-02,Completed,Finished
+QUE0476,RO0476,SR0476,VH0200,Z 5983 TK,Toyota,Calya,Rear Fender,Collision Damage,Moderate,Replace,High,147,5,473,2026-06-03,2026-06-03,2026-06-07,Completed,Finished
+QUE0477,RO0477,SR0477,VH0265,DK 3324 ET,Wuling,Cortez,Front Door,Dent,Minor,Repair,Medium,0,2,0,2026-06-02,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0478,RO0478,SR0478,VH0232,S 3640 WE,Mitsubishi,Outlander,Tail Lamp,Broken,Minor,Replace,Medium,469,2,1677,2026-06-26,2026-06-26,2026-06-29,Completed,Finished
+QUE0479,RO0479,SR0479,VH0285,AG 7571 DP,Mitsubishi,Outlander,Side Mirror,Shatter,Moderate,Replace,High,119,4,397,2026-04-04,2026-04-04,NOT_COMPLETED,In Progress,Working
+QUE0480,RO0480,SR0480,VH0371,K 9141 HY,Mitsubishi,Outlander,Tail Lamp,Broken,Minor,Replace,Medium,299,1,1292,2026-03-10,2026-03-10,2026-03-12,Completed,Finished
+QUE0481,RO0481,SR0481,VH0200,Z 5983 TK,Toyota,Calya,Rear Door,Paint Damage,Minor,Repair,Low,596,1,1943,2026-02-20,2026-02-20,NOT_COMPLETED,In Progress,Working
+QUE0482,RO0482,SR0482,VH0267,L 7845 BH,Nissan,X-Trail,Headlamp,Broken,Minor,Replace,Low,667,2,2048,2026-05-28,2026-05-28,2026-05-29,Completed,Finished
+QUE0483,RO0483,SR0483,VH0255,M 9624 LM,Kia,Carnival,Tail Lamp,Shatter,Minor,Replace,Medium,530,2,1815,2026-08-09,2026-08-09,NOT_COMPLETED,In Progress,Working
+QUE0484,RO0484,SR0484,VH0166,Z 5500 WI,Kia,Seltos,Side Mirror,Crack,Minor,Repair,Medium,286,1,1263,2026-03-03,2026-03-03,NOT_COMPLETED,In Progress,Working
+QUE0485,RO0485,SR0485,VH0233,E 4958 IT,Daihatsu,Sigra,Side Mirror,Broken,Minor,Replace,Low,688,2,2076,2026-06-15,2026-06-15,NOT_COMPLETED,In Progress,Working
+QUE0486,RO0486,SR0486,VH0288,S 8240 LA,Honda,Civic,Front Fender,Paint Damage,Moderate,Repaint,Medium,410,3,1542,2026-05-10,2026-05-10,NOT_COMPLETED,In Progress,Working
+QUE0487,RO0487,SR0487,VH0034,DD 5679 RC,Daihatsu,Terios,Front Fender,Collision Damage,Minor,Repair,Low,625,1,1988,2026-04-14,2026-04-14,2026-04-16,Completed,Finished
+QUE0488,RO0488,SR0488,VH0014,N 8590 CF,Kia,Seltos,Side Mirror,Crack,Minor,Repair,Medium,252,1,1173,2026-02-10,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0489,RO0489,SR0489,VH0060,S 2613 DS,Toyota,Agya,Front Bumper,Collision Damage,Severe,Replace,High,61,9,243,2026-01-17,2026-01-17,NOT_COMPLETED,In Progress,Working
+QUE0490,RO0490,SR0490,VH0254,W 3898 KO,Mitsubishi,Outlander,Headlamp,Scratch,Minor,Repair,Medium,512,2,1773,2026-07-26,2026-07-26,NOT_COMPLETED,In Progress,Working
+QUE0491,RO0491,SR0491,VH0370,H 6990 AX,Kia,Carnival,Rear Fender,Scratch,Minor,Repair,Medium,453,1,1638,2026-06-07,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0492,RO0492,SR0492,VH0009,K 9825 IE,Honda,Mobilio,Rear Bumper,Dent,Minor,Replace,Low,587,1,1931,2026-02-01,2026-02-01,2026-02-03,Completed,Finished
+QUE0493,RO0493,SR0493,VH0297,T 3157 SU,Daihatsu,Rocky,Grille,Scratch,Moderate,Repair,Medium,413,5,1551,2026-05-11,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0494,RO0494,SR0494,VH0207,F 5803 EV,Honda,HR-V,Windshield,Crack,Minor,Replace,Medium,325,2,1350,2026-03-21,2026-03-21,2026-03-24,Completed,Finished
+QUE0495,RO0495,SR0495,VH0114,DK 9522 YT,Honda,Brio,Roof,Dented,Minor,Repaint,Low,0,1,0,2026-01-26,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0496,RO0496,SR0496,VH0007,L 3384 NV,Daihatsu,Ayla,Front Panel,Collision Damage,Moderate,Replace,High,115,4,384,2026-04-02,2026-04-02,2026-04-08,Completed,Finished
+QUE0497,RO0497,SR0497,VH0157,M 1442 MM,Mercedes-Benz,E-Class,Tail Lamp,Crack,Moderate,Replace,High,114,5,381,2026-03-31,2026-03-31,2026-04-07,Completed,Finished
+QUE0498,RO0498,SR0498,VH0298,AB 3936 CD,Toyota,Innova,Headlamp,Scratch,Moderate,Repair,Medium,418,2,1565,2026-05-20,2026-05-20,NOT_COMPLETED,In Progress,Working
+QUE0499,RO0499,SR0499,VH0063,F 6720 ZH,Honda,BR-V,Rear Fender,Collision Damage,Minor,Repair,Low,699,2,2095,2026-06-30,2026-06-30,2026-07-01,Completed,Finished
+QUE0500,RO0500,SR0500,VH0227,B 5580 RP,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,Medium,0,2,0,2026-01-23,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0501,RO0501,SR0501,VH0204,AD 1299 OZ,Mitsubishi,Xpander,Rear Fender,Dent,Moderate,Replace,Medium,220,2,1097,2026-01-06,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0502,RO0502,SR0502,VH0038,DD 2863 HL,Kia,Carnival,Hood,Dent,Moderate,Replace,Medium,466,4,1663,2026-06-23,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0503,RO0503,SR0503,VH0367,AB 8578 SC,Daihatsu,Rocky,Headlamp,Scratch,Moderate,Repair,High,70,2,271,2026-01-31,2026-01-31,2026-02-01,Completed,Finished
+QUE0504,RO0504,SR0504,VH0108,T 7906 QK,Honda,Civic,Front Bumper,Dented,Minor,Repaint,Low,579,2,1918,2026-01-18,2026-01-18,2026-01-19,Completed,Finished
+QUE0505,RO0505,SR0505,VH0082,K 9159 XY,Wuling,Cortez,Rear Bumper,Scratch,Minor,Repair,Low,756,1,2184,2026-09-02,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0506,RO0506,SR0506,VH0037,AG 7688 UR,Mitsubishi,Triton,Headlamp,Crack,Minor,Repair,Low,744,2,2166,2026-08-20,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0507,RO0507,SR0507,VH0065,DP 4001 YN,Mitsubishi,Pajero Sport,Side Mirror,Crack,Moderate,Repair,High,143,5,463,2026-05-23,2026-05-23,2026-05-30,Completed,Finished
+QUE0508,RO0508,SR0508,VH0317,DD 4771 ZE,Toyota,Raize,Side Mirror,Shatter,Moderate,Replace,Medium,275,2,1232,2026-02-23,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0509,RO0509,SR0509,VH0254,W 3898 KO,Mitsubishi,Outlander,Tail Lamp,Broken,Minor,Replace,Low,593,1,1938,2026-02-18,2026-02-18,NOT_COMPLETED,In Progress,Working
+QUE0510,RO0510,SR0510,VH0289,M 9656 MV,Suzuki,Jimny,Hood,Dented,Minor,Replace,Low,692,2,2082,2026-06-25,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0511,RO0511,SR0511,VH0174,M 6486 RL,Daihatsu,Rocky,Hood,Dent,Minor,Repair,Medium,482,1,1709,2026-07-01,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0512,RO0512,SR0512,VH0147,DK 6359 YD,Honda,HR-V,Windshield,Crack,Minor,Replace,Low,678,1,2066,2026-06-07,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0513,RO0513,SR0513,VH0283,M 8965 VS,BYD,M6,Grille,Broken,Minor,Replace,Medium,373,2,1462,2026-04-23,2026-04-23,2026-04-25,Completed,Finished
+QUE0514,RO0514,SR0514,VH0271,AG 5485 MZ,Toyota,Calya,Front Panel,Dent,Minor,Replace,Low,0,2,0,2026-05-20,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0515,RO0515,SR0515,VH0268,DP 9844 AI,Honda,CR-V,Tail Lamp,Shatter,Minor,Replace,Low,571,2,1905,2026-01-06,2026-01-06,2026-01-09,Completed,Finished
+QUE0516,RO0516,SR0516,VH0187,K 5357 KT,BYD,M6,Front Panel,Paint Damage,Minor,Repair,Medium,555,2,1867,2026-08-28,2026-08-28,NOT_COMPLETED,In Progress,Working
+QUE0517,RO0517,SR0517,VH0041,AE 2938 RB,Daihatsu,Ayla,Grille,Shatter,Severe,Replace,High,154,4,491,2026-06-08,2026-06-08,2026-06-11,Completed,Finished
+QUE0518,RO0518,SR0518,VH0384,P 7603 MO,Mitsubishi,Outlander,Windshield,Broken,Minor,Replace,Medium,402,2,1522,2026-05-07,2026-05-07,NOT_COMPLETED,In Progress,Working
+QUE0519,RO0519,SR0519,VH0233,E 4958 IT,Daihatsu,Sigra,Windshield,Scratch,Moderate,Repair,Medium,293,2,1276,2026-03-06,2026-03-06,2026-03-07,Completed,Finished
+QUE0520,RO0520,SR0520,VH0279,DP 4913 QI,Daihatsu,Xenia,Side Mirror,Shatter,Moderate,Replace,Medium,289,5,1266,2026-03-02,2026-03-02,2026-03-07,Completed,Finished
+QUE0521,RO0521,SR0521,VH0058,P 1173 VU,Toyota,Veloz,Front Panel,Dent,Minor,Replace,Medium,559,2,1878,2026-09-06,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0522,RO0522,SR0522,VH0157,M 1442 MM,Mercedes-Benz,E-Class,Windshield,Broken,Moderate,Replace,High,200,4,613,2026-08-21,2026-08-21,2026-08-27,Completed,Finished
+QUE0523,RO0523,SR0523,VH0059,N 9537 QS,Mitsubishi,Outlander,Trunk,Paint Damage,Minor,Repair,Low,653,1,2028,2026-05-20,2026-05-20,2026-05-23,Completed,Finished
+QUE0524,RO0524,SR0524,VH0389,AD 5896 SH,Daihatsu,Terios,Tail Lamp,Shatter,Moderate,Replace,Medium,278,4,1241,2026-02-22,2026-02-22,NOT_COMPLETED,In Progress,Working
+QUE0525,RO0525,SR0525,VH0393,H 4449 BT,BMW,5 Series,Front Fender,Dented,Severe,Repair,High,107,9,364,2026-03-18,2026-03-18,NOT_COMPLETED,In Progress,Working
+QUE0526,RO0526,SR0526,VH0172,DD 4470 BH,Toyota,Calya,Rear Door,Collision Damage,Minor,Replace,Low,645,1,2017,2026-05-12,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0527,RO0527,SR0527,VH0031,G 2691 NY,Daihatsu,Rocky,Hood,Dent,Minor,Repair,Medium,475,2,1695,2026-06-24,2026-06-24,NOT_COMPLETED,In Progress,Working
+QUE0528,RO0528,SR0528,VH0105,S 6339 HI,Honda,City,Front Panel,Paint Damage,Minor,Repaint,Low,745,1,2168,2026-08-20,2026-08-20,2026-08-21,Completed,Finished
+QUE0529,RO0529,SR0529,VH0029,L 9906 JD,Nissan,X-Trail,Hood,Dented,Moderate,Replace,Medium,263,2,1199,2026-02-12,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0530,RO0530,SR0530,VH0223,B 6034 KT,Suzuki,XL7,Side Mirror,Broken,Minor,Replace,Medium,540,1,1835,2026-08-16,2026-08-16,2026-08-19,Completed,Finished
+QUE0531,RO0531,SR0531,VH0197,E 1293 XH,Suzuki,Swift,Front Panel,Dented,Moderate,Replace,High,180,2,561,2026-07-23,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0532,RO0532,SR0532,VH0172,DD 4470 BH,Toyota,Calya,Rear Fender,Scratch,Minor,Repaint,Medium,283,1,1252,2026-02-27,2026-02-27,2026-02-28,Completed,Finished
+QUE0533,RO0533,SR0533,VH0084,G 3893 KQ,Honda,Brio,Headlamp,Broken,Moderate,Replace,Medium,250,5,1164,2026-02-07,2026-02-07,2026-02-11,Completed,Finished
+QUE0534,RO0534,SR0534,VH0076,M 6714 HL,Suzuki,XL7,Roof,Dented,Minor,Repair,Low,666,2,2046,2026-05-27,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0535,RO0535,SR0535,VH0042,G 8459 II,Honda,Civic,Side Mirror,Broken,Minor,Replace,Low,615,2,1969,2026-03-18,2026-03-18,2026-03-21,Completed,Finished
+QUE0536,RO0536,SR0536,VH0244,D 4852 PJ,Honda,Civic,Side Mirror,Broken,Minor,Replace,Medium,516,2,1781,2026-07-29,2026-07-29,2026-08-02,Completed,Finished
+QUE0537,RO0537,SR0537,VH0393,H 4449 BT,BMW,5 Series,Side Mirror,Shatter,Moderate,Replace,High,192,5,595,2026-08-15,2026-08-15,2026-08-22,Completed,Finished
+QUE0538,RO0538,SR0538,VH0370,H 6990 AX,Kia,Carnival,Tail Lamp,Shatter,Minor,Replace,Low,708,1,2108,2026-07-09,2026-07-09,NOT_COMPLETED,In Progress,Working
+QUE0539,RO0539,SR0539,VH0062,E 3217 NV,Suzuki,Ertiga,Front Fender,Paint Damage,Severe,Repaint,High,96,10,335,2026-03-10,2026-03-10,2026-03-19,Completed,Finished
+QUE0540,RO0540,SR0540,VH0246,DP 7247 QJ,Mazda,Mazda 3,Tail Lamp,Crack,Severe,Repair,High,182,5,564,2026-08-01,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0541,RO0541,SR0541,VH0370,H 6990 AX,Kia,Carnival,Grille,Scratch,Severe,Replace,High,72,4,276,2026-02-01,2026-02-01,2026-02-05,Completed,Finished
+QUE0542,RO0542,SR0542,VH0367,AB 8578 SC,Daihatsu,Rocky,Roof,Collision Damage,Severe,Replace,High,191,6,592,2026-08-13,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0543,RO0543,SR0543,VH0064,AG 6628 XN,Toyota,Rush,Quarter Panel,Scratch,Severe,Repaint,High,90,4,321,2026-02-27,2026-02-27,2026-03-04,Completed,Finished
+QUE0544,RO0544,SR0544,VH0108,T 7906 QK,Honda,Civic,Front Bumper,Dented,Minor,Repaint,Low,695,2,2088,2026-06-24,2026-06-24,2026-06-27,Completed,Finished
+QUE0545,RO0545,SR0545,VH0003,M 6695 SK,Mercedes-Benz,C-Class,Side Mirror,Broken,Moderate,Replace,High,122,3,407,2026-04-11,2026-04-11,2026-04-15,Completed,Finished
+QUE0546,RO0546,SR0546,VH0038,DD 2863 HL,Kia,Carnival,Hood,Dent,Moderate,Replace,Medium,527,5,1807,2026-08-04,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0547,RO0547,SR0547,VH0312,E 4133 ZK,Mitsubishi,Pajero Sport,Trunk,Dent,Moderate,Repaint,High,203,3,619,2026-08-30,2026-08-30,2026-09-02,Completed,Finished
+QUE0548,RO0548,SR0548,VH0108,T 7906 QK,Honda,Civic,Quarter Panel,Dent,Minor,Repaint,Low,574,2,1910,2026-01-15,2026-01-15,NOT_COMPLETED,In Progress,Working
+QUE0549,RO0549,SR0549,VH0024,D 2977 WC,Toyota,Fortuner,Tail Lamp,Shatter,Minor,Replace,Medium,290,1,1271,2026-02-28,2026-02-28,NOT_COMPLETED,In Progress,Working
+QUE0550,RO0550,SR0550,VH0279,DP 4913 QI,Daihatsu,Xenia,Grille,Shatter,Moderate,Replace,High,150,5,484,2026-06-03,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0551,RO0551,SR0551,VH0183,D 1490 WK,Toyota,Rush,Quarter Panel,Dent,Minor,Repaint,Low,604,1,1953,2026-03-06,2026-03-06,2026-03-09,Completed,Finished
+QUE0552,RO0552,SR0552,VH0019,H 9619 SR,Daihatsu,Xenia,Grille,Shatter,Moderate,Replace,High,66,4,261,2026-01-24,2026-01-24,2026-01-28,Completed,Finished
+QUE0553,RO0553,SR0553,VH0104,W 3975 XM,Suzuki,Ertiga,Trunk,Dented,Moderate,Repair,Medium,415,4,1558,2026-05-14,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0554,RO0554,SR0554,VH0036,G 9033 ZO,BYD,M6,Grille,Shatter,Moderate,Replace,Medium,498,3,1742,2026-07-11,2026-07-11,2026-07-15,Completed,Finished
+QUE0555,RO0555,SR0555,VH0048,E 7780 PM,Mitsubishi,Pajero Sport,Trunk,Dented,Minor,Repaint,Low,752,1,2178,2026-08-28,2026-08-28,2026-08-29,Completed,Finished
+QUE0556,RO0556,SR0556,VH0199,G 9997 BZ,Suzuki,Jimny,Grille,Crack,Minor,Repair,Medium,303,1,1300,2026-03-11,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0557,RO0557,SR0557,VH0276,A 1575 HQ,Nissan,Serena,Front Door,Scratch,Moderate,Repaint,High,167,4,529,2026-07-06,2026-07-06,2026-07-12,Completed,Finished
+QUE0558,RO0558,SR0558,VH0114,DK 9522 YT,Honda,Brio,Headlamp,Broken,Moderate,Replace,Medium,541,5,1836,2026-08-18,2026-08-18,2026-08-22,Completed,Finished
+QUE0559,RO0559,SR0559,VH0082,K 9159 XY,Wuling,Cortez,Grille,Shatter,Minor,Replace,Medium,493,1,1733,2026-07-08,2026-07-08,2026-07-08,Completed,Finished
+QUE0560,RO0560,SR0560,VH0181,F 8779 YT,Honda,BR-V,Windshield,Broken,Moderate,Replace,Medium,489,2,1724,2026-07-08,2026-07-08,NOT_COMPLETED,In Progress,Working
+QUE0561,RO0561,SR0561,VH0102,DD 4101 ZH,Toyota,Yaris,Tail Lamp,Scratch,Moderate,Repair,Medium,398,3,1516,2026-05-03,2026-05-03,NOT_COMPLETED,In Progress,Working
+QUE0562,RO0562,SR0562,VH0391,B 1207 KC,Toyota,Avanza,Quarter Panel,Dented,Severe,Repair,Urgent,23,5,48,2026-04-02,2026-04-02,2026-04-08,Completed,Finished
+QUE0563,RO0563,SR0563,VH0336,AE 6601 VY,Wuling,Air ev,Front Bumper,Paint Damage,Moderate,Repair,Medium,467,5,1667,2026-06-23,2026-06-23,2026-06-29,Completed,Finished
+QUE0564,RO0564,SR0564,VH0131,T 3329 YM,Toyota,Yaris,Tail Lamp,Scratch,Moderate,Repair,Medium,565,4,1891,2026-09-08,2026-09-08,2026-09-14,Completed,Finished
+QUE0565,RO0565,SR0565,VH0247,Z 2375 JH,BMW,3 Series,Side Mirror,Scratch,Severe,Replace,Urgent,39,10,84,2026-07-10,2026-07-10,2026-07-20,Completed,Finished
+QUE0566,RO0566,SR0566,VH0209,S 8753 ZI,Toyota,Avanza,Front Panel,Collision Damage,Minor,Repair,Medium,300,1,1293,2026-03-11,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0567,RO0567,SR0567,VH0282,DK 4055 FT,Toyota,Veloz,Tail Lamp,Crack,Minor,Repair,Low,567,1,1899,2026-01-03,2026-01-03,2026-01-06,Completed,Finished
+QUE0568,RO0568,SR0568,VH0300,E 9412 VP,Toyota,Calya,Front Door,Scratch,Minor,Repair,Low,622,2,1982,2026-04-05,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0569,RO0569,SR0569,VH0169,AD 3879 WZ,Toyota,Fortuner,Tail Lamp,Shatter,Minor,Replace,Medium,384,1,1485,2026-04-28,2026-04-28,2026-04-29,Completed,Finished
+QUE0570,RO0570,SR0570,VH0018,E 2605 QA,Honda,CR-V,Tail Lamp,Shatter,Minor,Replace,Medium,510,2,1766,2026-07-22,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0571,RO0571,SR0571,VH0209,S 8753 ZI,Toyota,Avanza,Rear Fender,Dent,Minor,Repair,Low,648,1,2021,2026-05-14,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0572,RO0572,SR0572,VH0357,W 1866 IE,Honda,City,Rear Bumper,Paint Damage,Moderate,Repair,Medium,0,3,0,2026-06-09,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0573,RO0573,SR0573,VH0191,B 7303 EW,BMW,3 Series,Front Fender,Dented,Moderate,Replace,Medium,429,2,1589,2026-05-23,2026-05-23,NOT_COMPLETED,In Progress,Working
+QUE0574,RO0574,SR0574,VH0370,H 6990 AX,Kia,Carnival,Tail Lamp,Shatter,Minor,Replace,Medium,0,2,0,2026-03-31,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0575,RO0575,SR0575,VH0248,DP 8194 CA,Mitsubishi,Outlander,Side Mirror,Shatter,Moderate,Replace,Medium,481,2,1707,2026-07-02,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0576,RO0576,SR0576,VH0223,B 6034 KT,Suzuki,XL7,Roof,Dented,Minor,Repair,Low,0,1,0,2026-05-07,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0577,RO0577,SR0577,VH0025,D 2001 WE,Mitsubishi,Xpander,Roof,Scratch,Minor,Repaint,Medium,432,2,1595,2026-05-24,2026-05-24,2026-05-27,Completed,Finished
+QUE0578,RO0578,SR0578,VH0358,B 2954 VL,Honda,BR-V,Windshield,Crack,Severe,Repair,Urgent,41,5,89,2026-07-22,2026-07-22,NOT_COMPLETED,In Progress,Working
+QUE0579,RO0579,SR0579,VH0075,S 1051 PD,Kia,Carnival,Tail Lamp,Shatter,Minor,Replace,Low,674,2,2058,2026-06-02,2026-06-02,NOT_COMPLETED,In Progress,Working
+QUE0580,RO0580,SR0580,VH0068,AG 2801 VV,Honda,Mobilio,Hood,Paint Damage,Minor,Repair,Medium,417,2,1563,2026-05-17,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0581,RO0581,SR0581,VH0046,B 4645 BH,Mitsubishi,Outlander,Front Bumper,Dented,Moderate,Repair,Medium,369,5,1450,2026-04-17,2026-04-17,2026-04-23,Completed,Finished
+QUE0582,RO0582,SR0582,VH0371,K 9141 HY,Mitsubishi,Outlander,Side Mirror,Broken,Minor,Replace,Medium,496,1,1736,2026-07-12,2026-07-12,2026-07-14,Completed,Finished
+QUE0583,RO0583,SR0583,VH0255,M 9624 LM,Kia,Carnival,Grille,Scratch,Severe,Replace,Urgent,42,9,90,2026-08-01,2026-08-01,NOT_COMPLETED,In Progress,Working
+QUE0584,RO0584,SR0584,VH0202,G 6212 KZ,Toyota,Calya,Rear Fender,Dented,Minor,Repaint,Medium,267,1,1209,2026-02-17,2026-02-17,2026-02-20,Completed,Finished
+QUE0585,RO0585,SR0585,VH0102,DD 4101 ZH,Toyota,Yaris,Trunk,Dented,Moderate,Repaint,Medium,363,5,1430,2026-04-18,2026-04-18,2026-04-25,Completed,Finished
+QUE0586,RO0586,SR0586,VH0335,A 5720 ET,Toyota,Agya,Headlamp,Crack,Moderate,Repair,High,193,5,598,2026-08-13,2026-08-13,2026-08-19,Completed,Finished
+QUE0587,RO0587,SR0587,VH0003,M 6695 SK,Mercedes-Benz,C-Class,Front Panel,Collision Damage,Moderate,Replace,Medium,285,5,1258,2026-02-28,2026-02-28,2026-03-05,Completed,Finished
+QUE0588,RO0588,SR0588,VH0227,B 5580 RP,Honda,HR-V,Front Panel,Paint Damage,Severe,Repaint,High,79,9,292,2026-02-12,2026-02-12,2026-02-23,Completed,Finished
+QUE0589,RO0589,SR0589,VH0342,AD 5395 AR,Mitsubishi,Pajero Sport,Hood,Scratch,Severe,Repaint,Urgent,22,7,46,2026-03-29,2026-03-29,2026-04-05,Completed,Finished
+QUE0590,RO0590,SR0590,VH0238,DK 3954 PP,Daihatsu,Ayla,Front Panel,Collision Damage,Moderate,Replace,High,183,5,567,2026-08-03,2026-08-03,NOT_COMPLETED,In Progress,Working
+QUE0591,RO0591,SR0591,VH0357,W 1866 IE,Honda,City,Roof,Dented,Severe,Replace,Urgent,2,6,1,2026-01-09,2026-01-09,2026-01-15,Completed,Finished
+QUE0592,RO0592,SR0592,VH0156,F 6350 VX,Daihatsu,Rocky,Headlamp,Shatter,Minor,Replace,Medium,499,1,1745,2026-07-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0593,RO0593,SR0593,VH0059,N 9537 QS,Mitsubishi,Outlander,Windshield,Broken,Minor,Replace,Medium,517,2,1783,2026-07-31,2026-07-31,2026-08-01,Completed,Finished
+QUE0594,RO0594,SR0594,VH0334,W 2880 OS,Mitsubishi,Triton,Grille,Broken,Minor,Replace,Low,727,1,2138,2026-08-05,2026-08-05,NOT_COMPLETED,In Progress,Working
+QUE0595,RO0595,SR0595,VH0020,S 3998 GW,Toyota,Raize,Side Mirror,Shatter,Moderate,Replace,High,166,4,527,2026-07-05,2026-07-05,2026-07-11,Completed,Finished
+QUE0596,RO0596,SR0596,VH0169,AD 3879 WZ,Toyota,Fortuner,Headlamp,Broken,Minor,Replace,Medium,327,2,1354,2026-03-17,2026-03-17,2026-03-19,Completed,Finished
+QUE0597,RO0597,SR0597,VH0038,DD 2863 HL,Kia,Carnival,Side Mirror,Crack,Minor,Repair,Low,617,1,1973,2026-03-28,2026-03-28,2026-03-28,Completed,Finished
+QUE0598,RO0598,SR0598,VH0183,D 1490 WK,Toyota,Rush,Grille,Shatter,Moderate,Replace,High,52,2,220,2026-01-07,2026-01-07,NOT_COMPLETED,In Progress,Working
+QUE0599,RO0599,SR0599,VH0180,P 7029 UL,Mitsubishi,Outlander,Side Mirror,Broken,Minor,Replace,Medium,484,2,1712,2026-07-05,2026-07-05,2026-07-07,Completed,Finished
+QUE0600,RO0600,SR0600,VH0216,AE 7532 VE,Toyota,Avanza,Quarter Panel,Dented,Severe,Repair,Urgent,1,4,0,2026-01-07,2026-01-07,2026-01-10,Completed,Finished
+QUE0601,RO0601,SR0601,VH0149,H 2674 AV,BMW,5 Series,Tail Lamp,Scratch,Moderate,Repair,Medium,509,2,1764,2026-07-22,2026-07-22,NOT_COMPLETED,In Progress,Working
+QUE0602,RO0602,SR0602,VH0239,T 3096 RM,Toyota,Rush,Trunk,Paint Damage,Minor,Repair,Low,693,2,2084,2026-06-26,2026-06-26,2026-06-29,Completed,Finished
+QUE0603,RO0603,SR0603,VH0129,A 5748 NK,Mitsubishi,Pajero Sport,Tail Lamp,Broken,Severe,Replace,Urgent,37,10,79,2026-07-02,2026-07-02,2026-07-14,Completed,Finished
+QUE0604,RO0604,SR0604,VH0336,AE 6601 VY,Wuling,Air ev,Front Panel,Scratch,Minor,Repair,Medium,305,2,1302,2026-03-13,2026-03-13,2026-03-17,Completed,Finished
+QUE0605,RO0605,SR0605,VH0182,K 3683 TI,Honda,CR-V,Side Mirror,Scratch,Moderate,Repair,High,152,2,489,2026-06-05,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0606,RO0606,SR0606,VH0179,DK 5438 GQ,Toyota,Veloz,Tail Lamp,Shatter,Severe,Replace,High,205,7,622,2026-08-27,2026-08-27,NOT_COMPLETED,In Progress,Working
+QUE0607,RO0607,SR0607,VH0399,DP 2592 RT,Daihatsu,Rocky,Headlamp,Crack,Moderate,Replace,Medium,422,3,1575,2026-05-19,2026-05-19,2026-05-22,Completed,Finished
+QUE0608,RO0608,SR0608,VH0005,AE 5672 IZ,Kia,Sonet,Front Fender,Dented,Moderate,Repaint,Medium,354,5,1414,2026-04-07,2026-04-07,2026-04-12,Completed,Finished
+QUE0609,RO0609,SR0609,VH0042,G 8459 II,Honda,Civic,Front Bumper,Dented,Minor,Repaint,Medium,308,1,1307,2026-03-11,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0610,RO0610,SR0610,VH0078,L 4938 DH,Hyundai,Ioniq 5,Headlamp,Crack,Moderate,Replace,Medium,542,4,1841,2026-08-15,2026-08-15,2026-08-19,Completed,Finished
+QUE0611,RO0611,SR0611,VH0186,M 7202 CL,Toyota,Raize,Front Door,Dent,Moderate,Repair,Medium,318,3,1330,2026-03-18,2026-03-18,NOT_COMPLETED,In Progress,Working
+QUE0612,RO0612,SR0612,VH0074,DD 3252 DK,Honda,HR-V,Side Mirror,Shatter,Moderate,Replace,High,202,3,617,2026-08-25,2026-08-25,NOT_COMPLETED,In Progress,Working
+QUE0613,RO0613,SR0613,VH0046,B 4645 BH,Mitsubishi,Outlander,Tail Lamp,Broken,Minor,Replace,Medium,0,1,0,2026-09-02,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0614,RO0614,SR0614,VH0185,B 4224 FO,Kia,Sonet,Grille,Broken,Minor,Replace,Medium,434,2,1598,2026-05-29,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0615,RO0615,SR0615,VH0257,T 7001 CK,Suzuki,Baleno,Rear Fender,Paint Damage,Minor,Repair,Medium,298,1,1291,2026-03-07,2026-03-07,2026-03-09,Completed,Finished
+QUE0616,RO0616,SR0616,VH0392,W 4214 FS,Toyota,Innova,Windshield,Crack,Minor,Repair,Medium,337,2,1380,2026-03-29,2026-03-29,2026-03-31,Completed,Finished
+QUE0617,RO0617,SR0617,VH0167,G 8788 OI,Suzuki,Ertiga,Trunk,Dented,Moderate,Repair,High,123,3,409,2026-04-14,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0618,RO0618,SR0618,VH0384,P 7603 MO,Mitsubishi,Outlander,Front Bumper,Dented,Moderate,Repair,High,100,3,346,2026-03-15,2026-03-15,2026-03-17,Completed,Finished
+QUE0619,RO0619,SR0619,VH0185,B 4224 FO,Kia,Sonet,Front Fender,Dent,Minor,Repair,Low,671,1,2053,2026-05-28,2026-05-28,NOT_COMPLETED,In Progress,Working
+QUE0620,RO0620,SR0620,VH0350,Z 7956 RO,Toyota,Raize,Tail Lamp,Crack,Minor,Replace,Low,583,1,1925,2026-01-26,2026-01-26,NOT_COMPLETED,In Progress,Working
+QUE0621,RO0621,SR0621,VH0249,K 1727 ZZ,Daihatsu,Terios,Tail Lamp,Shatter,Moderate,Replace,Medium,221,3,1099,2026-01-06,2026-01-06,NOT_COMPLETED,In Progress,Working
+QUE0622,RO0622,SR0622,VH0303,H 8386 LY,Mitsubishi,Outlander,Front Bumper,Dented,Moderate,Repair,High,55,2,228,2026-01-06,2026-01-06,2026-01-10,Completed,Finished
+QUE0623,RO0623,SR0623,VH0183,D 1490 WK,Toyota,Rush,Rear Door,Dent,Minor,Repaint,Low,672,2,2054,2026-05-29,2026-05-29,2026-05-31,Completed,Finished
+QUE0624,RO0624,SR0624,VH0170,AG 7538 RJ,Mazda,CX-30,Side Mirror,Crack,Minor,Repair,Medium,423,2,1578,2026-05-24,2026-05-24,2026-05-27,Completed,Finished
+QUE0625,RO0625,SR0625,VH0383,L 6994 IM,Wuling,Alvez,Side Mirror,Crack,Minor,Replace,Low,718,2,2124,2026-07-24,2026-07-24,2026-07-27,Completed,Finished
+QUE0626,RO0626,SR0626,VH0398,T 9968 ZW,Daihatsu,Ayla,Headlamp,Scratch,Minor,Repair,Low,712,2,2114,2026-07-14,2026-07-14,NOT_COMPLETED,In Progress,Working
+QUE0627,RO0627,SR0627,VH0092,Z 3601 QQ,Suzuki,Baleno,Rear Fender,Paint Damage,Severe,Repair,Urgent,32,7,68,2026-05-29,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0628,RO0628,SR0628,VH0254,W 3898 KO,Mitsubishi,Outlander,Side Mirror,Shatter,Moderate,Replace,Medium,455,3,1641,2026-06-13,2026-06-13,NOT_COMPLETED,In Progress,Working
+QUE0629,RO0629,SR0629,VH0218,Z 7657 QD,Isuzu,MU-X,Headlamp,Shatter,Minor,Replace,Medium,508,2,1762,2026-07-24,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0630,RO0630,SR0630,VH0199,G 9997 BZ,Suzuki,Jimny,Grille,Broken,Severe,Replace,High,136,7,445,2026-05-14,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0631,RO0631,SR0631,VH0167,G 8788 OI,Suzuki,Ertiga,Trunk,Dented,Moderate,Repair,Medium,500,5,1746,2026-07-15,2026-07-15,2026-07-19,Completed,Finished
+QUE0632,RO0632,SR0632,VH0082,K 9159 XY,Wuling,Cortez,Grille,Shatter,Minor,Replace,Medium,459,2,1652,2026-06-17,2026-06-17,2026-06-18,Completed,Finished
+QUE0633,RO0633,SR0633,VH0232,S 3640 WE,Mitsubishi,Outlander,Front Bumper,Dented,Moderate,Repair,High,117,3,393,2026-04-04,2026-04-04,2026-04-09,Completed,Finished
+QUE0634,RO0634,SR0634,VH0335,A 5720 ET,Toyota,Agya,Front Bumper,Collision Damage,Severe,Replace,Urgent,36,7,77,2026-06-27,2026-06-27,NOT_COMPLETED,In Progress,Working
+QUE0635,RO0635,SR0635,VH0396,AD 7779 TQ,BYD,Atto 3,Rear Bumper,Dent,Minor,Repaint,Medium,457,2,1647,2026-06-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0636,RO0636,SR0636,VH0315,N 5736 EF,Honda,BR-V,Windshield,Broken,Moderate,Replace,Medium,545,5,1847,2026-08-21,2026-08-21,2026-08-25,Completed,Finished
+QUE0637,RO0637,SR0637,VH0337,AB 8528 YS,BYD,Dolphin,Headlamp,Shatter,Moderate,Replace,Medium,264,5,1201,2026-02-16,2026-02-16,2026-02-21,Completed,Finished
+QUE0638,RO0638,SR0638,VH0140,D 8256 RP,Isuzu,D-Max,Side Mirror,Broken,Minor,Replace,Low,743,2,2164,2026-08-19,2026-08-19,2026-08-20,Completed,Finished
+QUE0639,RO0639,SR0639,VH0319,G 5092 LW,Honda,Mobilio,Side Mirror,Broken,Moderate,Replace,High,104,2,359,2026-03-17,2026-03-17,2026-03-21,Completed,Finished
+QUE0640,RO0640,SR0640,VH0166,Z 5500 WI,Kia,Seltos,Front Panel,Collision Damage,Minor,Repair,Low,624,2,1986,2026-04-09,2026-04-09,2026-04-12,Completed,Finished
+QUE0641,RO0641,SR0641,VH0112,E 7945 FN,Mitsubishi,Pajero Sport,Side Mirror,Shatter,Minor,Replace,Low,757,2,2185,2026-09-02,2026-09-02,2026-09-05,Completed,Finished
+QUE0642,RO0642,SR0642,VH0101,DD 1273 MT,Daihatsu,Sigra,Headlamp,Shatter,Moderate,Replace,Medium,276,5,1234,2026-02-20,2026-02-20,2026-02-24,Completed,Finished
+QUE0643,RO0643,SR0643,VH0351,H 1588 YN,Toyota,Avanza,Quarter Panel,Dented,Severe,Repair,Urgent,18,10,34,2026-03-04,2026-03-04,NOT_COMPLETED,In Progress,Working
+QUE0644,RO0644,SR0644,VH0109,AE 6944 DU,Daihatsu,Terios,Front Bumper,Dent,Minor,Repair,Medium,365,2,1439,2026-04-15,2026-04-15,2026-04-16,Completed,Finished
+QUE0645,RO0645,SR0645,VH0271,AG 5485 MZ,Toyota,Calya,Roof,Dented,Minor,Repair,Low,736,2,2153,2026-08-10,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0646,RO0646,SR0646,VH0226,DD 8294 LC,Honda,City,Grille,Crack,Minor,Replace,Medium,291,2,1272,2026-03-05,2026-03-05,2026-03-08,Completed,Finished
+QUE0647,RO0647,SR0647,VH0227,B 5580 RP,Honda,HR-V,Side Mirror,Shatter,Moderate,Replace,Medium,253,4,1174,2026-02-08,2026-02-08,2026-02-12,Completed,Finished
+QUE0648,RO0648,SR0648,VH0283,M 8965 VS,BYD,M6,Rear Bumper,Scratch,Minor,Repaint,Medium,234,2,1129,2026-01-19,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0649,RO0649,SR0649,VH0195,F 7185 FY,Daihatsu,Xenia,Rear Bumper,Paint Damage,Severe,Repaint,Urgent,14,6,26,2026-02-22,2026-02-22,NOT_COMPLETED,In Progress,Working
+QUE0650,RO0650,SR0650,VH0300,E 9412 VP,Toyota,Calya,Front Door,Scratch,Minor,Repair,Medium,277,2,1239,2026-02-18,2026-02-18,NOT_COMPLETED,In Progress,Working
+QUE0651,RO0651,SR0651,VH0037,AG 7688 UR,Mitsubishi,Triton,Headlamp,Shatter,Moderate,Replace,High,161,4,514,2026-06-27,2026-06-27,2026-06-30,Completed,Finished
+QUE0652,RO0652,SR0652,VH0315,N 5736 EF,Honda,BR-V,Rear Fender,Collision Damage,Minor,Repair,Medium,460,1,1654,2026-06-16,2026-06-16,2026-06-19,Completed,Finished
+QUE0653,RO0653,SR0653,VH0324,F 7840 FL,Mazda,Mazda 2,Windshield,Scratch,Minor,Repair,Medium,357,1,1421,2026-04-13,2026-04-13,2026-04-14,Completed,Finished
+QUE0654,RO0654,SR0654,VH0167,G 8788 OI,Suzuki,Ertiga,Trunk,Dented,Moderate,Repair,High,0,4,0,2026-03-30,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0655,RO0655,SR0655,VH0209,S 8753 ZI,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,Medium,485,4,1714,2026-07-03,2026-07-03,2026-07-06,Completed,Finished
+QUE0656,RO0656,SR0656,VH0073,DK 7941 VH,Honda,Brio,Front Bumper,Dented,Moderate,Repaint,Medium,334,2,1372,2026-03-23,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0657,RO0657,SR0657,VH0295,T 2605 CD,BYD,M6,Front Bumper,Dented,Minor,Repaint,Low,753,2,2179,2026-09-01,2026-09-01,2026-09-05,Completed,Finished
+QUE0658,RO0658,SR0658,VH0059,N 9537 QS,Mitsubishi,Outlander,Side Mirror,Broken,Minor,Replace,Low,709,2,2109,2026-07-08,2026-07-08,2026-07-09,Completed,Finished
+QUE0659,RO0659,SR0659,VH0096,D 7068 DY,Toyota,Fortuner,Side Mirror,Shatter,Moderate,Replace,High,0,2,0,2026-01-16,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0660,RO0660,SR0660,VH0267,L 7845 BH,Nissan,X-Trail,Windshield,Scratch,Moderate,Repair,High,124,5,411,2026-04-17,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0661,RO0661,SR0661,VH0043,M 9722 SM,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,High,112,3,376,2026-03-27,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0662,RO0662,SR0662,VH0006,AD 1456 FT,Honda,Civic,Headlamp,Shatter,Moderate,Replace,Medium,461,2,1655,2026-06-21,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0663,RO0663,SR0663,VH0093,DD 6756 RA,Kia,Sonet,Grille,Broken,Minor,Replace,Low,573,1,1909,2026-01-15,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0664,RO0664,SR0664,VH0205,F 2820 TJ,Toyota,Avanza,Tail Lamp,Broken,Minor,Replace,Medium,339,1,1384,2026-03-27,2026-03-27,2026-03-27,Completed,Finished
+QUE0665,RO0665,SR0665,VH0189,M 5964 ZN,Mitsubishi,Pajero Sport,Side Mirror,Crack,Moderate,Repair,Medium,240,4,1142,2026-01-28,2026-01-28,2026-02-02,Completed,Finished
+QUE0666,RO0666,SR0666,VH0380,W 3274 NX,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,Medium,223,2,1104,2026-01-09,2026-01-09,2026-01-13,Completed,Finished
+QUE0667,RO0667,SR0667,VH0129,A 5748 NK,Mitsubishi,Pajero Sport,Side Mirror,Shatter,Minor,Replace,Medium,553,1,1865,2026-08-27,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0668,RO0668,SR0668,VH0180,P 7029 UL,Mitsubishi,Outlander,Front Bumper,Scratch,Moderate,Repair,High,56,2,229,2026-01-07,2026-01-07,2026-01-08,Completed,Finished
+QUE0669,RO0669,SR0669,VH0060,S 2613 DS,Toyota,Agya,Rear Bumper,Paint Damage,Severe,Repair,Urgent,21,10,43,2026-03-18,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0670,RO0670,SR0670,VH0159,DP 1315 NK,Honda,Brio,Front Door,Dented,Minor,Repair,Low,685,1,2073,2026-06-16,2026-06-16,2026-06-17,Completed,Finished
+QUE0671,RO0671,SR0671,VH0331,K 4083 NI,Daihatsu,Rocky,Headlamp,Shatter,Minor,Replace,Low,751,2,2176,2026-09-01,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0672,RO0672,SR0672,VH0121,B 5134 YX,Honda,CR-V,Side Mirror,Scratch,Moderate,Repair,Medium,408,3,1536,2026-05-07,2026-05-07,NOT_COMPLETED,In Progress,Working
+QUE0673,RO0673,SR0673,VH0054,N 4663 IA,Honda,Brio,Rear Bumper,Dent,Minor,Repair,Medium,535,1,1824,2026-08-16,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0674,RO0674,SR0674,VH0100,F 9979 YH,BYD,Seal,Tail Lamp,Scratch,Minor,Repair,Medium,445,2,1624,2026-06-07,2026-06-07,2026-06-08,Completed,Finished
+QUE0675,RO0675,SR0675,VH0362,N 6128 FL,Toyota,Raize,Grille,Scratch,Minor,Repair,Medium,370,1,1455,2026-04-16,2026-04-16,2026-04-16,Completed,Finished
+QUE0676,RO0676,SR0676,VH0066,F 4772 VD,Mitsubishi,Outlander,Side Mirror,Shatter,Moderate,Replace,High,105,4,360,2026-03-17,2026-03-17,NOT_COMPLETED,In Progress,Working
+QUE0677,RO0677,SR0677,VH0124,S 7115 XS,Toyota,Avanza,Quarter Panel,Dented,Severe,Repair,Urgent,34,9,72,2026-06-20,2026-06-20,NOT_COMPLETED,In Progress,Working
+QUE0678,RO0678,SR0678,VH0172,DD 4470 BH,Toyota,Calya,Rear Door,Paint Damage,Moderate,Repair,Medium,396,5,1507,2026-05-04,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0679,RO0679,SR0679,VH0197,E 1293 XH,Suzuki,Swift,Tail Lamp,Shatter,Moderate,Replace,High,159,5,508,2026-06-17,2026-06-17,2026-06-24,Completed,Finished
+QUE0680,RO0680,SR0680,VH0209,S 8753 ZI,Toyota,Avanza,Tail Lamp,Broken,Minor,Replace,Low,602,1,1951,2026-02-25,2026-02-25,2026-02-28,Completed,Finished
+QUE0681,RO0681,SR0681,VH0058,P 1173 VU,Toyota,Veloz,Front Panel,Dent,Minor,Replace,Low,647,1,2020,2026-05-12,2026-05-12,2026-05-12,Completed,Finished
+QUE0682,RO0682,SR0682,VH0135,D 1291 YF,Daihatsu,Sigra,Roof,Dent,Minor,Replace,Medium,306,1,1304,2026-03-13,2026-03-13,2026-03-13,Completed,Finished
+QUE0683,RO0683,SR0683,VH0034,DD 5679 RC,Daihatsu,Terios,Tail Lamp,Shatter,Moderate,Replace,High,57,5,231,2026-01-07,2026-01-07,NOT_COMPLETED,In Progress,Working
+QUE0684,RO0684,SR0684,VH0189,M 5964 ZN,Mitsubishi,Pajero Sport,Trunk,Dent,Moderate,Repaint,Medium,261,4,1194,2026-02-11,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0685,RO0685,SR0685,VH0398,T 9968 ZW,Daihatsu,Ayla,Rear Bumper,Scratch,Minor,Repaint,Medium,391,1,1496,2026-05-03,2026-05-03,2026-05-04,Completed,Finished
+QUE0686,RO0686,SR0686,VH0395,B 3316 ME,Honda,CR-V,Front Bumper,Scratch,Minor,Repaint,Low,706,1,2106,2026-07-09,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0687,RO0687,SR0687,VH0014,N 8590 CF,Kia,Seltos,Front Fender,Dented,Minor,Repaint,Medium,344,1,1393,2026-04-01,2026-04-01,NOT_COMPLETED,In Progress,Working
+QUE0688,RO0688,SR0688,VH0182,K 3683 TI,Honda,CR-V,Front Bumper,Scratch,Minor,Repaint,Medium,241,2,1146,2026-01-25,2026-01-25,NOT_COMPLETED,In Progress,Working
+QUE0689,RO0689,SR0689,VH0038,DD 2863 HL,Kia,Carnival,Tail Lamp,Shatter,Severe,Replace,High,128,10,419,2026-04-23,2026-04-23,2026-05-02,Completed,Finished
+QUE0690,RO0690,SR0690,VH0127,D 7056 UV,Mitsubishi,Triton,Rear Fender,Scratch,Minor,Repaint,Low,703,1,2102,2026-06-30,2026-06-30,2026-06-30,Completed,Finished
+QUE0691,RO0691,SR0691,VH0180,P 7029 UL,Mitsubishi,Outlander,Side Mirror,Broken,Minor,Replace,Low,572,2,1907,2026-01-10,2026-01-10,NOT_COMPLETED,In Progress,Working
+QUE0692,RO0692,SR0692,VH0192,G 6365 NB,Honda,CR-V,Front Bumper,Scratch,Minor,Repaint,Medium,523,1,1798,2026-08-01,2026-08-01,2026-08-02,Completed,Finished
+QUE0693,RO0693,SR0693,VH0215,F 7104 PB,Toyota,Yaris,Side Mirror,Scratch,Moderate,Repair,High,190,5,589,2026-08-09,2026-08-09,2026-08-13,Completed,Finished
+QUE0694,RO0694,SR0694,VH0168,B 4122 HL,Honda,City,Rear Bumper,Paint Damage,Moderate,Repair,Medium,550,2,1860,2026-08-22,2026-08-22,2026-08-24,Completed,Finished
+QUE0695,RO0695,SR0695,VH0335,A 5720 ET,Toyota,Agya,Headlamp,Scratch,Minor,Repair,Medium,399,1,1519,2026-05-03,2026-05-03,2026-05-06,Completed,Finished
+QUE0696,RO0696,SR0696,VH0268,DP 9844 AI,Honda,CR-V,Rear Bumper,Scratch,Moderate,Repaint,Medium,379,3,1473,2026-04-24,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0697,RO0697,SR0697,VH0090,S 8602 IV,Toyota,Rush,Trunk,Paint Damage,Minor,Repair,Low,698,2,2093,2026-06-30,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0698,RO0698,SR0698,VH0007,L 3384 NV,Daihatsu,Ayla,Front Panel,Dent,Severe,Replace,Urgent,29,10,60,2026-05-19,2026-05-19,2026-05-29,Completed,Finished
+QUE0699,RO0699,SR0699,VH0129,A 5748 NK,Mitsubishi,Pajero Sport,Front Fender,Paint Damage,Moderate,Repair,Medium,345,5,1394,2026-03-31,2026-03-31,NOT_COMPLETED,In Progress,Working
+QUE0700,RO0700,SR0700,VH0377,W 7828 CA,Toyota,Innova,Rear Bumper,Paint Damage,Minor,Repaint,Low,661,1,2039,2026-05-20,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0701,RO0701,SR0701,VH0308,N 3179 QJ,Daihatsu,Terios,Tail Lamp,Broken,Minor,Replace,Medium,502,2,1752,2026-07-18,2026-07-18,NOT_COMPLETED,In Progress,Working
+QUE0702,RO0702,SR0702,VH0038,DD 2863 HL,Kia,Carnival,Grille,Scratch,Severe,Replace,Urgent,4,9,5,2026-01-09,2026-01-09,NOT_COMPLETED,In Progress,Working
+QUE0703,RO0703,SR0703,VH0270,AE 4024 YZ,Toyota,Yaris,Rear Fender,Dented,Minor,Repair,Low,594,2,1939,2026-02-18,2026-02-18,2026-02-22,Completed,Finished
+QUE0704,RO0704,SR0704,VH0292,T 6831 EP,Suzuki,XL7,Trunk,Collision Damage,Moderate,Replace,Medium,397,4,1512,2026-05-02,2026-05-02,2026-05-07,Completed,Finished
+QUE0705,RO0705,SR0705,VH0126,D 4770 ZQ,Nissan,Kicks,Tail Lamp,Crack,Moderate,Replace,High,142,4,461,2026-05-23,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0706,RO0706,SR0706,VH0120,W 8323 ID,Honda,BR-V,Rear Fender,Collision Damage,Minor,Repair,Medium,441,2,1616,2026-06-02,2026-06-02,NOT_COMPLETED,In Progress,Working
+QUE0707,RO0707,SR0707,VH0346,G 1675 YR,Hyundai,Tucson,Hood,Dent,Minor,Repair,Low,710,2,2111,2026-07-12,2026-07-12,NOT_COMPLETED,In Progress,Working
+QUE0708,RO0708,SR0708,VH0016,DD 3773 NV,Daihatsu,Xenia,Grille,Shatter,Moderate,Replace,High,162,5,517,2026-06-30,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0709,RO0709,SR0709,VH0263,Z 7100 OV,Honda,HR-V,Tail Lamp,Broken,Moderate,Replace,Medium,284,5,1253,2026-02-25,2026-02-25,2026-03-03,Completed,Finished
+QUE0710,RO0710,SR0710,VH0378,T 6539 AS,Honda,BR-V,Rear Fender,Collision Damage,Minor,Repair,Medium,552,1,1864,2026-08-26,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0711,RO0711,SR0711,VH0023,T 1835 TZ,Honda,City,Headlamp,Broken,Moderate,Replace,Medium,390,4,1492,2026-05-01,2026-05-01,NOT_COMPLETED,In Progress,Working
+QUE0712,RO0712,SR0712,VH0262,A 2148 VQ,Honda,Mobilio,Front Panel,Collision Damage,Minor,Repair,Medium,524,2,1799,2026-08-04,2026-08-04,2026-08-05,Completed,Finished
+QUE0713,RO0713,SR0713,VH0178,M 1759 HB,Suzuki,Baleno,Grille,Scratch,Moderate,Repair,Medium,280,3,1247,2026-02-23,2026-02-23,2026-02-28,Completed,Finished
+QUE0714,RO0714,SR0714,VH0338,H 8375 TH,Mitsubishi,Pajero Sport,Trunk,Dent,Moderate,Repaint,Medium,490,4,1726,2026-07-05,2026-07-05,2026-07-11,Completed,Finished
+QUE0715,RO0715,SR0715,VH0203,Z 9485 FF,Honda,City,Side Mirror,Shatter,Moderate,Replace,Medium,448,2,1630,2026-06-08,2026-06-08,2026-06-10,Completed,Finished
+QUE0716,RO0716,SR0716,VH0135,D 1291 YF,Daihatsu,Sigra,Trunk,Scratch,Minor,Repair,Low,592,1,1937,2026-02-15,2026-02-15,NOT_COMPLETED,In Progress,Working
+QUE0717,RO0717,SR0717,VH0224,N 3210 OS,Mazda,Mazda 2,Hood,Scratch,Minor,Repair,Medium,313,2,1320,2026-03-17,2026-03-17,NOT_COMPLETED,In Progress,Working
+QUE0718,RO0718,SR0718,VH0158,E 7627 UN,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,Medium,330,5,1359,2026-03-22,2026-03-22,NOT_COMPLETED,In Progress,Working
+QUE0719,RO0719,SR0719,VH0291,P 6800 WN,Suzuki,XL7,Roof,Collision Damage,Severe,Replace,High,211,6,642,2026-09-10,2026-09-10,2026-09-17,Completed,Finished
+QUE0720,RO0720,SR0720,VH0207,F 5803 EV,Honda,HR-V,Tail Lamp,Crack,Moderate,Repair,Medium,526,3,1804,2026-08-02,2026-08-02,2026-08-05,Completed,Finished
+QUE0721,RO0721,SR0721,VH0043,M 9722 SM,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,High,89,5,318,2026-02-25,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0722,RO0722,SR0722,VH0053,D 7721 UC,Honda,Brio,Roof,Dented,Minor,Repaint,Low,611,2,1962,2026-03-17,2026-03-17,2026-03-20,Completed,Finished
+QUE0723,RO0723,SR0723,VH0302,S 8160 DH,Suzuki,Baleno,Rear Fender,Paint Damage,Minor,Repair,Medium,376,1,1468,2026-04-21,2026-04-21,2026-04-21,Completed,Finished
+QUE0724,RO0724,SR0724,VH0340,K 5454 GX,Kia,Sonet,Grille,Scratch,Minor,Repair,Low,597,1,1944,2026-02-22,2026-02-22,2026-02-24,Completed,Finished
+QUE0725,RO0725,SR0725,VH0392,W 4214 FS,Toyota,Innova,Headlamp,Crack,Severe,Repair,High,157,10,499,2026-06-09,2026-06-09,2026-06-21,Completed,Finished
+QUE0726,RO0726,SR0726,VH0359,F 9861 NO,Mazda,Mazda 2,Hood,Scratch,Minor,Repair,Low,696,1,2090,2026-06-26,2026-06-26,NOT_COMPLETED,In Progress,Working
+QUE0727,RO0727,SR0727,VH0230,N 5895 VZ,Suzuki,Jimny,Grille,Crack,Minor,Repair,Low,721,1,2130,2026-07-28,2026-07-28,2026-07-30,Completed,Finished
+QUE0728,RO0728,SR0728,VH0155,AB 5065 EY,Toyota,Agya,Front Bumper,Collision Damage,Severe,Replace,Urgent,7,5,12,2026-01-18,2026-01-18,2026-01-24,Completed,Finished
+QUE0729,RO0729,SR0729,VH0319,G 5092 LW,Honda,Mobilio,Headlamp,Broken,Minor,Replace,Medium,419,1,1567,2026-05-15,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0730,RO0730,SR0730,VH0023,T 1835 TZ,Honda,City,Grille,Crack,Minor,Replace,Low,575,2,1912,2026-01-12,2026-01-12,NOT_COMPLETED,In Progress,Working
+QUE0731,RO0731,SR0731,VH0284,D 9211 VY,Isuzu,D-Max,Front Panel,Dent,Severe,Replace,High,82,4,303,2026-02-19,2026-02-19,2026-02-24,Completed,Finished
+QUE0732,RO0732,SR0732,VH0379,T 3324 RD,Mitsubishi,Xpander,Rear Fender,Dent,Moderate,Replace,Medium,403,5,1524,2026-05-04,2026-05-04,2026-05-10,Completed,Finished
+QUE0733,RO0733,SR0733,VH0092,Z 3601 QQ,Suzuki,Baleno,Front Door,Dented,Minor,Replace,Low,761,1,2191,2026-09-07,2026-09-07,NOT_COMPLETED,In Progress,Working
+QUE0734,RO0734,SR0734,VH0048,E 7780 PM,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,High,148,5,476,2026-05-31,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0735,RO0735,SR0735,VH0119,D 3487 NG,Honda,City,Side Mirror,Crack,Moderate,Replace,High,189,5,586,2026-08-05,2026-08-05,2026-08-11,Completed,Finished
+QUE0736,RO0736,SR0736,VH0356,H 2240 ZK,Honda,BR-V,Rear Fender,Collision Damage,Minor,Repair,Low,746,1,2169,2026-08-24,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0737,RO0737,SR0737,VH0027,AD 4894 KS,Toyota,Veloz,Grille,Broken,Moderate,Replace,High,141,4,459,2026-05-19,2026-05-19,2026-05-25,Completed,Finished
+QUE0738,RO0738,SR0738,VH0152,M 6953 RW,Toyota,Innova,Headlamp,Crack,Severe,Repair,Urgent,11,9,21,2026-01-27,2026-01-27,2026-02-06,Completed,Finished
+QUE0739,RO0739,SR0739,VH0059,N 9537 QS,Mitsubishi,Outlander,Front Bumper,Scratch,Moderate,Repair,Medium,270,3,1215,2026-02-17,2026-02-17,2026-02-22,Completed,Finished
+QUE0740,RO0740,SR0740,VH0319,G 5092 LW,Honda,Mobilio,Rear Bumper,Dent,Minor,Replace,Low,697,2,2091,2026-07-01,2026-07-01,2026-07-04,Completed,Finished
+QUE0741,RO0741,SR0741,VH0386,P 8354 LA,Daihatsu,Terios,Rear Door,Scratch,Minor,Repair,Medium,352,2,1410,2026-04-07,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0742,RO0742,SR0742,VH0334,W 2880 OS,Mitsubishi,Triton,Windshield,Crack,Moderate,Repair,High,0,4,0,2026-07-08,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0743,RO0743,SR0743,VH0344,H 3549 IY,Honda,Civic,Quarter Panel,Dent,Minor,Repaint,Low,719,2,2126,2026-07-24,2026-07-24,2026-07-27,Completed,Finished
+QUE0744,RO0744,SR0744,VH0337,AB 8528 YS,BYD,Dolphin,Side Mirror,Scratch,Minor,Repair,Low,742,2,2162,2026-08-18,2026-08-18,2026-08-22,Completed,Finished
+QUE0745,RO0745,SR0745,VH0113,DP 6055 LD,BYD,M6,Rear Door,Dented,Moderate,Replace,High,65,2,259,2026-01-20,2026-01-20,2026-01-21,Completed,Finished
+QUE0746,RO0746,SR0746,VH0308,N 3179 QJ,Daihatsu,Terios,Windshield,Broken,Minor,Replace,Low,585,1,1928,2026-01-26,2026-01-26,2026-01-28,Completed,Finished
+QUE0747,RO0747,SR0747,VH0355,E 5723 JN,Mitsubishi,Triton,Hood,Dent,Minor,Replace,Medium,478,1,1703,2026-07-01,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0748,RO0748,SR0748,VH0039,H 8084 PK,BYD,Seal,Trunk,Scratch,Minor,Repair,Medium,393,2,1502,2026-05-01,2026-05-01,2026-05-02,Completed,Finished
+QUE0749,RO0749,SR0749,VH0103,K 5027 LO,Honda,HR-V,Front Panel,Paint Damage,Severe,Repaint,Urgent,31,9,65,2026-05-29,2026-05-29,2026-06-09,Completed,Finished
+QUE0750,RO0750,SR0750,VH0298,AB 3936 CD,Toyota,Innova,Headlamp,Scratch,Minor,Repair,Low,747,2,2170,2026-08-22,2026-08-22,2026-08-23,Completed,Finished
+QUE0751,RO0751,SR0751,VH0202,G 6212 KZ,Toyota,Calya,Grille,Broken,Minor,Replace,Low,627,2,1991,2026-04-21,2026-04-21,2026-04-25,Completed,Finished
+QUE0752,RO0752,SR0752,VH0100,F 9979 YH,BYD,Seal,Hood,Collision Damage,Minor,Replace,Medium,503,2,1754,2026-07-14,2026-07-14,2026-07-18,Completed,Finished
+QUE0753,RO0753,SR0753,VH0159,DP 1315 NK,Honda,Brio,Rear Bumper,Dent,Minor,Repair,Low,598,1,1945,2026-02-20,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0754,RO0754,SR0754,VH0170,AG 7538 RJ,Mazda,CX-30,Side Mirror,Crack,Minor,Repair,Medium,440,2,1614,2026-05-31,2026-05-31,NOT_COMPLETED,In Progress,Working
+QUE0755,RO0755,SR0755,VH0171,B 4838 WP,Toyota,Veloz,Rear Fender,Scratch,Severe,Repair,High,160,5,511,2026-06-18,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0756,RO0756,SR0756,VH0062,E 3217 NV,Suzuki,Ertiga,Trunk,Dented,Moderate,Repair,High,0,5,0,2026-02-03,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0757,RO0757,SR0757,VH0023,T 1835 TZ,Honda,City,Grille,Crack,Minor,Replace,Medium,491,1,1730,2026-07-07,2026-07-07,2026-07-10,Completed,Finished
+QUE0758,RO0758,SR0758,VH0064,AG 6628 XN,Toyota,Rush,Tail Lamp,Crack,Moderate,Replace,Medium,497,5,1737,2026-07-10,2026-07-10,NOT_COMPLETED,In Progress,Working
+QUE0759,RO0759,SR0759,VH0067,G 3289 GC,Daihatsu,Sigra,Headlamp,Shatter,Moderate,Replace,Medium,537,3,1827,2026-08-15,2026-08-15,2026-08-18,Completed,Finished
+QUE0760,RO0760,SR0760,VH0139,DD 4790 QP,Toyota,Agya,Rear Fender,Scratch,Minor,Repair,Low,754,1,2181,2026-09-01,2026-09-01,2026-09-03,Completed,Finished
+QUE0761,RO0761,SR0761,VH0015,DD 5558 BX,Suzuki,Swift,Tail Lamp,Shatter,Moderate,Replace,High,207,5,632,2026-09-03,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0762,RO0762,SR0762,VH0115,W 4090 QW,Honda,HR-V,Headlamp,Shatter,Minor,Replace,Low,650,1,2023,2026-05-14,2026-05-14,NOT_COMPLETED,In Progress,Working
+QUE0763,RO0763,SR0763,VH0134,DP 5629 MF,Honda,CR-V,Rear Fender,Dent,Minor,Repaint,Low,691,2,2080,2026-06-21,2026-06-21,NOT_COMPLETED,In Progress,Working
+QUE0764,RO0764,SR0764,VH0198,N 1260 DF,Mitsubishi,Outlander,Trunk,Paint Damage,Minor,Repair,Low,584,2,1926,2026-01-22,2026-01-22,2026-01-26,Completed,Finished
+QUE0765,RO0765,SR0765,VH0165,L 1332 VK,Mitsubishi,Triton,Rear Door,Paint Damage,Minor,Repaint,Low,606,2,1955,2026-03-06,2026-03-06,2026-03-10,Completed,Finished
+QUE0766,RO0766,SR0766,VH0336,AE 6601 VY,Wuling,Air ev,Hood,Paint Damage,Moderate,Repaint,Medium,409,3,1539,2026-05-09,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0767,RO0767,SR0767,VH0012,F 5246 JR,Daihatsu,Xenia,Rear Fender,Paint Damage,Minor,Repaint,Low,651,2,2024,2026-05-17,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0768,RO0768,SR0768,VH0397,A 9118 ZG,Toyota,Raize,Side Mirror,Shatter,Moderate,Replace,High,73,5,278,2026-01-31,2026-01-31,2026-02-07,Completed,Finished
+QUE0769,RO0769,SR0769,VH0032,L 5127 HY,Daihatsu,Xenia,Roof,Dent,Minor,Replace,Medium,564,1,1890,2026-09-06,2026-09-06,NOT_COMPLETED,In Progress,Working
+QUE0770,RO0770,SR0770,VH0347,N 7107 JO,Nissan,Kicks,Rear Fender,Dent,Minor,Repaint,Low,632,2,1999,2026-04-23,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0771,RO0771,SR0771,VH0144,DK 9080 NV,Honda,City,Roof,Paint Damage,Minor,Repaint,Low,714,2,2117,2026-07-21,2026-07-21,2026-07-23,Completed,Finished
+QUE0772,RO0772,SR0772,VH0278,P 3264 YI,Honda,Brio,Headlamp,Shatter,Minor,Replace,Medium,382,2,1482,2026-04-23,2026-04-23,NOT_COMPLETED,In Progress,Working
+QUE0773,RO0773,SR0773,VH0096,D 7068 DY,Toyota,Fortuner,Side Mirror,Shatter,Moderate,Replace,Medium,319,2,1333,2026-03-18,2026-03-18,2026-03-19,Completed,Finished
+QUE0774,RO0774,SR0774,VH0286,N 3171 DP,Toyota,Calya,Grille,Broken,Minor,Replace,Medium,0,1,0,2026-08-07,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0775,RO0775,SR0775,VH0125,N 5863 FO,Toyota,Calya,Front Door,Scratch,Minor,Repair,Low,644,1,2016,2026-05-10,2026-05-10,NOT_COMPLETED,In Progress,Working
+QUE0776,RO0776,SR0776,VH0280,Z 8333 IV,Kia,Carnival,Rear Fender,Scratch,Minor,Repair,Medium,372,2,1460,2026-04-20,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0777,RO0777,SR0777,VH0136,K 8564 HD,Toyota,Rush,Front Fender,Collision Damage,Minor,Replace,Medium,229,2,1117,2026-01-16,2026-01-16,2026-01-18,Completed,Finished
+QUE0778,RO0778,SR0778,VH0156,F 6350 VX,Daihatsu,Rocky,Headlamp,Crack,Moderate,Replace,Medium,257,4,1185,2026-02-10,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0779,RO0779,SR0779,VH0378,T 6539 AS,Honda,BR-V,Tail Lamp,Scratch,Moderate,Repair,Medium,230,4,1119,2026-01-15,2026-01-15,NOT_COMPLETED,In Progress,Working
+QUE0780,RO0780,SR0780,VH0349,L 2252 OF,Daihatsu,Terios,Front Fender,Collision Damage,Minor,Repair,Low,0,2,0,2026-06-06,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0781,RO0781,SR0781,VH0398,T 9968 ZW,Daihatsu,Ayla,Rear Bumper,Scratch,Minor,Repaint,Medium,430,1,1591,2026-05-24,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0782,RO0782,SR0782,VH0188,DP 3870 SZ,Daihatsu,Ayla,Rear Bumper,Scratch,Minor,Repaint,Medium,443,2,1620,2026-06-07,2026-06-07,NOT_COMPLETED,In Progress,Working
+QUE0783,RO0783,SR0783,VH0130,B 5052 UI,Toyota,Calya,Rear Door,Collision Damage,Moderate,Repair,Medium,0,2,0,2026-06-23,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0784,RO0784,SR0784,VH0003,M 6695 SK,Mercedes-Benz,C-Class,Side Mirror,Broken,Moderate,Replace,Medium,486,4,1718,2026-07-07,2026-07-07,2026-07-12,Completed,Finished
+QUE0785,RO0785,SR0785,VH0107,F 5015 KW,Toyota,Innova,Front Bumper,Collision Damage,Minor,Repair,Low,616,2,1971,2026-03-20,2026-03-20,2026-03-22,Completed,Finished
+QUE0786,RO0786,SR0786,VH0074,DD 3252 DK,Honda,HR-V,Grille,Broken,Minor,Replace,Low,728,2,2139,2026-08-07,NOT_STARTED,NOT_COMPLETED,Waiting,Not Assigned
+QUE0787,RO0787,SR0787,VH0077,DD 7419 SG,Honda,City,Front Bumper,Collision Damage,Moderate,Replace,High,53,3,221,2026-01-07,2026-01-07,2026-01-09,Completed,Finished
+QUE0788,RO0788,SR0788,VH0035,W 2299 HA,Honda,BR-V,Front Fender,Dented,Moderate,Repaint,High,87,4,313,2026-02-26,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0789,RO0789,SR0789,VH0309,DP 6094 WM,Honda,Mobilio,Rear Bumper,Dent,Minor,Replace,Medium,279,2,1245,2026-02-23,2026-02-23,NOT_COMPLETED,In Progress,Working
+QUE0790,RO0790,SR0790,VH0151,A 1312 OL,Toyota,Veloz,Grille,Scratch,Moderate,Repair,Medium,297,3,1288,2026-03-03,2026-03-03,2026-03-06,Completed,Finished
+QUE0791,RO0791,SR0791,VH0051,S 7036 KY,Honda,BR-V,Rear Door,Collision Damage,Severe,Repair,High,102,10,351,2026-03-18,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0792,RO0792,SR0792,VH0028,D 9964 UH,Toyota,Avanza,Front Bumper,Paint Damage,Moderate,Repaint,High,93,3,328,2026-03-07,2026-03-07,2026-03-12,Completed,Finished
+QUE0793,RO0793,SR0793,VH0104,W 3975 XM,Suzuki,Ertiga,Side Mirror,Broken,Minor,Replace,Medium,0,2,0,2026-03-15,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0794,RO0794,SR0794,VH0189,M 5964 ZN,Mitsubishi,Pajero Sport,Front Bumper,Scratch,Minor,Repair,Low,0,2,0,2026-02-25,CANCELLED,NOT_COMPLETED,Cancelled,Not Assigned
+QUE0795,RO0795,SR0795,VH0007,L 3384 NV,Daihatsu,Ayla,Grille,Broken,Minor,Replace,Medium,353,2,1412,2026-04-08,2026-04-08,NOT_COMPLETED,In Progress,Working
+QUE0796,RO0796,SR0796,VH0089,F 7506 AB,Mitsubishi,Pajero Sport,Grille,Shatter,Moderate,Replace,Medium,377,2,1469,2026-04-24,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0797,RO0797,SR0797,VH0082,K 9159 XY,Wuling,Cortez,Front Panel,Collision Damage,Minor,Replace,Medium,435,2,1600,2026-05-28,NOT_STARTED,NOT_COMPLETED,Waiting,Assigned
+QUE0798,RO0798,SR0798,VH0138,W 7265 LW,Honda,Brio,Roof,Dent,Moderate,Repaint,Medium,235,3,1131,2026-01-21,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned
+QUE0799,RO0799,SR0799,VH0060,S 2613 DS,Toyota,Agya,Headlamp,Crack,Moderate,Repair,Medium,254,2,1178,2026-02-08,2026-02-08,2026-02-12,Completed,Finished
+QUE0800,RO0800,SR0800,VH0043,M 9722 SM,Mitsubishi,Pajero Sport,Side Mirror,Shatter,Minor,Replace,Low,683,1,2071,2026-06-10,NOT_STARTED,NOT_COMPLETED,Scheduled,Assigned

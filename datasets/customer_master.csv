@@ -1,0 +1,251 @@
+customer_id,customer_name,phone,email,address,city,customer_type,registration_date,status
+C0001,Budi Setiawan Pratama,089699352424,budisetiawanpratama152@gmail.com,"Jl. Sudirman No. 9, Semarang",Semarang,Individual,2024-01-31,Active
+C0002,Maya Santoso,083883595557,mayasantoso743@mail.com,"Jl. Ahmad Yani No. 195, Denpasar",Denpasar,Individual,2026-04-05,Active
+C0003,Hadi Kusuma Rahmawati,082172242584,hadikusumarahmawati354@gmail.com,"Jl. Diponegoro No. 155, Pasuruan",Pasuruan,Individual,2024-09-27,Active
+C0004,Nina Wijaya,088058036925,ninawijaya397@gmail.com,"Jl. Basuki Rahmat No. 181, Semarang",Semarang,Individual,2024-03-12,Active
+C0005,Ani Wijaya,085855548428,aniwijaya897@gmail.com,"Jl. Diponegoro No. 42, Yogyakarta",Yogyakarta,Individual,2025-01-14,Active
+C0006,Agus Utami,083085737216,agusutami556@yahoo.co.id,"Jl. HR Rasuna Said No. 57, Mojokerto",Mojokerto,Individual,2025-12-02,Active
+C0007,Siti Pratama,086153862084,sitipratama834@outlook.com,"Jl. Malioboro No. 184, Gresik",Gresik,Individual,2024-11-18,Active
+C0008,Ahmad Kusuma Pratama,088480197543,ahmadkusumapratama772@outlook.com,"Jl. Basuki Rahmat No. 36, Pasuruan",Pasuruan,Individual,2025-06-05,Active
+C0009,Dewi Kusuma,088620407304,dewikusuma821@mail.com,"Jl. Malioboro No. 120, Kediri",Kediri,Individual,2025-06-25,Active
+C0010,Budi Firmansyah,089265732827,budifirmansyah708@outlook.com,"Jl. Sudirman No. 41, Mojokerto",Mojokerto,Individual,2025-04-09,Active
+C0011,Hadi Wibowo,089058899317,hadiwibowo529@gmail.com,"Jl. Basuki Rahmat No. 40, Semarang",Semarang,Individual,2025-01-17,Active
+C0012,Rian Gunawan Saputra,082469476038,riangunawansaputra510@gmail.com,"Jl. Ahmad Yani No. 62, Gresik",Gresik,Individual,2026-06-18,Active
+C0013,Putri Susanto Rahmawati,082687873705,putrisusantorahmawati555@yahoo.co.id,"Jl. HR Rasuna Said No. 156, Mojokerto",Mojokerto,Individual,2025-03-09,Inactive
+C0014,PT Transportasi Utama Indonesia,089371188177,corp@pttransporta95.co.id,"Jl. HR Rasuna Said No. 116, Makassar",Makassar,Corporate,2024-05-03,Active
+C0015,Budi Utami,081021631964,budiutami612@yahoo.co.id,"Jl. Raya Darmo No. 9, Gresik",Gresik,Individual,2026-05-30,Active
+C0016,Hadi Firmansyah,088387444981,hadifirmansyah562@yahoo.co.id,"Jl. Gatot Subroto No. 105, Denpasar",Denpasar,Individual,2024-07-13,Active
+C0017,Fitri Lestari,089626121993,fitrilestari894@gmail.com,"Jl. Diponegoro No. 28, Kediri",Kediri,Individual,2024-09-11,Active
+C0018,Eko Lestari Nugroho,086626041828,ekolestarinugroho265@gmail.com,"Jl. HR Rasuna Said No. 4, Yogyakarta",Yogyakarta,Individual,2026-09-19,Active
+C0019,Sri Kusuma,086119603697,srikusuma502@yahoo.co.id,"Jl. Ahmad Yani No. 100, Kediri",Kediri,Individual,2024-09-28,Inactive
+C0020,Ani Lestari,082941115861,anilestari758@mail.com,"Jl. Ahmad Yani No. 149, Gresik",Gresik,Individual,2026-01-23,Active
+C0021,Siti Santoso,081793202312,sitisantoso524@yahoo.co.id,"Jl. Pemuda No. 18, Medan",Medan,Individual,2025-09-01,Active
+C0022,CV Sejahtera Abadi Group,088416512343,corp@cvsejahteraa41.co.id,"Jl. Malioboro No. 145, Kediri",Kediri,Corporate,2025-06-19,Active
+C0023,Rudi Pratama Kusuma,086861802188,rudipratamakusuma697@outlook.com,"Jl. Gatot Subroto No. 160, Surabaya",Surabaya,Individual,2025-07-30,Inactive
+C0024,Joko Wibowo Gunawan,084170545669,jokowibowogunawan367@gmail.com,"Jl. Gatot Subroto No. 140, Malang",Malang,Individual,2025-12-21,Active
+C0025,PT Cahaya Perkasa Persada,082332005333,corp@ptcahayaperk94.co.id,"Jl. Raya Darmo No. 191, Sidoarjo",Sidoarjo,Corporate,2025-07-20,Active
+C0026,Joko Setiawan,087490045114,jokosetiawan713@outlook.com,"Jl. Ahmad Yani No. 24, Makassar",Makassar,Individual,2025-10-11,Active
+C0027,Budi Saputra,083082398007,budisaputra662@outlook.com,"Jl. Ahmad Yani No. 29, Bandung",Bandung,Individual,2024-03-18,Inactive
+C0028,Eko Wibowo Saputra,086530881685,ekowibowosaputra606@yahoo.co.id,"Jl. Diponegoro No. 11, Mojokerto",Mojokerto,Individual,2026-07-09,Active
+C0029,Dewi Saputra,088935324878,dewisaputra915@mail.com,"Jl. Pemuda No. 46, Medan",Medan,Individual,2026-06-21,Active
+C0030,Rudi Rahmawati,084436082771,rudirahmawati831@yahoo.co.id,"Jl. Ahmad Yani No. 121, Kediri",Kediri,Individual,2024-08-15,Active
+C0031,CV Transportasi Utama Tbk,081341647528,corp@cvtransporta38.co.id,"Jl. Pahlawan No. 18, Pasuruan",Pasuruan,Corporate,2026-09-17,Active
+C0032,Rian Lestari,081328895279,rianlestari873@outlook.com,"Jl. Malioboro No. 68, Malang",Malang,Individual,2024-02-09,Active
+C0033,Rudi Lestari,085941145173,rudilestari533@gmail.com,"Jl. Sudirman No. 1, Surabaya",Surabaya,Individual,2025-06-16,Inactive
+C0034,Joko Saputra,088961433041,jokosaputra981@outlook.com,"Jl. Pahlawan No. 130, Solo",Solo,Individual,2024-11-12,Active
+C0035,Ani Wibowo Lestari,089638515930,aniwibowolestari690@mail.com,"Jl. HR Rasuna Said No. 1, Kediri",Kediri,Individual,2024-11-07,Active
+C0036,Dimas Utami,086645019375,dimasutami486@mail.com,"Jl. Pemuda No. 169, Jakarta",Jakarta,Individual,2024-03-27,Active
+C0037,Maya Saputra Rahmawati,083842623414,mayasaputrarahmawati250@outlook.com,"Jl. Ahmad Yani No. 63, Surabaya",Surabaya,Individual,2025-05-01,Active
+C0038,Ahmad Lestari,089972919099,ahmadlestari599@yahoo.co.id,"Jl. Basuki Rahmat No. 38, Kediri",Kediri,Individual,2025-11-02,Active
+C0039,PT Berkat Bersama Tbk,089994868611,corp@ptberkatbers32.co.id,"Jl. HR Rasuna Said No. 64, Surabaya",Surabaya,Corporate,2026-07-28,Active
+C0040,Ahmad Firmansyah,086692707991,ahmadfirmansyah582@outlook.com,"Jl. HR Rasuna Said No. 115, Medan",Medan,Individual,2026-07-07,Active
+C0041,CV Transportasi Utama Tbk,084595408939,corp@cvtransporta91.co.id,"Jl. Basuki Rahmat No. 71, Yogyakarta",Yogyakarta,Corporate,2025-03-26,Active
+C0042,Hadi Saputra,082734714788,hadisaputra563@gmail.com,"Jl. Pemuda No. 181, Kediri",Kediri,Individual,2024-08-07,Active
+C0043,Nina Nugroho,085913207232,ninanugroho221@mail.com,"Jl. Ahmad Yani No. 91, Jakarta",Jakarta,Individual,2024-11-01,Active
+C0044,CV Cahaya Perkasa Group,083889994595,corp@cvcahayaperk87.co.id,"Jl. Sudirman No. 125, Mojokerto",Mojokerto,Corporate,2024-01-30,Active
+C0045,Doni Setiawan Nugroho,088997511441,donisetiawannugroho951@yahoo.co.id,"Jl. Sudirman No. 152, Makassar",Makassar,Individual,2025-07-31,Active
+C0046,Wati Kusuma,084372116363,watikusuma196@gmail.com,"Jl. Gatot Subroto No. 84, Gresik",Gresik,Individual,2024-12-11,Active
+C0047,Wati Hidayat,087918536733,watihidayat491@gmail.com,"Jl. Raya Darmo No. 200, Gresik",Gresik,Individual,2026-09-07,Active
+C0048,Sri Pratama,084030688758,sripratama646@yahoo.co.id,"Jl. Raya Darmo No. 145, Yogyakarta",Yogyakarta,Individual,2026-08-28,Active
+C0049,Fitri Kusuma,083060962771,fitrikusuma996@gmail.com,"Jl. Ahmad Yani No. 80, Semarang",Semarang,Individual,2025-08-12,Active
+C0050,CV Auto Karya Utama,089849782669,corp@cvautokaryau85.co.id,"Jl. Pahlawan No. 176, Solo",Solo,Corporate,2025-09-06,Active
+C0051,Dimas Rahmawati Wibowo,081892896590,dimasrahmawatiwibowo448@outlook.com,"Jl. Sudirman No. 126, Surabaya",Surabaya,Individual,2024-04-18,Active
+C0052,Ahmad Setiawan Kusuma,088898178921,ahmadsetiawankusuma761@outlook.com,"Jl. Sudirman No. 188, Jakarta",Jakarta,Individual,2025-08-29,Active
+C0053,PT Transportasi Utama Indonesia,086972096511,corp@pttransporta41.co.id,"Jl. Gatot Subroto No. 84, Surabaya",Surabaya,Corporate,2024-07-05,Active
+C0054,Hadi Saputra Utami,088111669464,hadisaputrautami728@outlook.com,"Jl. Raya Darmo No. 62, Gresik",Gresik,Individual,2026-01-07,Active
+C0055,Sri Setiawan,086712822524,srisetiawan738@mail.com,"Jl. Basuki Rahmat No. 104, Mojokerto",Mojokerto,Individual,2025-12-09,Active
+C0056,Fitri Nugroho,088064196764,fitrinugroho362@mail.com,"Jl. Gatot Subroto No. 70, Solo",Solo,Individual,2024-11-09,Active
+C0057,Joko Saputra Wibowo,083445458933,jokosaputrawibowo983@yahoo.co.id,"Jl. Malioboro No. 195, Mojokerto",Mojokerto,Individual,2025-06-21,Active
+C0058,PT Transportasi Utama Tbk,083259521231,corp@pttransporta56.co.id,"Jl. HR Rasuna Said No. 33, Solo",Solo,Corporate,2024-10-07,Active
+C0059,Ani Setiawan,082312005658,anisetiawan663@mail.com,"Jl. Gatot Subroto No. 113, Jakarta",Jakarta,Individual,2024-12-14,Active
+C0060,Putri Wijaya,081918783485,putriwijaya420@mail.com,"Jl. Malioboro No. 78, Malang",Malang,Individual,2024-03-28,Inactive
+C0061,Wati Utami,087672328381,watiutami643@yahoo.co.id,"Jl. Gatot Subroto No. 77, Makassar",Makassar,Individual,2026-05-30,Active
+C0062,Dimas Utami Setiawan,089044575335,dimasutamisetiawan111@yahoo.co.id,"Jl. Raya Darmo No. 41, Yogyakarta",Yogyakarta,Individual,2024-09-02,Active
+C0063,Budi Lestari,084715344792,budilestari618@mail.com,"Jl. Pahlawan No. 180, Mojokerto",Mojokerto,Individual,2026-05-30,Active
+C0064,Hadi Rahmawati,086428809922,hadirahmawati613@yahoo.co.id,"Jl. Pemuda No. 69, Gresik",Gresik,Individual,2026-04-26,Active
+C0065,Ani Utami,086630378679,aniutami592@outlook.com,"Jl. Pahlawan No. 180, Solo",Solo,Individual,2025-02-16,Inactive
+C0066,Putri Nugroho Santoso,085151021423,putrinugrohosantoso920@mail.com,"Jl. Basuki Rahmat No. 173, Sidoarjo",Sidoarjo,Individual,2026-05-06,Active
+C0067,Budi Rahmawati,083287089502,budirahmawati285@gmail.com,"Jl. Gatot Subroto No. 72, Yogyakarta",Yogyakarta,Individual,2024-07-04,Inactive
+C0068,Putri Wijaya,085127133634,putriwijaya428@outlook.com,"Jl. Sudirman No. 178, Pasuruan",Pasuruan,Individual,2025-05-22,Active
+C0069,PT Maju Lancar Utama,084262962899,corp@ptmajulancar50.co.id,"Jl. Sudirman No. 132, Denpasar",Denpasar,Corporate,2026-04-24,Inactive
+C0070,Nina Nugroho,088991678242,ninanugroho202@outlook.com,"Jl. Ahmad Yani No. 53, Denpasar",Denpasar,Individual,2024-09-30,Active
+C0071,CV Maju Lancar Utama,089049203594,corp@cvmajulancar13.co.id,"Jl. HR Rasuna Said No. 4, Mojokerto",Mojokerto,Corporate,2025-07-19,Active
+C0072,Dewi Nugroho,087357819337,dewinugroho673@yahoo.co.id,"Jl. Pahlawan No. 107, Solo",Solo,Individual,2026-05-04,Active
+C0073,Ahmad Wibowo Pratama,081855267798,ahmadwibowopratama953@yahoo.co.id,"Jl. HR Rasuna Said No. 69, Pasuruan",Pasuruan,Individual,2026-04-20,Active
+C0074,Dimas Utami,086798248935,dimasutami511@yahoo.co.id,"Jl. Diponegoro No. 142, Pasuruan",Pasuruan,Individual,2026-02-20,Active
+C0075,Rudi Susanto Setiawan,083977301715,rudisusantosetiawan254@mail.com,"Jl. Gatot Subroto No. 181, Pasuruan",Pasuruan,Individual,2026-07-24,Active
+C0076,Eko Nugroho,082282132633,ekonugroho139@outlook.com,"Jl. Gatot Subroto No. 4, Bandung",Bandung,Individual,2026-01-09,Active
+C0077,PT Sejahtera Abadi Indonesia,085375122315,corp@ptsejahteraa43.co.id,"Jl. Diponegoro No. 173, Medan",Medan,Corporate,2026-05-29,Active
+C0078,CV Cahaya Perkasa Utama,081848465708,corp@cvcahayaperk89.co.id,"Jl. Raya Darmo No. 112, Gresik",Gresik,Corporate,2026-09-28,Active
+C0079,Dewi Nugroho Hidayat,081563141919,dewinugrohohidayat935@gmail.com,"Jl. Diponegoro No. 96, Mojokerto",Mojokerto,Individual,2025-03-17,Active
+C0080,Dimas Firmansyah,082072674945,dimasfirmansyah184@yahoo.co.id,"Jl. Malioboro No. 37, Jakarta",Jakarta,Individual,2024-08-25,Active
+C0081,Hadi Firmansyah Rahmawati,089699553588,hadifirmansyahrahmawati486@outlook.com,"Jl. Gatot Subroto No. 89, Sidoarjo",Sidoarjo,Individual,2025-08-24,Active
+C0082,CV Maju Lancar Persada,085989162747,corp@cvmajulancar35.co.id,"Jl. Sudirman No. 147, Gresik",Gresik,Corporate,2025-01-02,Active
+C0083,CV Jaya Mandiri Indonesia,081118039138,corp@cvjayamandir45.co.id,"Jl. Pahlawan No. 199, Medan",Medan,Corporate,2026-03-29,Active
+C0084,Sri Firmansyah Hidayat,089025911645,srifirmansyahhidayat704@yahoo.co.id,"Jl. Gatot Subroto No. 9, Mojokerto",Mojokerto,Individual,2025-08-16,Active
+C0085,Ani Saputra,082698376994,anisaputra189@yahoo.co.id,"Jl. HR Rasuna Said No. 70, Bandung",Bandung,Individual,2026-04-30,Active
+C0086,CV Transportasi Utama Persada,086922333306,corp@cvtransporta24.co.id,"Jl. Basuki Rahmat No. 174, Denpasar",Denpasar,Corporate,2026-01-11,Active
+C0087,Nina Saputra Lestari,087830248451,ninasaputralestari24@outlook.com,"Jl. Pahlawan No. 150, Pasuruan",Pasuruan,Individual,2025-01-25,Active
+C0088,PT Auto Karya Indonesia,088963744626,corp@ptautokaryai13.co.id,"Jl. Raya Darmo No. 163, Yogyakarta",Yogyakarta,Corporate,2026-04-23,Active
+C0089,Wati Wijaya Santoso,082425924846,watiwijayasantoso321@mail.com,"Jl. HR Rasuna Said No. 35, Makassar",Makassar,Individual,2025-02-01,Active
+C0090,Nina Lestari,086326229017,ninalestari754@yahoo.co.id,"Jl. Sudirman No. 72, Semarang",Semarang,Individual,2024-02-03,Active
+C0091,Ahmad Pratama,087968761992,ahmadpratama111@outlook.com,"Jl. Pahlawan No. 49, Kediri",Kediri,Individual,2026-09-18,Active
+C0092,Ahmad Wijaya,081664644990,ahmadwijaya667@gmail.com,"Jl. Malioboro No. 53, Malang",Malang,Individual,2024-03-11,Active
+C0093,Dimas Pratama,082810465542,dimaspratama248@outlook.com,"Jl. Pemuda No. 34, Medan",Medan,Individual,2025-07-07,Active
+C0094,Budi Kusuma Rahmawati,088563041258,budikusumarahmawati817@yahoo.co.id,"Jl. Pahlawan No. 14, Malang",Malang,Individual,2024-05-09,Active
+C0095,Agus Nugroho,086792544629,agusnugroho380@gmail.com,"Jl. Ahmad Yani No. 187, Semarang",Semarang,Individual,2026-03-13,Active
+C0096,Ani Nugroho,087175807984,aninugroho41@gmail.com,"Jl. Raya Darmo No. 126, Yogyakarta",Yogyakarta,Individual,2025-12-30,Active
+C0097,Agus Saputra,084599846327,agussaputra77@yahoo.co.id,"Jl. Malioboro No. 136, Kediri",Kediri,Individual,2024-10-28,Active
+C0098,Dewi Rahmawati,086583984743,dewirahmawati883@yahoo.co.id,"Jl. Diponegoro No. 117, Kediri",Kediri,Individual,2025-02-12,Active
+C0099,Wati Saputra,089787702099,watisaputra393@yahoo.co.id,"Jl. Raya Darmo No. 24, Sidoarjo",Sidoarjo,Individual,2025-03-18,Active
+C0100,Eko Wibowo Wibowo,089530027730,ekowibowowibowo585@outlook.com,"Jl. Sudirman No. 185, Pasuruan",Pasuruan,Individual,2024-02-22,Inactive
+C0101,Fitri Wijaya,089489004674,fitriwijaya227@yahoo.co.id,"Jl. Raya Darmo No. 90, Medan",Medan,Individual,2026-05-15,Active
+C0102,Hadi Utami Lestari,088753811474,hadiutamilestari875@gmail.com,"Jl. Pahlawan No. 180, Malang",Malang,Individual,2026-02-19,Active
+C0103,Budi Kusuma,081833241502,budikusuma589@mail.com,"Jl. HR Rasuna Said No. 56, Sidoarjo",Sidoarjo,Individual,2025-01-20,Active
+C0104,Fitri Hidayat,081635493579,fitrihidayat805@gmail.com,"Jl. Malioboro No. 13, Denpasar",Denpasar,Individual,2025-11-21,Active
+C0105,Wati Nugroho,083793942864,watinugroho434@outlook.com,"Jl. Sudirman No. 29, Pasuruan",Pasuruan,Individual,2024-10-17,Active
+C0106,Rian Firmansyah,088618971125,rianfirmansyah235@mail.com,"Jl. Pahlawan No. 55, Gresik",Gresik,Individual,2026-02-24,Active
+C0107,Rudi Wijaya Setiawan,082672299725,rudiwijayasetiawan450@yahoo.co.id,"Jl. Basuki Rahmat No. 129, Solo",Solo,Individual,2025-07-26,Active
+C0108,Agus Lestari,081285322275,aguslestari53@mail.com,"Jl. Diponegoro No. 148, Medan",Medan,Individual,2025-03-15,Active
+C0109,Wati Hidayat Santoso,083185386928,watihidayatsantoso999@outlook.com,"Jl. Sudirman No. 28, Sidoarjo",Sidoarjo,Individual,2024-09-06,Active
+C0110,Agus Lestari,083864563754,aguslestari773@outlook.com,"Jl. HR Rasuna Said No. 163, Sidoarjo",Sidoarjo,Individual,2024-04-26,Active
+C0111,Fitri Saputra,084026843399,fitrisaputra848@yahoo.co.id,"Jl. Basuki Rahmat No. 45, Mojokerto",Mojokerto,Individual,2025-09-08,Active
+C0112,Agus Kusuma,086983546295,aguskusuma653@mail.com,"Jl. Diponegoro No. 39, Medan",Medan,Individual,2025-03-26,Active
+C0113,Ani Rahmawati Santoso,084985658404,anirahmawatisantoso370@gmail.com,"Jl. Ahmad Yani No. 95, Surabaya",Surabaya,Individual,2026-05-01,Active
+C0114,Agus Utami,088416728368,agusutami403@mail.com,"Jl. Malioboro No. 167, Makassar",Makassar,Individual,2024-07-11,Active
+C0115,Eko Santoso,082092663827,ekosantoso840@outlook.com,"Jl. Basuki Rahmat No. 182, Surabaya",Surabaya,Individual,2025-03-24,Inactive
+C0116,Maya Kusuma,085976976543,mayakusuma949@outlook.com,"Jl. Malioboro No. 14, Yogyakarta",Yogyakarta,Individual,2026-03-19,Active
+C0117,Rudi Wijaya,084234636461,rudiwijaya405@outlook.com,"Jl. Malioboro No. 170, Sidoarjo",Sidoarjo,Individual,2024-05-24,Active
+C0118,Doni Kusuma,084971716381,donikusuma970@gmail.com,"Jl. Pemuda No. 172, Medan",Medan,Individual,2025-12-20,Active
+C0119,Rian Wijaya,081269406060,rianwijaya443@outlook.com,"Jl. Basuki Rahmat No. 88, Malang",Malang,Individual,2026-08-28,Active
+C0120,Eko Kusuma Susanto,087498439626,ekokusumasusanto817@gmail.com,"Jl. Diponegoro No. 197, Surabaya",Surabaya,Individual,2025-09-24,Active
+C0121,Rina Kusuma,086617157731,rinakusuma799@yahoo.co.id,"Jl. Basuki Rahmat No. 114, Pasuruan",Pasuruan,Individual,2025-09-17,Active
+C0122,Ahmad Pratama,083470268218,ahmadpratama326@mail.com,"Jl. Pahlawan No. 200, Jakarta",Jakarta,Individual,2025-01-26,Active
+C0123,Rina Susanto Utami,081688737081,rinasusantoutami151@outlook.com,"Jl. Raya Darmo No. 183, Bandung",Bandung,Individual,2026-05-16,Active
+C0124,Agus Rahmawati Nugroho,086525024637,agusrahmawatinugroho937@yahoo.co.id,"Jl. Gatot Subroto No. 90, Medan",Medan,Individual,2026-08-10,Active
+C0125,Rian Saputra Wijaya,081362212623,riansaputrawijaya393@yahoo.co.id,"Jl. Diponegoro No. 38, Medan",Medan,Individual,2024-05-20,Active
+C0126,CV Gemilang Motor Indonesia,088810862298,corp@cvgemilangmo67.co.id,"Jl. Pahlawan No. 56, Surabaya",Surabaya,Corporate,2026-05-05,Active
+C0127,CV Sejahtera Abadi Persada,084829961782,corp@cvsejahteraa40.co.id,"Jl. Sudirman No. 164, Gresik",Gresik,Corporate,2026-03-23,Active
+C0128,Putri Utami,082857728032,putriutami657@yahoo.co.id,"Jl. Malioboro No. 91, Surabaya",Surabaya,Individual,2024-09-03,Active
+C0129,Agus Wibowo,085987021713,aguswibowo79@gmail.com,"Jl. Sudirman No. 96, Yogyakarta",Yogyakarta,Individual,2024-09-16,Active
+C0130,Agus Saputra Firmansyah,088464473185,agussaputrafirmansyah653@gmail.com,"Jl. Diponegoro No. 140, Surabaya",Surabaya,Individual,2024-12-12,Active
+C0131,Ahmad Setiawan,081884981605,ahmadsetiawan196@yahoo.co.id,"Jl. Basuki Rahmat No. 12, Mojokerto",Mojokerto,Individual,2026-03-21,Active
+C0132,Ani Wibowo,084215994131,aniwibowo844@mail.com,"Jl. Diponegoro No. 200, Mojokerto",Mojokerto,Individual,2024-02-18,Active
+C0133,Dewi Rahmawati,086673346554,dewirahmawati920@mail.com,"Jl. Gatot Subroto No. 178, Malang",Malang,Individual,2025-05-24,Active
+C0134,Hadi Rahmawati Lestari,088739569937,hadirahmawatilestari90@mail.com,"Jl. Diponegoro No. 27, Mojokerto",Mojokerto,Individual,2024-03-22,Active
+C0135,Ahmad Utami,085483251693,ahmadutami180@mail.com,"Jl. Diponegoro No. 158, Solo",Solo,Individual,2025-03-21,Active
+C0136,PT Sejahtera Abadi Indonesia,087536211510,corp@ptsejahteraa56.co.id,"Jl. Malioboro No. 174, Malang",Malang,Corporate,2026-03-11,Active
+C0137,Sri Rahmawati,088215303513,srirahmawati380@mail.com,"Jl. Gatot Subroto No. 95, Yogyakarta",Yogyakarta,Individual,2025-01-15,Active
+C0138,Eko Wibowo,084128581424,ekowibowo331@outlook.com,"Jl. Pemuda No. 128, Solo",Solo,Individual,2025-06-14,Active
+C0139,Hadi Rahmawati Nugroho,089890474279,hadirahmawatinugroho229@outlook.com,"Jl. Pemuda No. 19, Sidoarjo",Sidoarjo,Individual,2025-04-07,Active
+C0140,Agus Rahmawati,089566922063,agusrahmawati875@outlook.com,"Jl. HR Rasuna Said No. 75, Bandung",Bandung,Individual,2026-07-01,Active
+C0141,Rina Rahmawati,083532754878,rinarahmawati239@gmail.com,"Jl. Gatot Subroto No. 7, Denpasar",Denpasar,Individual,2025-01-04,Active
+C0142,Nina Kusuma,084975238842,ninakusuma98@gmail.com,"Jl. Sudirman No. 197, Bandung",Bandung,Individual,2025-02-23,Active
+C0143,Rudi Firmansyah Nugroho,082639813114,rudifirmansyahnugroho706@outlook.com,"Jl. HR Rasuna Said No. 15, Kediri",Kediri,Individual,2026-05-01,Active
+C0144,Rina Kusuma,085495015653,rinakusuma736@yahoo.co.id,"Jl. Raya Darmo No. 65, Medan",Medan,Individual,2024-07-20,Active
+C0145,Eko Firmansyah,087437623526,ekofirmansyah556@gmail.com,"Jl. Malioboro No. 185, Malang",Malang,Individual,2026-07-12,Active
+C0146,Dimas Santoso,081553364453,dimassantoso39@gmail.com,"Jl. Malioboro No. 107, Denpasar",Denpasar,Individual,2025-09-24,Active
+C0147,Nina Hidayat,084176535873,ninahidayat319@mail.com,"Jl. Raya Darmo No. 177, Jakarta",Jakarta,Individual,2024-03-02,Active
+C0148,Ahmad Pratama,085066587532,ahmadpratama157@outlook.com,"Jl. Diponegoro No. 132, Malang",Malang,Individual,2025-07-29,Active
+C0149,Dewi Hidayat,081657547293,dewihidayat154@gmail.com,"Jl. Malioboro No. 108, Medan",Medan,Individual,2024-09-11,Inactive
+C0150,CV Nusantara Mandiri Persada,083091639433,corp@cvnusantaram34.co.id,"Jl. Gatot Subroto No. 79, Jakarta",Jakarta,Corporate,2025-05-24,Active
+C0151,CV Auto Karya Tbk,085517971828,corp@cvautokaryat84.co.id,"Jl. Gatot Subroto No. 153, Mojokerto",Mojokerto,Corporate,2026-06-22,Active
+C0152,Ani Wibowo Wijaya,084369927606,aniwibowowijaya451@yahoo.co.id,"Jl. Ahmad Yani No. 103, Pasuruan",Pasuruan,Individual,2024-02-22,Active
+C0153,Nina Hidayat Wibowo,088929463108,ninahidayatwibowo471@outlook.com,"Jl. Sudirman No. 96, Sidoarjo",Sidoarjo,Individual,2026-03-24,Inactive
+C0154,Fitri Rahmawati Utami,087416591742,fitrirahmawatiutami531@mail.com,"Jl. Pemuda No. 183, Surabaya",Surabaya,Individual,2024-12-07,Active
+C0155,Eko Utami,088862183662,ekoutami153@outlook.com,"Jl. Malioboro No. 190, Kediri",Kediri,Individual,2026-05-12,Active
+C0156,Rian Wibowo,087012727035,rianwibowo586@outlook.com,"Jl. Raya Darmo No. 107, Pasuruan",Pasuruan,Individual,2025-08-20,Active
+C0157,PT Nusantara Mandiri Indonesia,089347281841,corp@ptnusantaram43.co.id,"Jl. Gatot Subroto No. 44, Semarang",Semarang,Corporate,2025-06-20,Active
+C0158,Doni Kusuma,088328004125,donikusuma258@gmail.com,"Jl. Gatot Subroto No. 81, Surabaya",Surabaya,Individual,2025-03-04,Active
+C0159,Wati Wibowo,081732629498,watiwibowo952@mail.com,"Jl. HR Rasuna Said No. 84, Gresik",Gresik,Individual,2025-11-09,Active
+C0160,Rina Nugroho,089653318932,rinanugroho360@outlook.com,"Jl. Basuki Rahmat No. 72, Gresik",Gresik,Individual,2025-07-25,Active
+C0161,CV Transportasi Utama Tbk,087261948861,corp@cvtransporta98.co.id,"Jl. HR Rasuna Said No. 185, Pasuruan",Pasuruan,Corporate,2024-10-07,Active
+C0162,Nina Lestari,082857581689,ninalestari414@outlook.com,"Jl. Raya Darmo No. 89, Mojokerto",Mojokerto,Individual,2026-08-04,Active
+C0163,Putri Pratama Wibowo,082727894920,putripratamawibowo287@outlook.com,"Jl. Ahmad Yani No. 172, Gresik",Gresik,Individual,2026-07-15,Active
+C0164,Siti Wijaya,082232521084,sitiwijaya744@mail.com,"Jl. Pemuda No. 105, Bandung",Bandung,Individual,2025-10-30,Inactive
+C0165,CV Auto Karya Persada,084619692465,corp@cvautokaryap51.co.id,"Jl. Malioboro No. 60, Yogyakarta",Yogyakarta,Corporate,2025-07-01,Active
+C0166,PT Gemilang Motor Indonesia,081475049116,corp@ptgemilangmo32.co.id,"Jl. Pahlawan No. 10, Malang",Malang,Corporate,2024-01-10,Active
+C0167,Rudi Hidayat,082792618668,rudihidayat666@mail.com,"Jl. Basuki Rahmat No. 29, Mojokerto",Mojokerto,Individual,2024-12-04,Active
+C0168,Hadi Setiawan Setiawan,088241643875,hadisetiawansetiawan355@outlook.com,"Jl. Sudirman No. 110, Semarang",Semarang,Individual,2025-06-11,Active
+C0169,Dewi Kusuma,084111115272,dewikusuma498@outlook.com,"Jl. Basuki Rahmat No. 115, Kediri",Kediri,Individual,2026-02-10,Active
+C0170,Dimas Setiawan,089848712017,dimassetiawan277@outlook.com,"Jl. Raya Darmo No. 120, Yogyakarta",Yogyakarta,Individual,2024-11-10,Active
+C0171,Ani Setiawan Gunawan,085746184590,anisetiawangunawan973@outlook.com,"Jl. Gatot Subroto No. 40, Malang",Malang,Individual,2025-04-10,Active
+C0172,Wati Setiawan,084123419609,watisetiawan492@yahoo.co.id,"Jl. HR Rasuna Said No. 181, Jakarta",Jakarta,Individual,2025-01-05,Active
+C0173,Siti Susanto,088397923455,sitisusanto527@yahoo.co.id,"Jl. Diponegoro No. 134, Malang",Malang,Individual,2025-03-28,Active
+C0174,Dimas Nugroho Wibowo,086831619409,dimasnugrohowibowo466@gmail.com,"Jl. Gatot Subroto No. 145, Kediri",Kediri,Individual,2024-02-29,Active
+C0175,Ani Setiawan Hidayat,083721961742,anisetiawanhidayat846@gmail.com,"Jl. Diponegoro No. 180, Kediri",Kediri,Individual,2024-03-06,Active
+C0176,Agus Gunawan,083332187887,agusgunawan303@mail.com,"Jl. Sudirman No. 115, Pasuruan",Pasuruan,Individual,2026-06-09,Active
+C0177,Agus Firmansyah,089366972943,agusfirmansyah905@yahoo.co.id,"Jl. HR Rasuna Said No. 101, Malang",Malang,Individual,2025-06-25,Active
+C0178,PT Jaya Mandiri Persada,089699207948,corp@ptjayamandir69.co.id,"Jl. Sudirman No. 59, Bandung",Bandung,Corporate,2024-09-10,Active
+C0179,Joko Gunawan,081478681256,jokogunawan793@gmail.com,"Jl. Basuki Rahmat No. 18, Gresik",Gresik,Individual,2024-04-13,Active
+C0180,Siti Pratama,083998434559,sitipratama421@mail.com,"Jl. Ahmad Yani No. 36, Denpasar",Denpasar,Individual,2025-05-30,Inactive
+C0181,Dimas Saputra,084059443347,dimassaputra801@outlook.com,"Jl. HR Rasuna Said No. 57, Yogyakarta",Yogyakarta,Individual,2025-02-27,Active
+C0182,Dimas Gunawan,088191201768,dimasgunawan189@mail.com,"Jl. Sudirman No. 135, Pasuruan",Pasuruan,Individual,2024-11-22,Active
+C0183,Ani Lestari Wibowo,083859273365,anilestariwibowo494@yahoo.co.id,"Jl. Gatot Subroto No. 15, Denpasar",Denpasar,Individual,2025-07-29,Active
+C0184,Rian Kusuma,085222958369,riankusuma271@yahoo.co.id,"Jl. Diponegoro No. 24, Medan",Medan,Individual,2025-07-02,Active
+C0185,Hadi Lestari,081940824555,hadilestari627@gmail.com,"Jl. Basuki Rahmat No. 86, Jakarta",Jakarta,Individual,2024-11-06,Inactive
+C0186,Joko Setiawan Rahmawati,089943507498,jokosetiawanrahmawati500@yahoo.co.id,"Jl. Basuki Rahmat No. 142, Makassar",Makassar,Individual,2024-11-25,Active
+C0187,Nina Firmansyah,087591478635,ninafirmansyah277@outlook.com,"Jl. Gatot Subroto No. 195, Sidoarjo",Sidoarjo,Individual,2026-05-09,Active
+C0188,Rudi Lestari Susanto,081252727841,rudilestarisusanto236@yahoo.co.id,"Jl. Pemuda No. 51, Mojokerto",Mojokerto,Individual,2024-12-03,Active
+C0189,Sri Nugroho,084290059037,srinugroho976@outlook.com,"Jl. Pemuda No. 188, Jakarta",Jakarta,Individual,2026-03-25,Active
+C0190,Nina Nugroho Gunawan,087715542217,ninanugrohogunawan565@gmail.com,"Jl. Ahmad Yani No. 196, Medan",Medan,Individual,2024-01-07,Active
+C0191,Sri Wijaya,087484717114,sriwijaya19@yahoo.co.id,"Jl. Malioboro No. 164, Surabaya",Surabaya,Individual,2025-11-13,Inactive
+C0192,CV Jaya Mandiri Utama,088077391194,corp@cvjayamandir78.co.id,"Jl. HR Rasuna Said No. 185, Surabaya",Surabaya,Corporate,2024-10-08,Active
+C0193,Rian Susanto,082325789591,riansusanto450@yahoo.co.id,"Jl. Basuki Rahmat No. 50, Malang",Malang,Individual,2025-09-26,Active
+C0194,Hadi Rahmawati,086849844700,hadirahmawati392@mail.com,"Jl. Raya Darmo No. 168, Mojokerto",Mojokerto,Individual,2026-05-28,Active
+C0195,Doni Lestari,089111543807,donilestari497@gmail.com,"Jl. Gatot Subroto No. 112, Sidoarjo",Sidoarjo,Individual,2025-10-22,Active
+C0196,Dewi Gunawan,083787905441,dewigunawan53@yahoo.co.id,"Jl. Raya Darmo No. 176, Surabaya",Surabaya,Individual,2026-08-05,Active
+C0197,Siti Kusuma,083633627525,sitikusuma332@gmail.com,"Jl. Raya Darmo No. 77, Makassar",Makassar,Individual,2024-06-15,Active
+C0198,Doni Firmansyah,082722849204,donifirmansyah349@mail.com,"Jl. Diponegoro No. 14, Solo",Solo,Individual,2024-04-10,Active
+C0199,Rudi Utami,085114855478,rudiutami987@mail.com,"Jl. Gatot Subroto No. 126, Denpasar",Denpasar,Individual,2024-08-21,Active
+C0200,CV Gemilang Motor Group,085824045839,corp@cvgemilangmo94.co.id,"Jl. Basuki Rahmat No. 183, Denpasar",Denpasar,Corporate,2024-03-16,Active
+C0201,Eko Setiawan,082110856050,ekosetiawan379@gmail.com,"Jl. Diponegoro No. 195, Jakarta",Jakarta,Individual,2024-10-03,Active
+C0202,Wati Nugroho,082314302468,watinugroho534@mail.com,"Jl. HR Rasuna Said No. 24, Pasuruan",Pasuruan,Individual,2025-09-03,Active
+C0203,Doni Santoso Lestari,088149779537,donisantosolestari807@gmail.com,"Jl. Sudirman No. 44, Malang",Malang,Individual,2024-05-22,Active
+C0204,Eko Wijaya Hidayat,087122606916,ekowijayahidayat441@outlook.com,"Jl. Basuki Rahmat No. 185, Mojokerto",Mojokerto,Individual,2025-10-02,Active
+C0205,Ahmad Wijaya Santoso,085272246399,ahmadwijayasantoso981@mail.com,"Jl. Diponegoro No. 111, Jakarta",Jakarta,Individual,2026-04-15,Active
+C0206,Maya Kusuma,087161473910,mayakusuma627@yahoo.co.id,"Jl. Diponegoro No. 75, Kediri",Kediri,Individual,2026-01-22,Active
+C0207,Dimas Rahmawati Lestari,085628654273,dimasrahmawatilestari297@mail.com,"Jl. HR Rasuna Said No. 47, Semarang",Semarang,Individual,2025-11-29,Active
+C0208,Ahmad Setiawan Rahmawati,086291803280,ahmadsetiawanrahmawati308@gmail.com,"Jl. Pahlawan No. 62, Yogyakarta",Yogyakarta,Individual,2024-09-15,Active
+C0209,Doni Wijaya,088475669755,doniwijaya622@mail.com,"Jl. Sudirman No. 140, Bandung",Bandung,Individual,2024-02-07,Active
+C0210,Nina Utami,084168163725,ninautami97@gmail.com,"Jl. Malioboro No. 12, Yogyakarta",Yogyakarta,Individual,2025-07-30,Inactive
+C0211,Doni Rahmawati,082311722615,donirahmawati825@mail.com,"Jl. Basuki Rahmat No. 131, Mojokerto",Mojokerto,Individual,2026-02-03,Active
+C0212,Dimas Pratama,089691993469,dimaspratama410@mail.com,"Jl. Ahmad Yani No. 124, Pasuruan",Pasuruan,Individual,2024-04-17,Active
+C0213,PT Sejahtera Abadi Tbk,084966208460,corp@ptsejahteraa54.co.id,"Jl. Basuki Rahmat No. 134, Denpasar",Denpasar,Corporate,2025-05-09,Active
+C0214,Ahmad Saputra Santoso,081266202791,ahmadsaputrasantoso839@gmail.com,"Jl. Pemuda No. 190, Yogyakarta",Yogyakarta,Individual,2024-09-06,Active
+C0215,Rudi Wibowo,086140224053,rudiwibowo483@yahoo.co.id,"Jl. Sudirman No. 102, Yogyakarta",Yogyakarta,Individual,2024-01-30,Active
+C0216,CV Nusantara Mandiri Indonesia,081045194371,corp@cvnusantaram59.co.id,"Jl. Raya Darmo No. 148, Mojokerto",Mojokerto,Corporate,2024-04-14,Active
+C0217,Fitri Saputra Wijaya,087761347367,fitrisaputrawijaya278@mail.com,"Jl. Sudirman No. 151, Semarang",Semarang,Individual,2024-04-26,Active
+C0218,Maya Kusuma,088823883194,mayakusuma732@outlook.com,"Jl. Raya Darmo No. 62, Pasuruan",Pasuruan,Individual,2024-11-08,Active
+C0219,Eko Wibowo,088372867931,ekowibowo620@yahoo.co.id,"Jl. Gatot Subroto No. 163, Malang",Malang,Individual,2025-07-04,Active
+C0220,Rina Wibowo Hidayat,085083891878,rinawibowohidayat153@yahoo.co.id,"Jl. Diponegoro No. 3, Medan",Medan,Individual,2025-05-11,Active
+C0221,Nina Wibowo,086382729006,ninawibowo428@mail.com,"Jl. Raya Darmo No. 145, Malang",Malang,Individual,2024-02-01,Active
+C0222,Siti Hidayat Hidayat,088291159369,sitihidayathidayat182@mail.com,"Jl. Malioboro No. 30, Sidoarjo",Sidoarjo,Individual,2024-10-01,Active
+C0223,Fitri Wibowo,087945807965,fitriwibowo52@mail.com,"Jl. Basuki Rahmat No. 77, Sidoarjo",Sidoarjo,Individual,2026-06-14,Inactive
+C0224,Fitri Susanto,084044386744,fitrisusanto459@gmail.com,"Jl. Malioboro No. 162, Medan",Medan,Individual,2025-03-14,Active
+C0225,Joko Susanto Santoso,087856059827,jokosusantosantoso593@outlook.com,"Jl. Diponegoro No. 181, Malang",Malang,Individual,2024-10-26,Active
+C0226,Rian Gunawan,086219715543,riangunawan107@yahoo.co.id,"Jl. Pemuda No. 180, Medan",Medan,Individual,2026-06-05,Active
+C0227,Rudi Susanto Susanto,087233295402,rudisusantosusanto702@mail.com,"Jl. Sudirman No. 97, Yogyakarta",Yogyakarta,Individual,2025-04-07,Active
+C0228,Agus Lestari,086889966362,aguslestari294@outlook.com,"Jl. Ahmad Yani No. 199, Semarang",Semarang,Individual,2026-05-17,Active
+C0229,Ahmad Firmansyah,087875164568,ahmadfirmansyah376@gmail.com,"Jl. Basuki Rahmat No. 127, Kediri",Kediri,Individual,2024-10-01,Active
+C0230,Nina Utami Susanto,089717931752,ninautamisusanto506@outlook.com,"Jl. Gatot Subroto No. 5, Sidoarjo",Sidoarjo,Individual,2024-05-07,Inactive
+C0231,Ahmad Santoso,089831615945,ahmadsantoso448@yahoo.co.id,"Jl. Pahlawan No. 24, Malang",Malang,Individual,2025-11-01,Active
+C0232,Rina Santoso,086424942559,rinasantoso322@yahoo.co.id,"Jl. Basuki Rahmat No. 123, Surabaya",Surabaya,Individual,2024-03-20,Active
+C0233,Ahmad Santoso Saputra,086431658826,ahmadsantososaputra846@gmail.com,"Jl. Basuki Rahmat No. 99, Sidoarjo",Sidoarjo,Individual,2024-04-01,Active
+C0234,Rudi Saputra,082733402120,rudisaputra150@mail.com,"Jl. Malioboro No. 3, Bandung",Bandung,Individual,2025-09-16,Active
+C0235,Joko Firmansyah,088882484559,jokofirmansyah951@mail.com,"Jl. Raya Darmo No. 36, Sidoarjo",Sidoarjo,Individual,2026-02-09,Active
+C0236,Fitri Lestari,084523805065,fitrilestari153@yahoo.co.id,"Jl. Malioboro No. 154, Bandung",Bandung,Individual,2026-01-08,Active
+C0237,Budi Susanto,083694829348,budisusanto906@outlook.com,"Jl. Sudirman No. 76, Gresik",Gresik,Individual,2025-10-23,Active
+C0238,PT Maju Lancar Indonesia,084091852163,corp@ptmajulancar24.co.id,"Jl. Ahmad Yani No. 93, Bandung",Bandung,Corporate,2026-08-14,Active
+C0239,Dimas Lestari,087021951273,dimaslestari709@yahoo.co.id,"Jl. Raya Darmo No. 4, Semarang",Semarang,Individual,2024-09-25,Active
+C0240,CV Cahaya Perkasa Persada,087478067939,corp@cvcahayaperk90.co.id,"Jl. Sudirman No. 22, Solo",Solo,Corporate,2025-10-17,Active
+C0241,Hadi Wijaya,082997886353,hadiwijaya533@yahoo.co.id,"Jl. Malioboro No. 163, Kediri",Kediri,Individual,2026-02-20,Active
+C0242,Agus Hidayat,081750052412,agushidayat757@yahoo.co.id,"Jl. Sudirman No. 30, Makassar",Makassar,Individual,2025-04-09,Active
+C0243,Rina Wijaya Kusuma,083091336680,rinawijayakusuma728@gmail.com,"Jl. HR Rasuna Said No. 185, Bandung",Bandung,Individual,2024-09-22,Active
+C0244,Hadi Setiawan,085280345456,hadisetiawan799@gmail.com,"Jl. Raya Darmo No. 68, Bandung",Bandung,Individual,2025-12-30,Inactive
+C0245,Putri Nugroho,088237347024,putrinugroho66@mail.com,"Jl. Pahlawan No. 198, Malang",Malang,Individual,2024-04-15,Active
+C0246,Dewi Pratama,081150061753,dewipratama12@gmail.com,"Jl. Diponegoro No. 99, Jakarta",Jakarta,Individual,2026-07-31,Active
+C0247,PT Cahaya Perkasa Indonesia,085150677819,corp@ptcahayaperk38.co.id,"Jl. Diponegoro No. 70, Makassar",Makassar,Corporate,2026-04-25,Active
+C0248,Rian Firmansyah,087617527568,rianfirmansyah193@yahoo.co.id,"Jl. Gatot Subroto No. 73, Sidoarjo",Sidoarjo,Individual,2026-03-03,Active
+C0249,Nina Nugroho Pratama,088949748600,ninanugrohopratama308@outlook.com,"Jl. Malioboro No. 127, Pasuruan",Pasuruan,Individual,2026-03-02,Active
+C0250,Nina Rahmawati,086213914817,ninarahmawati164@gmail.com,"Jl. Diponegoro No. 163, Bandung",Bandung,Individual,2026-05-09,Active
