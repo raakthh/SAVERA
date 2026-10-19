@@ -1,24 +1,50 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SAVERA — Smart Automotive Vehicle Evaluation and Repair Assessment</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<div id="app-shell"></div>
-<div class="toast-wrap" id="toastWrap"></div>
-<script src="app.js"></script>
-<script src="savera-data.js"></script>
-<script src="savera-v2.js"></script>
-<script src="savera-customer.js"></script>
-<script src="savera-workshop.js"></script>
-<script src="savera-invoice.js"></script>
-<script src="savera-insights.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      SAVERA — Smart Automotive Vehicle Evaluation and Repair Assessment
+    </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="app-shell"></div>
+    <div class="toast-wrap" id="toastWrap"></div>
+    <script src="app.js"></script>
+    <script src="savera-data.js"></script>
+    <script src="savera-data-extra.js"></script>
+    <script src="savera-data-demand.js"></script>
+    <script src="savera-assessment-core.js"></script>
+    <script src="savera-cv-adapter.js"></script>
+    <script src="savera-assessment-mock.js"></script>
+    <script src="savera-v2.js"></script>
+    <script src="savera-i18n.js"></script>
+    <script src="savera-review.js"></script>
+    <script src="savera-customer.js"></script>
+    <script src="savera-workshop.js"></script>
+    <script src="savera-photo-viewer.js"></script>
+    <script src="savera-findings.js"></script>
+    <script src="savera-costing.js"></script>
+    <script src="savera-decision.js"></script>
+    <script src="savera-invoice.js"></script>
+    <script src="savera-documents.js"></script>
+    <script src="savera-insights.js"></script>
+    <script src="savera-stock-forecast.js"></script>
+    <!-- Tahap 7–8: dataset v5 + hasil model Python (dibuat oleh tools/build_data.py) → lapisan data → halaman Analytics -->
+    <script src="data/savera-dataset.js"></script>
+    <script src="data/savera-model-results.js"></script>
+    <script src="savera-analytics-core.js"></script>
+    <script src="savera-api.js"></script>
+    <script src="savera-analytics-ui.js"></script>
+    <script src="savera-demand-forecast.js"></script>
+    <script src="savera-analytics.js"></script>
+  </body>
 </html>

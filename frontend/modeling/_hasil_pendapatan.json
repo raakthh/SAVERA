@@ -1,0 +1,74 @@
+{
+ "task": "pendapatan",
+ "top3": [
+  "huber",
+  "lr",
+  "ridge"
+ ],
+ "ml_terbaik_cv": "Huber",
+ "cv_mae_sesudah": 10.349646226433332,
+ "holdout_wape_ml": 3.417656791562935,
+ "baseline_terbaik": "Baseline: Seasonal Naive (minggu sama tahun lalu)",
+ "holdout_wape_baseline": 5.585432196175329,
+ "perbaikan_relatif_pct": 38.811238387188666,
+ "pakai_ml": true,
+ "final": "Huber",
+ "final_kind": "ml",
+ "interval": {
+  "mingguan_rel_q10_q90": [
+   -0.07324353491267444,
+   0.09987873338653674
+  ],
+  "bulanan_rel_q10_q90": [
+   -0.03583475652609278,
+   0.08167295764069592
+  ],
+  "n_mingguan": 51,
+  "n_bulanan": 12
+ },
+ "final_params": {
+  "model__alpha": 5.5488188527884217e-05,
+  "model__epsilon": 1.3038684138902443
+ },
+ "tuning": [
+  {
+   "peringkat_compare": 1,
+   "kode": "huber",
+   "model": "Huber",
+   "n_kombinasi": 30,
+   "params_sebelum": "{\"model__epsilon\": 1.35, \"model__alpha\": 0.0001}",
+   "params_sesudah": "{\"model__alpha\": 5.5488188527884217e-05, \"model__epsilon\": 1.3038684138902443}",
+   "cv_mae_compare": 10.342615097095726,
+   "cv_mae_manual_default": 10.342615097095726,
+   "selisih_manual_vs_compare": 0.0,
+   "cv_mae_sebelum": 10.342615097095726,
+   "cv_mae_sesudah": 10.349646226433332
+  },
+  {
+   "peringkat_compare": 2,
+   "kode": "lr",
+   "model": "Linear Regression",
+   "n_kombinasi": 4,
+   "params_sebelum": "{\"model__fit_intercept\": true, \"model__positive\": false}",
+   "params_sesudah": "{\"model__positive\": false, \"model__fit_intercept\": true}",
+   "cv_mae_compare": 11.454941043977007,
+   "cv_mae_manual_default": 11.454941043977007,
+   "selisih_manual_vs_compare": 0.0,
+   "cv_mae_sebelum": 11.454941043977007,
+   "cv_mae_sesudah": 11.454941043977007
+  },
+  {
+   "peringkat_compare": 3,
+   "kode": "ridge",
+   "model": "Ridge",
+   "n_kombinasi": 30,
+   "params_sebelum": "{\"model__alpha\": 1.0}",
+   "params_sesudah": "{\"model__alpha\": 0.0024194520890651575}",
+   "cv_mae_compare": 11.609218178136922,
+   "cv_mae_manual_default": 11.609218178136922,
+   "selisih_manual_vs_compare": 0.0,
+   "cv_mae_sebelum": 11.609218178136922,
+   "cv_mae_sesudah": 11.455330897426474
+  }
+ ]
+}

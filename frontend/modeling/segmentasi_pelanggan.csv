@@ -1,0 +1,1808 @@
+customer_id,customer_type,segment_id,segment_name,R,F,M
+CU0001,Fleet,91,Fleet (aturan),23.0,14.0,27.8499
+CU0002,Fleet,91,Fleet (aturan),15.0,22.0,43.8672
+CU0003,Fleet,91,Fleet (aturan),91.0,23.0,45.51555
+CU0004,Fleet,91,Fleet (aturan),142.0,20.0,41.3031
+CU0005,Fleet,91,Fleet (aturan),14.0,39.0,93.82275
+CU0006,Fleet,91,Fleet (aturan),34.0,31.0,50.18865
+CU0007,Fleet,91,Fleet (aturan),42.0,23.0,40.10985
+CU0008,Fleet,91,Fleet (aturan),32.0,22.0,45.0327
+CU0009,Fleet,91,Fleet (aturan),135.0,24.0,52.059
+CU0010,Fleet,91,Fleet (aturan),52.0,44.0,89.9655
+CU0011,Fleet,91,Fleet (aturan),10.0,43.0,86.25255
+CU0012,Fleet,91,Fleet (aturan),21.0,24.0,68.9865
+CU0013,Fleet,91,Fleet (aturan),45.0,54.0,98.25165
+CU0014,Fleet,91,Fleet (aturan),196.0,14.0,56.74875
+CU0015,Fleet,91,Fleet (aturan),62.0,37.0,78.03855
+CU0016,Fleet,91,Fleet (aturan),17.0,36.0,115.60095
+CU0017,Fleet,91,Fleet (aturan),136.0,18.0,23.0547
+CU0018,Fleet,91,Fleet (aturan),11.0,29.0,56.83755
+CU0019,Fleet,91,Fleet (aturan),15.0,23.0,45.02715
+CU0020,Fleet,91,Fleet (aturan),80.0,25.0,56.58225
+CU0021,Fleet,91,Fleet (aturan),94.0,13.0,25.6188
+CU0022,Fleet,91,Fleet (aturan),11.0,46.0,79.87005
+CU0023,Fleet,91,Fleet (aturan),34.0,42.0,103.0191
+CU0024,Fleet,91,Fleet (aturan),81.0,23.0,43.93935
+CU0025,Fleet,91,Fleet (aturan),53.0,39.0,58.8966
+CU0026,Insurance,92,Asuransi (aturan),37.0,67.0,147.3525
+CU0027,Insurance,92,Asuransi (aturan),96.0,40.0,90.354
+CU0028,Insurance,92,Asuransi (aturan),8.0,71.0,157.1982
+CU0029,Insurance,92,Asuransi (aturan),10.0,44.0,98.93985
+CU0030,Insurance,92,Asuransi (aturan),51.0,35.0,75.85185
+CU0031,Insurance,92,Asuransi (aturan),29.0,29.0,64.4355
+CU0032,Insurance,92,Asuransi (aturan),31.0,77.0,156.84855
+CU0033,Insurance,92,Asuransi (aturan),33.0,49.0,117.7044
+CU0034,Individual,1,Loyal Aktif - Nilai tinggi,56.0,6.0,17.03295
+CU0035,Individual,0,Pendatang Tidak Aktif - Nilai rendah,505.0,1.0,1.0323
+CU0036,Individual,0,Pendatang Tidak Aktif - Nilai rendah,601.0,2.0,4.74525
+CU0037,Individual,3,Reguler Cukup Baru - Nilai menengah,200.0,3.0,2.54745
+CU0038,Individual,3,Reguler Cukup Baru - Nilai menengah,316.0,4.0,4.58985
+CU0039,Individual,1,Loyal Aktif - Nilai tinggi,52.0,6.0,15.02385
+CU0040,Individual,3,Reguler Cukup Baru - Nilai menengah,98.0,3.0,12.8538
+CU0041,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,3.0,6.22155
+CU0042,Individual,1,Loyal Aktif - Nilai tinggi,33.0,4.0,7.49805
+CU0043,Individual,1,Loyal Aktif - Nilai tinggi,28.0,8.0,21.7893
+CU0044,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,3.0,4.6065
+CU0045,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,2.0,3.75735
+CU0046,Individual,3,Reguler Cukup Baru - Nilai menengah,246.0,3.0,6.17715
+CU0047,Individual,1,Loyal Aktif - Nilai tinggi,48.0,8.0,17.31045
+CU0048,Individual,2,Pendatang Aktif - Nilai rendah,82.0,1.0,0.4662
+CU0049,Individual,1,Loyal Aktif - Nilai tinggi,12.0,5.0,10.75035
+CU0050,Individual,0,Pendatang Tidak Aktif - Nilai rendah,563.0,1.0,0.7437
+CU0051,Individual,2,Pendatang Aktif - Nilai rendah,95.0,1.0,0.53835
+CU0052,Individual,3,Reguler Cukup Baru - Nilai menengah,163.0,2.0,6.56565
+CU0053,Individual,1,Loyal Aktif - Nilai tinggi,5.0,5.0,11.0556
+CU0054,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,3.0,4.4511
+CU0055,Individual,2,Pendatang Aktif - Nilai rendah,92.0,1.0,2.7306
+CU0056,Individual,3,Reguler Cukup Baru - Nilai menengah,272.0,3.0,2.886
+CU0057,Individual,3,Reguler Cukup Baru - Nilai menengah,206.0,3.0,8.16405
+CU0058,Individual,0,Pendatang Tidak Aktif - Nilai rendah,702.0,1.0,1.77045
+CU0059,Individual,3,Reguler Cukup Baru - Nilai menengah,306.0,2.0,4.6287
+CU0060,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,4.0,3.97935
+CU0061,Individual,0,Pendatang Tidak Aktif - Nilai rendah,689.0,1.0,4.107
+CU0062,Individual,3,Reguler Cukup Baru - Nilai menengah,266.0,4.0,6.58785
+CU0063,Individual,3,Reguler Cukup Baru - Nilai menengah,144.0,3.0,10.50615
+CU0064,Individual,2,Pendatang Aktif - Nilai rendah,16.0,1.0,3.8961
+CU0065,Individual,1,Loyal Aktif - Nilai tinggi,41.0,5.0,11.6661
+CU0066,Individual,3,Reguler Cukup Baru - Nilai menengah,294.0,4.0,7.68675
+CU0067,Individual,3,Reguler Cukup Baru - Nilai menengah,305.0,3.0,6.83205
+CU0068,Individual,3,Reguler Cukup Baru - Nilai menengah,130.0,2.0,6.61005
+CU0069,Individual,3,Reguler Cukup Baru - Nilai menengah,152.0,3.0,9.87345
+CU0070,Individual,3,Reguler Cukup Baru - Nilai menengah,308.0,3.0,5.33355
+CU0071,Individual,3,Reguler Cukup Baru - Nilai menengah,101.0,3.0,13.2645
+CU0072,Individual,2,Pendatang Aktif - Nilai rendah,89.0,1.0,2.6973
+CU0073,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,4.0,7.6701
+CU0074,Individual,3,Reguler Cukup Baru - Nilai menengah,183.0,2.0,8.92995
+CU0075,Individual,0,Pendatang Tidak Aktif - Nilai rendah,484.0,2.0,2.09235
+CU0076,Individual,3,Reguler Cukup Baru - Nilai menengah,138.0,4.0,11.19435
+CU0077,Individual,1,Loyal Aktif - Nilai tinggi,8.0,5.0,14.14695
+CU0078,Individual,1,Loyal Aktif - Nilai tinggi,60.0,5.0,5.50005
+CU0079,Individual,0,Pendatang Tidak Aktif - Nilai rendah,496.0,1.0,3.70185
+CU0080,Individual,2,Pendatang Aktif - Nilai rendah,3.0,2.0,3.14685
+CU0081,Individual,2,Pendatang Aktif - Nilai rendah,12.0,2.0,3.86835
+CU0082,Individual,1,Loyal Aktif - Nilai tinggi,29.0,5.0,7.5369
+CU0083,Individual,3,Reguler Cukup Baru - Nilai menengah,244.0,3.0,4.84515
+CU0084,Individual,2,Pendatang Aktif - Nilai rendah,70.0,2.0,3.8517
+CU0085,Individual,3,Reguler Cukup Baru - Nilai menengah,238.0,4.0,5.9052
+CU0086,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0087,Individual,2,Pendatang Aktif - Nilai rendah,13.0,1.0,0.46065
+CU0088,Individual,1,Loyal Aktif - Nilai tinggi,112.0,4.0,14.3523
+CU0089,Individual,3,Reguler Cukup Baru - Nilai menengah,92.0,3.0,9.768
+CU0090,Individual,1,Loyal Aktif - Nilai tinggi,74.0,5.0,10.4229
+CU0091,Individual,2,Pendatang Aktif - Nilai rendah,51.0,2.0,2.11455
+CU0092,Individual,1,Loyal Aktif - Nilai tinggi,10.0,4.0,11.2221
+CU0093,Individual,1,Loyal Aktif - Nilai tinggi,16.0,5.0,13.8306
+CU0094,Individual,3,Reguler Cukup Baru - Nilai menengah,137.0,3.0,9.08535
+CU0095,Individual,2,Pendatang Aktif - Nilai rendah,4.0,2.0,3.86835
+CU0096,Individual,1,Loyal Aktif - Nilai tinggi,26.0,5.0,9.94005
+CU0097,Individual,0,Pendatang Tidak Aktif - Nilai rendah,541.0,2.0,4.6842
+CU0098,Individual,2,Pendatang Aktif - Nilai rendah,88.0,1.0,0.8769
+CU0099,Individual,0,Pendatang Tidak Aktif - Nilai rendah,225.0,2.0,2.1645
+CU0100,Individual,1,Loyal Aktif - Nilai tinggi,43.0,5.0,16.2948
+CU0101,Individual,1,Loyal Aktif - Nilai tinggi,17.0,6.0,15.429
+CU0102,Individual,0,Pendatang Tidak Aktif - Nilai rendah,609.0,2.0,2.10345
+CU0103,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,4.0,7.34265
+CU0104,Individual,3,Reguler Cukup Baru - Nilai menengah,168.0,2.0,11.31645
+CU0105,Individual,0,Pendatang Tidak Aktif - Nilai rendah,438.0,1.0,3.61305
+CU0106,Individual,0,Pendatang Tidak Aktif - Nilai rendah,594.0,1.0,4.0293
+CU0107,Individual,0,Pendatang Tidak Aktif - Nilai rendah,459.0,2.0,3.87945
+CU0108,Individual,0,Pendatang Tidak Aktif - Nilai rendah,705.0,1.0,1.15995
+CU0109,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,3.0,7.1262
+CU0110,Individual,3,Reguler Cukup Baru - Nilai menengah,145.0,4.0,12.37095
+CU0111,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,4.0,10.18425
+CU0112,Individual,2,Pendatang Aktif - Nilai rendah,15.0,1.0,3.8073
+CU0113,Individual,1,Loyal Aktif - Nilai tinggi,77.0,9.0,26.06835
+CU0114,Individual,3,Reguler Cukup Baru - Nilai menengah,115.0,3.0,8.658
+CU0115,Individual,3,Reguler Cukup Baru - Nilai menengah,97.0,3.0,9.6459
+CU0116,Individual,3,Reguler Cukup Baru - Nilai menengah,256.0,3.0,6.4713
+CU0117,Individual,0,Pendatang Tidak Aktif - Nilai rendah,327.0,2.0,2.11455
+CU0118,Individual,2,Pendatang Aktif - Nilai rendah,66.0,1.0,1.09335
+CU0119,Individual,0,Pendatang Tidak Aktif - Nilai rendah,586.0,1.0,1.0545
+CU0120,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,3.0,7.9698
+CU0121,Individual,0,Pendatang Tidak Aktif - Nilai rendah,223.0,2.0,1.88145
+CU0122,Individual,0,Pendatang Tidak Aktif - Nilai rendah,342.0,2.0,2.98035
+CU0123,Individual,0,Pendatang Tidak Aktif - Nilai rendah,234.0,2.0,1.79265
+CU0124,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,8.1696
+CU0125,Individual,3,Reguler Cukup Baru - Nilai menengah,278.0,3.0,6.94305
+CU0126,Individual,3,Reguler Cukup Baru - Nilai menengah,190.0,3.0,4.90065
+CU0127,Individual,0,Pendatang Tidak Aktif - Nilai rendah,196.0,2.0,1.94805
+CU0128,Individual,1,Loyal Aktif - Nilai tinggi,24.0,9.0,20.46285
+CU0129,Individual,0,Pendatang Tidak Aktif - Nilai rendah,508.0,2.0,2.4087
+CU0130,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,3.0,7.6701
+CU0131,Individual,2,Pendatang Aktif - Nilai rendah,22.0,2.0,0.6993
+CU0132,Individual,3,Reguler Cukup Baru - Nilai menengah,183.0,2.0,10.212
+CU0133,Individual,3,Reguler Cukup Baru - Nilai menengah,159.0,4.0,12.70395
+CU0134,Individual,2,Pendatang Aktif - Nilai rendah,27.0,1.0,3.13575
+CU0135,Individual,1,Loyal Aktif - Nilai tinggi,3.0,4.0,9.6126
+CU0136,Individual,0,Pendatang Tidak Aktif - Nilai rendah,324.0,2.0,2.85825
+CU0137,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0138,Individual,0,Pendatang Tidak Aktif - Nilai rendah,290.0,2.0,2.2755
+CU0139,Individual,0,Pendatang Tidak Aktif - Nilai rendah,224.0,2.0,2.3976
+CU0140,Individual,0,Pendatang Tidak Aktif - Nilai rendah,576.0,2.0,1.50405
+CU0141,Individual,3,Reguler Cukup Baru - Nilai menengah,182.0,3.0,8.88
+CU0142,Individual,3,Reguler Cukup Baru - Nilai menengah,254.0,3.0,4.9617
+CU0143,Individual,0,Pendatang Tidak Aktif - Nilai rendah,713.0,2.0,2.5197
+CU0144,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,3.0,3.6519
+CU0145,Individual,3,Reguler Cukup Baru - Nilai menengah,206.0,3.0,5.4057
+CU0146,Individual,2,Pendatang Aktif - Nilai rendah,5.0,2.0,2.07015
+CU0147,Individual,3,Reguler Cukup Baru - Nilai menengah,164.0,2.0,7.4703
+CU0148,Individual,3,Reguler Cukup Baru - Nilai menengah,243.0,3.0,7.69785
+CU0149,Individual,3,Reguler Cukup Baru - Nilai menengah,253.0,4.0,9.4683
+CU0150,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0151,Individual,3,Reguler Cukup Baru - Nilai menengah,296.0,2.0,6.8376
+CU0152,Individual,1,Loyal Aktif - Nilai tinggi,20.0,5.0,7.2927
+CU0153,Individual,0,Pendatang Tidak Aktif - Nilai rendah,257.0,2.0,2.85825
+CU0154,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,2.0,6.34365
+CU0155,Individual,3,Reguler Cukup Baru - Nilai menengah,99.0,2.0,5.5389
+CU0156,Individual,3,Reguler Cukup Baru - Nilai menengah,268.0,3.0,3.49095
+CU0157,Individual,0,Pendatang Tidak Aktif - Nilai rendah,665.0,1.0,3.53535
+CU0158,Individual,0,Pendatang Tidak Aktif - Nilai rendah,530.0,1.0,1.00455
+CU0159,Individual,3,Reguler Cukup Baru - Nilai menengah,125.0,2.0,6.6822
+CU0160,Individual,0,Pendatang Tidak Aktif - Nilai rendah,611.0,1.0,2.5419
+CU0161,Individual,1,Loyal Aktif - Nilai tinggi,65.0,8.0,13.14795
+CU0162,Individual,0,Pendatang Tidak Aktif - Nilai rendah,589.0,2.0,4.9506
+CU0163,Individual,3,Reguler Cukup Baru - Nilai menengah,218.0,4.0,2.98035
+CU0164,Individual,3,Reguler Cukup Baru - Nilai menengah,320.0,3.0,2.99145
+CU0165,Individual,1,Loyal Aktif - Nilai tinggi,61.0,8.0,11.44965
+CU0166,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,3.0,6.52125
+CU0167,Individual,0,Pendatang Tidak Aktif - Nilai rendah,538.0,2.0,4.3068
+CU0168,Individual,3,Reguler Cukup Baru - Nilai menengah,297.0,2.0,5.25585
+CU0169,Individual,1,Loyal Aktif - Nilai tinggi,47.0,5.0,15.16815
+CU0170,Individual,3,Reguler Cukup Baru - Nilai menengah,266.0,3.0,5.0838
+CU0171,Individual,1,Loyal Aktif - Nilai tinggi,18.0,6.0,10.65045
+CU0172,Individual,1,Loyal Aktif - Nilai tinggi,75.0,5.0,12.48195
+CU0173,Individual,1,Loyal Aktif - Nilai tinggi,5.0,4.0,11.11665
+CU0174,Individual,1,Loyal Aktif - Nilai tinggi,10.0,5.0,12.80385
+CU0175,Individual,3,Reguler Cukup Baru - Nilai menengah,227.0,3.0,7.91985
+CU0176,Individual,3,Reguler Cukup Baru - Nilai menengah,86.0,3.0,8.27505
+CU0177,Individual,1,Loyal Aktif - Nilai tinggi,18.0,9.0,17.73225
+CU0178,Individual,0,Pendatang Tidak Aktif - Nilai rendah,525.0,2.0,3.0414
+CU0179,Individual,2,Pendatang Aktif - Nilai rendah,82.0,1.0,3.65745
+CU0180,Individual,3,Reguler Cukup Baru - Nilai menengah,332.0,3.0,5.27805
+CU0181,Individual,1,Loyal Aktif - Nilai tinggi,66.0,5.0,9.7236
+CU0182,Individual,3,Reguler Cukup Baru - Nilai menengah,124.0,4.0,12.69285
+CU0183,Individual,2,Pendatang Aktif - Nilai rendah,87.0,1.0,1.11
+CU0184,Individual,0,Pendatang Tidak Aktif - Nilai rendah,533.0,1.0,3.67965
+CU0185,Individual,1,Loyal Aktif - Nilai tinggi,64.0,6.0,12.4098
+CU0186,Individual,0,Pendatang Tidak Aktif - Nilai rendah,521.0,2.0,1.17105
+CU0187,Individual,3,Reguler Cukup Baru - Nilai menengah,225.0,4.0,7.2927
+CU0188,Individual,0,Pendatang Tidak Aktif - Nilai rendah,608.0,2.0,4.6176
+CU0189,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,3.2745
+CU0190,Individual,3,Reguler Cukup Baru - Nilai menengah,304.0,3.0,6.48795
+CU0191,Individual,0,Pendatang Tidak Aktif - Nilai rendah,305.0,1.0,4.0959
+CU0192,Individual,0,Pendatang Tidak Aktif - Nilai rendah,717.0,1.0,0.98235
+CU0193,Individual,3,Reguler Cukup Baru - Nilai menengah,64.0,2.0,7.1817
+CU0194,Individual,1,Loyal Aktif - Nilai tinggi,36.0,4.0,7.08735
+CU0195,Individual,3,Reguler Cukup Baru - Nilai menengah,165.0,2.0,6.03285
+CU0196,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,4.0,8.88555
+CU0197,Individual,0,Pendatang Tidak Aktif - Nilai rendah,276.0,2.0,0.92685
+CU0198,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,4.0,10.7337
+CU0199,Individual,0,Pendatang Tidak Aktif - Nilai rendah,642.0,1.0,2.50305
+CU0200,Individual,0,Pendatang Tidak Aktif - Nilai rendah,615.0,1.0,3.06915
+CU0201,Individual,0,Pendatang Tidak Aktif - Nilai rendah,641.0,1.0,1.665
+CU0202,Individual,0,Pendatang Tidak Aktif - Nilai rendah,713.0,1.0,1.69275
+CU0203,Individual,3,Reguler Cukup Baru - Nilai menengah,265.0,4.0,2.96925
+CU0204,Individual,3,Reguler Cukup Baru - Nilai menengah,348.0,2.0,4.78965
+CU0205,Individual,3,Reguler Cukup Baru - Nilai menengah,331.0,4.0,10.46175
+CU0206,Individual,0,Pendatang Tidak Aktif - Nilai rendah,596.0,1.0,5.27805
+CU0207,Individual,3,Reguler Cukup Baru - Nilai menengah,282.0,4.0,7.8699
+CU0208,Individual,1,Loyal Aktif - Nilai tinggi,38.0,5.0,7.1151
+CU0209,Individual,3,Reguler Cukup Baru - Nilai menengah,110.0,2.0,6.74325
+CU0210,Individual,3,Reguler Cukup Baru - Nilai menengah,107.0,3.0,9.9012
+CU0211,Individual,0,Pendatang Tidak Aktif - Nilai rendah,611.0,1.0,0.77145
+CU0212,Individual,1,Loyal Aktif - Nilai tinggi,31.0,5.0,15.2181
+CU0213,Individual,1,Loyal Aktif - Nilai tinggi,61.0,8.0,26.73435
+CU0214,Individual,3,Reguler Cukup Baru - Nilai menengah,292.0,4.0,9.01875
+CU0215,Individual,0,Pendatang Tidak Aktif - Nilai rendah,239.0,2.0,2.2533
+CU0216,Individual,0,Pendatang Tidak Aktif - Nilai rendah,508.0,2.0,1.221
+CU0217,Individual,3,Reguler Cukup Baru - Nilai menengah,224.0,2.0,4.75635
+CU0218,Individual,2,Pendatang Aktif - Nilai rendah,26.0,1.0,3.5631
+CU0219,Individual,3,Reguler Cukup Baru - Nilai menengah,100.0,2.0,7.10955
+CU0220,Individual,0,Pendatang Tidak Aktif - Nilai rendah,261.0,2.0,3.7851
+CU0221,Individual,3,Reguler Cukup Baru - Nilai menengah,353.0,3.0,2.8638
+CU0222,Individual,3,Reguler Cukup Baru - Nilai menengah,241.0,3.0,6.09945
+CU0223,Individual,2,Pendatang Aktif - Nilai rendah,29.0,1.0,5.16705
+CU0224,Individual,1,Loyal Aktif - Nilai tinggi,74.0,6.0,12.876
+CU0225,Individual,0,Pendatang Tidak Aktif - Nilai rendah,312.0,1.0,0.9546
+CU0226,Individual,3,Reguler Cukup Baru - Nilai menengah,225.0,2.0,3.85725
+CU0227,Individual,0,Pendatang Tidak Aktif - Nilai rendah,574.0,1.0,1.73715
+CU0228,Individual,2,Pendatang Aktif - Nilai rendah,62.0,1.0,3.26895
+CU0229,Individual,0,Pendatang Tidak Aktif - Nilai rendah,499.0,1.0,3.0303
+CU0230,Individual,3,Reguler Cukup Baru - Nilai menengah,248.0,2.0,4.6065
+CU0231,Individual,0,Pendatang Tidak Aktif - Nilai rendah,573.0,1.0,2.5419
+CU0232,Individual,1,Loyal Aktif - Nilai tinggi,5.0,6.0,13.64745
+CU0233,Individual,3,Reguler Cukup Baru - Nilai menengah,238.0,3.0,7.8588
+CU0234,Individual,3,Reguler Cukup Baru - Nilai menengah,78.0,4.0,5.22255
+CU0235,Individual,3,Reguler Cukup Baru - Nilai menengah,348.0,4.0,7.43145
+CU0236,Individual,3,Reguler Cukup Baru - Nilai menengah,137.0,3.0,8.4915
+CU0237,Individual,1,Loyal Aktif - Nilai tinggi,62.0,5.0,8.6913
+CU0238,Individual,0,Pendatang Tidak Aktif - Nilai rendah,695.0,2.0,3.9405
+CU0239,Individual,3,Reguler Cukup Baru - Nilai menengah,143.0,3.0,11.5107
+CU0240,Individual,0,Pendatang Tidak Aktif - Nilai rendah,280.0,2.0,3.6963
+CU0241,Individual,0,Pendatang Tidak Aktif - Nilai rendah,348.0,2.0,4.19025
+CU0242,Individual,3,Reguler Cukup Baru - Nilai menengah,267.0,3.0,3.35775
+CU0243,Individual,3,Reguler Cukup Baru - Nilai menengah,327.0,2.0,4.45665
+CU0244,Individual,3,Reguler Cukup Baru - Nilai menengah,256.0,3.0,5.83305
+CU0245,Individual,3,Reguler Cukup Baru - Nilai menengah,123.0,2.0,5.883
+CU0246,Individual,3,Reguler Cukup Baru - Nilai menengah,237.0,2.0,4.7397
+CU0247,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,3.0,4.8063
+CU0248,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,3.0,6.74325
+CU0249,Individual,1,Loyal Aktif - Nilai tinggi,44.0,5.0,9.98445
+CU0250,Individual,2,Pendatang Aktif - Nilai rendah,8.0,1.0,1.49295
+CU0251,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,5.61105
+CU0252,Individual,0,Pendatang Tidak Aktif - Nilai rendah,584.0,2.0,3.3189
+CU0253,Individual,0,Pendatang Tidak Aktif - Nilai rendah,539.0,2.0,3.91275
+CU0254,Individual,0,Pendatang Tidak Aktif - Nilai rendah,449.0,2.0,1.73715
+CU0255,Individual,3,Reguler Cukup Baru - Nilai menengah,306.0,3.0,3.0747
+CU0256,Individual,1,Loyal Aktif - Nilai tinggi,62.0,5.0,15.4623
+CU0257,Individual,1,Loyal Aktif - Nilai tinggi,47.0,6.0,7.3815
+CU0258,Individual,1,Loyal Aktif - Nilai tinggi,158.0,4.0,20.1243
+CU0259,Individual,3,Reguler Cukup Baru - Nilai menengah,234.0,3.0,5.22255
+CU0260,Individual,0,Pendatang Tidak Aktif - Nilai rendah,586.0,1.0,2.11455
+CU0261,Individual,0,Pendatang Tidak Aktif - Nilai rendah,230.0,2.0,1.3431
+CU0262,Individual,0,Pendatang Tidak Aktif - Nilai rendah,589.0,2.0,4.25685
+CU0263,Individual,3,Reguler Cukup Baru - Nilai menengah,248.0,3.0,3.93495
+CU0264,Individual,0,Pendatang Tidak Aktif - Nilai rendah,690.0,1.0,1.20435
+CU0265,Individual,3,Reguler Cukup Baru - Nilai menengah,129.0,3.0,8.2806
+CU0266,Individual,3,Reguler Cukup Baru - Nilai menengah,291.0,3.0,6.34365
+CU0267,Individual,3,Reguler Cukup Baru - Nilai menengah,366.0,3.0,6.85425
+CU0268,Individual,2,Pendatang Aktif - Nilai rendah,88.0,1.0,0.8547
+CU0269,Individual,3,Reguler Cukup Baru - Nilai menengah,225.0,2.0,5.37795
+CU0270,Individual,3,Reguler Cukup Baru - Nilai menengah,190.0,4.0,7.29825
+CU0271,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,4.0,5.2614
+CU0272,Individual,0,Pendatang Tidak Aktif - Nilai rendah,583.0,2.0,4.3512
+CU0273,Individual,2,Pendatang Aktif - Nilai rendah,93.0,1.0,1.54845
+CU0274,Individual,2,Pendatang Aktif - Nilai rendah,121.0,1.0,4.9617
+CU0275,Individual,3,Reguler Cukup Baru - Nilai menengah,165.0,4.0,12.98145
+CU0276,Individual,2,Pendatang Aktif - Nilai rendah,104.0,1.0,5.7498
+CU0277,Individual,0,Pendatang Tidak Aktif - Nilai rendah,261.0,2.0,0.888
+CU0278,Individual,2,Pendatang Aktif - Nilai rendah,54.0,2.0,3.56865
+CU0279,Individual,3,Reguler Cukup Baru - Nilai menengah,301.0,3.0,7.4925
+CU0280,Individual,0,Pendatang Tidak Aktif - Nilai rendah,679.0,1.0,4.0959
+CU0281,Individual,3,Reguler Cukup Baru - Nilai menengah,284.0,3.0,7.32045
+CU0282,Individual,0,Pendatang Tidak Aktif - Nilai rendah,629.0,1.0,0.8991
+CU0283,Individual,3,Reguler Cukup Baru - Nilai menengah,86.0,2.0,5.5389
+CU0284,Individual,0,Pendatang Tidak Aktif - Nilai rendah,626.0,1.0,2.29215
+CU0285,Individual,1,Loyal Aktif - Nilai tinggi,54.0,5.0,9.52935
+CU0286,Individual,3,Reguler Cukup Baru - Nilai menengah,314.0,3.0,7.0929
+CU0287,Individual,3,Reguler Cukup Baru - Nilai menengah,320.0,3.0,5.25585
+CU0288,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,3.0,6.4491
+CU0289,Individual,2,Pendatang Aktif - Nilai rendah,32.0,2.0,2.23665
+CU0290,Individual,3,Reguler Cukup Baru - Nilai menengah,266.0,3.0,5.661
+CU0291,Individual,0,Pendatang Tidak Aktif - Nilai rendah,574.0,1.0,1.22655
+CU0292,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,5.9052
+CU0293,Individual,1,Loyal Aktif - Nilai tinggi,81.0,5.0,10.30635
+CU0294,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,2.0,11.5884
+CU0295,Individual,3,Reguler Cukup Baru - Nilai menengah,72.0,2.0,5.53335
+CU0296,Individual,2,Pendatang Aktif - Nilai rendah,72.0,2.0,4.5621
+CU0297,Individual,3,Reguler Cukup Baru - Nilai menengah,111.0,3.0,8.4582
+CU0298,Individual,3,Reguler Cukup Baru - Nilai menengah,108.0,2.0,5.59995
+CU0299,Individual,3,Reguler Cukup Baru - Nilai menengah,189.0,2.0,4.0293
+CU0300,Individual,0,Pendatang Tidak Aktif - Nilai rendah,618.0,1.0,2.95815
+CU0301,Individual,0,Pendatang Tidak Aktif - Nilai rendah,275.0,2.0,3.9294
+CU0302,Individual,2,Pendatang Aktif - Nilai rendah,58.0,1.0,0.8547
+CU0303,Individual,0,Pendatang Tidak Aktif - Nilai rendah,583.0,1.0,0.86025
+CU0304,Individual,0,Pendatang Tidak Aktif - Nilai rendah,451.0,2.0,1.59285
+CU0305,Individual,3,Reguler Cukup Baru - Nilai menengah,116.0,2.0,6.9153
+CU0306,Individual,0,Pendatang Tidak Aktif - Nilai rendah,528.0,1.0,0.3663
+CU0307,Individual,0,Pendatang Tidak Aktif - Nilai rendah,627.0,1.0,1.75935
+CU0308,Individual,0,Pendatang Tidak Aktif - Nilai rendah,641.0,2.0,1.7094
+CU0309,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,3.4521
+CU0310,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,4.0,6.2382
+CU0311,Individual,3,Reguler Cukup Baru - Nilai menengah,154.0,2.0,5.6055
+CU0312,Individual,3,Reguler Cukup Baru - Nilai menengah,110.0,2.0,5.5056
+CU0313,Individual,1,Loyal Aktif - Nilai tinggi,66.0,5.0,21.43965
+CU0314,Individual,0,Pendatang Tidak Aktif - Nilai rendah,291.0,2.0,1.42635
+CU0315,Individual,0,Pendatang Tidak Aktif - Nilai rendah,660.0,1.0,0.83805
+CU0316,Individual,1,Loyal Aktif - Nilai tinggi,4.0,4.0,9.9567
+CU0317,Individual,0,Pendatang Tidak Aktif - Nilai rendah,388.0,2.0,1.7205
+CU0318,Individual,1,Loyal Aktif - Nilai tinggi,73.0,4.0,13.33665
+CU0319,Individual,3,Reguler Cukup Baru - Nilai menengah,99.0,2.0,6.0717
+CU0320,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,3.0,7.0374
+CU0321,Individual,0,Pendatang Tidak Aktif - Nilai rendah,484.0,2.0,1.78155
+CU0322,Individual,1,Loyal Aktif - Nilai tinggi,8.0,3.0,9.19635
+CU0323,Individual,1,Loyal Aktif - Nilai tinggi,51.0,6.0,24.76965
+CU0324,Individual,3,Reguler Cukup Baru - Nilai menengah,301.0,4.0,6.23265
+CU0325,Individual,2,Pendatang Aktif - Nilai rendah,57.0,1.0,1.1655
+CU0326,Individual,3,Reguler Cukup Baru - Nilai menengah,248.0,4.0,5.6277
+CU0327,Individual,0,Pendatang Tidak Aktif - Nilai rendah,506.0,1.0,2.3088
+CU0328,Individual,0,Pendatang Tidak Aktif - Nilai rendah,704.0,1.0,5.95515
+CU0329,Individual,3,Reguler Cukup Baru - Nilai menengah,190.0,2.0,3.77955
+CU0330,Individual,1,Loyal Aktif - Nilai tinggi,24.0,7.0,15.23475
+CU0331,Individual,1,Loyal Aktif - Nilai tinggi,61.0,5.0,16.28925
+CU0332,Individual,2,Pendatang Aktif - Nilai rendah,47.0,2.0,2.3199
+CU0333,Individual,3,Reguler Cukup Baru - Nilai menengah,101.0,3.0,9.0243
+CU0334,Individual,1,Loyal Aktif - Nilai tinggi,70.0,5.0,12.07125
+CU0335,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,2.0,3.9516
+CU0336,Individual,3,Reguler Cukup Baru - Nilai menengah,162.0,3.0,8.81895
+CU0337,Individual,0,Pendatang Tidak Aktif - Nilai rendah,296.0,3.0,2.30325
+CU0338,Individual,0,Pendatang Tidak Aktif - Nilai rendah,538.0,2.0,2.01465
+CU0339,Individual,1,Loyal Aktif - Nilai tinggi,63.0,6.0,12.94815
+CU0340,Individual,3,Reguler Cukup Baru - Nilai menengah,227.0,3.0,3.61305
+CU0341,Individual,0,Pendatang Tidak Aktif - Nilai rendah,656.0,1.0,3.7074
+CU0342,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,3.0,7.66455
+CU0343,Individual,0,Pendatang Tidak Aktif - Nilai rendah,221.0,2.0,2.95815
+CU0344,Individual,0,Pendatang Tidak Aktif - Nilai rendah,480.0,2.0,2.7972
+CU0345,Individual,3,Reguler Cukup Baru - Nilai menengah,324.0,3.0,6.14385
+CU0346,Individual,1,Loyal Aktif - Nilai tinggi,73.0,8.0,17.7045
+CU0347,Individual,0,Pendatang Tidak Aktif - Nilai rendah,189.0,2.0,1.14885
+CU0348,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,3.0,7.08735
+CU0349,Individual,3,Reguler Cukup Baru - Nilai menengah,177.0,2.0,7.5258
+CU0350,Individual,0,Pendatang Tidak Aktif - Nilai rendah,627.0,1.0,1.4652
+CU0351,Individual,0,Pendatang Tidak Aktif - Nilai rendah,213.0,1.0,0.8325
+CU0352,Individual,1,Loyal Aktif - Nilai tinggi,40.0,4.0,7.1373
+CU0353,Individual,0,Pendatang Tidak Aktif - Nilai rendah,666.0,1.0,0.3885
+CU0354,Individual,0,Pendatang Tidak Aktif - Nilai rendah,616.0,2.0,3.93495
+CU0355,Individual,1,Loyal Aktif - Nilai tinggi,61.0,5.0,8.56365
+CU0356,Individual,2,Pendatang Aktif - Nilai rendah,13.0,1.0,2.8971
+CU0357,Individual,0,Pendatang Tidak Aktif - Nilai rendah,496.0,2.0,3.7851
+CU0358,Individual,1,Loyal Aktif - Nilai tinggi,65.0,8.0,23.98155
+CU0359,Individual,2,Pendatang Aktif - Nilai rendah,85.0,1.0,5.0061
+CU0360,Individual,2,Pendatang Aktif - Nilai rendah,51.0,1.0,3.67965
+CU0361,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,4.0,4.662
+CU0362,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0363,Individual,3,Reguler Cukup Baru - Nilai menengah,255.0,3.0,6.12165
+CU0364,Individual,3,Reguler Cukup Baru - Nilai menengah,155.0,2.0,6.993
+CU0365,Individual,0,Pendatang Tidak Aktif - Nilai rendah,656.0,1.0,1.33755
+CU0366,Individual,0,Pendatang Tidak Aktif - Nilai rendah,444.0,1.0,1.12665
+CU0367,Individual,3,Reguler Cukup Baru - Nilai menengah,101.0,2.0,6.5934
+CU0368,Individual,2,Pendatang Aktif - Nilai rendah,57.0,1.0,0.66045
+CU0369,Individual,1,Loyal Aktif - Nilai tinggi,13.0,6.0,11.7216
+CU0370,Individual,3,Reguler Cukup Baru - Nilai menengah,87.0,2.0,8.5137
+CU0371,Individual,0,Pendatang Tidak Aktif - Nilai rendah,550.0,2.0,1.73715
+CU0372,Individual,0,Pendatang Tidak Aktif - Nilai rendah,587.0,1.0,1.04895
+CU0373,Individual,3,Reguler Cukup Baru - Nilai menengah,190.0,3.0,2.1978
+CU0374,Individual,2,Pendatang Aktif - Nilai rendah,84.0,1.0,0.9324
+CU0375,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,3.0,7.84215
+CU0376,Individual,1,Loyal Aktif - Nilai tinggi,110.0,4.0,14.61315
+CU0377,Individual,3,Reguler Cukup Baru - Nilai menengah,219.0,2.0,4.84515
+CU0378,Individual,2,Pendatang Aktif - Nilai rendah,28.0,2.0,4.773
+CU0379,Individual,3,Reguler Cukup Baru - Nilai menengah,511.0,2.0,5.1504
+CU0380,Individual,1,Loyal Aktif - Nilai tinggi,47.0,3.0,12.22665
+CU0381,Individual,2,Pendatang Aktif - Nilai rendah,38.0,1.0,1.04895
+CU0382,Individual,0,Pendatang Tidak Aktif - Nilai rendah,654.0,1.0,3.5853
+CU0383,Individual,3,Reguler Cukup Baru - Nilai menengah,219.0,2.0,4.2402
+CU0384,Individual,2,Pendatang Aktif - Nilai rendah,67.0,1.0,3.69075
+CU0385,Individual,3,Reguler Cukup Baru - Nilai menengah,67.0,3.0,8.436
+CU0386,Individual,1,Loyal Aktif - Nilai tinggi,93.0,4.0,15.65655
+CU0387,Individual,3,Reguler Cukup Baru - Nilai menengah,156.0,3.0,9.17415
+CU0388,Individual,2,Pendatang Aktif - Nilai rendah,6.0,1.0,4.6509
+CU0389,Individual,3,Reguler Cukup Baru - Nilai menengah,281.0,4.0,6.3825
+CU0390,Individual,3,Reguler Cukup Baru - Nilai menengah,260.0,3.0,6.46575
+CU0391,Individual,0,Pendatang Tidak Aktif - Nilai rendah,680.0,1.0,0.3774
+CU0392,Individual,3,Reguler Cukup Baru - Nilai menengah,326.0,3.0,4.85625
+CU0393,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,4.0,9.2796
+CU0394,Individual,3,Reguler Cukup Baru - Nilai menengah,170.0,2.0,7.84215
+CU0395,Individual,3,Reguler Cukup Baru - Nilai menengah,190.0,2.0,3.53535
+CU0396,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,3.7407
+CU0397,Individual,0,Pendatang Tidak Aktif - Nilai rendah,592.0,2.0,2.8194
+CU0398,Individual,0,Pendatang Tidak Aktif - Nilai rendah,610.0,1.0,1.6872
+CU0399,Individual,3,Reguler Cukup Baru - Nilai menengah,219.0,4.0,10.62825
+CU0400,Individual,3,Reguler Cukup Baru - Nilai menengah,99.0,3.0,9.9123
+CU0401,Individual,2,Pendatang Aktif - Nilai rendah,45.0,2.0,2.46975
+CU0402,Individual,0,Pendatang Tidak Aktif - Nilai rendah,497.0,2.0,3.08025
+CU0403,Individual,2,Pendatang Aktif - Nilai rendah,16.0,1.0,1.4319
+CU0404,Individual,1,Loyal Aktif - Nilai tinggi,14.0,5.0,12.6096
+CU0405,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0406,Individual,1,Loyal Aktif - Nilai tinggi,6.0,5.0,11.2887
+CU0407,Individual,3,Reguler Cukup Baru - Nilai menengah,66.0,2.0,5.13375
+CU0408,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0409,Individual,0,Pendatang Tidak Aktif - Nilai rendah,493.0,2.0,4.662
+CU0410,Individual,2,Pendatang Aktif - Nilai rendah,75.0,1.0,2.72505
+CU0411,Individual,0,Pendatang Tidak Aktif - Nilai rendah,325.0,2.0,1.28205
+CU0412,Individual,0,Pendatang Tidak Aktif - Nilai rendah,717.0,1.0,3.70185
+CU0413,Individual,2,Pendatang Aktif - Nilai rendah,94.0,1.0,0.4995
+CU0414,Individual,0,Pendatang Tidak Aktif - Nilai rendah,502.0,1.0,1.0989
+CU0415,Individual,3,Reguler Cukup Baru - Nilai menengah,232.0,2.0,4.88955
+CU0416,Individual,2,Pendatang Aktif - Nilai rendah,98.0,1.0,5.35575
+CU0417,Individual,1,Loyal Aktif - Nilai tinggi,43.0,5.0,9.6459
+CU0418,Individual,3,Reguler Cukup Baru - Nilai menengah,309.0,3.0,3.97935
+CU0419,Individual,1,Loyal Aktif - Nilai tinggi,52.0,6.0,11.47185
+CU0420,Individual,1,Loyal Aktif - Nilai tinggi,74.0,5.0,6.87645
+CU0421,Individual,0,Pendatang Tidak Aktif - Nilai rendah,671.0,1.0,0.8991
+CU0422,Individual,1,Loyal Aktif - Nilai tinggi,11.0,5.0,9.61815
+CU0423,Individual,1,Loyal Aktif - Nilai tinggi,81.0,6.0,11.01675
+CU0424,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,4.0,16.8387
+CU0425,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,3.0,5.1837
+CU0426,Individual,3,Reguler Cukup Baru - Nilai menengah,239.0,4.0,6.6378
+CU0427,Individual,3,Reguler Cukup Baru - Nilai menengah,70.0,4.0,5.77755
+CU0428,Individual,0,Pendatang Tidak Aktif - Nilai rendah,632.0,1.0,2.39205
+CU0429,Individual,0,Pendatang Tidak Aktif - Nilai rendah,575.0,2.0,4.67865
+CU0430,Individual,1,Loyal Aktif - Nilai tinggi,23.0,6.0,10.1787
+CU0431,Individual,1,Loyal Aktif - Nilai tinggi,8.0,4.0,13.3644
+CU0432,Individual,2,Pendatang Aktif - Nilai rendah,79.0,1.0,3.91275
+CU0433,Individual,1,Loyal Aktif - Nilai tinggi,111.0,6.0,7.89765
+CU0434,Individual,1,Loyal Aktif - Nilai tinggi,20.0,6.0,12.1323
+CU0435,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,6.05505
+CU0436,Individual,0,Pendatang Tidak Aktif - Nilai rendah,709.0,1.0,3.5742
+CU0437,Individual,0,Pendatang Tidak Aktif - Nilai rendah,474.0,1.0,1.11
+CU0438,Individual,0,Pendatang Tidak Aktif - Nilai rendah,290.0,2.0,2.50305
+CU0439,Individual,2,Pendatang Aktif - Nilai rendah,29.0,2.0,4.01265
+CU0440,Individual,2,Pendatang Aktif - Nilai rendah,58.0,1.0,5.42235
+CU0441,Individual,1,Loyal Aktif - Nilai tinggi,57.0,5.0,5.2503
+CU0442,Individual,3,Reguler Cukup Baru - Nilai menengah,419.0,2.0,5.02275
+CU0443,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,4.3179
+CU0444,Individual,0,Pendatang Tidak Aktif - Nilai rendah,351.0,2.0,1.88145
+CU0445,Individual,1,Loyal Aktif - Nilai tinggi,47.0,6.0,8.37495
+CU0446,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,2.0,5.7276
+CU0447,Individual,0,Pendatang Tidak Aktif - Nilai rendah,433.0,2.0,3.5853
+CU0448,Individual,3,Reguler Cukup Baru - Nilai menengah,315.0,3.0,5.77755
+CU0449,Individual,1,Loyal Aktif - Nilai tinggi,19.0,5.0,15.27915
+CU0450,Individual,3,Reguler Cukup Baru - Nilai menengah,183.0,2.0,6.63225
+CU0451,Individual,1,Loyal Aktif - Nilai tinggi,35.0,5.0,6.74325
+CU0452,Individual,0,Pendatang Tidak Aktif - Nilai rendah,656.0,1.0,0.5439
+CU0453,Individual,3,Reguler Cukup Baru - Nilai menengah,128.0,3.0,18.1818
+CU0454,Individual,1,Loyal Aktif - Nilai tinggi,18.0,3.0,12.79275
+CU0455,Individual,3,Reguler Cukup Baru - Nilai menengah,111.0,2.0,6.82095
+CU0456,Individual,3,Reguler Cukup Baru - Nilai menengah,174.0,4.0,11.0334
+CU0457,Individual,3,Reguler Cukup Baru - Nilai menengah,242.0,3.0,3.20235
+CU0458,Individual,2,Pendatang Aktif - Nilai rendah,68.0,1.0,0.7104
+CU0459,Individual,1,Loyal Aktif - Nilai tinggi,67.0,4.0,11.0223
+CU0460,Individual,3,Reguler Cukup Baru - Nilai menengah,300.0,4.0,6.70995
+CU0461,Individual,3,Reguler Cukup Baru - Nilai menengah,348.0,3.0,5.0616
+CU0462,Individual,2,Pendatang Aktif - Nilai rendah,66.0,2.0,1.60395
+CU0463,Individual,3,Reguler Cukup Baru - Nilai menengah,184.0,3.0,4.3401
+CU0464,Individual,3,Reguler Cukup Baru - Nilai menengah,216.0,3.0,6.5046
+CU0465,Individual,0,Pendatang Tidak Aktif - Nilai rendah,566.0,1.0,3.0192
+CU0466,Individual,0,Pendatang Tidak Aktif - Nilai rendah,438.0,1.0,0.88245
+CU0467,Individual,3,Reguler Cukup Baru - Nilai menengah,136.0,2.0,6.5823
+CU0468,Individual,0,Pendatang Tidak Aktif - Nilai rendah,564.0,2.0,3.46875
+CU0469,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,4.0,6.66555
+CU0470,Individual,0,Pendatang Tidak Aktif - Nilai rendah,529.0,1.0,0.9879
+CU0471,Individual,3,Reguler Cukup Baru - Nilai menengah,86.0,2.0,6.65445
+CU0472,Individual,1,Loyal Aktif - Nilai tinggi,96.0,4.0,10.9557
+CU0473,Individual,1,Loyal Aktif - Nilai tinggi,65.0,5.0,12.1767
+CU0474,Individual,3,Reguler Cukup Baru - Nilai menengah,224.0,4.0,9.78465
+CU0475,Individual,1,Loyal Aktif - Nilai tinggi,57.0,9.0,18.6813
+CU0476,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,2.0,5.0727
+CU0477,Individual,0,Pendatang Tidak Aktif - Nilai rendah,464.0,1.0,0.94905
+CU0478,Individual,3,Reguler Cukup Baru - Nilai menengah,79.0,2.0,10.72815
+CU0479,Individual,3,Reguler Cukup Baru - Nilai menengah,261.0,3.0,3.51315
+CU0480,Individual,0,Pendatang Tidak Aktif - Nilai rendah,727.0,1.0,1.10445
+CU0481,Individual,0,Pendatang Tidak Aktif - Nilai rendah,563.0,1.0,1.0101
+CU0482,Individual,1,Loyal Aktif - Nilai tinggi,26.0,5.0,8.1141
+CU0483,Individual,0,Pendatang Tidak Aktif - Nilai rendah,570.0,1.0,0.6882
+CU0484,Individual,3,Reguler Cukup Baru - Nilai menengah,209.0,4.0,9.2574
+CU0485,Individual,0,Pendatang Tidak Aktif - Nilai rendah,430.0,2.0,2.45865
+CU0486,Individual,2,Pendatang Aktif - Nilai rendah,40.0,2.0,6.07725
+CU0487,Individual,1,Loyal Aktif - Nilai tinggi,40.0,7.0,14.95725
+CU0488,Individual,0,Pendatang Tidak Aktif - Nilai rendah,294.0,2.0,3.5187
+CU0489,Individual,3,Reguler Cukup Baru - Nilai menengah,173.0,3.0,8.41935
+CU0490,Individual,3,Reguler Cukup Baru - Nilai menengah,340.0,3.0,3.8073
+CU0491,Individual,1,Loyal Aktif - Nilai tinggi,7.0,5.0,10.1121
+CU0492,Individual,3,Reguler Cukup Baru - Nilai menengah,353.0,3.0,3.47985
+CU0493,Individual,1,Loyal Aktif - Nilai tinggi,86.0,4.0,12.1656
+CU0494,Individual,2,Pendatang Aktif - Nilai rendah,30.0,2.0,5.4945
+CU0495,Individual,0,Pendatang Tidak Aktif - Nilai rendah,186.0,2.0,3.12465
+CU0496,Individual,0,Pendatang Tidak Aktif - Nilai rendah,562.0,1.0,3.3855
+CU0497,Individual,3,Reguler Cukup Baru - Nilai menengah,360.0,3.0,6.46575
+CU0498,Individual,1,Loyal Aktif - Nilai tinggi,35.0,4.0,10.9113
+CU0499,Individual,3,Reguler Cukup Baru - Nilai menengah,207.0,4.0,6.8265
+CU0500,Individual,0,Pendatang Tidak Aktif - Nilai rendah,654.0,1.0,2.64735
+CU0501,Individual,1,Loyal Aktif - Nilai tinggi,24.0,7.0,16.6278
+CU0502,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,3.0,3.8739
+CU0503,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,4.0,6.96525
+CU0504,Individual,3,Reguler Cukup Baru - Nilai menengah,636.0,2.0,6.18825
+CU0505,Individual,3,Reguler Cukup Baru - Nilai menengah,218.0,3.0,4.43445
+CU0506,Individual,1,Loyal Aktif - Nilai tinggi,79.0,6.0,10.7004
+CU0507,Individual,0,Pendatang Tidak Aktif - Nilai rendah,607.0,1.0,0.9102
+CU0508,Individual,3,Reguler Cukup Baru - Nilai menengah,169.0,2.0,6.94305
+CU0509,Individual,3,Reguler Cukup Baru - Nilai menengah,248.0,3.0,3.4965
+CU0510,Individual,1,Loyal Aktif - Nilai tinggi,76.0,7.0,14.51325
+CU0511,Individual,3,Reguler Cukup Baru - Nilai menengah,443.0,2.0,5.2725
+CU0512,Individual,3,Reguler Cukup Baru - Nilai menengah,242.0,3.0,7.1706
+CU0513,Individual,1,Loyal Aktif - Nilai tinggi,76.0,5.0,9.27405
+CU0514,Individual,3,Reguler Cukup Baru - Nilai menengah,216.0,4.0,5.06715
+CU0515,Individual,3,Reguler Cukup Baru - Nilai menengah,295.0,3.0,5.0505
+CU0516,Individual,3,Reguler Cukup Baru - Nilai menengah,195.0,3.0,2.2533
+CU0517,Individual,3,Reguler Cukup Baru - Nilai menengah,256.0,4.0,7.8366
+CU0518,Individual,1,Loyal Aktif - Nilai tinggi,7.0,3.0,13.9971
+CU0519,Individual,0,Pendatang Tidak Aktif - Nilai rendah,708.0,1.0,2.6307
+CU0520,Individual,0,Pendatang Tidak Aktif - Nilai rendah,485.0,1.0,0.3552
+CU0521,Individual,3,Reguler Cukup Baru - Nilai menengah,394.0,2.0,5.33355
+CU0522,Individual,0,Pendatang Tidak Aktif - Nilai rendah,316.0,2.0,1.72605
+CU0523,Individual,0,Pendatang Tidak Aktif - Nilai rendah,472.0,2.0,4.83405
+CU0524,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,4.0,5.9052
+CU0525,Individual,3,Reguler Cukup Baru - Nilai menengah,151.0,2.0,6.17715
+CU0526,Individual,1,Loyal Aktif - Nilai tinggi,64.0,5.0,14.02485
+CU0527,Individual,2,Pendatang Aktif - Nilai rendah,77.0,1.0,2.4309
+CU0528,Individual,0,Pendatang Tidak Aktif - Nilai rendah,382.0,1.0,0.444
+CU0529,Individual,1,Loyal Aktif - Nilai tinggi,48.0,5.0,11.2443
+CU0530,Individual,1,Loyal Aktif - Nilai tinggi,87.0,4.0,17.94315
+CU0531,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,3.0,9.102
+CU0532,Individual,3,Reguler Cukup Baru - Nilai menengah,294.0,3.0,4.4622
+CU0533,Individual,1,Loyal Aktif - Nilai tinggi,67.0,8.0,14.74635
+CU0534,Individual,3,Reguler Cukup Baru - Nilai menengah,323.0,2.0,5.3835
+CU0535,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,4.0,6.34365
+CU0536,Individual,3,Reguler Cukup Baru - Nilai menengah,302.0,3.0,5.6499
+CU0537,Individual,0,Pendatang Tidak Aktif - Nilai rendah,565.0,1.0,1.2543
+CU0538,Individual,3,Reguler Cukup Baru - Nilai menengah,229.0,3.0,3.1746
+CU0539,Individual,0,Pendatang Tidak Aktif - Nilai rendah,352.0,2.0,3.1524
+CU0540,Individual,0,Pendatang Tidak Aktif - Nilai rendah,456.0,2.0,2.38095
+CU0541,Individual,3,Reguler Cukup Baru - Nilai menengah,269.0,3.0,5.72205
+CU0542,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,5.81085
+CU0543,Individual,0,Pendatang Tidak Aktif - Nilai rendah,666.0,1.0,3.1524
+CU0544,Individual,1,Loyal Aktif - Nilai tinggi,75.0,6.0,12.4764
+CU0545,Individual,0,Pendatang Tidak Aktif - Nilai rendah,436.0,2.0,4.24575
+CU0546,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,3.0,7.15395
+CU0547,Individual,1,Loyal Aktif - Nilai tinggi,8.0,5.0,7.215
+CU0548,Individual,3,Reguler Cukup Baru - Nilai menengah,134.0,3.0,9.6015
+CU0549,Individual,0,Pendatang Tidak Aktif - Nilai rendah,273.0,2.0,1.9314
+CU0550,Individual,1,Loyal Aktif - Nilai tinggi,71.0,5.0,12.6873
+CU0551,Individual,3,Reguler Cukup Baru - Nilai menengah,282.0,4.0,7.9698
+CU0552,Individual,2,Pendatang Aktif - Nilai rendah,38.0,1.0,2.109
+CU0553,Individual,3,Reguler Cukup Baru - Nilai menengah,183.0,2.0,6.41025
+CU0554,Individual,3,Reguler Cukup Baru - Nilai menengah,279.0,4.0,5.40015
+CU0555,Individual,2,Pendatang Aktif - Nilai rendah,14.0,2.0,1.60395
+CU0556,Individual,0,Pendatang Tidak Aktif - Nilai rendah,547.0,1.0,1.1766
+CU0557,Individual,1,Loyal Aktif - Nilai tinggi,60.0,4.0,9.1908
+CU0558,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0559,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,3.0,5.55
+CU0560,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,4.0,7.47585
+CU0561,Individual,3,Reguler Cukup Baru - Nilai menengah,95.0,2.0,10.05105
+CU0562,Individual,3,Reguler Cukup Baru - Nilai menengah,101.0,2.0,5.50005
+CU0563,Individual,3,Reguler Cukup Baru - Nilai menengah,100.0,2.0,6.35475
+CU0564,Individual,3,Reguler Cukup Baru - Nilai menengah,165.0,4.0,8.29725
+CU0565,Individual,2,Pendatang Aktif - Nilai rendah,12.0,2.0,4.6398
+CU0566,Individual,0,Pendatang Tidak Aktif - Nilai rendah,541.0,2.0,3.3078
+CU0567,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,4.0,6.3381
+CU0568,Individual,1,Loyal Aktif - Nilai tinggi,37.0,5.0,10.545
+CU0569,Individual,3,Reguler Cukup Baru - Nilai menengah,306.0,3.0,7.5258
+CU0570,Individual,0,Pendatang Tidak Aktif - Nilai rendah,232.0,2.0,2.93595
+CU0571,Individual,3,Reguler Cukup Baru - Nilai menengah,140.0,2.0,10.22865
+CU0572,Individual,3,Reguler Cukup Baru - Nilai menengah,283.0,3.0,6.0162
+CU0573,Individual,3,Reguler Cukup Baru - Nilai menengah,495.0,2.0,5.2836
+CU0574,Individual,1,Loyal Aktif - Nilai tinggi,4.0,5.0,7.22055
+CU0575,Individual,2,Pendatang Aktif - Nilai rendah,4.0,2.0,2.6196
+CU0576,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,2.52525
+CU0577,Individual,0,Pendatang Tidak Aktif - Nilai rendah,336.0,2.0,1.8759
+CU0578,Individual,3,Reguler Cukup Baru - Nilai menengah,132.0,2.0,6.0717
+CU0579,Individual,3,Reguler Cukup Baru - Nilai menengah,164.0,3.0,8.6691
+CU0580,Individual,1,Loyal Aktif - Nilai tinggi,62.0,5.0,14.9295
+CU0581,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,2.9526
+CU0582,Individual,2,Pendatang Aktif - Nilai rendah,23.0,1.0,0.80475
+CU0583,Individual,3,Reguler Cukup Baru - Nilai menengah,225.0,2.0,4.4289
+CU0584,Individual,3,Reguler Cukup Baru - Nilai menengah,305.0,3.0,6.04395
+CU0585,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,4.0,9.8457
+CU0586,Individual,3,Reguler Cukup Baru - Nilai menengah,600.0,2.0,5.41125
+CU0587,Individual,0,Pendatang Tidak Aktif - Nilai rendah,457.0,1.0,0.33855
+CU0588,Individual,0,Pendatang Tidak Aktif - Nilai rendah,539.0,2.0,3.6963
+CU0589,Individual,3,Reguler Cukup Baru - Nilai menengah,117.0,2.0,7.9809
+CU0590,Individual,1,Loyal Aktif - Nilai tinggi,77.0,7.0,12.03795
+CU0591,Individual,0,Pendatang Tidak Aktif - Nilai rendah,483.0,2.0,2.13675
+CU0592,Individual,0,Pendatang Tidak Aktif - Nilai rendah,562.0,2.0,4.92285
+CU0593,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,3.0,6.6267
+CU0594,Individual,3,Reguler Cukup Baru - Nilai menengah,255.0,4.0,4.52325
+CU0595,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,4.0,9.20745
+CU0596,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,2.0,8.86335
+CU0597,Individual,0,Pendatang Tidak Aktif - Nilai rendah,551.0,1.0,3.4077
+CU0598,Individual,1,Loyal Aktif - Nilai tinggi,35.0,4.0,16.9053
+CU0599,Individual,0,Pendatang Tidak Aktif - Nilai rendah,437.0,2.0,3.4854
+CU0600,Individual,3,Reguler Cukup Baru - Nilai menengah,227.0,3.0,7.68675
+CU0601,Individual,2,Pendatang Aktif - Nilai rendah,32.0,1.0,1.11
+CU0602,Individual,0,Pendatang Tidak Aktif - Nilai rendah,316.0,2.0,2.6751
+CU0603,Individual,3,Reguler Cukup Baru - Nilai menengah,228.0,4.0,10.33965
+CU0604,Individual,0,Pendatang Tidak Aktif - Nilai rendah,628.0,1.0,0.81585
+CU0605,Individual,3,Reguler Cukup Baru - Nilai menengah,97.0,3.0,12.88155
+CU0606,Individual,1,Loyal Aktif - Nilai tinggi,36.0,7.0,15.02385
+CU0607,Individual,0,Pendatang Tidak Aktif - Nilai rendah,689.0,1.0,1.11555
+CU0608,Individual,2,Pendatang Aktif - Nilai rendah,4.0,1.0,1.887
+CU0609,Individual,3,Reguler Cukup Baru - Nilai menengah,89.0,2.0,6.0162
+CU0610,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0611,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,4.0,8.9244
+CU0612,Individual,1,Loyal Aktif - Nilai tinggi,65.0,5.0,8.3916
+CU0613,Individual,3,Reguler Cukup Baru - Nilai menengah,327.0,4.0,8.51925
+CU0614,Individual,3,Reguler Cukup Baru - Nilai menengah,273.0,3.0,6.11055
+CU0615,Individual,0,Pendatang Tidak Aktif - Nilai rendah,295.0,2.0,3.6297
+CU0616,Individual,3,Reguler Cukup Baru - Nilai menengah,474.0,3.0,3.02475
+CU0617,Individual,0,Pendatang Tidak Aktif - Nilai rendah,459.0,2.0,4.77855
+CU0618,Individual,0,Pendatang Tidak Aktif - Nilai rendah,607.0,1.0,2.5419
+CU0619,Individual,3,Reguler Cukup Baru - Nilai menengah,249.0,2.0,3.86835
+CU0620,Individual,0,Pendatang Tidak Aktif - Nilai rendah,456.0,1.0,5.9385
+CU0621,Individual,2,Pendatang Aktif - Nilai rendah,25.0,1.0,4.78965
+CU0622,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,3.0,6.55455
+CU0623,Individual,1,Loyal Aktif - Nilai tinggi,74.0,5.0,12.3543
+CU0624,Individual,0,Pendatang Tidak Aktif - Nilai rendah,280.0,2.0,2.6418
+CU0625,Individual,2,Pendatang Aktif - Nilai rendah,14.0,2.0,5.217
+CU0626,Individual,1,Loyal Aktif - Nilai tinggi,78.0,6.0,18.73125
+CU0627,Individual,0,Pendatang Tidak Aktif - Nilai rendah,228.0,2.0,2.9304
+CU0628,Individual,0,Pendatang Tidak Aktif - Nilai rendah,207.0,1.0,1.11
+CU0629,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,3.0,3.89055
+CU0630,Individual,1,Loyal Aktif - Nilai tinggi,9.0,5.0,7.2372
+CU0631,Individual,0,Pendatang Tidak Aktif - Nilai rendah,441.0,2.0,1.332
+CU0632,Individual,0,Pendatang Tidak Aktif - Nilai rendah,261.0,2.0,2.6196
+CU0633,Individual,1,Loyal Aktif - Nilai tinggi,110.0,4.0,14.40225
+CU0634,Individual,3,Reguler Cukup Baru - Nilai menengah,234.0,4.0,4.56765
+CU0635,Individual,3,Reguler Cukup Baru - Nilai menengah,153.0,2.0,5.54445
+CU0636,Individual,0,Pendatang Tidak Aktif - Nilai rendah,290.0,2.0,1.7649
+CU0637,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,3.0,4.47885
+CU0638,Individual,3,Reguler Cukup Baru - Nilai menengah,270.0,3.0,5.5389
+CU0639,Individual,2,Pendatang Aktif - Nilai rendah,53.0,2.0,3.13575
+CU0640,Individual,3,Reguler Cukup Baru - Nilai menengah,288.0,4.0,5.22255
+CU0641,Individual,3,Reguler Cukup Baru - Nilai menengah,236.0,3.0,7.16505
+CU0642,Individual,0,Pendatang Tidak Aktif - Nilai rendah,187.0,2.0,3.40215
+CU0643,Individual,1,Loyal Aktif - Nilai tinggi,42.0,5.0,6.4491
+CU0644,Individual,0,Pendatang Tidak Aktif - Nilai rendah,715.0,1.0,2.8305
+CU0645,Individual,0,Pendatang Tidak Aktif - Nilai rendah,697.0,1.0,3.7962
+CU0646,Individual,3,Reguler Cukup Baru - Nilai menengah,118.0,2.0,6.97635
+CU0647,Individual,2,Pendatang Aktif - Nilai rendah,22.0,1.0,1.1433
+CU0648,Individual,0,Pendatang Tidak Aktif - Nilai rendah,605.0,2.0,3.774
+CU0649,Individual,3,Reguler Cukup Baru - Nilai menengah,245.0,3.0,6.9597
+CU0650,Individual,0,Pendatang Tidak Aktif - Nilai rendah,583.0,2.0,5.16705
+CU0651,Individual,3,Reguler Cukup Baru - Nilai menengah,315.0,4.0,7.97535
+CU0652,Individual,0,Pendatang Tidak Aktif - Nilai rendah,536.0,1.0,2.6307
+CU0653,Individual,3,Reguler Cukup Baru - Nilai menengah,257.0,4.0,6.3714
+CU0654,Individual,2,Pendatang Aktif - Nilai rendah,116.0,1.0,2.9748
+CU0655,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,4.0,4.9062
+CU0656,Individual,1,Loyal Aktif - Nilai tinggi,79.0,7.0,15.4401
+CU0657,Individual,3,Reguler Cukup Baru - Nilai menengah,274.0,4.0,3.0192
+CU0658,Individual,3,Reguler Cukup Baru - Nilai menengah,189.0,4.0,9.0687
+CU0659,Individual,0,Pendatang Tidak Aktif - Nilai rendah,284.0,2.0,1.83705
+CU0660,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0661,Individual,3,Reguler Cukup Baru - Nilai menengah,183.0,2.0,7.4481
+CU0662,Individual,0,Pendatang Tidak Aktif - Nilai rendah,503.0,1.0,1.22655
+CU0663,Individual,3,Reguler Cukup Baru - Nilai menengah,276.0,4.0,7.5369
+CU0664,Individual,3,Reguler Cukup Baru - Nilai menengah,146.0,4.0,11.83815
+CU0665,Individual,2,Pendatang Aktif - Nilai rendah,67.0,1.0,2.997
+CU0666,Individual,0,Pendatang Tidak Aktif - Nilai rendah,346.0,2.0,3.6408
+CU0667,Individual,2,Pendatang Aktif - Nilai rendah,29.0,1.0,3.1635
+CU0668,Individual,0,Pendatang Tidak Aktif - Nilai rendah,577.0,1.0,1.43745
+CU0669,Individual,3,Reguler Cukup Baru - Nilai menengah,116.0,2.0,5.8941
+CU0670,Individual,0,Pendatang Tidak Aktif - Nilai rendah,361.0,2.0,1.75935
+CU0671,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0672,Individual,0,Pendatang Tidak Aktif - Nilai rendah,310.0,2.0,2.5197
+CU0673,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,4.0,6.3159
+CU0674,Individual,2,Pendatang Aktif - Nilai rendah,95.0,1.0,0.4551
+CU0675,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0676,Individual,1,Loyal Aktif - Nilai tinggi,27.0,6.0,17.5824
+CU0677,Individual,0,Pendatang Tidak Aktif - Nilai rendah,374.0,1.0,1.52625
+CU0678,Individual,2,Pendatang Aktif - Nilai rendah,12.0,1.0,1.2432
+CU0679,Individual,1,Loyal Aktif - Nilai tinggi,12.0,7.0,14.8629
+CU0680,Individual,3,Reguler Cukup Baru - Nilai menengah,131.0,3.0,9.7236
+CU0681,Individual,3,Reguler Cukup Baru - Nilai menengah,119.0,4.0,11.24985
+CU0682,Individual,1,Loyal Aktif - Nilai tinggi,15.0,5.0,13.1535
+CU0683,Individual,2,Pendatang Aktif - Nilai rendah,21.0,2.0,4.05705
+CU0684,Individual,0,Pendatang Tidak Aktif - Nilai rendah,565.0,1.0,1.9647
+CU0685,Individual,2,Pendatang Aktif - Nilai rendah,67.0,1.0,0.46065
+CU0686,Individual,1,Loyal Aktif - Nilai tinggi,71.0,5.0,10.65045
+CU0687,Individual,3,Reguler Cukup Baru - Nilai menengah,204.0,4.0,5.93295
+CU0688,Individual,0,Pendatang Tidak Aktif - Nilai rendah,606.0,1.0,1.6206
+CU0689,Individual,0,Pendatang Tidak Aktif - Nilai rendah,446.0,2.0,4.4511
+CU0690,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,2.0,3.6963
+CU0691,Individual,3,Reguler Cukup Baru - Nilai menengah,268.0,3.0,7.62015
+CU0692,Individual,3,Reguler Cukup Baru - Nilai menengah,283.0,4.0,9.0909
+CU0693,Individual,3,Reguler Cukup Baru - Nilai menengah,275.0,3.0,5.9163
+CU0694,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,4.0,7.881
+CU0695,Individual,0,Pendatang Tidak Aktif - Nilai rendah,618.0,1.0,3.30225
+CU0696,Individual,3,Reguler Cukup Baru - Nilai menengah,186.0,3.0,7.53135
+CU0697,Individual,0,Pendatang Tidak Aktif - Nilai rendah,264.0,2.0,1.5429
+CU0698,Individual,3,Reguler Cukup Baru - Nilai menengah,219.0,4.0,5.6943
+CU0699,Individual,0,Pendatang Tidak Aktif - Nilai rendah,225.0,2.0,2.08125
+CU0700,Individual,0,Pendatang Tidak Aktif - Nilai rendah,310.0,2.0,2.0757
+CU0701,Individual,3,Reguler Cukup Baru - Nilai menengah,88.0,2.0,5.93295
+CU0702,Individual,3,Reguler Cukup Baru - Nilai menengah,235.0,4.0,8.97435
+CU0703,Individual,1,Loyal Aktif - Nilai tinggi,76.0,6.0,10.2342
+CU0704,Individual,2,Pendatang Aktif - Nilai rendah,64.0,2.0,2.3199
+CU0705,Individual,0,Pendatang Tidak Aktif - Nilai rendah,433.0,1.0,1.221
+CU0706,Individual,1,Loyal Aktif - Nilai tinggi,19.0,6.0,11.48295
+CU0707,Individual,2,Pendatang Aktif - Nilai rendah,131.0,1.0,2.9859
+CU0708,Individual,3,Reguler Cukup Baru - Nilai menengah,319.0,4.0,7.4148
+CU0709,Individual,3,Reguler Cukup Baru - Nilai menengah,339.0,4.0,10.82805
+CU0710,Individual,3,Reguler Cukup Baru - Nilai menengah,356.0,3.0,7.02075
+CU0711,Individual,1,Loyal Aktif - Nilai tinggi,28.0,5.0,12.0102
+CU0712,Individual,3,Reguler Cukup Baru - Nilai menengah,250.0,4.0,5.9496
+CU0713,Individual,1,Loyal Aktif - Nilai tinggi,35.0,5.0,6.88755
+CU0714,Individual,0,Pendatang Tidak Aktif - Nilai rendah,578.0,2.0,2.31435
+CU0715,Individual,3,Reguler Cukup Baru - Nilai menengah,255.0,4.0,5.78865
+CU0716,Individual,0,Pendatang Tidak Aktif - Nilai rendah,501.0,2.0,3.3966
+CU0717,Individual,3,Reguler Cukup Baru - Nilai menengah,258.0,4.0,5.7831
+CU0718,Individual,0,Pendatang Tidak Aktif - Nilai rendah,462.0,2.0,1.63725
+CU0719,Individual,3,Reguler Cukup Baru - Nilai menengah,341.0,3.0,2.6307
+CU0720,Individual,3,Reguler Cukup Baru - Nilai menengah,211.0,4.0,9.55155
+CU0721,Individual,0,Pendatang Tidak Aktif - Nilai rendah,703.0,1.0,0.888
+CU0722,Individual,1,Loyal Aktif - Nilai tinggi,71.0,6.0,22.16115
+CU0723,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,4.0,8.1807
+CU0724,Individual,3,Reguler Cukup Baru - Nilai menengah,245.0,3.0,2.79165
+CU0725,Individual,3,Reguler Cukup Baru - Nilai menengah,171.0,4.0,4.7952
+CU0726,Individual,1,Loyal Aktif - Nilai tinggi,31.0,2.0,10.27305
+CU0727,Individual,3,Reguler Cukup Baru - Nilai menengah,243.0,3.0,3.0081
+CU0728,Individual,0,Pendatang Tidak Aktif - Nilai rendah,213.0,2.0,2.26995
+CU0729,Individual,3,Reguler Cukup Baru - Nilai menengah,277.0,3.0,5.5056
+CU0730,Individual,2,Pendatang Aktif - Nilai rendah,76.0,1.0,1.4097
+CU0731,Individual,3,Reguler Cukup Baru - Nilai menengah,237.0,3.0,6.9486
+CU0732,Individual,3,Reguler Cukup Baru - Nilai menengah,51.0,2.0,7.70895
+CU0733,Individual,2,Pendatang Aktif - Nilai rendah,53.0,1.0,2.03685
+CU0734,Individual,3,Reguler Cukup Baru - Nilai menengah,236.0,2.0,5.82195
+CU0735,Individual,2,Pendatang Aktif - Nilai rendah,6.0,2.0,3.11355
+CU0736,Individual,1,Loyal Aktif - Nilai tinggi,64.0,5.0,8.14185
+CU0737,Individual,3,Reguler Cukup Baru - Nilai menengah,66.0,2.0,5.84415
+CU0738,Individual,1,Loyal Aktif - Nilai tinggi,5.0,4.0,6.58785
+CU0739,Individual,2,Pendatang Aktif - Nilai rendah,31.0,2.0,3.46875
+CU0740,Individual,1,Loyal Aktif - Nilai tinggi,40.0,5.0,9.75135
+CU0741,Individual,3,Reguler Cukup Baru - Nilai menengah,283.0,4.0,6.48795
+CU0742,Individual,0,Pendatang Tidak Aktif - Nilai rendah,632.0,1.0,1.00455
+CU0743,Individual,0,Pendatang Tidak Aktif - Nilai rendah,488.0,1.0,0.4107
+CU0744,Individual,1,Loyal Aktif - Nilai tinggi,36.0,5.0,12.19335
+CU0745,Individual,0,Pendatang Tidak Aktif - Nilai rendah,539.0,1.0,3.30225
+CU0746,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,3.0,6.2382
+CU0747,Individual,0,Pendatang Tidak Aktif - Nilai rendah,537.0,1.0,0.9435
+CU0748,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,4.0,4.9284
+CU0749,Individual,1,Loyal Aktif - Nilai tinggi,17.0,5.0,5.59995
+CU0750,Individual,0,Pendatang Tidak Aktif - Nilai rendah,626.0,2.0,1.84815
+CU0751,Individual,3,Reguler Cukup Baru - Nilai menengah,308.0,2.0,4.8174
+CU0752,Individual,3,Reguler Cukup Baru - Nilai menengah,329.0,2.0,5.0394
+CU0753,Individual,0,Pendatang Tidak Aktif - Nilai rendah,570.0,1.0,3.74625
+CU0754,Individual,1,Loyal Aktif - Nilai tinggi,51.0,3.0,9.4239
+CU0755,Individual,0,Pendatang Tidak Aktif - Nilai rendah,213.0,3.0,1.57065
+CU0756,Individual,0,Pendatang Tidak Aktif - Nilai rendah,507.0,1.0,1.0656
+CU0757,Individual,1,Loyal Aktif - Nilai tinggi,4.0,4.0,3.57975
+CU0758,Individual,3,Reguler Cukup Baru - Nilai menengah,218.0,3.0,6.54345
+CU0759,Individual,3,Reguler Cukup Baru - Nilai menengah,355.0,3.0,7.4925
+CU0760,Individual,2,Pendatang Aktif - Nilai rendah,23.0,1.0,1.7538
+CU0761,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0762,Individual,1,Loyal Aktif - Nilai tinggi,58.0,7.0,11.1888
+CU0763,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,2.0,3.7074
+CU0764,Individual,3,Reguler Cukup Baru - Nilai menengah,115.0,3.0,8.7357
+CU0765,Individual,0,Pendatang Tidak Aktif - Nilai rendah,595.0,1.0,1.0545
+CU0766,Individual,3,Reguler Cukup Baru - Nilai menengah,231.0,3.0,4.19025
+CU0767,Individual,0,Pendatang Tidak Aktif - Nilai rendah,703.0,1.0,1.5318
+CU0768,Individual,1,Loyal Aktif - Nilai tinggi,53.0,6.0,12.8538
+CU0769,Individual,1,Loyal Aktif - Nilai tinggi,66.0,4.0,14.9628
+CU0770,Individual,3,Reguler Cukup Baru - Nilai menengah,157.0,2.0,7.10955
+CU0771,Individual,1,Loyal Aktif - Nilai tinggi,51.0,5.0,8.23065
+CU0772,Individual,3,Reguler Cukup Baru - Nilai menengah,267.0,3.0,2.8083
+CU0773,Individual,0,Pendatang Tidak Aktif - Nilai rendah,566.0,1.0,2.9859
+CU0774,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,4.0,11.17215
+CU0775,Individual,3,Reguler Cukup Baru - Nilai menengah,149.0,4.0,13.5642
+CU0776,Individual,3,Reguler Cukup Baru - Nilai menengah,260.0,2.0,5.20035
+CU0777,Individual,1,Loyal Aktif - Nilai tinggi,179.0,6.0,24.68085
+CU0778,Individual,0,Pendatang Tidak Aktif - Nilai rendah,604.0,1.0,3.20235
+CU0779,Individual,3,Reguler Cukup Baru - Nilai menengah,334.0,2.0,5.2059
+CU0780,Individual,3,Reguler Cukup Baru - Nilai menengah,232.0,3.0,3.57975
+CU0781,Individual,1,Loyal Aktif - Nilai tinggi,53.0,5.0,9.51825
+CU0782,Individual,3,Reguler Cukup Baru - Nilai menengah,87.0,3.0,8.325
+CU0783,Individual,3,Reguler Cukup Baru - Nilai menengah,163.0,2.0,6.9597
+CU0784,Individual,3,Reguler Cukup Baru - Nilai menengah,184.0,4.0,14.51325
+CU0785,Individual,3,Reguler Cukup Baru - Nilai menengah,530.0,3.0,6.3603
+CU0786,Individual,3,Reguler Cukup Baru - Nilai menengah,211.0,4.0,6.6933
+CU0787,Individual,0,Pendatang Tidak Aktif - Nilai rendah,446.0,2.0,4.02375
+CU0788,Individual,1,Loyal Aktif - Nilai tinggi,54.0,9.0,19.5471
+CU0789,Individual,3,Reguler Cukup Baru - Nilai menengah,285.0,4.0,6.8043
+CU0790,Individual,0,Pendatang Tidak Aktif - Nilai rendah,256.0,1.0,1.79265
+CU0791,Individual,3,Reguler Cukup Baru - Nilai menengah,250.0,3.0,6.07725
+CU0792,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,4.0,10.87245
+CU0793,Individual,1,Loyal Aktif - Nilai tinggi,87.0,4.0,14.8851
+CU0794,Individual,0,Pendatang Tidak Aktif - Nilai rendah,515.0,1.0,5.8275
+CU0795,Individual,3,Reguler Cukup Baru - Nilai menengah,152.0,3.0,9.1575
+CU0796,Individual,0,Pendatang Tidak Aktif - Nilai rendah,425.0,2.0,2.3643
+CU0797,Individual,3,Reguler Cukup Baru - Nilai menengah,129.0,2.0,6.3048
+CU0798,Individual,3,Reguler Cukup Baru - Nilai menengah,266.0,3.0,2.93595
+CU0799,Individual,3,Reguler Cukup Baru - Nilai menengah,227.0,3.0,2.9748
+CU0800,Individual,3,Reguler Cukup Baru - Nilai menengah,288.0,3.0,3.23565
+CU0801,Individual,0,Pendatang Tidak Aktif - Nilai rendah,449.0,1.0,2.68065
+CU0802,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,3.0,5.54445
+CU0803,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,4.86735
+CU0804,Individual,0,Pendatang Tidak Aktif - Nilai rendah,532.0,1.0,3.3189
+CU0805,Individual,1,Loyal Aktif - Nilai tinggi,40.0,8.0,11.8881
+CU0806,Individual,3,Reguler Cukup Baru - Nilai menengah,260.0,4.0,6.2382
+CU0807,Individual,3,Reguler Cukup Baru - Nilai menengah,146.0,3.0,11.4219
+CU0808,Individual,3,Reguler Cukup Baru - Nilai menengah,427.0,2.0,5.1726
+CU0809,Individual,0,Pendatang Tidak Aktif - Nilai rendah,564.0,1.0,1.08225
+CU0810,Individual,2,Pendatang Aktif - Nilai rendah,92.0,1.0,3.552
+CU0811,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,4.0,9.3684
+CU0812,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,2.36985
+CU0813,Individual,1,Loyal Aktif - Nilai tinggi,22.0,4.0,12.18225
+CU0814,Individual,3,Reguler Cukup Baru - Nilai menengah,112.0,3.0,8.29725
+CU0815,Individual,1,Loyal Aktif - Nilai tinggi,8.0,5.0,6.0384
+CU0816,Individual,2,Pendatang Aktif - Nilai rendah,23.0,2.0,2.65845
+CU0817,Individual,3,Reguler Cukup Baru - Nilai menengah,169.0,2.0,7.8477
+CU0818,Individual,0,Pendatang Tidak Aktif - Nilai rendah,476.0,1.0,0.90465
+CU0819,Individual,2,Pendatang Aktif - Nilai rendah,19.0,2.0,4.2846
+CU0820,Individual,2,Pendatang Aktif - Nilai rendah,22.0,2.0,2.01465
+CU0821,Individual,0,Pendatang Tidak Aktif - Nilai rendah,539.0,1.0,3.885
+CU0822,Individual,0,Pendatang Tidak Aktif - Nilai rendah,269.0,2.0,2.91375
+CU0823,Individual,0,Pendatang Tidak Aktif - Nilai rendah,646.0,1.0,0.89355
+CU0824,Individual,0,Pendatang Tidak Aktif - Nilai rendah,598.0,2.0,4.22355
+CU0825,Individual,3,Reguler Cukup Baru - Nilai menengah,101.0,2.0,8.3694
+CU0826,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,7.5369
+CU0827,Individual,1,Loyal Aktif - Nilai tinggi,77.0,5.0,9.7014
+CU0828,Individual,3,Reguler Cukup Baru - Nilai menengah,318.0,4.0,9.45165
+CU0829,Individual,3,Reguler Cukup Baru - Nilai menengah,224.0,4.0,6.9375
+CU0830,Individual,3,Reguler Cukup Baru - Nilai menengah,227.0,4.0,12.57075
+CU0831,Individual,0,Pendatang Tidak Aktif - Nilai rendah,330.0,2.0,3.34665
+CU0832,Individual,3,Reguler Cukup Baru - Nilai menengah,117.0,2.0,6.4158
+CU0833,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,3.0,6.7599
+CU0834,Individual,0,Pendatang Tidak Aktif - Nilai rendah,663.0,1.0,0.4107
+CU0835,Individual,1,Loyal Aktif - Nilai tinggi,73.0,5.0,9.67365
+CU0836,Individual,3,Reguler Cukup Baru - Nilai menengah,279.0,3.0,5.43345
+CU0837,Individual,0,Pendatang Tidak Aktif - Nilai rendah,663.0,2.0,4.6953
+CU0838,Individual,3,Reguler Cukup Baru - Nilai menengah,184.0,2.0,6.4158
+CU0839,Individual,0,Pendatang Tidak Aktif - Nilai rendah,501.0,2.0,3.45765
+CU0840,Individual,1,Loyal Aktif - Nilai tinggi,67.0,7.0,8.86335
+CU0841,Individual,3,Reguler Cukup Baru - Nilai menengah,74.0,2.0,7.7367
+CU0842,Individual,1,Loyal Aktif - Nilai tinggi,26.0,7.0,16.4946
+CU0843,Individual,3,Reguler Cukup Baru - Nilai menengah,93.0,3.0,7.24275
+CU0844,Individual,1,Loyal Aktif - Nilai tinggi,64.0,5.0,22.2
+CU0845,Individual,0,Pendatang Tidak Aktif - Nilai rendah,212.0,3.0,1.75935
+CU0846,Individual,1,Loyal Aktif - Nilai tinggi,57.0,5.0,20.41845
+CU0847,Individual,1,Loyal Aktif - Nilai tinggi,39.0,7.0,6.66
+CU0848,Individual,0,Pendatang Tidak Aktif - Nilai rendah,461.0,2.0,3.64635
+CU0849,Individual,1,Loyal Aktif - Nilai tinggi,42.0,4.0,8.7024
+CU0850,Individual,3,Reguler Cukup Baru - Nilai menengah,325.0,3.0,4.4067
+CU0851,Individual,1,Loyal Aktif - Nilai tinggi,11.0,6.0,12.03795
+CU0852,Individual,3,Reguler Cukup Baru - Nilai menengah,247.0,2.0,4.2735
+CU0853,Individual,2,Pendatang Aktif - Nilai rendah,64.0,1.0,1.7427
+CU0854,Individual,0,Pendatang Tidak Aktif - Nilai rendah,591.0,2.0,2.775
+CU0855,Individual,1,Loyal Aktif - Nilai tinggi,5.0,3.0,9.9234
+CU0856,Individual,3,Reguler Cukup Baru - Nilai menengah,355.0,4.0,8.81895
+CU0857,Individual,2,Pendatang Aktif - Nilai rendah,23.0,3.0,2.5641
+CU0858,Individual,0,Pendatang Tidak Aktif - Nilai rendah,444.0,2.0,4.2846
+CU0859,Individual,3,Reguler Cukup Baru - Nilai menengah,356.0,2.0,5.20035
+CU0860,Individual,3,Reguler Cukup Baru - Nilai menengah,356.0,4.0,2.6307
+CU0861,Individual,3,Reguler Cukup Baru - Nilai menengah,279.0,3.0,7.53135
+CU0862,Individual,3,Reguler Cukup Baru - Nilai menengah,172.0,3.0,9.0798
+CU0863,Individual,0,Pendatang Tidak Aktif - Nilai rendah,445.0,1.0,1.221
+CU0864,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,7.7922
+CU0865,Individual,0,Pendatang Tidak Aktif - Nilai rendah,586.0,2.0,4.41225
+CU0866,Individual,0,Pendatang Tidak Aktif - Nilai rendah,220.0,2.0,1.4874
+CU0867,Individual,3,Reguler Cukup Baru - Nilai menengah,119.0,2.0,6.0273
+CU0868,Individual,3,Reguler Cukup Baru - Nilai menengah,115.0,3.0,9.49605
+CU0869,Individual,1,Loyal Aktif - Nilai tinggi,55.0,5.0,14.7963
+CU0870,Individual,1,Loyal Aktif - Nilai tinggi,27.0,5.0,15.1626
+CU0871,Individual,3,Reguler Cukup Baru - Nilai menengah,250.0,3.0,6.16605
+CU0872,Individual,3,Reguler Cukup Baru - Nilai menengah,244.0,3.0,7.06515
+CU0873,Individual,3,Reguler Cukup Baru - Nilai menengah,231.0,3.0,6.45465
+CU0874,Individual,0,Pendatang Tidak Aktif - Nilai rendah,449.0,1.0,3.5964
+CU0875,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,2.0,7.18725
+CU0876,Individual,0,Pendatang Tidak Aktif - Nilai rendah,477.0,1.0,0.888
+CU0877,Individual,2,Pendatang Aktif - Nilai rendah,27.0,1.0,0.87135
+CU0878,Individual,1,Loyal Aktif - Nilai tinggi,59.0,5.0,9.29625
+CU0879,Individual,3,Reguler Cukup Baru - Nilai menengah,180.0,3.0,10.28415
+CU0880,Individual,0,Pendatang Tidak Aktif - Nilai rendah,339.0,2.0,3.84615
+CU0881,Individual,3,Reguler Cukup Baru - Nilai menengah,233.0,4.0,10.19535
+CU0882,Individual,0,Pendatang Tidak Aktif - Nilai rendah,255.0,1.0,0.90465
+CU0883,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,2.0,6.13275
+CU0884,Individual,3,Reguler Cukup Baru - Nilai menengah,237.0,4.0,7.39815
+CU0885,Individual,1,Loyal Aktif - Nilai tinggi,36.0,7.0,14.81295
+CU0886,Individual,3,Reguler Cukup Baru - Nilai menengah,103.0,2.0,7.69785
+CU0887,Individual,0,Pendatang Tidak Aktif - Nilai rendah,573.0,2.0,3.6519
+CU0888,Individual,3,Reguler Cukup Baru - Nilai menengah,239.0,3.0,7.42035
+CU0889,Individual,2,Pendatang Aktif - Nilai rendah,71.0,1.0,0.46065
+CU0890,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,4.0,7.35375
+CU0891,Individual,0,Pendatang Tidak Aktif - Nilai rendah,669.0,1.0,0.3774
+CU0892,Individual,0,Pendatang Tidak Aktif - Nilai rendah,533.0,1.0,3.6297
+CU0893,Individual,3,Reguler Cukup Baru - Nilai menengah,204.0,2.0,4.93395
+CU0894,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,4.0,5.91075
+CU0895,Individual,1,Loyal Aktif - Nilai tinggi,60.0,4.0,20.1354
+CU0896,Individual,0,Pendatang Tidak Aktif - Nilai rendah,451.0,1.0,1.23765
+CU0897,Individual,0,Pendatang Tidak Aktif - Nilai rendah,478.0,2.0,2.3976
+CU0898,Individual,2,Pendatang Aktif - Nilai rendah,63.0,1.0,0.5217
+CU0899,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0900,Individual,0,Pendatang Tidak Aktif - Nilai rendah,633.0,2.0,0.94905
+CU0901,Individual,3,Reguler Cukup Baru - Nilai menengah,138.0,3.0,14.82405
+CU0902,Individual,3,Reguler Cukup Baru - Nilai menengah,274.0,4.0,5.79975
+CU0903,Individual,0,Pendatang Tidak Aktif - Nilai rendah,670.0,1.0,3.1857
+CU0904,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,7.66455
+CU0905,Individual,1,Loyal Aktif - Nilai tinggi,4.0,5.0,8.99655
+CU0906,Individual,3,Reguler Cukup Baru - Nilai menengah,127.0,2.0,11.1222
+CU0907,Individual,0,Pendatang Tidak Aktif - Nilai rendah,709.0,1.0,1.51515
+CU0908,Individual,0,Pendatang Tidak Aktif - Nilai rendah,245.0,2.0,3.14685
+CU0909,Individual,0,Pendatang Tidak Aktif - Nilai rendah,568.0,2.0,2.3532
+CU0910,Individual,2,Pendatang Aktif - Nilai rendah,52.0,2.0,4.73415
+CU0911,Individual,3,Reguler Cukup Baru - Nilai menengah,208.0,3.0,5.07825
+CU0912,Individual,2,Pendatang Aktif - Nilai rendah,23.0,1.0,0.86025
+CU0913,Individual,3,Reguler Cukup Baru - Nilai menengah,316.0,3.0,3.5631
+CU0914,Individual,0,Pendatang Tidak Aktif - Nilai rendah,534.0,1.0,1.443
+CU0915,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,3.0,4.2735
+CU0916,Individual,2,Pendatang Aktif - Nilai rendah,48.0,1.0,2.2755
+CU0917,Individual,3,Reguler Cukup Baru - Nilai menengah,206.0,3.0,18.02085
+CU0918,Individual,1,Loyal Aktif - Nilai tinggi,10.0,7.0,16.38915
+CU0919,Individual,3,Reguler Cukup Baru - Nilai menengah,238.0,3.0,4.1514
+CU0920,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,4.0,10.1787
+CU0921,Individual,1,Loyal Aktif - Nilai tinggi,44.0,5.0,10.15095
+CU0922,Individual,2,Pendatang Aktif - Nilai rendah,77.0,1.0,3.0303
+CU0923,Individual,0,Pendatang Tidak Aktif - Nilai rendah,630.0,2.0,5.26695
+CU0924,Individual,1,Loyal Aktif - Nilai tinggi,71.0,7.0,17.6934
+CU0925,Individual,3,Reguler Cukup Baru - Nilai menengah,310.0,4.0,5.48895
+CU0926,Individual,1,Loyal Aktif - Nilai tinggi,17.0,5.0,12.8316
+CU0927,Individual,3,Reguler Cukup Baru - Nilai menengah,274.0,3.0,5.95515
+CU0928,Individual,3,Reguler Cukup Baru - Nilai menengah,247.0,5.0,8.19735
+CU0929,Individual,3,Reguler Cukup Baru - Nilai menengah,219.0,3.0,6.74325
+CU0930,Individual,2,Pendatang Aktif - Nilai rendah,77.0,1.0,0.5772
+CU0931,Individual,3,Reguler Cukup Baru - Nilai menengah,208.0,4.0,8.3805
+CU0932,Individual,3,Reguler Cukup Baru - Nilai menengah,125.0,3.0,11.57175
+CU0933,Individual,0,Pendatang Tidak Aktif - Nilai rendah,501.0,2.0,1.3542
+CU0934,Individual,0,Pendatang Tidak Aktif - Nilai rendah,254.0,2.0,3.15795
+CU0935,Individual,0,Pendatang Tidak Aktif - Nilai rendah,629.0,1.0,1.4985
+CU0936,Individual,0,Pendatang Tidak Aktif - Nilai rendah,467.0,2.0,1.5762
+CU0937,Individual,0,Pendatang Tidak Aktif - Nilai rendah,633.0,1.0,2.4753
+CU0938,Individual,0,Pendatang Tidak Aktif - Nilai rendah,467.0,2.0,1.55955
+CU0939,Individual,3,Reguler Cukup Baru - Nilai menengah,211.0,2.0,3.7851
+CU0940,Individual,2,Pendatang Aktif - Nilai rendah,15.0,2.0,4.70085
+CU0941,Individual,3,Reguler Cukup Baru - Nilai menengah,232.0,4.0,8.9133
+CU0942,Individual,0,Pendatang Tidak Aktif - Nilai rendah,568.0,1.0,1.0656
+CU0943,Individual,2,Pendatang Aktif - Nilai rendah,48.0,1.0,3.1413
+CU0944,Individual,0,Pendatang Tidak Aktif - Nilai rendah,708.0,1.0,4.70085
+CU0945,Individual,1,Loyal Aktif - Nilai tinggi,5.0,5.0,5.1504
+CU0946,Individual,2,Pendatang Aktif - Nilai rendah,70.0,1.0,3.79065
+CU0947,Individual,1,Loyal Aktif - Nilai tinggi,50.0,6.0,8.36385
+CU0948,Individual,2,Pendatang Aktif - Nilai rendah,12.0,2.0,6.2937
+CU0949,Individual,1,Loyal Aktif - Nilai tinggi,23.0,6.0,11.0223
+CU0950,Individual,3,Reguler Cukup Baru - Nilai menengah,109.0,3.0,8.7135
+CU0951,Individual,3,Reguler Cukup Baru - Nilai menengah,205.0,4.0,4.45665
+CU0952,Individual,90,Individual tanpa transaksi (aturan),,,
+CU0953,Individual,3,Reguler Cukup Baru - Nilai menengah,119.0,2.0,5.87745
+CU0954,Individual,0,Pendatang Tidak Aktif - Nilai rendah,451.0,2.0,2.1534
+CU0955,Individual,3,Reguler Cukup Baru - Nilai menengah,101.0,2.0,6.4602
+CU0956,Individual,2,Pendatang Aktif - Nilai rendah,92.0,1.0,2.75835
+CU0957,Individual,3,Reguler Cukup Baru - Nilai menengah,189.0,3.0,5.02275
+CU0958,Individual,0,Pendatang Tidak Aktif - Nilai rendah,473.0,1.0,0.94905
+CU0959,Individual,0,Pendatang Tidak Aktif - Nilai rendah,590.0,1.0,0.54945
+CU0960,Individual,0,Pendatang Tidak Aktif - Nilai rendah,590.0,1.0,0.36075
+CU0961,Individual,1,Loyal Aktif - Nilai tinggi,22.0,5.0,5.6721
+CU0962,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,4.0,3.6963
+CU0963,Individual,0,Pendatang Tidak Aktif - Nilai rendah,489.0,2.0,1.6428
+CU0964,Individual,2,Pendatang Aktif - Nilai rendah,17.0,1.0,2.63625
+CU0965,Individual,1,Loyal Aktif - Nilai tinggi,42.0,5.0,7.06515
+CU0966,Individual,1,Loyal Aktif - Nilai tinggi,37.0,5.0,7.5591
+CU0967,Individual,0,Pendatang Tidak Aktif - Nilai rendah,572.0,1.0,0.89355
+CU0968,Individual,1,Loyal Aktif - Nilai tinggi,106.0,4.0,11.7105
+CU0969,Individual,3,Reguler Cukup Baru - Nilai menengah,181.0,3.0,5.7609
+CU0970,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,7.5924
+CU0971,Individual,1,Loyal Aktif - Nilai tinggi,20.0,8.0,15.0405
+CU0972,Individual,1,Loyal Aktif - Nilai tinggi,37.0,7.0,10.79475
+CU0973,Individual,0,Pendatang Tidak Aktif - Nilai rendah,584.0,1.0,2.98035
+CU0974,Individual,1,Loyal Aktif - Nilai tinggi,38.0,5.0,9.34065
+CU0975,Individual,0,Pendatang Tidak Aktif - Nilai rendah,430.0,2.0,3.06915
+CU0976,Individual,1,Loyal Aktif - Nilai tinggi,73.0,6.0,13.7529
+CU0977,Individual,0,Pendatang Tidak Aktif - Nilai rendah,584.0,1.0,0.80475
+CU0978,Individual,3,Reguler Cukup Baru - Nilai menengah,148.0,2.0,5.57775
+CU0979,Individual,3,Reguler Cukup Baru - Nilai menengah,274.0,3.0,5.9607
+CU0980,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,3.0,6.34365
+CU0981,Individual,3,Reguler Cukup Baru - Nilai menengah,95.0,3.0,10.03995
+CU0982,Individual,0,Pendatang Tidak Aktif - Nilai rendah,467.0,2.0,1.52625
+CU0983,Individual,3,Reguler Cukup Baru - Nilai menengah,145.0,2.0,7.2594
+CU0984,Individual,0,Pendatang Tidak Aktif - Nilai rendah,532.0,1.0,6.1383
+CU0985,Individual,2,Pendatang Aktif - Nilai rendah,7.0,2.0,4.31235
+CU0986,Individual,3,Reguler Cukup Baru - Nilai menengah,292.0,3.0,6.17715
+CU0987,Individual,3,Reguler Cukup Baru - Nilai menengah,191.0,4.0,6.7821
+CU0988,Individual,1,Loyal Aktif - Nilai tinggi,57.0,5.0,11.9436
+CU0989,Individual,0,Pendatang Tidak Aktif - Nilai rendah,431.0,1.0,3.0414
+CU0990,Individual,0,Pendatang Tidak Aktif - Nilai rendah,632.0,1.0,2.2977
+CU0991,Individual,0,Pendatang Tidak Aktif - Nilai rendah,465.0,1.0,3.2079
+CU0992,Individual,2,Pendatang Aktif - Nilai rendah,73.0,1.0,0.39405
+CU0993,Individual,3,Reguler Cukup Baru - Nilai menengah,346.0,3.0,5.883
+CU0994,Individual,3,Reguler Cukup Baru - Nilai menengah,312.0,3.0,6.9597
+CU0995,Individual,2,Pendatang Aktif - Nilai rendah,7.0,1.0,0.9546
+CU0996,Individual,3,Reguler Cukup Baru - Nilai menengah,202.0,3.0,7.57575
+CU0997,Individual,2,Pendatang Aktif - Nilai rendah,16.0,2.0,4.4511
+CU0998,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,4.0,5.0505
+CU0999,Individual,0,Pendatang Tidak Aktif - Nilai rendah,482.0,1.0,1.15995
+CU1000,Individual,0,Pendatang Tidak Aktif - Nilai rendah,328.0,2.0,2.1312
+CU1001,Individual,3,Reguler Cukup Baru - Nilai menengah,272.0,2.0,4.72305
+CU1002,Individual,2,Pendatang Aktif - Nilai rendah,46.0,1.0,0.8547
+CU1003,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,7.8921
+CU1004,Individual,2,Pendatang Aktif - Nilai rendah,31.0,2.0,5.57775
+CU1005,Individual,0,Pendatang Tidak Aktif - Nilai rendah,570.0,2.0,2.01465
+CU1006,Individual,3,Reguler Cukup Baru - Nilai menengah,286.0,3.0,5.3613
+CU1007,Individual,2,Pendatang Aktif - Nilai rendah,94.0,1.0,6.43245
+CU1008,Individual,3,Reguler Cukup Baru - Nilai menengah,172.0,2.0,5.59995
+CU1009,Individual,2,Pendatang Aktif - Nilai rendah,68.0,1.0,2.70285
+CU1010,Individual,1,Loyal Aktif - Nilai tinggi,40.0,5.0,10.4118
+CU1011,Individual,0,Pendatang Tidak Aktif - Nilai rendah,582.0,1.0,5.11155
+CU1012,Individual,0,Pendatang Tidak Aktif - Nilai rendah,261.0,2.0,1.97025
+CU1013,Individual,3,Reguler Cukup Baru - Nilai menengah,117.0,2.0,9.2574
+CU1014,Individual,2,Pendatang Aktif - Nilai rendah,92.0,1.0,2.7639
+CU1015,Individual,2,Pendatang Aktif - Nilai rendah,132.0,1.0,3.10245
+CU1016,Individual,1,Loyal Aktif - Nilai tinggi,63.0,5.0,23.24895
+CU1017,Individual,0,Pendatang Tidak Aktif - Nilai rendah,470.0,1.0,2.1867
+CU1018,Individual,3,Reguler Cukup Baru - Nilai menengah,264.0,4.0,2.3865
+CU1019,Individual,2,Pendatang Aktif - Nilai rendah,23.0,1.0,2.99145
+CU1020,Individual,3,Reguler Cukup Baru - Nilai menengah,160.0,4.0,13.209
+CU1021,Individual,3,Reguler Cukup Baru - Nilai menengah,331.0,3.0,4.07925
+CU1022,Individual,2,Pendatang Aktif - Nilai rendah,25.0,1.0,2.5086
+CU1023,Individual,1,Loyal Aktif - Nilai tinggi,20.0,6.0,24.6198
+CU1024,Individual,2,Pendatang Aktif - Nilai rendah,46.0,2.0,4.35675
+CU1025,Individual,0,Pendatang Tidak Aktif - Nilai rendah,592.0,1.0,3.9294
+CU1026,Individual,2,Pendatang Aktif - Nilai rendah,14.0,1.0,0.91575
+CU1027,Individual,0,Pendatang Tidak Aktif - Nilai rendah,574.0,2.0,1.6317
+CU1028,Individual,3,Reguler Cukup Baru - Nilai menengah,189.0,3.0,7.8921
+CU1029,Individual,3,Reguler Cukup Baru - Nilai menengah,240.0,3.0,4.6953
+CU1030,Individual,3,Reguler Cukup Baru - Nilai menengah,166.0,3.0,12.4764
+CU1031,Individual,1,Loyal Aktif - Nilai tinggi,26.0,6.0,12.82605
+CU1032,Individual,1,Loyal Aktif - Nilai tinggi,39.0,5.0,9.06315
+CU1033,Individual,0,Pendatang Tidak Aktif - Nilai rendah,282.0,2.0,3.5187
+CU1034,Individual,0,Pendatang Tidak Aktif - Nilai rendah,616.0,2.0,4.7286
+CU1035,Individual,1,Loyal Aktif - Nilai tinggi,61.0,4.0,11.766
+CU1036,Individual,3,Reguler Cukup Baru - Nilai menengah,281.0,4.0,4.25685
+CU1037,Individual,0,Pendatang Tidak Aktif - Nilai rendah,194.0,2.0,3.32445
+CU1038,Individual,2,Pendatang Aktif - Nilai rendah,30.0,1.0,3.6186
+CU1039,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,4.0,9.25185
+CU1040,Individual,1,Loyal Aktif - Nilai tinggi,70.0,4.0,11.8659
+CU1041,Individual,0,Pendatang Tidak Aktif - Nilai rendah,606.0,2.0,2.72505
+CU1042,Individual,1,Loyal Aktif - Nilai tinggi,64.0,8.0,22.5774
+CU1043,Individual,3,Reguler Cukup Baru - Nilai menengah,301.0,4.0,10.62825
+CU1044,Individual,2,Pendatang Aktif - Nilai rendah,30.0,1.0,0.8325
+CU1045,Individual,3,Reguler Cukup Baru - Nilai menengah,134.0,3.0,9.14085
+CU1046,Individual,3,Reguler Cukup Baru - Nilai menengah,201.0,2.0,5.2947
+CU1047,Individual,1,Loyal Aktif - Nilai tinggi,34.0,5.0,12.099
+CU1048,Individual,2,Pendatang Aktif - Nilai rendah,81.0,1.0,3.3855
+CU1049,Individual,2,Pendatang Aktif - Nilai rendah,3.0,2.0,4.1847
+CU1050,Individual,3,Reguler Cukup Baru - Nilai menengah,146.0,3.0,9.0243
+CU1051,Individual,1,Loyal Aktif - Nilai tinggi,55.0,6.0,17.5824
+CU1052,Individual,3,Reguler Cukup Baru - Nilai menengah,160.0,4.0,14.8185
+CU1053,Individual,3,Reguler Cukup Baru - Nilai menengah,259.0,4.0,2.9415
+CU1054,Individual,3,Reguler Cukup Baru - Nilai menengah,151.0,3.0,10.1898
+CU1055,Individual,0,Pendatang Tidak Aktif - Nilai rendah,613.0,1.0,0.444
+CU1056,Individual,0,Pendatang Tidak Aktif - Nilai rendah,513.0,1.0,2.80275
+CU1057,Individual,0,Pendatang Tidak Aktif - Nilai rendah,575.0,1.0,0.40515
+CU1058,Individual,3,Reguler Cukup Baru - Nilai menengah,361.0,4.0,8.25285
+CU1059,Individual,0,Pendatang Tidak Aktif - Nilai rendah,711.0,1.0,0.8991
+CU1060,Individual,2,Pendatang Aktif - Nilai rendah,67.0,1.0,3.2967
+CU1061,Individual,3,Reguler Cukup Baru - Nilai menengah,190.0,3.0,5.6721
+CU1062,Individual,3,Reguler Cukup Baru - Nilai menengah,228.0,2.0,5.1393
+CU1063,Individual,3,Reguler Cukup Baru - Nilai menengah,242.0,3.0,6.3492
+CU1064,Individual,1,Loyal Aktif - Nilai tinggi,10.0,5.0,11.46075
+CU1065,Individual,2,Pendatang Aktif - Nilai rendah,62.0,1.0,1.0878
+CU1066,Individual,3,Reguler Cukup Baru - Nilai menengah,236.0,4.0,6.24375
+CU1067,Individual,1,Loyal Aktif - Nilai tinggi,49.0,5.0,5.1837
+CU1068,Individual,3,Reguler Cukup Baru - Nilai menengah,293.0,3.0,6.7044
+CU1069,Individual,1,Loyal Aktif - Nilai tinggi,3.0,4.0,8.27505
+CU1070,Individual,0,Pendatang Tidak Aktif - Nilai rendah,307.0,2.0,4.0737
+CU1071,Individual,1,Loyal Aktif - Nilai tinggi,32.0,6.0,12.5985
+CU1072,Individual,3,Reguler Cukup Baru - Nilai menengah,257.0,3.0,5.97735
+CU1073,Individual,1,Loyal Aktif - Nilai tinggi,90.0,4.0,12.3543
+CU1074,Individual,0,Pendatang Tidak Aktif - Nilai rendah,430.0,2.0,4.3179
+CU1075,Individual,0,Pendatang Tidak Aktif - Nilai rendah,665.0,1.0,3.7962
+CU1076,Individual,3,Reguler Cukup Baru - Nilai menengah,291.0,2.0,4.0848
+CU1077,Individual,3,Reguler Cukup Baru - Nilai menengah,310.0,3.0,3.9183
+CU1078,Individual,3,Reguler Cukup Baru - Nilai menengah,313.0,3.0,7.2039
+CU1079,Individual,1,Loyal Aktif - Nilai tinggi,43.0,7.0,7.33155
+CU1080,Individual,1,Loyal Aktif - Nilai tinggi,57.0,5.0,14.3301
+CU1081,Individual,3,Reguler Cukup Baru - Nilai menengah,89.0,3.0,9.24075
+CU1082,Individual,2,Pendatang Aktif - Nilai rendah,31.0,2.0,2.1756
+CU1083,Individual,3,Reguler Cukup Baru - Nilai menengah,278.0,4.0,3.77955
+CU1084,Individual,3,Reguler Cukup Baru - Nilai menengah,250.0,4.0,6.7932
+CU1085,Individual,1,Loyal Aktif - Nilai tinggi,40.0,8.0,11.3109
+CU1086,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,4.37895
+CU1087,Individual,3,Reguler Cukup Baru - Nilai menengah,98.0,3.0,10.21755
+CU1088,Individual,3,Reguler Cukup Baru - Nilai menengah,141.0,4.0,12.0546
+CU1089,Individual,2,Pendatang Aktif - Nilai rendah,39.0,1.0,6.18825
+CU1090,Individual,3,Reguler Cukup Baru - Nilai menengah,111.0,2.0,9.1131
+CU1091,Individual,1,Loyal Aktif - Nilai tinggi,44.0,5.0,10.65045
+CU1092,Individual,0,Pendatang Tidak Aktif - Nilai rendah,221.0,2.0,1.554
+CU1093,Individual,0,Pendatang Tidak Aktif - Nilai rendah,629.0,1.0,2.51415
+CU1094,Individual,0,Pendatang Tidak Aktif - Nilai rendah,668.0,1.0,3.0192
+CU1095,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,3.0,6.4602
+CU1096,Individual,1,Loyal Aktif - Nilai tinggi,55.0,3.0,11.0334
+CU1097,Individual,0,Pendatang Tidak Aktif - Nilai rendah,564.0,2.0,4.95615
+CU1098,Individual,0,Pendatang Tidak Aktif - Nilai rendah,720.0,1.0,1.0989
+CU1099,Individual,0,Pendatang Tidak Aktif - Nilai rendah,598.0,1.0,2.49195
+CU1100,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,4.0,8.3028
+CU1101,Individual,0,Pendatang Tidak Aktif - Nilai rendah,632.0,1.0,3.4632
+CU1102,Individual,3,Reguler Cukup Baru - Nilai menengah,256.0,4.0,6.66
+CU1103,Individual,0,Pendatang Tidak Aktif - Nilai rendah,567.0,2.0,4.95615
+CU1104,Individual,0,Pendatang Tidak Aktif - Nilai rendah,485.0,2.0,3.42435
+CU1105,Individual,0,Pendatang Tidak Aktif - Nilai rendah,483.0,1.0,1.1322
+CU1106,Individual,3,Reguler Cukup Baru - Nilai menengah,85.0,2.0,7.1373
+CU1107,Individual,3,Reguler Cukup Baru - Nilai menengah,216.0,2.0,4.9839
+CU1108,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,3.0,2.553
+CU1109,Individual,3,Reguler Cukup Baru - Nilai menengah,266.0,3.0,7.94205
+CU1110,Individual,3,Reguler Cukup Baru - Nilai menengah,171.0,3.0,11.0778
+CU1111,Individual,3,Reguler Cukup Baru - Nilai menengah,274.0,3.0,7.4703
+CU1112,Individual,3,Reguler Cukup Baru - Nilai menengah,136.0,2.0,5.72205
+CU1113,Individual,3,Reguler Cukup Baru - Nilai menengah,227.0,4.0,6.9042
+CU1114,Individual,1,Loyal Aktif - Nilai tinggi,12.0,8.0,21.31755
+CU1115,Individual,1,Loyal Aktif - Nilai tinggi,30.0,4.0,9.24075
+CU1116,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,3.0,3.22455
+CU1117,Individual,3,Reguler Cukup Baru - Nilai menengah,296.0,5.0,13.2756
+CU1118,Individual,3,Reguler Cukup Baru - Nilai menengah,161.0,2.0,6.9486
+CU1119,Individual,3,Reguler Cukup Baru - Nilai menengah,348.0,4.0,7.24275
+CU1120,Individual,0,Pendatang Tidak Aktif - Nilai rendah,490.0,2.0,1.2321
+CU1121,Individual,2,Pendatang Aktif - Nilai rendah,86.0,1.0,0.76035
+CU1122,Individual,0,Pendatang Tidak Aktif - Nilai rendah,620.0,1.0,4.67865
+CU1123,Individual,0,Pendatang Tidak Aktif - Nilai rendah,695.0,1.0,0.74925
+CU1124,Individual,1,Loyal Aktif - Nilai tinggi,19.0,5.0,12.89265
+CU1125,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,4.0,8.19735
+CU1126,Individual,3,Reguler Cukup Baru - Nilai menengah,211.0,3.0,6.8154
+CU1127,Individual,2,Pendatang Aktif - Nilai rendah,83.0,1.0,5.5722
+CU1128,Individual,0,Pendatang Tidak Aktif - Nilai rendah,187.0,1.0,3.45765
+CU1129,Individual,3,Reguler Cukup Baru - Nilai menengah,80.0,2.0,7.44255
+CU1130,Individual,0,Pendatang Tidak Aktif - Nilai rendah,521.0,1.0,0.6216
+CU1131,Individual,0,Pendatang Tidak Aktif - Nilai rendah,223.0,1.0,5.74425
+CU1132,Individual,3,Reguler Cukup Baru - Nilai menengah,272.0,3.0,5.9052
+CU1133,Individual,0,Pendatang Tidak Aktif - Nilai rendah,287.0,2.0,3.2079
+CU1134,Individual,2,Pendatang Aktif - Nilai rendah,49.0,2.0,3.43545
+CU1135,Individual,0,Pendatang Tidak Aktif - Nilai rendah,327.0,2.0,3.552
+CU1136,Individual,2,Pendatang Aktif - Nilai rendah,41.0,1.0,1.00455
+CU1137,Individual,2,Pendatang Aktif - Nilai rendah,72.0,2.0,2.32545
+CU1138,Individual,3,Reguler Cukup Baru - Nilai menengah,296.0,3.0,7.46475
+CU1139,Individual,0,Pendatang Tidak Aktif - Nilai rendah,589.0,1.0,3.02475
+CU1140,Individual,1,Loyal Aktif - Nilai tinggi,28.0,5.0,5.32245
+CU1141,Individual,1,Loyal Aktif - Nilai tinggi,75.0,5.0,10.15095
+CU1142,Individual,2,Pendatang Aktif - Nilai rendah,71.0,1.0,1.68165
+CU1143,Individual,3,Reguler Cukup Baru - Nilai menengah,165.0,2.0,7.00965
+CU1144,Individual,0,Pendatang Tidak Aktif - Nilai rendah,692.0,1.0,3.10245
+CU1145,Individual,3,Reguler Cukup Baru - Nilai menengah,297.0,3.0,3.26895
+CU1146,Individual,3,Reguler Cukup Baru - Nilai menengah,117.0,2.0,6.216
+CU1147,Individual,2,Pendatang Aktif - Nilai rendah,36.0,1.0,1.82595
+CU1148,Individual,0,Pendatang Tidak Aktif - Nilai rendah,489.0,1.0,3.4188
+CU1149,Individual,3,Reguler Cukup Baru - Nilai menengah,234.0,4.0,6.6822
+CU1150,Individual,1,Loyal Aktif - Nilai tinggi,99.0,4.0,13.9971
+CU1151,Individual,0,Pendatang Tidak Aktif - Nilai rendah,585.0,1.0,1.2321
+CU1152,Individual,3,Reguler Cukup Baru - Nilai menengah,243.0,3.0,3.996
+CU1153,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,4.0,9.30735
+CU1154,Individual,2,Pendatang Aktif - Nilai rendah,7.0,1.0,2.9415
+CU1155,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,4.0,10.51725
+CU1156,Individual,0,Pendatang Tidak Aktif - Nilai rendah,656.0,2.0,3.71295
+CU1157,Individual,1,Loyal Aktif - Nilai tinggi,23.0,7.0,18.1929
+CU1158,Individual,1,Loyal Aktif - Nilai tinggi,76.0,5.0,10.08435
+CU1159,Individual,1,Loyal Aktif - Nilai tinggi,78.0,5.0,12.4875
+CU1160,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,5.2392
+CU1161,Individual,2,Pendatang Aktif - Nilai rendah,27.0,1.0,0.8769
+CU1162,Individual,2,Pendatang Aktif - Nilai rendah,9.0,1.0,0.7992
+CU1163,Individual,2,Pendatang Aktif - Nilai rendah,42.0,1.0,3.8517
+CU1164,Individual,3,Reguler Cukup Baru - Nilai menengah,151.0,3.0,9.3906
+CU1165,Individual,2,Pendatang Aktif - Nilai rendah,30.0,1.0,0.99345
+CU1166,Individual,3,Reguler Cukup Baru - Nilai menengah,171.0,3.0,8.4138
+CU1167,Individual,3,Reguler Cukup Baru - Nilai menengah,191.0,3.0,5.99955
+CU1168,Individual,2,Pendatang Aktif - Nilai rendah,67.0,1.0,3.76845
+CU1169,Individual,1,Loyal Aktif - Nilai tinggi,79.0,3.0,16.1727
+CU1170,Individual,3,Reguler Cukup Baru - Nilai menengah,205.0,3.0,5.55555
+CU1171,Individual,1,Loyal Aktif - Nilai tinggi,4.0,4.0,6.83205
+CU1172,Individual,3,Reguler Cukup Baru - Nilai menengah,281.0,4.0,4.63425
+CU1173,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,3.0,3.53535
+CU1174,Individual,2,Pendatang Aktif - Nilai rendah,15.0,2.0,5.87745
+CU1175,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1176,Individual,3,Reguler Cukup Baru - Nilai menengah,154.0,3.0,9.3906
+CU1177,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,3.0,5.47785
+CU1178,Individual,3,Reguler Cukup Baru - Nilai menengah,353.0,3.0,5.62215
+CU1179,Individual,1,Loyal Aktif - Nilai tinggi,13.0,5.0,9.102
+CU1180,Individual,3,Reguler Cukup Baru - Nilai menengah,156.0,2.0,5.97735
+CU1181,Individual,0,Pendatang Tidak Aktif - Nilai rendah,524.0,2.0,4.8729
+CU1182,Individual,3,Reguler Cukup Baru - Nilai menengah,245.0,4.0,10.75035
+CU1183,Individual,0,Pendatang Tidak Aktif - Nilai rendah,253.0,2.0,1.6872
+CU1184,Individual,0,Pendatang Tidak Aktif - Nilai rendah,461.0,1.0,3.4965
+CU1185,Individual,0,Pendatang Tidak Aktif - Nilai rendah,579.0,1.0,0.97125
+CU1186,Individual,2,Pendatang Aktif - Nilai rendah,18.0,1.0,3.03585
+CU1187,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,4.0,9.36285
+CU1188,Individual,3,Reguler Cukup Baru - Nilai menengah,264.0,3.0,4.09035
+CU1189,Individual,0,Pendatang Tidak Aktif - Nilai rendah,714.0,1.0,0.38295
+CU1190,Individual,3,Reguler Cukup Baru - Nilai menengah,241.0,3.0,3.6408
+CU1191,Individual,2,Pendatang Aktif - Nilai rendah,20.0,2.0,3.22455
+CU1192,Individual,0,Pendatang Tidak Aktif - Nilai rendah,721.0,1.0,3.43545
+CU1193,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1194,Individual,1,Loyal Aktif - Nilai tinggi,12.0,5.0,8.87445
+CU1195,Individual,3,Reguler Cukup Baru - Nilai menengah,283.0,3.0,3.90165
+CU1196,Individual,3,Reguler Cukup Baru - Nilai menengah,166.0,3.0,8.76345
+CU1197,Individual,0,Pendatang Tidak Aktif - Nilai rendah,322.0,2.0,3.23565
+CU1198,Individual,1,Loyal Aktif - Nilai tinggi,76.0,7.0,15.0072
+CU1199,Individual,2,Pendatang Aktif - Nilai rendah,37.0,1.0,3.9516
+CU1200,Individual,3,Reguler Cukup Baru - Nilai menengah,240.0,4.0,10.20645
+CU1201,Individual,3,Reguler Cukup Baru - Nilai menengah,298.0,4.0,10.6227
+CU1202,Individual,1,Loyal Aktif - Nilai tinggi,5.0,5.0,9.2796
+CU1203,Individual,3,Reguler Cukup Baru - Nilai menengah,364.0,3.0,6.73215
+CU1204,Individual,1,Loyal Aktif - Nilai tinggi,69.0,7.0,17.9487
+CU1205,Individual,0,Pendatang Tidak Aktif - Nilai rendah,521.0,2.0,1.51515
+CU1206,Individual,1,Loyal Aktif - Nilai tinggi,10.0,5.0,9.0354
+CU1207,Individual,1,Loyal Aktif - Nilai tinggi,134.0,4.0,14.985
+CU1208,Individual,1,Loyal Aktif - Nilai tinggi,42.0,6.0,14.3856
+CU1209,Individual,3,Reguler Cukup Baru - Nilai menengah,219.0,2.0,4.80075
+CU1210,Individual,1,Loyal Aktif - Nilai tinggi,81.0,7.0,22.66065
+CU1211,Individual,0,Pendatang Tidak Aktif - Nilai rendah,626.0,1.0,3.7296
+CU1212,Individual,0,Pendatang Tidak Aktif - Nilai rendah,191.0,2.0,1.5651
+CU1213,Individual,3,Reguler Cukup Baru - Nilai menengah,186.0,2.0,3.75735
+CU1214,Individual,3,Reguler Cukup Baru - Nilai menengah,233.0,4.0,9.54045
+CU1215,Individual,3,Reguler Cukup Baru - Nilai menengah,303.0,3.0,7.27605
+CU1216,Individual,3,Reguler Cukup Baru - Nilai menengah,317.0,3.0,7.99755
+CU1217,Individual,0,Pendatang Tidak Aktif - Nilai rendah,631.0,1.0,3.2967
+CU1218,Individual,2,Pendatang Aktif - Nilai rendah,25.0,2.0,3.6519
+CU1219,Individual,3,Reguler Cukup Baru - Nilai menengah,71.0,2.0,5.24475
+CU1220,Individual,1,Loyal Aktif - Nilai tinggi,76.0,6.0,14.874
+CU1221,Individual,0,Pendatang Tidak Aktif - Nilai rendah,458.0,1.0,3.4632
+CU1222,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,4.0,5.26695
+CU1223,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,3.0,10.5561
+CU1224,Individual,0,Pendatang Tidak Aktif - Nilai rendah,717.0,1.0,1.70385
+CU1225,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,4.0,9.44055
+CU1226,Individual,3,Reguler Cukup Baru - Nilai menengah,103.0,2.0,7.0374
+CU1227,Individual,1,Loyal Aktif - Nilai tinggi,33.0,7.0,12.9759
+CU1228,Individual,0,Pendatang Tidak Aktif - Nilai rendah,206.0,2.0,1.83705
+CU1229,Individual,0,Pendatang Tidak Aktif - Nilai rendah,210.0,2.0,1.443
+CU1230,Individual,3,Reguler Cukup Baru - Nilai menengah,119.0,2.0,5.7498
+CU1231,Individual,3,Reguler Cukup Baru - Nilai menengah,76.0,3.0,8.8578
+CU1232,Individual,1,Loyal Aktif - Nilai tinggi,4.0,5.0,13.32555
+CU1233,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,3.0,2.54745
+CU1234,Individual,3,Reguler Cukup Baru - Nilai menengah,261.0,3.0,6.95415
+CU1235,Individual,2,Pendatang Aktif - Nilai rendah,13.0,1.0,3.22455
+CU1236,Individual,0,Pendatang Tidak Aktif - Nilai rendah,639.0,1.0,0.84915
+CU1237,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,2.0,4.94505
+CU1238,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,3.0,7.659
+CU1239,Individual,2,Pendatang Aktif - Nilai rendah,76.0,1.0,4.6176
+CU1240,Individual,0,Pendatang Tidak Aktif - Nilai rendah,342.0,2.0,4.22355
+CU1241,Individual,0,Pendatang Tidak Aktif - Nilai rendah,647.0,1.0,2.80275
+CU1242,Individual,3,Reguler Cukup Baru - Nilai menengah,244.0,3.0,6.82095
+CU1243,Individual,3,Reguler Cukup Baru - Nilai menengah,258.0,4.0,9.60705
+CU1244,Individual,1,Loyal Aktif - Nilai tinggi,42.0,5.0,5.69985
+CU1245,Individual,0,Pendatang Tidak Aktif - Nilai rendah,636.0,1.0,1.17105
+CU1246,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,3.37995
+CU1247,Individual,3,Reguler Cukup Baru - Nilai menengah,195.0,3.0,5.37795
+CU1248,Individual,0,Pendatang Tidak Aktif - Nilai rendah,281.0,2.0,2.83605
+CU1249,Individual,0,Pendatang Tidak Aktif - Nilai rendah,170.0,1.0,5.4501
+CU1250,Individual,0,Pendatang Tidak Aktif - Nilai rendah,502.0,1.0,0.3552
+CU1251,Individual,2,Pendatang Aktif - Nilai rendah,89.0,1.0,3.09135
+CU1252,Individual,0,Pendatang Tidak Aktif - Nilai rendah,268.0,2.0,3.84615
+CU1253,Individual,2,Pendatang Aktif - Nilai rendah,32.0,1.0,2.5863
+CU1254,Individual,3,Reguler Cukup Baru - Nilai menengah,263.0,4.0,10.323
+CU1255,Individual,3,Reguler Cukup Baru - Nilai menengah,258.0,3.0,7.02075
+CU1256,Individual,2,Pendatang Aktif - Nilai rendah,45.0,2.0,5.91075
+CU1257,Individual,0,Pendatang Tidak Aktif - Nilai rendah,647.0,1.0,3.774
+CU1258,Individual,3,Reguler Cukup Baru - Nilai menengah,270.0,3.0,4.83405
+CU1259,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,3.0,4.81185
+CU1260,Individual,3,Reguler Cukup Baru - Nilai menengah,174.0,2.0,6.5268
+CU1261,Individual,0,Pendatang Tidak Aktif - Nilai rendah,570.0,1.0,1.88145
+CU1262,Individual,0,Pendatang Tidak Aktif - Nilai rendah,248.0,2.0,2.3421
+CU1263,Individual,0,Pendatang Tidak Aktif - Nilai rendah,275.0,2.0,1.20435
+CU1264,Individual,1,Loyal Aktif - Nilai tinggi,110.0,4.0,11.6994
+CU1265,Individual,3,Reguler Cukup Baru - Nilai menengah,267.0,2.0,3.9738
+CU1266,Individual,0,Pendatang Tidak Aktif - Nilai rendah,558.0,2.0,4.7064
+CU1267,Individual,1,Loyal Aktif - Nilai tinggi,15.0,5.0,7.79775
+CU1268,Individual,3,Reguler Cukup Baru - Nilai menengah,218.0,4.0,3.41325
+CU1269,Individual,2,Pendatang Aktif - Nilai rendah,51.0,1.0,4.8063
+CU1270,Individual,3,Reguler Cukup Baru - Nilai menengah,334.0,3.0,3.8295
+CU1271,Individual,1,Loyal Aktif - Nilai tinggi,26.0,5.0,13.7751
+CU1272,Individual,0,Pendatang Tidak Aktif - Nilai rendah,684.0,1.0,1.01565
+CU1273,Individual,0,Pendatang Tidak Aktif - Nilai rendah,675.0,1.0,0.555
+CU1274,Individual,3,Reguler Cukup Baru - Nilai menengah,205.0,4.0,8.0808
+CU1275,Individual,3,Reguler Cukup Baru - Nilai menengah,154.0,3.0,10.73925
+CU1276,Individual,1,Loyal Aktif - Nilai tinggi,72.0,6.0,8.5137
+CU1277,Individual,3,Reguler Cukup Baru - Nilai menengah,244.0,4.0,7.36485
+CU1278,Individual,3,Reguler Cukup Baru - Nilai menengah,270.0,4.0,8.4693
+CU1279,Individual,3,Reguler Cukup Baru - Nilai menengah,254.0,3.0,6.7155
+CU1280,Individual,1,Loyal Aktif - Nilai tinggi,28.0,5.0,9.324
+CU1281,Individual,2,Pendatang Aktif - Nilai rendah,23.0,2.0,2.72505
+CU1282,Individual,1,Loyal Aktif - Nilai tinggi,72.0,4.0,13.65855
+CU1283,Individual,2,Pendatang Aktif - Nilai rendah,48.0,1.0,2.64735
+CU1284,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,4.0,9.7902
+CU1285,Individual,1,Loyal Aktif - Nilai tinggi,26.0,5.0,10.2564
+CU1286,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,3.0,4.87845
+CU1287,Individual,0,Pendatang Tidak Aktif - Nilai rendah,580.0,2.0,1.887
+CU1288,Individual,2,Pendatang Aktif - Nilai rendah,38.0,2.0,4.52325
+CU1289,Individual,3,Reguler Cukup Baru - Nilai menengah,265.0,3.0,6.97635
+CU1290,Individual,1,Loyal Aktif - Nilai tinggi,7.0,5.0,15.44565
+CU1291,Individual,0,Pendatang Tidak Aktif - Nilai rendah,641.0,2.0,4.41225
+CU1292,Individual,1,Loyal Aktif - Nilai tinggi,53.0,6.0,9.4017
+CU1293,Individual,0,Pendatang Tidak Aktif - Nilai rendah,471.0,1.0,4.32345
+CU1294,Individual,3,Reguler Cukup Baru - Nilai menengah,219.0,4.0,9.9678
+CU1295,Individual,1,Loyal Aktif - Nilai tinggi,23.0,5.0,7.89765
+CU1296,Individual,2,Pendatang Aktif - Nilai rendah,74.0,1.0,4.8396
+CU1297,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,3.0,4.1181
+CU1298,Individual,0,Pendatang Tidak Aktif - Nilai rendah,451.0,2.0,1.8426
+CU1299,Individual,3,Reguler Cukup Baru - Nilai menengah,397.0,3.0,3.41325
+CU1300,Individual,3,Reguler Cukup Baru - Nilai menengah,306.0,3.0,7.215
+CU1301,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,3.0,7.6257
+CU1302,Individual,0,Pendatang Tidak Aktif - Nilai rendah,483.0,2.0,2.61405
+CU1303,Individual,2,Pendatang Aktif - Nilai rendah,17.0,2.0,5.82195
+CU1304,Individual,3,Reguler Cukup Baru - Nilai menengah,162.0,2.0,6.5823
+CU1305,Individual,1,Loyal Aktif - Nilai tinggi,39.0,7.0,5.4834
+CU1306,Individual,3,Reguler Cukup Baru - Nilai menengah,208.0,3.0,7.7811
+CU1307,Individual,1,Loyal Aktif - Nilai tinggi,19.0,5.0,11.76045
+CU1308,Individual,3,Reguler Cukup Baru - Nilai menengah,318.0,4.0,10.62825
+CU1309,Individual,3,Reguler Cukup Baru - Nilai menengah,58.0,3.0,7.85325
+CU1310,Individual,0,Pendatang Tidak Aktif - Nilai rendah,289.0,2.0,2.9415
+CU1311,Individual,0,Pendatang Tidak Aktif - Nilai rendah,488.0,2.0,3.3633
+CU1312,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,3.0,7.7922
+CU1313,Individual,0,Pendatang Tidak Aktif - Nilai rendah,472.0,2.0,2.58075
+CU1314,Individual,3,Reguler Cukup Baru - Nilai menengah,281.0,4.0,9.71805
+CU1315,Individual,2,Pendatang Aktif - Nilai rendah,75.0,1.0,0.3996
+CU1316,Individual,3,Reguler Cukup Baru - Nilai menengah,289.0,2.0,4.13475
+CU1317,Individual,3,Reguler Cukup Baru - Nilai menengah,194.0,3.0,7.80885
+CU1318,Individual,3,Reguler Cukup Baru - Nilai menengah,132.0,2.0,7.12065
+CU1319,Individual,1,Loyal Aktif - Nilai tinggi,34.0,5.0,6.5379
+CU1320,Individual,2,Pendatang Aktif - Nilai rendah,14.0,2.0,1.998
+CU1321,Individual,3,Reguler Cukup Baru - Nilai menengah,320.0,3.0,5.9163
+CU1322,Individual,0,Pendatang Tidak Aktif - Nilai rendah,689.0,1.0,0.9435
+CU1323,Individual,3,Reguler Cukup Baru - Nilai menengah,207.0,4.0,8.91885
+CU1324,Individual,0,Pendatang Tidak Aktif - Nilai rendah,350.0,2.0,2.31435
+CU1325,Individual,1,Loyal Aktif - Nilai tinggi,3.0,12.0,19.90785
+CU1326,Individual,0,Pendatang Tidak Aktif - Nilai rendah,579.0,1.0,3.90165
+CU1327,Individual,1,Loyal Aktif - Nilai tinggi,27.0,4.0,5.3391
+CU1328,Individual,3,Reguler Cukup Baru - Nilai menengah,269.0,3.0,3.91275
+CU1329,Individual,3,Reguler Cukup Baru - Nilai menengah,329.0,3.0,5.93295
+CU1330,Individual,2,Pendatang Aktif - Nilai rendah,8.0,1.0,3.24675
+CU1331,Individual,0,Pendatang Tidak Aktif - Nilai rendah,614.0,2.0,0.8103
+CU1332,Individual,1,Loyal Aktif - Nilai tinggi,15.0,7.0,15.5067
+CU1333,Individual,0,Pendatang Tidak Aktif - Nilai rendah,215.0,2.0,1.665
+CU1334,Individual,0,Pendatang Tidak Aktif - Nilai rendah,338.0,2.0,2.46975
+CU1335,Individual,3,Reguler Cukup Baru - Nilai menengah,273.0,2.0,5.37795
+CU1336,Individual,0,Pendatang Tidak Aktif - Nilai rendah,187.0,2.0,1.84815
+CU1337,Individual,2,Pendatang Aktif - Nilai rendah,37.0,2.0,1.68165
+CU1338,Individual,2,Pendatang Aktif - Nilai rendah,15.0,1.0,3.23565
+CU1339,Individual,3,Reguler Cukup Baru - Nilai menengah,257.0,3.0,6.5268
+CU1340,Individual,3,Reguler Cukup Baru - Nilai menengah,138.0,2.0,8.80785
+CU1341,Individual,0,Pendatang Tidak Aktif - Nilai rendah,562.0,2.0,3.7074
+CU1342,Individual,1,Loyal Aktif - Nilai tinggi,37.0,5.0,16.3503
+CU1343,Individual,0,Pendatang Tidak Aktif - Nilai rendah,487.0,2.0,1.2432
+CU1344,Individual,3,Reguler Cukup Baru - Nilai menengah,147.0,2.0,5.72205
+CU1345,Individual,3,Reguler Cukup Baru - Nilai menengah,313.0,4.0,10.15095
+CU1346,Individual,0,Pendatang Tidak Aktif - Nilai rendah,649.0,1.0,0.4884
+CU1347,Individual,1,Loyal Aktif - Nilai tinggi,58.0,6.0,11.1111
+CU1348,Individual,3,Reguler Cukup Baru - Nilai menengah,206.0,4.0,10.27305
+CU1349,Individual,0,Pendatang Tidak Aktif - Nilai rendah,488.0,1.0,0.91575
+CU1350,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,4.0,8.0808
+CU1351,Individual,3,Reguler Cukup Baru - Nilai menengah,161.0,2.0,5.5833
+CU1352,Individual,3,Reguler Cukup Baru - Nilai menengah,286.0,3.0,2.5419
+CU1353,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,3.0,4.9395
+CU1354,Individual,3,Reguler Cukup Baru - Nilai menengah,122.0,2.0,5.73315
+CU1355,Individual,0,Pendatang Tidak Aktif - Nilai rendah,433.0,2.0,1.6983
+CU1356,Individual,0,Pendatang Tidak Aktif - Nilai rendah,500.0,1.0,0.5883
+CU1357,Individual,3,Reguler Cukup Baru - Nilai menengah,239.0,3.0,7.08735
+CU1358,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,2.0,4.81185
+CU1359,Individual,3,Reguler Cukup Baru - Nilai menengah,99.0,2.0,7.8255
+CU1360,Individual,3,Reguler Cukup Baru - Nilai menengah,272.0,4.0,9.68475
+CU1361,Individual,0,Pendatang Tidak Aktif - Nilai rendah,494.0,1.0,0.3774
+CU1362,Individual,3,Reguler Cukup Baru - Nilai menengah,253.0,2.0,5.38905
+CU1363,Individual,3,Reguler Cukup Baru - Nilai menengah,355.0,3.0,4.51215
+CU1364,Individual,0,Pendatang Tidak Aktif - Nilai rendah,580.0,1.0,0.93795
+CU1365,Individual,1,Loyal Aktif - Nilai tinggi,14.0,7.0,13.95825
+CU1366,Individual,2,Pendatang Aktif - Nilai rendah,95.0,1.0,0.80475
+CU1367,Individual,1,Loyal Aktif - Nilai tinggi,13.0,6.0,11.16105
+CU1368,Individual,3,Reguler Cukup Baru - Nilai menengah,182.0,3.0,16.05615
+CU1369,Individual,0,Pendatang Tidak Aktif - Nilai rendah,458.0,1.0,2.88045
+CU1370,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,5.0,10.4895
+CU1371,Individual,1,Loyal Aktif - Nilai tinggi,46.0,5.0,14.23575
+CU1372,Individual,0,Pendatang Tidak Aktif - Nilai rendah,674.0,1.0,3.12465
+CU1373,Individual,1,Loyal Aktif - Nilai tinggi,75.0,6.0,15.81195
+CU1374,Individual,1,Loyal Aktif - Nilai tinggi,16.0,6.0,13.7529
+CU1375,Individual,0,Pendatang Tidak Aktif - Nilai rendah,218.0,2.0,3.1413
+CU1376,Individual,3,Reguler Cukup Baru - Nilai menengah,242.0,3.0,4.2735
+CU1377,Individual,0,Pendatang Tidak Aktif - Nilai rendah,685.0,1.0,3.9516
+CU1378,Individual,0,Pendatang Tidak Aktif - Nilai rendah,347.0,2.0,1.71495
+CU1379,Individual,3,Reguler Cukup Baru - Nilai menengah,233.0,3.0,6.0162
+CU1380,Individual,1,Loyal Aktif - Nilai tinggi,52.0,5.0,12.08235
+CU1381,Individual,3,Reguler Cukup Baru - Nilai menengah,347.0,3.0,3.8073
+CU1382,Individual,3,Reguler Cukup Baru - Nilai menengah,141.0,2.0,11.322
+CU1383,Individual,3,Reguler Cukup Baru - Nilai menengah,236.0,3.0,4.42335
+CU1384,Individual,0,Pendatang Tidak Aktif - Nilai rendah,626.0,1.0,1.27095
+CU1385,Individual,0,Pendatang Tidak Aktif - Nilai rendah,342.0,1.0,2.23665
+CU1386,Individual,3,Reguler Cukup Baru - Nilai menengah,145.0,3.0,10.28415
+CU1387,Individual,3,Reguler Cukup Baru - Nilai menengah,277.0,4.0,9.27405
+CU1388,Individual,2,Pendatang Aktif - Nilai rendah,87.0,1.0,2.5086
+CU1389,Individual,0,Pendatang Tidak Aktif - Nilai rendah,590.0,1.0,0.6882
+CU1390,Individual,3,Reguler Cukup Baru - Nilai menengah,234.0,4.0,4.7286
+CU1391,Individual,0,Pendatang Tidak Aktif - Nilai rendah,581.0,1.0,2.66955
+CU1392,Individual,3,Reguler Cukup Baru - Nilai menengah,165.0,4.0,13.5753
+CU1393,Individual,3,Reguler Cukup Baru - Nilai menengah,180.0,3.0,8.84115
+CU1394,Individual,0,Pendatang Tidak Aktif - Nilai rendah,572.0,1.0,1.4541
+CU1395,Individual,2,Pendatang Aktif - Nilai rendah,51.0,1.0,0.8547
+CU1396,Individual,0,Pendatang Tidak Aktif - Nilai rendah,572.0,1.0,1.78155
+CU1397,Individual,3,Reguler Cukup Baru - Nilai menengah,147.0,2.0,5.47785
+CU1398,Individual,1,Loyal Aktif - Nilai tinggi,71.0,7.0,13.9416
+CU1399,Individual,1,Loyal Aktif - Nilai tinggi,70.0,6.0,11.20545
+CU1400,Individual,3,Reguler Cukup Baru - Nilai menengah,177.0,3.0,8.64135
+CU1401,Individual,3,Reguler Cukup Baru - Nilai menengah,156.0,3.0,9.30735
+CU1402,Individual,0,Pendatang Tidak Aktif - Nilai rendah,495.0,1.0,0.3774
+CU1403,Individual,3,Reguler Cukup Baru - Nilai menengah,255.0,3.0,2.53635
+CU1404,Individual,0,Pendatang Tidak Aktif - Nilai rendah,438.0,1.0,3.79065
+CU1405,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,2.0,4.16805
+CU1406,Individual,3,Reguler Cukup Baru - Nilai menengah,102.0,3.0,9.74025
+CU1407,Individual,0,Pendatang Tidak Aktif - Nilai rendah,558.0,2.0,3.3633
+CU1408,Individual,0,Pendatang Tidak Aktif - Nilai rendah,685.0,1.0,1.15995
+CU1409,Individual,1,Loyal Aktif - Nilai tinggi,53.0,6.0,8.7801
+CU1410,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1411,Individual,0,Pendatang Tidak Aktif - Nilai rendah,669.0,1.0,0.7992
+CU1412,Individual,3,Reguler Cukup Baru - Nilai menengah,137.0,2.0,6.1383
+CU1413,Individual,3,Reguler Cukup Baru - Nilai menengah,171.0,4.0,14.97945
+CU1414,Individual,1,Loyal Aktif - Nilai tinggi,58.0,5.0,14.5188
+CU1415,Individual,3,Reguler Cukup Baru - Nilai menengah,316.0,3.0,5.772
+CU1416,Individual,3,Reguler Cukup Baru - Nilai menengah,259.0,2.0,4.17915
+CU1417,Individual,2,Pendatang Aktif - Nilai rendah,56.0,1.0,2.886
+CU1418,Individual,1,Loyal Aktif - Nilai tinggi,109.0,4.0,12.28215
+CU1419,Individual,1,Loyal Aktif - Nilai tinggi,48.0,3.0,10.10655
+CU1420,Individual,2,Pendatang Aktif - Nilai rendah,42.0,2.0,4.0071
+CU1421,Individual,2,Pendatang Aktif - Nilai rendah,77.0,1.0,2.96925
+CU1422,Individual,1,Loyal Aktif - Nilai tinggi,42.0,6.0,12.29325
+CU1423,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,2.0,5.33355
+CU1424,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,3.0,2.65845
+CU1425,Individual,0,Pendatang Tidak Aktif - Nilai rendah,435.0,2.0,1.8537
+CU1426,Individual,3,Reguler Cukup Baru - Nilai menengah,189.0,3.0,3.5853
+CU1427,Individual,3,Reguler Cukup Baru - Nilai menengah,245.0,3.0,6.3603
+CU1428,Individual,0,Pendatang Tidak Aktif - Nilai rendah,620.0,1.0,2.44755
+CU1429,Individual,0,Pendatang Tidak Aktif - Nilai rendah,335.0,2.0,2.14785
+CU1430,Individual,2,Pendatang Aktif - Nilai rendah,87.0,1.0,2.68065
+CU1431,Individual,3,Reguler Cukup Baru - Nilai menengah,145.0,3.0,17.65455
+CU1432,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,3.0,3.67965
+CU1433,Individual,0,Pendatang Tidak Aktif - Nilai rendah,522.0,1.0,1.9758
+CU1434,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,3.0,4.46775
+CU1435,Individual,0,Pendatang Tidak Aktif - Nilai rendah,470.0,1.0,2.28105
+CU1436,Individual,0,Pendatang Tidak Aktif - Nilai rendah,536.0,1.0,0.4773
+CU1437,Individual,1,Loyal Aktif - Nilai tinggi,38.0,5.0,9.70695
+CU1438,Individual,2,Pendatang Aktif - Nilai rendah,53.0,2.0,2.07015
+CU1439,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,3.0,5.58885
+CU1440,Individual,3,Reguler Cukup Baru - Nilai menengah,344.0,3.0,5.57775
+CU1441,Individual,0,Pendatang Tidak Aktif - Nilai rendah,469.0,2.0,3.46875
+CU1442,Individual,3,Reguler Cukup Baru - Nilai menengah,340.0,4.0,10.3008
+CU1443,Individual,3,Reguler Cukup Baru - Nilai menengah,363.0,3.0,7.3482
+CU1444,Individual,1,Loyal Aktif - Nilai tinggi,61.0,5.0,15.87855
+CU1445,Individual,2,Pendatang Aktif - Nilai rendah,55.0,1.0,0.51615
+CU1446,Individual,0,Pendatang Tidak Aktif - Nilai rendah,528.0,1.0,1.0656
+CU1447,Individual,2,Pendatang Aktif - Nilai rendah,18.0,1.0,0.7548
+CU1448,Individual,3,Reguler Cukup Baru - Nilai menengah,222.0,4.0,6.8598
+CU1449,Individual,0,Pendatang Tidak Aktif - Nilai rendah,182.0,1.0,5.14485
+CU1450,Individual,3,Reguler Cukup Baru - Nilai menengah,313.0,3.0,6.21045
+CU1451,Individual,1,Loyal Aktif - Nilai tinggi,18.0,5.0,14.3523
+CU1452,Individual,2,Pendatang Aktif - Nilai rendah,35.0,1.0,3.7851
+CU1453,Individual,2,Pendatang Aktif - Nilai rendah,83.0,2.0,0.777
+CU1454,Individual,3,Reguler Cukup Baru - Nilai menengah,116.0,2.0,7.78665
+CU1455,Individual,3,Reguler Cukup Baru - Nilai menengah,80.0,5.0,5.14485
+CU1456,Individual,3,Reguler Cukup Baru - Nilai menengah,309.0,3.0,5.73315
+CU1457,Individual,1,Loyal Aktif - Nilai tinggi,22.0,5.0,7.8588
+CU1458,Individual,3,Reguler Cukup Baru - Nilai menengah,218.0,3.0,4.2513
+CU1459,Individual,0,Pendatang Tidak Aktif - Nilai rendah,653.0,1.0,5.0172
+CU1460,Individual,1,Loyal Aktif - Nilai tinggi,33.0,8.0,14.4633
+CU1461,Individual,0,Pendatang Tidak Aktif - Nilai rendah,662.0,1.0,0.77145
+CU1462,Individual,3,Reguler Cukup Baru - Nilai menengah,142.0,4.0,12.2655
+CU1463,Individual,3,Reguler Cukup Baru - Nilai menengah,124.0,3.0,18.2484
+CU1464,Individual,0,Pendatang Tidak Aktif - Nilai rendah,684.0,1.0,3.2412
+CU1465,Individual,3,Reguler Cukup Baru - Nilai menengah,253.0,3.0,6.2715
+CU1466,Individual,3,Reguler Cukup Baru - Nilai menengah,597.0,2.0,5.3613
+CU1467,Individual,0,Pendatang Tidak Aktif - Nilai rendah,449.0,1.0,1.59285
+CU1468,Individual,1,Loyal Aktif - Nilai tinggi,9.0,5.0,12.6429
+CU1469,Individual,2,Pendatang Aktif - Nilai rendah,18.0,2.0,1.78155
+CU1470,Individual,0,Pendatang Tidak Aktif - Nilai rendah,514.0,2.0,1.3209
+CU1471,Individual,2,Pendatang Aktif - Nilai rendah,82.0,1.0,0.9213
+CU1472,Individual,3,Reguler Cukup Baru - Nilai menengah,88.0,2.0,6.82095
+CU1473,Individual,0,Pendatang Tidak Aktif - Nilai rendah,564.0,1.0,3.71295
+CU1474,Individual,2,Pendatang Aktif - Nilai rendah,35.0,1.0,2.775
+CU1475,Individual,3,Reguler Cukup Baru - Nilai menengah,321.0,4.0,6.1494
+CU1476,Individual,0,Pendatang Tidak Aktif - Nilai rendah,437.0,2.0,3.23565
+CU1477,Individual,3,Reguler Cukup Baru - Nilai menengah,351.0,3.0,5.9052
+CU1478,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1479,Individual,3,Reguler Cukup Baru - Nilai menengah,174.0,3.0,8.9355
+CU1480,Individual,2,Pendatang Aktif - Nilai rendah,45.0,2.0,1.21545
+CU1481,Individual,1,Loyal Aktif - Nilai tinggi,48.0,6.0,9.0909
+CU1482,Individual,3,Reguler Cukup Baru - Nilai menengah,243.0,3.0,7.52025
+CU1483,Individual,0,Pendatang Tidak Aktif - Nilai rendah,248.0,1.0,1.1433
+CU1484,Individual,0,Pendatang Tidak Aktif - Nilai rendah,671.0,1.0,3.3744
+CU1485,Individual,0,Pendatang Tidak Aktif - Nilai rendah,665.0,1.0,2.8749
+CU1486,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,4.0,10.50615
+CU1487,Individual,0,Pendatang Tidak Aktif - Nilai rendah,559.0,2.0,3.7296
+CU1488,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,3.0,7.1817
+CU1489,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,3.0,8.01975
+CU1490,Individual,0,Pendatang Tidak Aktif - Nilai rendah,574.0,1.0,0.42735
+CU1491,Individual,2,Pendatang Aktif - Nilai rendah,76.0,2.0,1.5096
+CU1492,Individual,2,Pendatang Aktif - Nilai rendah,8.0,1.0,2.96925
+CU1493,Individual,0,Pendatang Tidak Aktif - Nilai rendah,600.0,1.0,0.71595
+CU1494,Individual,2,Pendatang Aktif - Nilai rendah,51.0,1.0,1.5318
+CU1495,Individual,0,Pendatang Tidak Aktif - Nilai rendah,578.0,2.0,2.3643
+CU1496,Individual,3,Reguler Cukup Baru - Nilai menengah,291.0,3.0,2.82495
+CU1497,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,4.0,10.07325
+CU1498,Individual,3,Reguler Cukup Baru - Nilai menengah,268.0,3.0,4.3401
+CU1499,Individual,3,Reguler Cukup Baru - Nilai menengah,213.0,4.0,5.12265
+CU1500,Individual,1,Loyal Aktif - Nilai tinggi,14.0,5.0,10.49505
+CU1501,Individual,3,Reguler Cukup Baru - Nilai menengah,61.0,2.0,5.69985
+CU1502,Individual,0,Pendatang Tidak Aktif - Nilai rendah,472.0,2.0,3.79065
+CU1503,Individual,0,Pendatang Tidak Aktif - Nilai rendah,301.0,2.0,2.11455
+CU1504,Individual,0,Pendatang Tidak Aktif - Nilai rendah,478.0,2.0,1.45965
+CU1505,Individual,0,Pendatang Tidak Aktif - Nilai rendah,525.0,1.0,1.0323
+CU1506,Individual,0,Pendatang Tidak Aktif - Nilai rendah,558.0,2.0,3.7629
+CU1507,Individual,3,Reguler Cukup Baru - Nilai menengah,185.0,3.0,8.5248
+CU1508,Individual,1,Loyal Aktif - Nilai tinggi,6.0,5.0,8.8134
+CU1509,Individual,0,Pendatang Tidak Aktif - Nilai rendah,232.0,1.0,1.0767
+CU1510,Individual,3,Reguler Cukup Baru - Nilai menengah,97.0,2.0,6.54345
+CU1511,Individual,0,Pendatang Tidak Aktif - Nilai rendah,281.0,1.0,2.02575
+CU1512,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,4.0,9.3906
+CU1513,Individual,3,Reguler Cukup Baru - Nilai menengah,228.0,3.0,2.9637
+CU1514,Individual,0,Pendatang Tidak Aktif - Nilai rendah,577.0,2.0,1.64835
+CU1515,Individual,3,Reguler Cukup Baru - Nilai menengah,114.0,2.0,6.7821
+CU1516,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,3.0,2.98035
+CU1517,Individual,0,Pendatang Tidak Aktif - Nilai rendah,272.0,2.0,2.8083
+CU1518,Individual,3,Reguler Cukup Baru - Nilai menengah,291.0,3.0,3.80175
+CU1519,Individual,3,Reguler Cukup Baru - Nilai menengah,227.0,2.0,4.773
+CU1520,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,4.0,9.87345
+CU1521,Individual,3,Reguler Cukup Baru - Nilai menengah,249.0,3.0,6.771
+CU1522,Individual,2,Pendatang Aktif - Nilai rendah,52.0,1.0,1.6539
+CU1523,Individual,0,Pendatang Tidak Aktif - Nilai rendah,428.0,1.0,1.0101
+CU1524,Individual,2,Pendatang Aktif - Nilai rendah,64.0,1.0,0.86025
+CU1525,Individual,1,Loyal Aktif - Nilai tinggi,5.0,5.0,8.86335
+CU1526,Individual,0,Pendatang Tidak Aktif - Nilai rendah,223.0,2.0,2.33655
+CU1527,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,4.0,8.4804
+CU1528,Individual,3,Reguler Cukup Baru - Nilai menengah,226.0,4.0,4.35675
+CU1529,Individual,3,Reguler Cukup Baru - Nilai menengah,265.0,2.0,4.1847
+CU1530,Individual,3,Reguler Cukup Baru - Nilai menengah,512.0,3.0,4.9839
+CU1531,Individual,1,Loyal Aktif - Nilai tinggi,71.0,6.0,19.6914
+CU1532,Individual,2,Pendatang Aktif - Nilai rendah,11.0,1.0,3.5298
+CU1533,Individual,3,Reguler Cukup Baru - Nilai menengah,89.0,2.0,5.81085
+CU1534,Individual,3,Reguler Cukup Baru - Nilai menengah,344.0,3.0,6.47685
+CU1535,Individual,0,Pendatang Tidak Aktif - Nilai rendah,575.0,2.0,1.7982
+CU1536,Individual,0,Pendatang Tidak Aktif - Nilai rendah,230.0,1.0,0.6771
+CU1537,Individual,3,Reguler Cukup Baru - Nilai menengah,93.0,3.0,9.1686
+CU1538,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,6.32145
+CU1539,Individual,1,Loyal Aktif - Nilai tinggi,91.0,4.0,15.0849
+CU1540,Individual,2,Pendatang Aktif - Nilai rendah,18.0,2.0,5.05605
+CU1541,Individual,2,Pendatang Aktif - Nilai rendah,40.0,1.0,0.999
+CU1542,Individual,3,Reguler Cukup Baru - Nilai menengah,277.0,3.0,6.0162
+CU1543,Individual,2,Pendatang Aktif - Nilai rendah,71.0,1.0,0.9657
+CU1544,Individual,3,Reguler Cukup Baru - Nilai menengah,329.0,3.0,7.0263
+CU1545,Individual,3,Reguler Cukup Baru - Nilai menengah,100.0,4.0,6.16605
+CU1546,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,3.0,2.1534
+CU1547,Individual,1,Loyal Aktif - Nilai tinggi,18.0,5.0,10.3674
+CU1548,Individual,3,Reguler Cukup Baru - Nilai menengah,217.0,4.0,6.42135
+CU1549,Individual,3,Reguler Cukup Baru - Nilai menengah,135.0,3.0,9.25185
+CU1550,Individual,3,Reguler Cukup Baru - Nilai menengah,311.0,3.0,4.4289
+CU1551,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1552,Individual,1,Loyal Aktif - Nilai tinggi,54.0,5.0,22.9437
+CU1553,Individual,1,Loyal Aktif - Nilai tinggi,17.0,5.0,14.20245
+CU1554,Individual,0,Pendatang Tidak Aktif - Nilai rendah,594.0,1.0,0.39405
+CU1555,Individual,3,Reguler Cukup Baru - Nilai menengah,71.0,3.0,10.47285
+CU1556,Individual,3,Reguler Cukup Baru - Nilai menengah,268.0,3.0,4.80075
+CU1557,Individual,3,Reguler Cukup Baru - Nilai menengah,209.0,3.0,6.33255
+CU1558,Individual,0,Pendatang Tidak Aktif - Nilai rendah,449.0,1.0,2.68065
+CU1559,Individual,3,Reguler Cukup Baru - Nilai menengah,80.0,2.0,9.8568
+CU1560,Individual,0,Pendatang Tidak Aktif - Nilai rendah,567.0,2.0,2.2866
+CU1561,Individual,3,Reguler Cukup Baru - Nilai menengah,287.0,5.0,12.2433
+CU1562,Individual,0,Pendatang Tidak Aktif - Nilai rendah,648.0,2.0,5.33355
+CU1563,Individual,3,Reguler Cukup Baru - Nilai menengah,174.0,3.0,8.9577
+CU1564,Individual,0,Pendatang Tidak Aktif - Nilai rendah,454.0,2.0,1.68165
+CU1565,Individual,3,Reguler Cukup Baru - Nilai menengah,238.0,4.0,10.21755
+CU1566,Individual,2,Pendatang Aktif - Nilai rendah,82.0,1.0,0.9102
+CU1567,Individual,0,Pendatang Tidak Aktif - Nilai rendah,647.0,2.0,3.6075
+CU1568,Individual,0,Pendatang Tidak Aktif - Nilai rendah,575.0,1.0,2.63625
+CU1569,Individual,1,Loyal Aktif - Nilai tinggi,59.0,4.0,10.10655
+CU1570,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,5.7609
+CU1571,Individual,2,Pendatang Aktif - Nilai rendah,9.0,2.0,4.7064
+CU1572,Individual,0,Pendatang Tidak Aktif - Nilai rendah,474.0,2.0,1.88145
+CU1573,Individual,0,Pendatang Tidak Aktif - Nilai rendah,459.0,2.0,4.4733
+CU1574,Individual,0,Pendatang Tidak Aktif - Nilai rendah,487.0,1.0,5.0616
+CU1575,Individual,3,Reguler Cukup Baru - Nilai menengah,214.0,3.0,7.39815
+CU1576,Individual,1,Loyal Aktif - Nilai tinggi,33.0,3.0,6.06615
+CU1577,Individual,0,Pendatang Tidak Aktif - Nilai rendah,651.0,1.0,1.74825
+CU1578,Individual,0,Pendatang Tidak Aktif - Nilai rendah,212.0,3.0,1.2099
+CU1579,Individual,0,Pendatang Tidak Aktif - Nilai rendah,695.0,1.0,2.7972
+CU1580,Individual,0,Pendatang Tidak Aktif - Nilai rendah,619.0,1.0,3.15795
+CU1581,Individual,0,Pendatang Tidak Aktif - Nilai rendah,452.0,2.0,2.9859
+CU1582,Individual,0,Pendatang Tidak Aktif - Nilai rendah,308.0,2.0,3.2079
+CU1583,Individual,0,Pendatang Tidak Aktif - Nilai rendah,563.0,1.0,1.3764
+CU1584,Individual,3,Reguler Cukup Baru - Nilai menengah,124.0,3.0,8.6691
+CU1585,Individual,3,Reguler Cukup Baru - Nilai menengah,305.0,3.0,7.8588
+CU1586,Individual,0,Pendatang Tidak Aktif - Nilai rendah,272.0,2.0,2.2311
+CU1587,Individual,3,Reguler Cukup Baru - Nilai menengah,269.0,3.0,5.4057
+CU1588,Individual,1,Loyal Aktif - Nilai tinggi,43.0,9.0,19.4472
+CU1589,Individual,2,Pendatang Aktif - Nilai rendah,73.0,1.0,2.74725
+CU1590,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1591,Individual,2,Pendatang Aktif - Nilai rendah,86.0,1.0,4.7841
+CU1592,Individual,3,Reguler Cukup Baru - Nilai menengah,118.0,2.0,5.76645
+CU1593,Individual,3,Reguler Cukup Baru - Nilai menengah,308.0,3.0,5.27805
+CU1594,Individual,3,Reguler Cukup Baru - Nilai menengah,178.0,3.0,9.54045
+CU1595,Individual,2,Pendatang Aktif - Nilai rendah,44.0,1.0,2.997
+CU1596,Individual,3,Reguler Cukup Baru - Nilai menengah,242.0,3.0,6.1827
+CU1597,Individual,0,Pendatang Tidak Aktif - Nilai rendah,527.0,2.0,3.552
+CU1598,Individual,3,Reguler Cukup Baru - Nilai menengah,314.0,3.0,5.883
+CU1599,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,3.0,2.775
+CU1600,Individual,3,Reguler Cukup Baru - Nilai menengah,100.0,3.0,12.42645
+CU1601,Individual,3,Reguler Cukup Baru - Nilai menengah,72.0,5.0,3.8961
+CU1602,Individual,3,Reguler Cukup Baru - Nilai menengah,348.0,3.0,5.0727
+CU1603,Individual,2,Pendatang Aktif - Nilai rendah,81.0,1.0,0.7326
+CU1604,Individual,0,Pendatang Tidak Aktif - Nilai rendah,451.0,1.0,0.50505
+CU1605,Individual,3,Reguler Cukup Baru - Nilai menengah,212.0,4.0,7.38705
+CU1606,Individual,1,Loyal Aktif - Nilai tinggi,10.0,7.0,10.5339
+CU1607,Individual,3,Reguler Cukup Baru - Nilai menengah,256.0,4.0,8.214
+CU1608,Individual,1,Loyal Aktif - Nilai tinggi,53.0,5.0,10.73925
+CU1609,Individual,3,Reguler Cukup Baru - Nilai menengah,173.0,3.0,8.91885
+CU1610,Individual,3,Reguler Cukup Baru - Nilai menengah,251.0,3.0,7.29825
+CU1611,Individual,0,Pendatang Tidak Aktif - Nilai rendah,192.0,2.0,1.94805
+CU1612,Individual,3,Reguler Cukup Baru - Nilai menengah,221.0,3.0,5.00055
+CU1613,Individual,2,Pendatang Aktif - Nilai rendah,49.0,1.0,0.8547
+CU1614,Individual,2,Pendatang Aktif - Nilai rendah,9.0,2.0,4.3956
+CU1615,Individual,1,Loyal Aktif - Nilai tinggi,34.0,3.0,12.0435
+CU1616,Individual,3,Reguler Cukup Baru - Nilai menengah,274.0,3.0,8.0808
+CU1617,Individual,1,Loyal Aktif - Nilai tinggi,25.0,7.0,16.47795
+CU1618,Individual,3,Reguler Cukup Baru - Nilai menengah,318.0,3.0,7.9143
+CU1619,Individual,0,Pendatang Tidak Aktif - Nilai rendah,333.0,1.0,1.1322
+CU1620,Individual,3,Reguler Cukup Baru - Nilai menengah,278.0,3.0,5.84415
+CU1621,Individual,2,Pendatang Aktif - Nilai rendah,3.0,2.0,2.93595
+CU1622,Individual,3,Reguler Cukup Baru - Nilai menengah,179.0,3.0,14.6964
+CU1623,Individual,0,Pendatang Tidak Aktif - Nilai rendah,650.0,1.0,4.0293
+CU1624,Individual,3,Reguler Cukup Baru - Nilai menengah,291.0,2.0,4.41225
+CU1625,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,4.0,9.1797
+CU1626,Individual,1,Loyal Aktif - Nilai tinggi,70.0,5.0,11.3886
+CU1627,Individual,3,Reguler Cukup Baru - Nilai menengah,257.0,4.0,10.1454
+CU1628,Individual,3,Reguler Cukup Baru - Nilai menengah,309.0,4.0,6.79875
+CU1629,Individual,0,Pendatang Tidak Aktif - Nilai rendah,570.0,2.0,2.84715
+CU1630,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,4.0,8.16405
+CU1631,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,4.0,8.1363
+CU1632,Individual,3,Reguler Cukup Baru - Nilai menengah,271.0,4.0,10.2342
+CU1633,Individual,0,Pendatang Tidak Aktif - Nilai rendah,236.0,2.0,2.71395
+CU1634,Individual,2,Pendatang Aktif - Nilai rendah,58.0,1.0,2.82495
+CU1635,Individual,0,Pendatang Tidak Aktif - Nilai rendah,632.0,1.0,0.888
+CU1636,Individual,0,Pendatang Tidak Aktif - Nilai rendah,559.0,1.0,2.9637
+CU1637,Individual,3,Reguler Cukup Baru - Nilai menengah,242.0,4.0,9.38505
+CU1638,Individual,0,Pendatang Tidak Aktif - Nilai rendah,483.0,2.0,3.6297
+CU1639,Individual,3,Reguler Cukup Baru - Nilai menengah,74.0,2.0,5.8386
+CU1640,Individual,0,Pendatang Tidak Aktif - Nilai rendah,654.0,1.0,3.5742
+CU1641,Individual,1,Loyal Aktif - Nilai tinggi,57.0,5.0,9.11865
+CU1642,Individual,3,Reguler Cukup Baru - Nilai menengah,361.0,3.0,4.14585
+CU1643,Individual,3,Reguler Cukup Baru - Nilai menengah,230.0,3.0,4.329
+CU1644,Individual,0,Pendatang Tidak Aktif - Nilai rendah,263.0,2.0,1.7982
+CU1645,Individual,0,Pendatang Tidak Aktif - Nilai rendah,304.0,2.0,3.26895
+CU1646,Individual,3,Reguler Cukup Baru - Nilai menengah,190.0,4.0,7.39815
+CU1647,Individual,3,Reguler Cukup Baru - Nilai menengah,104.0,3.0,8.4249
+CU1648,Individual,2,Pendatang Aktif - Nilai rendah,5.0,2.0,2.4975
+CU1649,Individual,0,Pendatang Tidak Aktif - Nilai rendah,630.0,2.0,4.995
+CU1650,Individual,0,Pendatang Tidak Aktif - Nilai rendah,332.0,2.0,2.34765
+CU1651,Individual,0,Pendatang Tidak Aktif - Nilai rendah,256.0,2.0,2.0424
+CU1652,Individual,3,Reguler Cukup Baru - Nilai menengah,103.0,2.0,6.9042
+CU1653,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,4.0,10.1565
+CU1654,Individual,3,Reguler Cukup Baru - Nilai menengah,186.0,2.0,6.993
+CU1655,Individual,3,Reguler Cukup Baru - Nilai menengah,264.0,3.0,5.8497
+CU1656,Individual,3,Reguler Cukup Baru - Nilai menengah,287.0,2.0,5.0394
+CU1657,Individual,0,Pendatang Tidak Aktif - Nilai rendah,484.0,2.0,3.80175
+CU1658,Individual,0,Pendatang Tidak Aktif - Nilai rendah,646.0,1.0,2.0757
+CU1659,Individual,3,Reguler Cukup Baru - Nilai menengah,267.0,3.0,5.6832
+CU1660,Individual,3,Reguler Cukup Baru - Nilai menengah,229.0,2.0,5.4945
+CU1661,Individual,0,Pendatang Tidak Aktif - Nilai rendah,612.0,2.0,3.21345
+CU1662,Individual,2,Pendatang Aktif - Nilai rendah,10.0,1.0,4.97835
+CU1663,Individual,1,Loyal Aktif - Nilai tinggi,15.0,5.0,12.59295
+CU1664,Individual,3,Reguler Cukup Baru - Nilai menengah,128.0,3.0,8.5803
+CU1665,Individual,2,Pendatang Aktif - Nilai rendah,92.0,1.0,1.00455
+CU1666,Individual,2,Pendatang Aktif - Nilai rendah,82.0,1.0,3.53535
+CU1667,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,3.0,4.55655
+CU1668,Individual,3,Reguler Cukup Baru - Nilai menengah,236.0,3.0,3.2079
+CU1669,Individual,3,Reguler Cukup Baru - Nilai menengah,168.0,2.0,6.4602
+CU1670,Individual,2,Pendatang Aktif - Nilai rendah,40.0,2.0,4.3623
+CU1671,Individual,0,Pendatang Tidak Aktif - Nilai rendah,654.0,1.0,1.1988
+CU1672,Individual,1,Loyal Aktif - Nilai tinggi,60.0,8.0,24.95835
+CU1673,Individual,1,Loyal Aktif - Nilai tinggi,4.0,6.0,14.79075
+CU1674,Individual,0,Pendatang Tidak Aktif - Nilai rendah,453.0,2.0,0.87135
+CU1675,Individual,0,Pendatang Tidak Aktif - Nilai rendah,214.0,2.0,2.08125
+CU1676,Individual,2,Pendatang Aktif - Nilai rendah,22.0,2.0,1.67055
+CU1677,Individual,1,Loyal Aktif - Nilai tinggi,23.0,6.0,5.13375
+CU1678,Individual,1,Loyal Aktif - Nilai tinggi,16.0,6.0,29.4705
+CU1679,Individual,3,Reguler Cukup Baru - Nilai menengah,184.0,2.0,5.2614
+CU1680,Individual,3,Reguler Cukup Baru - Nilai menengah,187.0,3.0,4.6176
+CU1681,Individual,0,Pendatang Tidak Aktif - Nilai rendah,265.0,2.0,3.2634
+CU1682,Individual,3,Reguler Cukup Baru - Nilai menengah,247.0,4.0,7.1928
+CU1683,Individual,1,Loyal Aktif - Nilai tinggi,67.0,7.0,15.61215
+CU1684,Individual,3,Reguler Cukup Baru - Nilai menengah,103.0,2.0,6.93195
+CU1685,Individual,0,Pendatang Tidak Aktif - Nilai rendah,349.0,3.0,2.2866
+CU1686,Individual,3,Reguler Cukup Baru - Nilai menengah,110.0,5.0,6.882
+CU1687,Individual,3,Reguler Cukup Baru - Nilai menengah,284.0,2.0,4.6842
+CU1688,Individual,3,Reguler Cukup Baru - Nilai menengah,233.0,3.0,3.1857
+CU1689,Individual,3,Reguler Cukup Baru - Nilai menengah,95.0,2.0,9.8901
+CU1690,Individual,3,Reguler Cukup Baru - Nilai menengah,584.0,3.0,6.3159
+CU1691,Individual,3,Reguler Cukup Baru - Nilai menengah,210.0,4.0,10.62825
+CU1692,Individual,0,Pendatang Tidak Aktif - Nilai rendah,512.0,2.0,2.0091
+CU1693,Individual,1,Loyal Aktif - Nilai tinggi,27.0,4.0,9.0909
+CU1694,Individual,2,Pendatang Aktif - Nilai rendah,46.0,2.0,5.7276
+CU1695,Individual,3,Reguler Cukup Baru - Nilai menengah,241.0,3.0,5.0727
+CU1696,Individual,3,Reguler Cukup Baru - Nilai menengah,115.0,2.0,6.1494
+CU1697,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,3.0,8.16405
+CU1698,Individual,3,Reguler Cukup Baru - Nilai menengah,330.0,3.0,6.58785
+CU1699,Individual,0,Pendatang Tidak Aktif - Nilai rendah,463.0,2.0,4.0959
+CU1700,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,3.0,5.6055
+CU1701,Individual,2,Pendatang Aktif - Nilai rendah,52.0,1.0,0.9213
+CU1702,Individual,3,Reguler Cukup Baru - Nilai menengah,254.0,4.0,2.7861
+CU1703,Individual,3,Reguler Cukup Baru - Nilai menengah,298.0,3.0,2.6529
+CU1704,Individual,1,Loyal Aktif - Nilai tinggi,68.0,5.0,15.82305
+CU1705,Individual,1,Loyal Aktif - Nilai tinggi,161.0,5.0,15.3846
+CU1706,Individual,3,Reguler Cukup Baru - Nilai menengah,296.0,3.0,5.9163
+CU1707,Individual,2,Pendatang Aktif - Nilai rendah,57.0,1.0,1.5429
+CU1708,Individual,3,Reguler Cukup Baru - Nilai menengah,135.0,2.0,5.6055
+CU1709,Individual,0,Pendatang Tidak Aktif - Nilai rendah,684.0,1.0,0.47175
+CU1710,Individual,3,Reguler Cukup Baru - Nilai menengah,223.0,3.0,5.47785
+CU1711,Individual,0,Pendatang Tidak Aktif - Nilai rendah,523.0,2.0,4.4511
+CU1712,Individual,3,Reguler Cukup Baru - Nilai menengah,230.0,4.0,10.78365
+CU1713,Individual,3,Reguler Cukup Baru - Nilai menengah,237.0,3.0,4.1958
+CU1714,Individual,0,Pendatang Tidak Aktif - Nilai rendah,458.0,1.0,1.2321
+CU1715,Individual,3,Reguler Cukup Baru - Nilai menengah,228.0,5.0,13.2867
+CU1716,Individual,3,Reguler Cukup Baru - Nilai menengah,188.0,4.0,13.9527
+CU1717,Individual,0,Pendatang Tidak Aktif - Nilai rendah,485.0,2.0,4.54545
+CU1718,Individual,0,Pendatang Tidak Aktif - Nilai rendah,554.0,1.0,1.3986
+CU1719,Individual,3,Reguler Cukup Baru - Nilai menengah,193.0,3.0,5.42235
+CU1720,Individual,3,Reguler Cukup Baru - Nilai menengah,237.0,2.0,4.87845
+CU1721,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,2.0,4.04595
+CU1722,Individual,1,Loyal Aktif - Nilai tinggi,229.0,6.0,13.3866
+CU1723,Individual,0,Pendatang Tidak Aktif - Nilai rendah,559.0,1.0,1.0989
+CU1724,Individual,3,Reguler Cukup Baru - Nilai menengah,256.0,3.0,4.2069
+CU1725,Individual,3,Reguler Cukup Baru - Nilai menengah,101.0,3.0,14.03595
+CU1726,Individual,2,Pendatang Aktif - Nilai rendah,7.0,1.0,2.8527
+CU1727,Individual,3,Reguler Cukup Baru - Nilai menengah,102.0,2.0,5.59995
+CU1728,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,5.0,9.6237
+CU1729,Individual,2,Pendatang Aktif - Nilai rendah,10.0,1.0,0.98235
+CU1730,Individual,3,Reguler Cukup Baru - Nilai menengah,228.0,4.0,6.5823
+CU1731,Individual,1,Loyal Aktif - Nilai tinggi,129.0,9.0,30.5805
+CU1732,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1733,Individual,1,Loyal Aktif - Nilai tinggi,49.0,4.0,16.0728
+CU1734,Individual,1,Loyal Aktif - Nilai tinggi,129.0,6.0,13.11465
+CU1735,Individual,3,Reguler Cukup Baru - Nilai menengah,341.0,3.0,7.19835
+CU1736,Individual,1,Loyal Aktif - Nilai tinggi,267.0,6.0,20.3241
+CU1737,Individual,2,Pendatang Aktif - Nilai rendah,92.0,1.0,0.67155
+CU1738,Individual,3,Reguler Cukup Baru - Nilai menengah,88.0,3.0,12.5208
+CU1739,Individual,3,Reguler Cukup Baru - Nilai menengah,259.0,4.0,6.99855
+CU1740,Individual,0,Pendatang Tidak Aktif - Nilai rendah,552.0,1.0,3.3189
+CU1741,Individual,3,Reguler Cukup Baru - Nilai menengah,326.0,4.0,10.1565
+CU1742,Individual,0,Pendatang Tidak Aktif - Nilai rendah,660.0,1.0,3.8295
+CU1743,Individual,3,Reguler Cukup Baru - Nilai menengah,177.0,4.0,17.55465
+CU1744,Individual,2,Pendatang Aktif - Nilai rendah,28.0,2.0,3.15795
+CU1745,Individual,3,Reguler Cukup Baru - Nilai menengah,106.0,2.0,7.16505
+CU1746,Individual,0,Pendatang Tidak Aktif - Nilai rendah,210.0,2.0,2.70285
+CU1747,Individual,1,Loyal Aktif - Nilai tinggi,10.0,9.0,22.29435
+CU1748,Individual,3,Reguler Cukup Baru - Nilai menengah,70.0,2.0,6.5157
+CU1749,Individual,2,Pendatang Aktif - Nilai rendah,88.0,1.0,0.3996
+CU1750,Individual,3,Reguler Cukup Baru - Nilai menengah,287.0,5.0,10.06215
+CU1751,Individual,3,Reguler Cukup Baru - Nilai menengah,48.0,2.0,7.215
+CU1752,Individual,2,Pendatang Aktif - Nilai rendah,85.0,1.0,1.1877
+CU1753,Individual,2,Pendatang Aktif - Nilai rendah,36.0,2.0,5.8275
+CU1754,Individual,3,Reguler Cukup Baru - Nilai menengah,338.0,3.0,2.64735
+CU1755,Individual,3,Reguler Cukup Baru - Nilai menengah,336.0,3.0,2.7417
+CU1756,Individual,0,Pendatang Tidak Aktif - Nilai rendah,568.0,2.0,1.776
+CU1757,Individual,0,Pendatang Tidak Aktif - Nilai rendah,291.0,2.0,3.9183
+CU1758,Individual,1,Loyal Aktif - Nilai tinggi,113.0,5.0,7.93095
+CU1759,Individual,3,Reguler Cukup Baru - Nilai menengah,123.0,3.0,8.38605
+CU1760,Individual,3,Reguler Cukup Baru - Nilai menengah,300.0,3.0,6.90975
+CU1761,Individual,0,Pendatang Tidak Aktif - Nilai rendah,318.0,2.0,0.9657
+CU1762,Individual,0,Pendatang Tidak Aktif - Nilai rendah,637.0,1.0,5.52225
+CU1763,Individual,1,Loyal Aktif - Nilai tinggi,38.0,3.0,11.71605
+CU1764,Individual,0,Pendatang Tidak Aktif - Nilai rendah,696.0,1.0,1.221
+CU1765,Individual,2,Pendatang Aktif - Nilai rendah,86.0,1.0,3.15795
+CU1766,Individual,3,Reguler Cukup Baru - Nilai menengah,304.0,3.0,5.0727
+CU1767,Individual,3,Reguler Cukup Baru - Nilai menengah,344.0,3.0,7.0929
+CU1768,Individual,3,Reguler Cukup Baru - Nilai menengah,238.0,3.0,8.1585
+CU1769,Individual,3,Reguler Cukup Baru - Nilai menengah,204.0,3.0,4.0293
+CU1770,Individual,3,Reguler Cukup Baru - Nilai menengah,324.0,3.0,6.88755
+CU1771,Individual,0,Pendatang Tidak Aktif - Nilai rendah,268.0,2.0,1.22655
+CU1772,Individual,3,Reguler Cukup Baru - Nilai menengah,274.0,4.0,8.0253
+CU1773,Individual,2,Pendatang Aktif - Nilai rendah,7.0,2.0,2.4198
+CU1774,Individual,3,Reguler Cukup Baru - Nilai menengah,204.0,2.0,4.662
+CU1775,Individual,0,Pendatang Tidak Aktif - Nilai rendah,190.0,2.0,1.3431
+CU1776,Individual,0,Pendatang Tidak Aktif - Nilai rendah,681.0,2.0,4.60095
+CU1777,Individual,3,Reguler Cukup Baru - Nilai menengah,220.0,4.0,6.9153
+CU1778,Individual,3,Reguler Cukup Baru - Nilai menengah,192.0,2.0,3.53535
+CU1779,Individual,0,Pendatang Tidak Aktif - Nilai rendah,463.0,1.0,0.4329
+CU1780,Individual,2,Pendatang Aktif - Nilai rendah,83.0,1.0,1.01565
+CU1781,Individual,2,Pendatang Aktif - Nilai rendah,7.0,1.0,2.886
+CU1782,Individual,0,Pendatang Tidak Aktif - Nilai rendah,671.0,1.0,1.7427
+CU1783,Individual,1,Loyal Aktif - Nilai tinggi,179.0,6.0,13.0092
+CU1784,Individual,3,Reguler Cukup Baru - Nilai menengah,155.0,2.0,6.78765
+CU1785,Individual,1,Loyal Aktif - Nilai tinggi,136.0,6.0,22.977
+CU1786,Individual,3,Reguler Cukup Baru - Nilai menengah,119.0,3.0,10.9668
+CU1787,Individual,3,Reguler Cukup Baru - Nilai menengah,60.0,3.0,9.12975
+CU1788,Individual,0,Pendatang Tidak Aktif - Nilai rendah,589.0,1.0,1.7427
+CU1789,Individual,1,Loyal Aktif - Nilai tinggi,105.0,5.0,15.1404
+CU1790,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1791,Individual,1,Loyal Aktif - Nilai tinggi,225.0,5.0,17.82105
+CU1792,Individual,0,Pendatang Tidak Aktif - Nilai rendah,630.0,2.0,0.77145
+CU1793,Individual,3,Reguler Cukup Baru - Nilai menengah,211.0,4.0,6.5268
+CU1794,Individual,3,Reguler Cukup Baru - Nilai menengah,112.0,3.0,8.5026
+CU1795,Individual,3,Reguler Cukup Baru - Nilai menengah,146.0,2.0,7.89765
+CU1796,Individual,3,Reguler Cukup Baru - Nilai menengah,108.0,2.0,5.68875
+CU1797,Individual,3,Reguler Cukup Baru - Nilai menengah,240.0,4.0,5.9718
+CU1798,Individual,3,Reguler Cukup Baru - Nilai menengah,148.0,5.0,9.0909
+CU1799,Individual,0,Pendatang Tidak Aktif - Nilai rendah,471.0,1.0,0.68265
+CU1800,Individual,3,Reguler Cukup Baru - Nilai menengah,135.0,3.0,20.3907
+CU1801,Individual,0,Pendatang Tidak Aktif - Nilai rendah,711.0,1.0,1.70385
+CU1802,Individual,90,Individual tanpa transaksi (aturan),,,
+CU1803,Individual,3,Reguler Cukup Baru - Nilai menengah,215.0,5.0,6.61005
+CU1804,Individual,3,Reguler Cukup Baru - Nilai menengah,106.0,3.0,8.5248
+CU1805,Individual,3,Reguler Cukup Baru - Nilai menengah,143.0,2.0,5.86635
+CU1806,Individual,0,Pendatang Tidak Aktif - Nilai rendah,577.0,2.0,1.4652
+CU1807,Individual,3,Reguler Cukup Baru - Nilai menengah,249.0,5.0,14.7297

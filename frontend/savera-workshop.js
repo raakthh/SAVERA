@@ -128,11 +128,11 @@
           { k: "photos", l: "Photo", f: (r) => { const s = W.sr.find((x) => x.service_request_id === r.id), p = s && s.photos && s.photos[0]; return p ? `<img class="sv-mini" src="${p}" alt="Foto ${esc(r.id)}"><span style="font-size:11px;color:var(--ink-500);margin-left:6px;">${r.photos}</span>` : `${r.photos} foto`; } },
           { k: "dmg", l: "Damage", f: (r) => `${esc(r.area)}<div style="font-size:11px;color:var(--ink-500);">${esc(r.dmg)}</div>` },
           { k: "sev", l: "Severity", f: (r) => V.bsev(r.sev) },
-          { k: "pct", l: "Damage %", f: (r) => `${r.pct}%` },
+          { k: "pct", l: "Damage %", f: (r) => (r.pct == null ? "–" : `${r.pct}%`) },
           { k: "svc", l: "Service Type" },
           { k: "cost", l: "Cost", m: 1, f: (r) => fmtIDR(r.cost) },
           { k: "status", l: "Status", f: (r) => V.bs(r.status) }],
-        rows: () => W.sr.map((s) => { const cu = CUST[s.customer_id] || {}, d = detOf(s); return { id: s.service_request_id, ord: rank(s.request_status) * 1e9 - (+String(s.request_date).replace(/\D/g, "") || 0), customer: cu.customer_name || s.customer_id, phone: phoneShow(cu.phone), vehicle: `${s.brand} ${s.model} · ${s.plate_number}`, photos: (s.photos || []).length || s.photo_count, area: s.initial_damage_area, dmg: s.initial_damage_type, sev: s.initial_severity, pct: Math.round(s.verified ? s.verified.pct : d.pct), svc: s.service_type, cost: s.initial_estimated_cost, status: s.request_status }; }),
+        rows: () => W.sr.map((s) => { const cu = CUST[s.customer_id] || {}, d = detOf(s); return { id: s.service_request_id, ord: rank(s.request_status) * 1e9 - (+String(s.request_date).replace(/\D/g, "") || 0), customer: cu.customer_name || s.customer_id, phone: phoneShow(cu.phone), vehicle: `${s.brand} ${s.model} · ${s.plate_number}`, photos: (s.photos || []).length || s.photo_count, area: s.initial_damage_area, dmg: s.initial_damage_type, sev: s.initial_severity, pct: (s.verified ? s.verified.pct : d.pct) == null ? null : Math.round(s.verified ? s.verified.pct : d.pct), svc: s.service_type, cost: s.initial_estimated_cost, status: s.request_status }; }),
         act: (r) => V.btn("assess", r.id, PENDING.includes(r.status) && !V.roOf(r.id) ? "Assess" : "View", PENDING.includes(r.status) && !V.roOf(r.id) ? "btn-primary" : "btn-ghost") });
   }
 
@@ -156,9 +156,10 @@
       ${kv("Service Type", esc(d.service))}
       ${kv("Cost", `<b style="font-size:17px;color:var(--navy-900);">${fmtIDR(d.cost)}</b><div style="font-size:11.5px;color:var(--ink-500);margin-top:2px;">Kisaran ${fmtIDR(d.min)} – ${fmtIDR(d.max)} · ${esc(d.action)}</div>`)}`;
   }
-  const headCard = (s) => `<div class="card"><div class="card-title" style="display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;"><span>Assessment ${esc(s.service_request_id)}</span>${V.bs(s.request_status)}</div>${V.stepper(s.request_status)}
-    ${(() => { const d = detOf(s); return V.chain({ area: d.area, type: d.type, severity: d.severity, pct: d.pct, action: d.action }, "Hasil deteksi foto"); })()}
-    <div class="sv-result" style="margin-top:16px;"><div>${galleryHTML(s)}</div><div>${detailsHTML(s)}</div></div></div>`;
+  const headCard = (s) => `<div class="card"><div class="card-title" style="display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;"><span>Assessment ${esc(s.service_request_id)}</span>${V.bs(s.request_status)}</div>${V.stepper(s.request_status, s)}
+    ${V.photoViewer && V.photoViewer.has(s) ? "" : (() => { const d = detOf(s); return V.chain({ area: d.area, type: d.type, severity: d.severity, pct: d.pct, action: d.action }, "Hasil deteksi foto"); })()}
+    ${V.photoViewer && V.photoViewer.has(s) ? `${V.findings ? V.findings.metaHTML(s) : `<div class="pv-meta">${detailsHTML(s)}</div>`}${V.photoViewer.html(s)}` /* viewer multi-foto (savera-photo-viewer.js) */
+      : `<div class="sv-result" style="margin-top:16px;"><div>${galleryHTML(s)}</div><div>${detailsHTML(s)}</div></div>`}</div>`;
   const costTable = (c, editable, act) => `<div class="table-wrap"><table><tbody>${[["spare", "Spare part"], ["labor", "Labor"], ["paint", "Painting"], ["add", "Additional"]].map(([k, l]) => {
     const off = (k === "spare" && act !== "Replace") || (k === "paint" && act === "Repair");
     return `<tr><td>${l}${off ? ` <span style="font-size:11px;color:var(--ink-500);">(tidak dipakai untuk ${esc(act)})</span>` : ""}</td><td style="text-align:right;">${editable ? `<input class="input avc" type="number" min="0" step="1000" data-k="${k}" value="${c[k] || 0}" ${off ? "disabled" : ""} style="max-width:170px;margin-left:auto;text-align:right;font-family:var(--font-mono);">` : `<span style="font-family:var(--font-mono);">${fmtIDR(c[k] || 0)}</span>`}</td></tr>`;
@@ -167,6 +168,7 @@
 
   /* ---------------- DETAIL ---------------- */
   function detailView(s) {
+    if (V.findings && V.findings.has(s)) return headCard(s) + V.findings.html(s, "workshop") + (V.costing ? V.costing.html(s, "workshop") : "") + (V.decision ? V.decision.html(s) : ""); /* Tahap 3–5 */
     const ro = V.roOf(s.service_request_id), editable = !ro && PENDING.includes(s.request_status);
     if (!editable) return headCard(s) + readOnlyCard(s, ro);
     const av = state.av || (state.av = initAv(s)), c = calc(s, av), total = sum(av.cost), it = c.part && invOf(c.part.part_id), ok = !c.part || (it && it.current_stock >= 1), msg = rangeMsg(total, c.rc);
@@ -206,6 +208,16 @@
     return s ? detailView(s) : listView();
   };
 
+  /* Buat Repair Order (= work order) + antrian. Dipakai form lama & Approve (savera-decision.js). Logika sama seperti sebelumnya. */
+  function createRepairOrder(s, o) {
+    const roId = nextId(W.ro, "repair_order_id", "RO"), days = Math.max(1, Math.round((+o.pct || 0) / 12)), prio = o.severity === "Severe" ? "High" : o.severity === "Moderate" ? "Medium" : "Low", part = o.part;
+    W.ro.push({ repair_order_id: roId, service_request_id: s.service_request_id, vehicle_id: s.vehicle_id, brand: s.brand, model: s.model, year: s.year, vehicle_part: o.vehicle_part, part_id: part ? part.part_id : "NOT_REQUIRED", part_name: part ? part.part_name : "NOT_REQUIRED", damage_type: o.damage_type, severity: o.severity, damage_percentage: o.pct, repair_action: o.action, quantity_required: part ? 1 : 0, estimated_repair_cost: o.total, estimated_repair_days: days, priority: prio, status: o.ok ? "Scheduled" : "Waiting", created_date: today(), scheduled_date: today(), completed_date: "" });
+    const ahead = W.q.filter((x) => !["Completed", "Cancelled"].includes(x.queue_status));
+    W.q.push({ queue_id: nextId(W.q, "queue_id", "QUE"), repair_order_id: roId, service_request_id: s.service_request_id, vehicle_id: s.vehicle_id, plate_number: s.plate_number, brand: s.brand, model: s.model, vehicle_part: o.vehicle_part, damage_type: o.damage_type, severity: o.severity, repair_action: o.action, priority: prio, queue_number: W.q.reduce((a, x) => Math.max(a, x.queue_number || 0), 0) + 1, estimated_repair_days: days, estimated_waiting_days: ahead.reduce((a, x) => a + x.estimated_repair_days, 0), scheduled_date: today(), actual_start_date: "", actual_completion_date: "", queue_status: o.ok ? "Scheduled" : "Waiting", technician_status: "Not started" });
+    return roId;
+  }
+  V.createRepairOrder = createRepairOrder;
+
   /* ---------------- events ---------------- */
   function lightbox(src) {
     const d = document.createElement("div"); d.className = "wa-lightbox"; d.innerHTML = `<img src="${src}" alt="Foto diperbesar">`;
@@ -214,6 +226,8 @@
   }
   window.after_w_assessment = function () {
     const s = W.sr.find((x) => x.service_request_id === state.aid); if (!s) return;
+    if (V.photoViewer) V.photoViewer.wire(s);
+    if (V.findings && V.findings.has(s)) { V.findings.wire(s, "workshop"); if (V.costing) V.costing.wire(s, "workshop"); if (V.decision) V.decision.wire(s); return; }
     document.querySelectorAll("[data-wg]").forEach((b) => (b.onclick = () => { G.wa = +b.dataset.wg; renderContent(); }));
     const vw = $("waViewer"); if (vw) vw.onclick = () => lightbox(vw.querySelector("img").src);
     if (!$("avOk")) return;
@@ -238,10 +252,7 @@
       if (!(total > 0)) return toast("Total cost harus lebih dari 0.");
       if (Object.values(cost).some((x) => !Number.isFinite(x) || x < 0)) return toast("Nilai cost tidak valid.");
       const d = detOf(s), part = c.part, it = part && invOf(part.part_id), ok = !part || (it && it.current_stock >= 1), prev = s.request_status;
-      const roId = nextId(W.ro, "repair_order_id", "RO"), days = Math.max(1, Math.round(c.rc.damage_percentage / 12)), prio = av.sev === "Severe" ? "High" : av.sev === "Moderate" ? "Medium" : "Low";
-      W.ro.push({ repair_order_id: roId, service_request_id: s.service_request_id, vehicle_id: s.vehicle_id, brand: s.brand, model: s.model, year: s.year, vehicle_part: s.initial_damage_area, part_id: part ? part.part_id : "NOT_REQUIRED", part_name: part ? part.part_name : "NOT_REQUIRED", damage_type: av.type, severity: av.sev, damage_percentage: c.rc.damage_percentage, repair_action: av.action, quantity_required: part ? 1 : 0, estimated_repair_cost: total, estimated_repair_days: days, priority: prio, status: ok ? "Scheduled" : "Waiting", created_date: today(), scheduled_date: today(), completed_date: "" });
-      const ahead = W.q.filter((x) => !["Completed", "Cancelled"].includes(x.queue_status));
-      W.q.push({ queue_id: nextId(W.q, "queue_id", "QUE"), repair_order_id: roId, service_request_id: s.service_request_id, vehicle_id: s.vehicle_id, plate_number: s.plate_number, brand: s.brand, model: s.model, vehicle_part: s.initial_damage_area, damage_type: av.type, severity: av.sev, repair_action: av.action, priority: prio, queue_number: W.q.reduce((a, x) => Math.max(a, x.queue_number || 0), 0) + 1, estimated_repair_days: days, estimated_waiting_days: ahead.reduce((a, x) => a + x.estimated_repair_days, 0), scheduled_date: today(), actual_start_date: "", actual_completion_date: "", queue_status: ok ? "Scheduled" : "Waiting", technician_status: "Not started" });
+      const roId = createRepairOrder(s, { vehicle_part: s.initial_damage_area, damage_type: av.type, severity: av.sev, action: av.action, part, total, pct: c.rc.damage_percentage, ok });
       const notes = (av.notes || "").trim();
       s.verified = { damage_type: av.type, severity: av.sev, action: av.action, cost, total, pct: c.rc.damage_percentage, manual: av.manual, notes, by: (state.user && state.user.name) || "Workshop", at: today(), prev_status: prev, new_status: "Approved", paint: av.action === "Repaint" && V.paintSummary ? V.paintSummary(s, av) : null };
       s.initial_damage_type = av.type; s.initial_severity = av.sev; s.initial_estimated_cost = total; s.service_type = svcFor(s, av.action);

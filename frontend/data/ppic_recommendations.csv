@@ -1,0 +1,33 @@
+recommendation_id,part_id,part_name,brand,model,vehicle_part,current_stock,reorder_point,safety_stock,average_monthly_demand,pending_po_quantity,forecast_demand,recommended_order_quantity,recommendation_status,priority,recommendation_date,data_label
+REC0001,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,14,6,3,12.2,0,15,4,Monitor,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0002,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,16,4,2,8.0,0,7,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0003,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,11,5,3,8.5,0,8,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0004,PT0004,Windshield,Toyota,ALL,Windshield,6,5,3,5.3,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0005,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,1,4,2,6.4,10,7,0,Order Pending,Urgent,2026-10-13,DEMO / SYNTHETIC DATA
+REC0006,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,9,4,2,4.9,0,4,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0007,PT0007,Front Fender,Toyota,ALL,Front Fender,8,4,2,5.0,0,6,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0008,PT0008,Front Grille,Toyota,ALL,Front Grille,7,3,2,2.4,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0009,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,0,5,3,6.6,10,5,0,Order Pending,Urgent,2026-10-13,DEMO / SYNTHETIC DATA
+REC0010,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,0,4,2,5.9,9,7,0,Order Pending,Urgent,2026-10-13,DEMO / SYNTHETIC DATA
+REC0011,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,12,5,3,4.8,0,2,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0012,PT0012,Windshield,Daihatsu,ALL,Windshield,12,4,2,5.2,0,4,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0013,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,8,4,2,3.2,0,2,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0014,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,4,3,1,2.6,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0015,PT0015,Front Fender,Daihatsu,ALL,Front Fender,6,5,3,3.4,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0016,PT0016,Front Grille,Daihatsu,ALL,Front Grille,5,3,2,1.9,0,1,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0017,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,1,4,2,7.8,12,10,0,Order Pending,Urgent,2026-10-13,DEMO / SYNTHETIC DATA
+REC0018,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,0,4,2,5.8,9,5,0,Order Pending,Urgent,2026-10-13,DEMO / SYNTHETIC DATA
+REC0019,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,6,4,2,3.7,0,4,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0020,PT0020,Windshield,Honda,ALL,Windshield,10,4,2,3.8,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0021,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,5,4,2,3.3,0,2,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0022,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,5,4,2,3.2,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0023,PT0023,Front Fender,Honda,ALL,Front Fender,7,4,2,2.9,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0024,PT0024,Front Grille,Honda,ALL,Front Grille,4,3,2,2.2,0,3,1,Monitor,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0025,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,7,5,3,4.2,0,4,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0026,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,11,4,2,4.1,0,4,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0027,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,6,4,2,3.7,0,3,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0028,PT0028,Windshield,Suzuki,ALL,Windshield,8,4,2,2.8,0,2,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0029,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,4,3,2,2.4,0,2,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0030,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,7,3,2,2.2,0,2,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0031,PT0031,Front Fender,Suzuki,ALL,Front Fender,6,3,2,2.7,0,1,0,Stock Sufficient,Low,2026-10-13,DEMO / SYNTHETIC DATA
+REC0032,PT0032,Front Grille,Suzuki,ALL,Front Grille,4,3,2,1.6,0,3,1,Monitor,Low,2026-10-13,DEMO / SYNTHETIC DATA

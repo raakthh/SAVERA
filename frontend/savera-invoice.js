@@ -44,8 +44,11 @@
   function build(ro) {
     const s = W.sr.find((x) => x.service_request_id === ro.service_request_id) || {}, veh = D.vehicles.find((v) => v.vehicle_id === ro.vehicle_id) || {}, q = W.q.find((x) => x.repair_order_id === ro.repair_order_id) || {};
     const cid = s.customer_id || veh.customer_id, cu = CUST[cid] || {}, date = ro.completed_date || q.actual_completion_date || ro.scheduled_date || ro.created_date || "";
-    const { c, total, note } = split(ro, s);
-    return { ro_id: ro.repair_order_id, sr_id: ro.service_request_id, cid, no: `INV-${String(date).slice(0, 4) || "0000"}-${String(parseInt(String(ro.repair_order_id).replace(/\D/g, ""), 10) || 0).padStart(4, "0")}`,
+    let { c, total, note } = split(ro, s);
+    /* RO dari assessment terstruktur (Tahap 5–6): rincian & total = dokumen invoice (incl. diskon & PPN) */
+    const dm = ro.assessment_id && V.documents ? V.documents.model(s, "invoice") : null;
+    if (dm && dm.ok) { const b = dm.summary.by_category; c = { parts: b.spare_part, labor: b.labor, paint: b.painting, add: b.additional }; total = dm.summary.total; note = false; }
+    return { ro_id: ro.repair_order_id, sr_id: ro.service_request_id, cid, no: ro.invoice_no || `INV-${String(date).slice(0, 4) || "0000"}-${String(parseInt(String(ro.repair_order_id).replace(/\D/g, ""), 10) || 0).padStart(4, "0")}`,
       customer: cu.customer_name || cid || "–", vehicle: `${ro.brand} ${ro.model}${ro.year ? " " + ro.year : ""}`, plate: s.plate_number || q.plate_number || veh.plate_number || "–",
       damage: `${ro.vehicle_part} – ${ro.damage_type}`, severity: ro.severity, action: ro.repair_action, cost: c, total, note, date, pay: ro.payment_status || "Unpaid", paid: ro.paid_date || "" };
   }
