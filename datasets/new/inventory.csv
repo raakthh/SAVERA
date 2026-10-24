@@ -1,0 +1,33 @@
+part_id,part_name,brand,model,vehicle_part,current_stock,reorder_point,safety_stock,max_stock,lead_time_days,unit_cost,last_updated,data_label
+PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,14,6,3,25,5,1900000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,16,4,2,16,5,1720000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,11,5,3,18,5,1835000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0004,Windshield,Toyota,ALL,Windshield,6,5,3,13,7,2030000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,1,4,2,14,6,1080000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,9,4,2,12,9,2635000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0007,Front Fender,Toyota,ALL,Front Fender,8,4,2,12,9,1655000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0008,Front Grille,Toyota,ALL,Front Grille,7,3,2,7,12,835000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,0,5,3,15,6,1630000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,0,4,2,13,7,1500000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,12,5,3,13,9,1555000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0012,Windshield,Daihatsu,ALL,Windshield,12,4,2,12,8,1710000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,8,4,2,9,11,920000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,4,3,1,7,12,2290000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0015,Front Fender,Daihatsu,ALL,Front Fender,6,5,3,11,10,1475000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0016,Front Grille,Daihatsu,ALL,Front Grille,5,3,2,6,13,735000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,1,4,2,16,6,2665000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,0,4,2,13,7,1910000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,6,4,2,10,10,2540000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0020,Windshield,Honda,ALL,Windshield,10,4,2,10,10,2955000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,5,4,2,9,10,1415000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0022,Hood Assembly,Honda,ALL,Hood Assembly,5,4,2,9,11,2975000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0023,Front Fender,Honda,ALL,Front Fender,7,4,2,9,11,1760000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0024,Front Grille,Honda,ALL,Front Grille,4,3,2,7,12,1090000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,7,5,3,12,9,1640000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,11,4,2,11,9,1505000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,6,4,2,10,10,1640000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0028,Windshield,Suzuki,ALL,Windshield,8,4,2,9,11,1780000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,4,3,2,7,12,935000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,7,3,2,7,12,2305000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0031,Front Fender,Suzuki,ALL,Front Fender,6,3,2,7,11,1460000,2026-10-13,DEMO / SYNTHETIC DATA
+PT0032,Front Grille,Suzuki,ALL,Front Grille,4,3,2,6,13,790000,2026-10-13,DEMO / SYNTHETIC DATA

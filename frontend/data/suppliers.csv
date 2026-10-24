@@ -1,0 +1,6 @@
+supplier_id,supplier_name,city,lead_time_min,lead_time_max,lead_time_days,reliability_score,payment_terms_days,data_label
+SUP001,Mitra Karoseri Prima,Surabaya,5,6,6,0.96,14,DEMO / SYNTHETIC DATA
+SUP002,Lestari Auto Sentosa,Semarang,7,8,8,0.91,14,DEMO / SYNTHETIC DATA
+SUP003,Oto Komponen Jaya,Jakarta,9,10,10,0.89,21,DEMO / SYNTHETIC DATA
+SUP004,Dinamika Part Parahyangan,Bandung,11,12,12,0.88,30,DEMO / SYNTHETIC DATA
+SUP005,Nusantara Motor Andalan,Medan,13,14,14,0.84,30,DEMO / SYNTHETIC DATA

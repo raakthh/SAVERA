@@ -1,0 +1,769 @@
+demand_id,period,part_id,part_name,brand,model,vehicle_part,quantity_demanded,quantity_used,average_repair_orders,stockout_days,data_label
+DM0001,2024-10,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0002,2024-11,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,11,11,0.42,0,DEMO / SYNTHETIC DATA
+DM0003,2024-12,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,15,15,0.58,0,DEMO / SYNTHETIC DATA
+DM0004,2025-01,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,13,13,0.48,0,DEMO / SYNTHETIC DATA
+DM0005,2025-02,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,11,11,0.46,0,DEMO / SYNTHETIC DATA
+DM0006,2025-03,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,18,18,0.69,0,DEMO / SYNTHETIC DATA
+DM0007,2025-04,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,10,10,0.38,0,DEMO / SYNTHETIC DATA
+DM0008,2025-05,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,9,9,0.33,0,DEMO / SYNTHETIC DATA
+DM0009,2025-06,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,9,9,0.36,0,DEMO / SYNTHETIC DATA
+DM0010,2025-07,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,11,11,0.41,0,DEMO / SYNTHETIC DATA
+DM0011,2025-08,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,9,9,0.35,0,DEMO / SYNTHETIC DATA
+DM0012,2025-09,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,9,9,0.35,0,DEMO / SYNTHETIC DATA
+DM0013,2025-10,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,10,10,0.37,0,DEMO / SYNTHETIC DATA
+DM0014,2025-11,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,13,13,0.52,0,DEMO / SYNTHETIC DATA
+DM0015,2025-12,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,15,15,0.56,0,DEMO / SYNTHETIC DATA
+DM0016,2026-01,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,15,15,0.56,0,DEMO / SYNTHETIC DATA
+DM0017,2026-02,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,16,16,0.67,0,DEMO / SYNTHETIC DATA
+DM0018,2026-03,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,15,15,0.58,0,DEMO / SYNTHETIC DATA
+DM0019,2026-04,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,12,12,0.46,0,DEMO / SYNTHETIC DATA
+DM0020,2026-05,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,9,9,0.35,1,DEMO / SYNTHETIC DATA
+DM0021,2026-06,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,10,10,0.38,0,DEMO / SYNTHETIC DATA
+DM0022,2026-07,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,12,12,0.44,1,DEMO / SYNTHETIC DATA
+DM0023,2026-08,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,10,10,0.38,0,DEMO / SYNTHETIC DATA
+DM0024,2026-09,PT0001,Front Bumper Assembly,Toyota,ALL,Front Bumper Assembly,10,10,0.38,0,DEMO / SYNTHETIC DATA
+DM0025,2024-10,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0026,2024-11,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,8,8,0.31,0,DEMO / SYNTHETIC DATA
+DM0027,2024-12,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,11,11,0.42,0,DEMO / SYNTHETIC DATA
+DM0028,2025-01,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,9,9,0.33,0,DEMO / SYNTHETIC DATA
+DM0029,2025-02,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,8,8,0.33,0,DEMO / SYNTHETIC DATA
+DM0030,2025-03,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,13,13,0.5,0,DEMO / SYNTHETIC DATA
+DM0031,2025-04,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0032,2025-05,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0033,2025-06,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,6,6,0.24,0,DEMO / SYNTHETIC DATA
+DM0034,2025-07,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,8,8,0.3,0,DEMO / SYNTHETIC DATA
+DM0035,2025-08,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0036,2025-09,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0037,2025-10,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0038,2025-11,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,9,9,0.36,0,DEMO / SYNTHETIC DATA
+DM0039,2025-12,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,11,11,0.41,0,DEMO / SYNTHETIC DATA
+DM0040,2026-01,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,10,10,0.37,0,DEMO / SYNTHETIC DATA
+DM0041,2026-02,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,12,12,0.5,0,DEMO / SYNTHETIC DATA
+DM0042,2026-03,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,10,10,0.38,1,DEMO / SYNTHETIC DATA
+DM0043,2026-04,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,8,8,0.31,0,DEMO / SYNTHETIC DATA
+DM0044,2026-05,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0045,2026-06,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0046,2026-07,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,8,8,0.3,0,DEMO / SYNTHETIC DATA
+DM0047,2026-08,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0048,2026-09,PT0002,Rear Bumper Assembly,Toyota,ALL,Rear Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0049,2024-10,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0050,2024-11,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,8,8,0.27,0,DEMO / SYNTHETIC DATA
+DM0051,2024-12,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,10,10,0.35,0,DEMO / SYNTHETIC DATA
+DM0052,2025-01,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,8,8,0.3,0,DEMO / SYNTHETIC DATA
+DM0053,2025-02,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.29,0,DEMO / SYNTHETIC DATA
+DM0054,2025-03,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,12,12,0.46,0,DEMO / SYNTHETIC DATA
+DM0055,2025-04,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.23,0,DEMO / SYNTHETIC DATA
+DM0056,2025-05,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,6,6,0.19,0,DEMO / SYNTHETIC DATA
+DM0057,2025-06,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,6,6,0.2,0,DEMO / SYNTHETIC DATA
+DM0058,2025-07,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0059,2025-08,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0060,2025-09,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,6,6,0.19,0,DEMO / SYNTHETIC DATA
+DM0061,2025-10,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0062,2025-11,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,8,8,0.32,0,DEMO / SYNTHETIC DATA
+DM0063,2025-12,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,10,10,0.37,0,DEMO / SYNTHETIC DATA
+DM0064,2026-01,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,10,10,0.37,0,DEMO / SYNTHETIC DATA
+DM0065,2026-02,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,11,11,0.38,0,DEMO / SYNTHETIC DATA
+DM0066,2026-03,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,10,10,0.38,0,DEMO / SYNTHETIC DATA
+DM0067,2026-04,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,8,8,0.27,0,DEMO / SYNTHETIC DATA
+DM0068,2026-05,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.19,0,DEMO / SYNTHETIC DATA
+DM0069,2026-06,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.19,0,DEMO / SYNTHETIC DATA
+DM0070,2026-07,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,10,10,0.3,0,DEMO / SYNTHETIC DATA
+DM0071,2026-08,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,7,7,0.23,0,DEMO / SYNTHETIC DATA
+DM0072,2026-09,PT0003,Headlamp Assembly,Toyota,ALL,Headlamp Assembly,8,8,0.27,0,DEMO / SYNTHETIC DATA
+DM0073,2024-10,PT0004,Windshield,Toyota,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0074,2024-11,PT0004,Windshield,Toyota,ALL,Windshield,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0075,2024-12,PT0004,Windshield,Toyota,ALL,Windshield,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0076,2025-01,PT0004,Windshield,Toyota,ALL,Windshield,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0077,2025-02,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.21,0,DEMO / SYNTHETIC DATA
+DM0078,2025-03,PT0004,Windshield,Toyota,ALL,Windshield,9,9,0.35,0,DEMO / SYNTHETIC DATA
+DM0079,2025-04,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0080,2025-05,PT0004,Windshield,Toyota,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0081,2025-06,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0082,2025-07,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0083,2025-08,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0084,2025-09,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0085,2025-10,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0086,2025-11,PT0004,Windshield,Toyota,ALL,Windshield,6,6,0.24,0,DEMO / SYNTHETIC DATA
+DM0087,2025-12,PT0004,Windshield,Toyota,ALL,Windshield,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0088,2026-01,PT0004,Windshield,Toyota,ALL,Windshield,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0089,2026-02,PT0004,Windshield,Toyota,ALL,Windshield,8,8,0.33,0,DEMO / SYNTHETIC DATA
+DM0090,2026-03,PT0004,Windshield,Toyota,ALL,Windshield,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0091,2026-04,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0092,2026-05,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0093,2026-06,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0094,2026-07,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0095,2026-08,PT0004,Windshield,Toyota,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0096,2026-09,PT0004,Windshield,Toyota,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0097,2024-10,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0098,2024-11,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0099,2024-12,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,7,7,0.27,1,DEMO / SYNTHETIC DATA
+DM0100,2025-01,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0101,2025-02,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.21,1,DEMO / SYNTHETIC DATA
+DM0102,2025-03,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,9,9,0.35,1,DEMO / SYNTHETIC DATA
+DM0103,2025-04,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0104,2025-05,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0105,2025-06,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0106,2025-07,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0107,2025-08,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0108,2025-09,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0109,2025-10,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0110,2025-11,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,6,6,0.24,0,DEMO / SYNTHETIC DATA
+DM0111,2025-12,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,8,8,0.3,1,DEMO / SYNTHETIC DATA
+DM0112,2026-01,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0113,2026-02,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,8,8,0.33,1,DEMO / SYNTHETIC DATA
+DM0114,2026-03,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,7,7,0.27,1,DEMO / SYNTHETIC DATA
+DM0115,2026-04,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0116,2026-05,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0117,2026-06,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0118,2026-07,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0119,2026-08,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0120,2026-09,PT0005,Side Mirror Assembly,Toyota,ALL,Side Mirror Assembly,5,5,0.19,2,DEMO / SYNTHETIC DATA
+DM0121,2024-10,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0122,2024-11,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0123,2024-12,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0124,2025-01,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0125,2025-02,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,5,5,0.21,0,DEMO / SYNTHETIC DATA
+DM0126,2025-03,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,8,8,0.31,0,DEMO / SYNTHETIC DATA
+DM0127,2025-04,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0128,2025-05,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0129,2025-06,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.16,0,DEMO / SYNTHETIC DATA
+DM0130,2025-07,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0131,2025-08,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0132,2025-09,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0133,2025-10,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0134,2025-11,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0135,2025-12,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0136,2026-01,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0137,2026-02,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,7,7,0.29,0,DEMO / SYNTHETIC DATA
+DM0138,2026-03,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0139,2026-04,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0140,2026-05,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0141,2026-06,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0142,2026-07,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0143,2026-08,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0144,2026-09,PT0006,Hood Assembly,Toyota,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0145,2024-10,PT0007,Front Fender,Toyota,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0146,2024-11,PT0007,Front Fender,Toyota,ALL,Front Fender,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0147,2024-12,PT0007,Front Fender,Toyota,ALL,Front Fender,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0148,2025-01,PT0007,Front Fender,Toyota,ALL,Front Fender,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0149,2025-02,PT0007,Front Fender,Toyota,ALL,Front Fender,5,5,0.21,1,DEMO / SYNTHETIC DATA
+DM0150,2025-03,PT0007,Front Fender,Toyota,ALL,Front Fender,8,8,0.31,1,DEMO / SYNTHETIC DATA
+DM0151,2025-04,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0152,2025-05,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0153,2025-06,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.16,0,DEMO / SYNTHETIC DATA
+DM0154,2025-07,PT0007,Front Fender,Toyota,ALL,Front Fender,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0155,2025-08,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0156,2025-09,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0157,2025-10,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0158,2025-11,PT0007,Front Fender,Toyota,ALL,Front Fender,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0159,2025-12,PT0007,Front Fender,Toyota,ALL,Front Fender,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0160,2026-01,PT0007,Front Fender,Toyota,ALL,Front Fender,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0161,2026-02,PT0007,Front Fender,Toyota,ALL,Front Fender,7,7,0.29,0,DEMO / SYNTHETIC DATA
+DM0162,2026-03,PT0007,Front Fender,Toyota,ALL,Front Fender,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0163,2026-04,PT0007,Front Fender,Toyota,ALL,Front Fender,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0164,2026-05,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0165,2026-06,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0166,2026-07,PT0007,Front Fender,Toyota,ALL,Front Fender,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0167,2026-08,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0168,2026-09,PT0007,Front Fender,Toyota,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0169,2024-10,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0170,2024-11,PT0008,Front Grille,Toyota,ALL,Front Grille,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0171,2024-12,PT0008,Front Grille,Toyota,ALL,Front Grille,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0172,2025-01,PT0008,Front Grille,Toyota,ALL,Front Grille,3,3,0.11,1,DEMO / SYNTHETIC DATA
+DM0173,2025-02,PT0008,Front Grille,Toyota,ALL,Front Grille,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0174,2025-03,PT0008,Front Grille,Toyota,ALL,Front Grille,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0175,2025-04,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0176,2025-05,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0177,2025-06,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0178,2025-07,PT0008,Front Grille,Toyota,ALL,Front Grille,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0179,2025-08,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0180,2025-09,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0181,2025-10,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0182,2025-11,PT0008,Front Grille,Toyota,ALL,Front Grille,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0183,2025-12,PT0008,Front Grille,Toyota,ALL,Front Grille,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0184,2026-01,PT0008,Front Grille,Toyota,ALL,Front Grille,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0185,2026-02,PT0008,Front Grille,Toyota,ALL,Front Grille,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0186,2026-03,PT0008,Front Grille,Toyota,ALL,Front Grille,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0187,2026-04,PT0008,Front Grille,Toyota,ALL,Front Grille,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0188,2026-05,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0189,2026-06,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0190,2026-07,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0191,2026-08,PT0008,Front Grille,Toyota,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0192,2026-09,PT0008,Front Grille,Toyota,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0193,2024-10,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0194,2024-11,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0195,2024-12,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,9,9,0.35,0,DEMO / SYNTHETIC DATA
+DM0196,2025-01,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,7,7,0.26,1,DEMO / SYNTHETIC DATA
+DM0197,2025-02,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.25,0,DEMO / SYNTHETIC DATA
+DM0198,2025-03,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,11,11,0.42,0,DEMO / SYNTHETIC DATA
+DM0199,2025-04,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0200,2025-05,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0201,2025-06,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.24,0,DEMO / SYNTHETIC DATA
+DM0202,2025-07,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0203,2025-08,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0204,2025-09,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0205,2025-10,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0206,2025-11,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,7,7,0.28,0,DEMO / SYNTHETIC DATA
+DM0207,2025-12,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,9,9,0.33,0,DEMO / SYNTHETIC DATA
+DM0208,2026-01,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,9,9,0.33,0,DEMO / SYNTHETIC DATA
+DM0209,2026-02,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,9,9,0.38,0,DEMO / SYNTHETIC DATA
+DM0210,2026-03,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,9,9,0.35,0,DEMO / SYNTHETIC DATA
+DM0211,2026-04,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0212,2026-05,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0213,2026-06,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0214,2026-07,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0215,2026-08,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0216,2026-09,PT0009,Front Bumper Assembly,Daihatsu,ALL,Front Bumper Assembly,6,6,0.23,1,DEMO / SYNTHETIC DATA
+DM0217,2024-10,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0218,2024-11,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0219,2024-12,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0220,2025-01,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0221,2025-02,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0222,2025-03,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,8,8,0.31,0,DEMO / SYNTHETIC DATA
+DM0223,2025-04,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0224,2025-05,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0225,2025-06,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.16,1,DEMO / SYNTHETIC DATA
+DM0226,2025-07,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0227,2025-08,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0228,2025-09,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0229,2025-10,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0230,2025-11,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0231,2025-12,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,6,6,0.22,1,DEMO / SYNTHETIC DATA
+DM0232,2026-01,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,7,7,0.26,1,DEMO / SYNTHETIC DATA
+DM0233,2026-02,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,7,7,0.29,1,DEMO / SYNTHETIC DATA
+DM0234,2026-03,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0235,2026-04,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0236,2026-05,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0237,2026-06,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0238,2026-07,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0239,2026-08,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0240,2026-09,PT0010,Rear Bumper Assembly,Daihatsu,ALL,Rear Bumper Assembly,5,5,0.19,2,DEMO / SYNTHETIC DATA
+DM0241,2024-10,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0242,2024-11,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0243,2024-12,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0244,2025-01,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,5,5,0.15,0,DEMO / SYNTHETIC DATA
+DM0245,2025-02,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0246,2025-03,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0247,2025-04,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0248,2025-05,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0249,2025-06,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.12,0,DEMO / SYNTHETIC DATA
+DM0250,2025-07,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0251,2025-08,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0252,2025-09,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0253,2025-10,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0254,2025-11,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0255,2025-12,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0256,2026-01,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,6,6,0.19,0,DEMO / SYNTHETIC DATA
+DM0257,2026-02,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,6,6,0.21,0,DEMO / SYNTHETIC DATA
+DM0258,2026-03,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0259,2026-04,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.12,0,DEMO / SYNTHETIC DATA
+DM0260,2026-05,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0261,2026-06,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.12,0,DEMO / SYNTHETIC DATA
+DM0262,2026-07,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0263,2026-08,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0264,2026-09,PT0011,Headlamp Assembly,Daihatsu,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0265,2024-10,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0266,2024-11,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0267,2024-12,PT0012,Windshield,Daihatsu,ALL,Windshield,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0268,2025-01,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0269,2025-02,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.17,1,DEMO / SYNTHETIC DATA
+DM0270,2025-03,PT0012,Windshield,Daihatsu,ALL,Windshield,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0271,2025-04,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0272,2025-05,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0273,2025-06,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0274,2025-07,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0275,2025-08,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0276,2025-09,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0277,2025-10,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0278,2025-11,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.16,1,DEMO / SYNTHETIC DATA
+DM0279,2025-12,PT0012,Windshield,Daihatsu,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0280,2026-01,PT0012,Windshield,Daihatsu,ALL,Windshield,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0281,2026-02,PT0012,Windshield,Daihatsu,ALL,Windshield,6,6,0.25,1,DEMO / SYNTHETIC DATA
+DM0282,2026-03,PT0012,Windshield,Daihatsu,ALL,Windshield,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0283,2026-04,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0284,2026-05,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0285,2026-06,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0286,2026-07,PT0012,Windshield,Daihatsu,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0287,2026-08,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0288,2026-09,PT0012,Windshield,Daihatsu,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0289,2024-10,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0290,2024-11,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0291,2024-12,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0292,2025-01,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0293,2025-02,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0294,2025-03,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0295,2025-04,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0296,2025-05,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0297,2025-06,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0298,2025-07,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.11,1,DEMO / SYNTHETIC DATA
+DM0299,2025-08,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0300,2025-09,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0301,2025-10,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0302,2025-11,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0303,2025-12,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0304,2026-01,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0305,2026-02,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,5,5,0.21,1,DEMO / SYNTHETIC DATA
+DM0306,2026-03,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0307,2026-04,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0308,2026-05,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0309,2026-06,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0310,2026-07,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0311,2026-08,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0312,2026-09,PT0013,Side Mirror Assembly,Daihatsu,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0313,2024-10,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0314,2024-11,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0315,2024-12,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0316,2025-01,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0317,2025-02,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0318,2025-03,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0319,2025-04,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0320,2025-05,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0321,2025-06,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0322,2025-07,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0323,2025-08,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0324,2025-09,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0325,2025-10,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0326,2025-11,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0327,2025-12,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0328,2026-01,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0329,2026-02,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0330,2026-03,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0331,2026-04,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0332,2026-05,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0333,2026-06,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0334,2026-07,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0335,2026-08,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0336,2026-09,PT0014,Hood Assembly,Daihatsu,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0337,2024-10,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0338,2024-11,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0339,2024-12,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0340,2025-01,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0341,2025-02,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0342,2025-03,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0343,2025-04,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0344,2025-05,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0345,2025-06,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0346,2025-07,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0347,2025-08,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0348,2025-09,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0349,2025-10,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0350,2025-11,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0351,2025-12,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.11,1,DEMO / SYNTHETIC DATA
+DM0352,2026-01,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0353,2026-02,PT0015,Front Fender,Daihatsu,ALL,Front Fender,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0354,2026-03,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0355,2026-04,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0356,2026-05,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0357,2026-06,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0358,2026-07,PT0015,Front Fender,Daihatsu,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0359,2026-08,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0360,2026-09,PT0015,Front Fender,Daihatsu,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0361,2024-10,PT0016,Front Grille,Daihatsu,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0362,2024-11,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0363,2024-12,PT0016,Front Grille,Daihatsu,ALL,Front Grille,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0364,2025-01,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0365,2025-02,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0366,2025-03,PT0016,Front Grille,Daihatsu,ALL,Front Grille,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0367,2025-04,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0368,2025-05,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0369,2025-06,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0370,2025-07,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0371,2025-08,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0372,2025-09,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0373,2025-10,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0374,2025-11,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0375,2025-12,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0376,2026-01,PT0016,Front Grille,Daihatsu,ALL,Front Grille,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0377,2026-02,PT0016,Front Grille,Daihatsu,ALL,Front Grille,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0378,2026-03,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0379,2026-04,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0380,2026-05,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0381,2026-06,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0382,2026-07,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0383,2026-08,PT0016,Front Grille,Daihatsu,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0384,2026-09,PT0016,Front Grille,Daihatsu,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0385,2024-10,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0386,2024-11,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0387,2024-12,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,9,9,0.35,0,DEMO / SYNTHETIC DATA
+DM0388,2025-01,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,7,7,0.26,0,DEMO / SYNTHETIC DATA
+DM0389,2025-02,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.25,1,DEMO / SYNTHETIC DATA
+DM0390,2025-03,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,10,10,0.38,0,DEMO / SYNTHETIC DATA
+DM0391,2025-04,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0392,2025-05,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0393,2025-06,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0394,2025-07,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.22,1,DEMO / SYNTHETIC DATA
+DM0395,2025-08,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0396,2025-09,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0397,2025-10,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.22,1,DEMO / SYNTHETIC DATA
+DM0398,2025-11,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,7,7,0.28,1,DEMO / SYNTHETIC DATA
+DM0399,2025-12,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,9,9,0.33,0,DEMO / SYNTHETIC DATA
+DM0400,2026-01,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,9,9,0.33,0,DEMO / SYNTHETIC DATA
+DM0401,2026-02,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,10,10,0.42,1,DEMO / SYNTHETIC DATA
+DM0402,2026-03,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,9,9,0.35,0,DEMO / SYNTHETIC DATA
+DM0403,2026-04,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,8,8,0.31,0,DEMO / SYNTHETIC DATA
+DM0404,2026-05,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0405,2026-06,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0406,2026-07,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,7,7,0.26,1,DEMO / SYNTHETIC DATA
+DM0407,2026-08,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0408,2026-09,PT0017,Front Bumper Assembly,Honda,ALL,Front Bumper Assembly,6,6,0.23,2,DEMO / SYNTHETIC DATA
+DM0409,2024-10,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0410,2024-11,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0411,2024-12,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0412,2025-01,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0413,2025-02,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0414,2025-03,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,7,7,0.27,1,DEMO / SYNTHETIC DATA
+DM0415,2025-04,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0416,2025-05,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0417,2025-06,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.16,0,DEMO / SYNTHETIC DATA
+DM0418,2025-07,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0419,2025-08,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0420,2025-09,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0421,2025-10,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0422,2025-11,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,5,5,0.2,1,DEMO / SYNTHETIC DATA
+DM0423,2025-12,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0424,2026-01,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,6,6,0.22,1,DEMO / SYNTHETIC DATA
+DM0425,2026-02,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,6,6,0.25,0,DEMO / SYNTHETIC DATA
+DM0426,2026-03,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,6,6,0.23,0,DEMO / SYNTHETIC DATA
+DM0427,2026-04,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0428,2026-05,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0429,2026-06,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0430,2026-07,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0431,2026-08,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0432,2026-09,PT0018,Rear Bumper Assembly,Honda,ALL,Rear Bumper Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0433,2024-10,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0434,2024-11,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0435,2024-12,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,5,5,0.15,0,DEMO / SYNTHETIC DATA
+DM0436,2025-01,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0437,2025-02,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0438,2025-03,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0439,2025-04,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0440,2025-05,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,3,3,0.07,0,DEMO / SYNTHETIC DATA
+DM0441,2025-06,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0442,2025-07,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0443,2025-08,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,3,3,0.08,0,DEMO / SYNTHETIC DATA
+DM0444,2025-09,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0445,2025-10,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0446,2025-11,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,5,5,0.16,0,DEMO / SYNTHETIC DATA
+DM0447,2025-12,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0448,2026-01,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0449,2026-02,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,6,6,0.25,0,DEMO / SYNTHETIC DATA
+DM0450,2026-03,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0451,2026-04,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0452,2026-05,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0453,2026-06,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0454,2026-07,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0455,2026-08,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0456,2026-09,PT0019,Headlamp Assembly,Honda,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0457,2024-10,PT0020,Windshield,Honda,ALL,Windshield,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0458,2024-11,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0459,2024-12,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0460,2025-01,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0461,2025-02,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0462,2025-03,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0463,2025-04,PT0020,Windshield,Honda,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0464,2025-05,PT0020,Windshield,Honda,ALL,Windshield,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0465,2025-06,PT0020,Windshield,Honda,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0466,2025-07,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.11,1,DEMO / SYNTHETIC DATA
+DM0467,2025-08,PT0020,Windshield,Honda,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0468,2025-09,PT0020,Windshield,Honda,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0469,2025-10,PT0020,Windshield,Honda,ALL,Windshield,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0470,2025-11,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0471,2025-12,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0472,2026-01,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0473,2026-02,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.17,1,DEMO / SYNTHETIC DATA
+DM0474,2026-03,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0475,2026-04,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0476,2026-05,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0477,2026-06,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0478,2026-07,PT0020,Windshield,Honda,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0479,2026-08,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0480,2026-09,PT0020,Windshield,Honda,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0481,2024-10,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0482,2024-11,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0483,2024-12,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0484,2025-01,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0485,2025-02,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0486,2025-03,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0487,2025-04,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0488,2025-05,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0489,2025-06,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0490,2025-07,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0491,2025-08,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0492,2025-09,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0493,2025-10,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0494,2025-11,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0495,2025-12,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0496,2026-01,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0497,2026-02,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0498,2026-03,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0499,2026-04,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0500,2026-05,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0501,2026-06,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0502,2026-07,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0503,2026-08,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0504,2026-09,PT0021,Side Mirror Assembly,Honda,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0505,2024-10,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0506,2024-11,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0507,2024-12,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0508,2025-01,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0509,2025-02,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0510,2025-03,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0511,2025-04,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0512,2025-05,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0513,2025-06,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0514,2025-07,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0515,2025-08,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0516,2025-09,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0517,2025-10,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0518,2025-11,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0519,2025-12,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0520,2026-01,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0521,2026-02,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,4,4,0.17,1,DEMO / SYNTHETIC DATA
+DM0522,2026-03,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0523,2026-04,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0524,2026-05,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0525,2026-06,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0526,2026-07,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,3,3,0.11,1,DEMO / SYNTHETIC DATA
+DM0527,2026-08,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0528,2026-09,PT0022,Hood Assembly,Honda,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0529,2024-10,PT0023,Front Fender,Honda,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0530,2024-11,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0531,2024-12,PT0023,Front Fender,Honda,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0532,2025-01,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0533,2025-02,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0534,2025-03,PT0023,Front Fender,Honda,ALL,Front Fender,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0535,2025-04,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0536,2025-05,PT0023,Front Fender,Honda,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0537,2025-06,PT0023,Front Fender,Honda,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0538,2025-07,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0539,2025-08,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0540,2025-09,PT0023,Front Fender,Honda,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0541,2025-10,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0542,2025-11,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0543,2025-12,PT0023,Front Fender,Honda,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0544,2026-01,PT0023,Front Fender,Honda,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0545,2026-02,PT0023,Front Fender,Honda,ALL,Front Fender,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0546,2026-03,PT0023,Front Fender,Honda,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0547,2026-04,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0548,2026-05,PT0023,Front Fender,Honda,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0549,2026-06,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0550,2026-07,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0551,2026-08,PT0023,Front Fender,Honda,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0552,2026-09,PT0023,Front Fender,Honda,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0553,2024-10,PT0024,Front Grille,Honda,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0554,2024-11,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0555,2024-12,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0556,2025-01,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0557,2025-02,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0558,2025-03,PT0024,Front Grille,Honda,ALL,Front Grille,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0559,2025-04,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0560,2025-05,PT0024,Front Grille,Honda,ALL,Front Grille,1,1,0.04,1,DEMO / SYNTHETIC DATA
+DM0561,2025-06,PT0024,Front Grille,Honda,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0562,2025-07,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0563,2025-08,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0564,2025-09,PT0024,Front Grille,Honda,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0565,2025-10,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0566,2025-11,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0567,2025-12,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0568,2026-01,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0569,2026-02,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0570,2026-03,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0571,2026-04,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0572,2026-05,PT0024,Front Grille,Honda,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0573,2026-06,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0574,2026-07,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0575,2026-08,PT0024,Front Grille,Honda,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0576,2026-09,PT0024,Front Grille,Honda,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0577,2024-10,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0578,2024-11,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0579,2024-12,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0580,2025-01,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0581,2025-02,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0582,2025-03,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,7,7,0.27,0,DEMO / SYNTHETIC DATA
+DM0583,2025-04,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0584,2025-05,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0585,2025-06,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.16,0,DEMO / SYNTHETIC DATA
+DM0586,2025-07,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0587,2025-08,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0588,2025-09,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0589,2025-10,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0590,2025-11,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,5,5,0.2,0,DEMO / SYNTHETIC DATA
+DM0591,2025-12,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0592,2026-01,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,6,6,0.22,0,DEMO / SYNTHETIC DATA
+DM0593,2026-02,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,6,6,0.25,0,DEMO / SYNTHETIC DATA
+DM0594,2026-03,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0595,2026-04,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0596,2026-05,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0597,2026-06,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0598,2026-07,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0599,2026-08,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0600,2026-09,PT0025,Front Bumper Assembly,Suzuki,ALL,Front Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0601,2024-10,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0602,2024-11,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0603,2024-12,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0604,2025-01,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0605,2025-02,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0606,2025-03,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,5,5,0.19,0,DEMO / SYNTHETIC DATA
+DM0607,2025-04,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0608,2025-05,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0609,2025-06,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0610,2025-07,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0611,2025-08,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0612,2025-09,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0613,2025-10,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0614,2025-11,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,4,4,0.16,0,DEMO / SYNTHETIC DATA
+DM0615,2025-12,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0616,2026-01,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,5,5,0.19,1,DEMO / SYNTHETIC DATA
+DM0617,2026-02,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,5,5,0.21,1,DEMO / SYNTHETIC DATA
+DM0618,2026-03,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0619,2026-04,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,4,4,0.15,1,DEMO / SYNTHETIC DATA
+DM0620,2026-05,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0621,2026-06,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0622,2026-07,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0623,2026-08,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0624,2026-09,PT0026,Rear Bumper Assembly,Suzuki,ALL,Rear Bumper Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0625,2024-10,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,2,2,0.04,0,DEMO / SYNTHETIC DATA
+DM0626,2024-11,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0627,2024-12,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0628,2025-01,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0629,2025-02,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0630,2025-03,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,5,5,0.15,0,DEMO / SYNTHETIC DATA
+DM0631,2025-04,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0632,2025-05,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.07,0,DEMO / SYNTHETIC DATA
+DM0633,2025-06,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0634,2025-07,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0635,2025-08,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0636,2025-09,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0637,2025-10,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0638,2025-11,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,4,4,0.16,0,DEMO / SYNTHETIC DATA
+DM0639,2025-12,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0640,2026-01,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0641,2026-02,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,5,5,0.21,0,DEMO / SYNTHETIC DATA
+DM0642,2026-03,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,4,4,0.12,0,DEMO / SYNTHETIC DATA
+DM0643,2026-04,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0644,2026-05,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0645,2026-06,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.08,0,DEMO / SYNTHETIC DATA
+DM0646,2026-07,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0647,2026-08,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0648,2026-09,PT0027,Headlamp Assembly,Suzuki,ALL,Headlamp Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0649,2024-10,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0650,2024-11,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0651,2024-12,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0652,2025-01,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0653,2025-02,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0654,2025-03,PT0028,Windshield,Suzuki,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0655,2025-04,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0656,2025-05,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0657,2025-06,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0658,2025-07,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0659,2025-08,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0660,2025-09,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0661,2025-10,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0662,2025-11,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0663,2025-12,PT0028,Windshield,Suzuki,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0664,2026-01,PT0028,Windshield,Suzuki,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0665,2026-02,PT0028,Windshield,Suzuki,ALL,Windshield,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0666,2026-03,PT0028,Windshield,Suzuki,ALL,Windshield,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0667,2026-04,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0668,2026-05,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0669,2026-06,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0670,2026-07,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0671,2026-08,PT0028,Windshield,Suzuki,ALL,Windshield,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0672,2026-09,PT0028,Windshield,Suzuki,ALL,Windshield,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0673,2024-10,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0674,2024-11,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0675,2024-12,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0676,2025-01,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0677,2025-02,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0678,2025-03,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0679,2025-04,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0680,2025-05,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0681,2025-06,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0682,2025-07,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0683,2025-08,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0684,2025-09,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0685,2025-10,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0686,2025-11,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0687,2025-12,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0688,2026-01,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0689,2026-02,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0690,2026-03,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0691,2026-04,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0692,2026-05,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0693,2026-06,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0694,2026-07,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0695,2026-08,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0696,2026-09,PT0029,Side Mirror Assembly,Suzuki,ALL,Side Mirror Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0697,2024-10,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0698,2024-11,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0699,2024-12,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0700,2025-01,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0701,2025-02,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0702,2025-03,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0703,2025-04,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0704,2025-05,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0705,2025-06,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0706,2025-07,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0707,2025-08,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0708,2025-09,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0709,2025-10,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0710,2025-11,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0711,2025-12,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0712,2026-01,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0713,2026-02,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0714,2026-03,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0715,2026-04,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0716,2026-05,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0717,2026-06,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0718,2026-07,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0719,2026-08,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0720,2026-09,PT0030,Hood Assembly,Suzuki,ALL,Hood Assembly,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0721,2024-10,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0722,2024-11,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0723,2024-12,PT0031,Front Fender,Suzuki,ALL,Front Fender,3,3,0.12,1,DEMO / SYNTHETIC DATA
+DM0724,2025-01,PT0031,Front Fender,Suzuki,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0725,2025-02,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0726,2025-03,PT0031,Front Fender,Suzuki,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0727,2025-04,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0728,2025-05,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0729,2025-06,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0730,2025-07,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0731,2025-08,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0732,2025-09,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0733,2025-10,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0734,2025-11,PT0031,Front Fender,Suzuki,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0735,2025-12,PT0031,Front Fender,Suzuki,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0736,2026-01,PT0031,Front Fender,Suzuki,ALL,Front Fender,4,4,0.15,0,DEMO / SYNTHETIC DATA
+DM0737,2026-02,PT0031,Front Fender,Suzuki,ALL,Front Fender,4,4,0.17,0,DEMO / SYNTHETIC DATA
+DM0738,2026-03,PT0031,Front Fender,Suzuki,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0739,2026-04,PT0031,Front Fender,Suzuki,ALL,Front Fender,3,3,0.12,0,DEMO / SYNTHETIC DATA
+DM0740,2026-05,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0741,2026-06,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0742,2026-07,PT0031,Front Fender,Suzuki,ALL,Front Fender,3,3,0.11,0,DEMO / SYNTHETIC DATA
+DM0743,2026-08,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0744,2026-09,PT0031,Front Fender,Suzuki,ALL,Front Fender,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0745,2024-10,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0746,2024-11,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0747,2024-12,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0748,2025-01,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0749,2025-02,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0750,2025-03,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0751,2025-04,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0752,2025-05,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0753,2025-06,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0754,2025-07,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0755,2025-08,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0756,2025-09,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0757,2025-10,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0758,2025-11,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0759,2025-12,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0760,2026-01,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.07,0,DEMO / SYNTHETIC DATA
+DM0761,2026-02,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0762,2026-03,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.08,1,DEMO / SYNTHETIC DATA
+DM0763,2026-04,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA
+DM0764,2026-05,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,1,DEMO / SYNTHETIC DATA
+DM0765,2026-06,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0766,2026-07,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.07,1,DEMO / SYNTHETIC DATA
+DM0767,2026-08,PT0032,Front Grille,Suzuki,ALL,Front Grille,1,1,0.04,0,DEMO / SYNTHETIC DATA
+DM0768,2026-09,PT0032,Front Grille,Suzuki,ALL,Front Grille,2,2,0.08,0,DEMO / SYNTHETIC DATA

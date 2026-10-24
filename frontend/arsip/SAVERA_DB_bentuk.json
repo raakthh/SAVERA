@@ -1,0 +1,152 @@
+{
+ "_catatan": "1 contoh baris per tabel + jumlah baris. Dari SAVERA_DB di app.js lama.",
+ "data_type": "DEMO / SYNTHETIC DATA",
+ "assessment": {
+  "rows": 40,
+  "contoh": {
+   "image_path": "/content/dataset_damage/image/synthetic_0000.jpeg",
+   "part": "Bumper Depan",
+   "damage_type": "crack",
+   "severity": "moderate",
+   "brand": "Hyundai",
+   "model": "Creta",
+   "year": 2018,
+   "confidence": 0.74,
+   "data_source": "DEMO/SYNTHETIC DATA",
+   "repair_action": "Repair",
+   "quantity_required": 1,
+   "current_stock": 8,
+   "reorder_point": 8,
+   "demand_quantity": 14,
+   "supplier_id": "SUPP-003",
+   "supplier_name": "UD. Motor Sejahtera",
+   "lead_time_days": 13,
+   "purchase_quantity": 13,
+   "unit_cost": 450000,
+   "total_cost": 450000,
+   "repair_days": 2,
+   "priority": "Normal",
+   "repair_status": "Completed",
+   "material_type": "Body Filler (Kg)",
+   "material_quantity": 0.37,
+   "dataset_note": "DEMO/SYNTHETIC DATA"
+  }
+ },
+ "parts": {
+  "rows": 40,
+  "contoh": {
+   "part_id": "PRT-0001",
+   "part_name": "Bumper Depan Toyota Avanza",
+   "category": "Body & Panel",
+   "vehicle_brand": "Toyota",
+   "vehicle_model": "Avanza",
+   "unit": "Pcs",
+   "unit_cost": 764000,
+   "supplier_id": "SUPP-009",
+   "lead_time_days": 9,
+   "minimum_stock": 5,
+   "reorder_point": 8
+  }
+ },
+ "inventory_transactions": {
+  "rows": 80,
+  "contoh": {
+   "transaction_id": "TRX-000180",
+   "transaction_date": "2026-01-24",
+   "part_id": "PRT-0023",
+   "transaction_type": "OUT",
+   "quantity": 1,
+   "unit_cost": 1141000,
+   "reference_id": "RO-00359"
+  }
+ },
+ "repair_orders": {
+  "rows": 45,
+  "contoh": {
+   "repair_order_id": "RO-00019",
+   "order_date": "2026-06-14",
+   "vehicle_brand": "Toyota",
+   "vehicle_model": "Avanza",
+   "vehicle_year": 2021,
+   "part_id": "PRT-0026",
+   "damage_type": "scratch",
+   "severity": "Low",
+   "repair_action": "Repair",
+   "quantity_required": 1,
+   "estimated_repair_days": 1,
+   "priority": "Low",
+   "status": "In Repair"
+  }
+ },
+ "purchase_orders": {
+  "rows": 25,
+  "contoh": {
+   "po_id": "PO-00004",
+   "po_date": "2026-02-21",
+   "supplier_id": "SUPP-010",
+   "part_id": "PRT-0277",
+   "quantity_ordered": 2,
+   "unit_cost": 1455000,
+   "total_cost": 2910000,
+   "expected_delivery_date": "2026-03-13",
+   "actual_delivery_date": null,
+   "status": "Cancelled"
+  }
+ },
+ "material_usage": {
+  "rows": 40,
+  "contoh": {
+   "usage_id": "USE-000001",
+   "repair_order_id": "RO-00001",
+   "usage_date": "2026-04-25",
+   "material_id": "MAT-0168",
+   "color_code": "SYS-MET459",
+   "quantity_used": 1.22,
+   "unit": "Liter",
+   "unit_cost": 217000
+  }
+ },
+ "paint_materials": {
+  "rows": 25,
+  "contoh": {
+   "material_id": "MAT-0002",
+   "material_name": "Blink Thinner - Gallon (5L)",
+   "material_category": "Thinner",
+   "color_family": "Clear",
+   "unit": "Gallon (5L)",
+   "unit_cost": 237000,
+   "minimum_stock": 34,
+   "reorder_point": 51,
+   "supplier_id": "SUPP-002"
+  }
+ },
+ "suppliers": {
+  "rows": 15,
+  "contoh": {
+   "supplier_id": "SUPP-001",
+   "supplier_name": "Distributor Sinar Abadi",
+   "city": "Bogor",
+   "average_lead_time_days": 21,
+   "minimum_order_quantity": 25,
+   "reliability_score": 60
+  }
+ },
+ "vehicle_demand_history": {
+  "rows": 80,
+  "contoh": {
+   "record_id": "REC-00157",
+   "month": "2024-01",
+   "part_id": "PRT-0026",
+   "vehicle_brand": "Toyota",
+   "vehicle_model": "Avanza",
+   "demand_quantity": 57,
+   "repair_order_count": 41
+  }
+ },
+ "repair_costs": {
+  "rows": 75,
+  "contoh": {
+   "accident_id;part_sequence;brand;model;year;vehicle_part;damage_type;severity;damage_percentage;repair_action;spare_part_cost;labor_cost;painting_cost;additional_cost;estimated_total_cost;cost_min;cost_max;notes": "ACC-0001;1;Hyundai;Stargazer;2018;Front Door;Scratch;Severe;62;Repair + Repaint;0;460000;1045000;90000;1595000;1375000;1720000;Estimasi berdasarkan harga pasar bengkel umum"
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "task": "demand_bulanan",
+ "top3": [
+  "lr",
+  "br",
+  "ridge"
+ ],
+ "ml_terbaik_cv": "Linear Regression",
+ "cv_mae_sesudah": 1.4897190774088518,
+ "holdout_wape_ml": 5.030934150380441,
+ "baseline_terbaik": "Baseline: Seasonal Naive (bulan sama tahun lalu)",
+ "holdout_wape_baseline": 8.602150537634408,
+ "perbaikan_relatif_pct": 41.515390501827376,
+ "pakai_ml": true,
+ "final": "Linear Regression",
+ "final_kind": "ml",
+ "interval": {
+  "per_part_z_q10_q90": [
+   -0.3951056156833866,
+   0.39802340478278614
+  ],
+  "total_rel_q10_q90": [
+   -0.06688442378506444,
+   0.07575698380300881
+  ],
+  "n_per_part": 96,
+  "n_total": 12
+ },
+ "final_params": {
+  "model__positive": false,
+  "model__fit_intercept": true
+ },
+ "tuning": [
+  {
+   "peringkat_compare": 1,
+   "kode": "lr",
+   "model": "Linear Regression",
+   "n_kombinasi": 4,
+   "params_sebelum": "{\"model__fit_intercept\": true, \"model__positive\": false}",
+   "params_sesudah": "{\"model__positive\": false, \"model__fit_intercept\": true}",
+   "cv_mae_compare": 1.4897190774088518,
+   "cv_mae_manual_default": 1.4897190774088518,
+   "selisih_manual_vs_compare": 0.0,
+   "cv_mae_sebelum": 1.4897190774088518,
+   "cv_mae_sesudah": 1.4897190774088518
+  },
+  {
+   "peringkat_compare": 2,
+   "kode": "br",
+   "model": "Bayesian Ridge",
+   "n_kombinasi": 30,
+   "params_sebelum": "{\"model__alpha_1\": 1e-06, \"model__alpha_2\": 1e-06, \"model__lambda_1\": 1e-06, \"model__lambda_2\": 1e-06}",
+   "params_sesudah": "{\"model__alpha_1\": 0.00027691523765846797, \"model__alpha_2\": 1.317097970742613e-07, \"model__lambda_1\": 5.370211217981951e-06, \"model__lambda_2\": 0.0003711256145240025}",
+   "cv_mae_compare": 1.5050963596809193,
+   "cv_mae_manual_default": 1.5050963596809193,
+   "selisih_manual_vs_compare": 0.0,
+   "cv_mae_sebelum": 1.5050963596809193,
+   "cv_mae_sesudah": 1.5050958777868977
+  },
+  {
+   "peringkat_compare": 3,
+   "kode": "ridge",
+   "model": "Ridge",
+   "n_kombinasi": 30,
+   "params_sebelum": "{\"model__alpha\": 1.0}",
+   "params_sesudah": "{\"model__alpha\": 0.0024194520890651575}",
+   "cv_mae_compare": 1.508262796314305,
+   "cv_mae_manual_default": 1.508262796314305,
+   "selisih_manual_vs_compare": 0.0,
+   "cv_mae_sebelum": 1.508262796314305,
+   "cv_mae_sesudah": 1.489733062426223
+  }
+ ]
+}

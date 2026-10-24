@@ -142,7 +142,7 @@
   const eq = (a, b) => lc(a) === lc(b);
   const COLOR_CSS = { white: "#f4f4f4", black: "#111", silver: "#c0c4c9", grey: "#8a8f98", gray: "#8a8f98", red: "#c0262d", blue: "#2a5db0", green: "#2f7d4f", yellow: "#e8c431", orange: "#e8832a", brown: "#6b4a2f", gold: "#c9a24b", beige: "#d8c7a3" };
   const dot = (name) => { const k = Object.keys(COLOR_CSS).find((w) => lc(name).includes(w)); return k ? `<span class="pm-dot" style="background:${COLOR_CSS[k]};"></span>` : ""; };
-  const roleOf = (m) => { const n = lc(m.material_name); return /clear|vernis|lacquer/.test(n) ? "Clear Coat" : /pearl|metallic|mica|flake/.test(n) ? "Pearl/Metallic" : /base/.test(n) ? "Base Color" : /paint|top ?coat|colou?r|solid/.test(n) ? "Main Paint" : "Supporting Material"; };
+  const roleOf = (m) => { const n = lc(m.material_name); if (/hardener|thinner|primer|putty|filler|sealer|activator|catalyst|reducer|masking|sandpaper|polish|compound/.test(n)) return "Supporting Material"; return /clear|vernis|lacquer/.test(n) ? "Clear Coat" : /pearl|metallic|mica|flake/.test(n) ? "Pearl/Metallic" : /base/.test(n) ? "Base Color" : /paint|top ?coat|colou?r|solid/.test(n) ? "Main Paint" : "Supporting Material"; };
   function paintReco(brand, model, part, color) {
     let rows = PM().filter((m) => eq(m.brand, brand) && eq(m.model, model) && eq(m.vehicle_part, part)), scope = "exact";
     if (!rows.length) { rows = PM().filter((m) => eq(m.brand, brand) && eq(m.vehicle_part, part)); scope = "brand"; }
@@ -204,47 +204,67 @@
   /* ============================================================
      WORKSHOP ANALYTICS — revenue, trend, forecast (ditambahkan di atas analytics yang sudah ada)
      ============================================================ */
-  const mLabel = (k) => new Date(k + "-01T00:00:00").toLocaleDateString("id-ID", { month: "short", year: "numeric" });
-  const nextKey = (k) => { let [y, m] = k.split("-").map(Number); m++; if (m > 12) { m = 1; y++; } return `${y}-${String(m).padStart(2, "0")}`; };
-  function revenueModel() {
-    const inv = V.invoices ? V.invoices() : [], byM = {}, byType = {};
-    inv.forEach((i) => { const k = String(i.date).slice(0, 7); if (!/^\d{4}-\d{2}$/.test(k)) return; byM[k] = (byM[k] || 0) + i.total; byType[i.action] = (byType[i.action] || 0) + i.total; });
-    const keys = Object.keys(byM).sort(), months = [];
-    if (keys.length) for (let k = keys[0]; k <= keys[keys.length - 1]; k = nextKey(k)) months.push({ k, v: byM[k] || 0 });
-    const used = months.slice(-6), n = used.length, total = inv.reduce((a, i) => a + i.total, 0);
+  /* Periode forecast: Weekly (minggu mulai Senin) atau Monthly. Default Weekly. */
+  const pad2 = (n) => String(n).padStart(2, "0"), ymd = (t) => `${t.getFullYear()}-${pad2(t.getMonth() + 1)}-${pad2(t.getDate())}`;
+  const addDays = (k, n) => { const t = new Date(k + "T00:00:00"); t.setDate(t.getDate() + n); return ymd(t); };
+  const shortD = (k) => new Date(k + "T00:00:00").toLocaleDateString("id-ID", { day: "numeric", month: "short" });
+  const MODES = {
+    week: { unit: "minggu", N: 8, title: "Weekly", nextT: "Next Week", key: (d) => { const t = new Date(d + "T00:00:00"); t.setDate(t.getDate() - ((t.getDay() + 6) % 7)); return ymd(t); }, next: (k) => addDays(k, 7), prev: (k) => addDays(k, -7), label: (k) => "Mgg " + shortD(k), full: (k) => shortD(k) + " – " + shortD(addDays(k, 6)) },
+    month: { unit: "bulan", N: 6, title: "Monthly", nextT: "Next Month", key: (d) => String(d).slice(0, 7),
+      next: (k) => { let [y, m] = k.split("-").map(Number); m++; if (m > 12) { m = 1; y++; } return `${y}-${pad2(m)}`; }, prev: (k) => { let [y, m] = k.split("-").map(Number); m--; if (m < 1) { m = 12; y--; } return `${y}-${pad2(m)}`; },
+      label: (k) => new Date(k + "-01T00:00:00").toLocaleDateString("id-ID", { month: "short", year: "numeric" }), full: (k) => new Date(k + "-01T00:00:00").toLocaleDateString("id-ID", { month: "short", year: "numeric" }) },
+  };
+  const curMode = () => (state.fcMode === "month" ? "month" : "week");
+  ACT.fcmode = (id) => { state.fcMode = id === "month" ? "month" : "week"; renderContent(); };
+
+  function revenueModel(mode) {
+    const cfg = MODES[mode], inv = V.invoices ? V.invoices() : [], byP = {}, byType = {};
+    let lastDate = "";
+    inv.forEach((i) => { const d = String(i.date).slice(0, 10); if (!/^\d{4}-\d{2}-\d{2}$/.test(d)) return; const k = cfg.key(d); byP[k] = (byP[k] || 0) + i.total; byType[i.action] = (byType[i.action] || 0) + i.total; if (d > lastDate) lastDate = d; });
+    const keys = Object.keys(byP).sort(), periods = [];
+    if (keys.length) {
+      let end = keys[keys.length - 1], current = false;
+      /* Data masih "segar" (invoice terakhir ≤ 62 hari lalu): periode kosong sampai periode lengkap terakhir ikut dihitung sebagai Rp 0 */
+      const todayS = ymd(new Date()), fresh = (new Date(todayS) - new Date(lastDate)) / 864e5 <= 62, prevDone = cfg.prev(cfg.key(todayS));
+      if (fresh && prevDone > end) end = prevDone;
+      else if (fresh && end > prevDone) end = prevDone; /* periode yang sedang berjalan belum lengkap → tidak dipakai sebagai data, melainkan jadi target forecast */
+      for (let k = keys[0]; k <= end; k = cfg.next(k)) periods.push({ k, v: byP[k] || 0 });
+      current = fresh && cfg.next(end) === cfg.key(todayS);
+      periods.current = current;
+    }
+    const used = periods.slice(-cfg.N), n = used.length, total = inv.reduce((a, i) => a + i.total, 0);
     let fc = null, growth = null, method = "";
-    if (n >= 2) {
-      /* Weighted moving average: bulan terbaru berbobot lebih besar (bobot 1..n). Stabil untuk data bulanan yang naik-turun dan tidak pernah negatif. */
-      const wsum = (n * (n + 1)) / 2;
-      fc = Math.round(used.reduce((a, x, i) => a + x.v * (i + 1), 0) / wsum); method = `Rata-rata bergerak berbobot dari ${n} bulan terakhir (bulan terbaru berbobot lebih besar)`;
-    } else if (n === 1) { fc = used[0].v; method = "Baru ada 1 bulan data — forecast = pendapatan bulan terakhir"; }
+    if (n >= 2) { const wsum = (n * (n + 1)) / 2; fc = Math.round(used.reduce((a, x, i) => a + x.v * (i + 1), 0) / wsum); method = `Rata-rata bergerak berbobot dari ${n} ${cfg.unit} terakhir (${cfg.unit} terbaru berbobot lebih besar${mode === "week" ? "; minggu dimulai hari Senin" : ""})`; }
+    else if (n === 1) { fc = used[0].v; method = `Baru ada 1 ${cfg.unit} data — forecast = pendapatan ${cfg.unit} terakhir`; }
     const last = n ? used[n - 1] : null;
     if (fc != null && last && last.v > 0) growth = ((fc - last.v) / last.v) * 100;
     const avg = n ? used.reduce((a, x) => a + x.v, 0) / n : 0, gaps = used.filter((x) => x.v === 0).length;
-    return { inv, months, used, total, byType, fc, growth, method, last, avg, gaps, vsAvg: fc != null && avg > 0 ? ((fc - avg) / avg) * 100 : null, next: last ? nextKey(last.k) : null };
+    return { cfg, mode, inv, periods, used, total, byType, fc, growth, method, last, avg, gaps, n, current: !!periods.current, vsAvg: fc != null && avg > 0 ? ((fc - avg) / avg) * 100 : null, next: last ? cfg.next(last.k) : null };
   }
   const origAnalytics = VIEWS["w-analytics"];
   VIEWS["w-analytics"] = function () {
-    const m = revenueModel(), ro = W.ro, done = ro.filter((r) => V.isDone && V.isDone(r)).length;
-    const g = m.growth, gTxt = g == null ? "–" : (g >= 0 ? "+" : "") + g.toFixed(1) + "%";
-    const forecast = `<div class="card fc-card"><div class="card-title" style="display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;"><span>Next Month Revenue Forecast</span>${m.next ? `<span class="sv-chip">${esc(mLabel(m.next))}</span>` : ""}</div>
-      ${m.fc == null ? `<div class="empty-state">${ICONS.search}<div>Belum ada invoice (repair selesai) untuk menghitung forecast.</div></div>` : `<div class="fc-row"><div><div class="fc-big">${fmtIDR(m.fc)}</div><div class="fc-sub">Perkiraan pendapatan ${esc(mLabel(m.next))}</div></div>
-        <div><span class="badge badge-${g == null || g >= 0 ? "ok" : "rejected"}" style="font-size:14px;padding:6px 12px;">${g == null ? "–" : g >= 0 ? "▲" : "▼"} ${gTxt}</span><div class="fc-sub">Forecast Growth vs ${esc(mLabel(m.last.k))} (${fmtIDR(m.last.v)})</div>${m.vsAvg != null ? `<div class="fc-sub">${m.vsAvg >= 0 ? "+" : ""}${m.vsAvg.toFixed(1)}% vs rata-rata ${m.used.length} bulan (${fmtIDR(m.avg)})</div>` : ""}</div></div>
-        ${m.gaps ? `<div class="banner banner-warn" style="margin-bottom:12px;"><div>${m.gaps} dari ${m.used.length} bulan tidak punya invoice selesai (Rp 0), sehingga perkiraan lebih rendah dan kurang stabil. Pastikan repair yang sudah selesai di bulan itu memang sudah ditandai Completed.</div></div>` : ""}
-        <div class="table-wrap"><table><thead><tr><th>Bulan</th><th style="text-align:right;">Pendapatan aktual</th></tr></thead><tbody>${m.used.map((x) => `<tr><td>${esc(mLabel(x.k))}</td><td style="text-align:right;font-family:var(--font-mono);">${fmtIDR(x.v)}</td></tr>`).join("")}<tr><td><b>${esc(mLabel(m.next))} (forecast)</b></td><td style="text-align:right;font-family:var(--font-mono);"><b>${fmtIDR(m.fc)}</b></td></tr></tbody></table></div>
-        <div style="font-size:11.5px;color:var(--ink-500);margin-top:8px;">${esc(m.method)}. Dihitung dari total invoice per bulan (Repair Order Completed), bukan angka acak. Semakin banyak bulan data, semakin stabil perkiraannya.</div>`}</div>`;
-    return V.grid(200, sc("Total Revenue", fmtIDR(m.total), "report", `${m.inv.length} invoice`) + sc("Repair Orders", ro.length, "wrench", `${done} selesai`) + sc("Next Month Forecast", m.fc == null ? "–" : fmtIDR(m.fc), "chart", m.next ? mLabel(m.next) : "") + sc("Forecast Growth", gTxt, "spark", "vs bulan terakhir")) +
-      forecast + V.grid(360, cbox("anTrend", "Monthly Revenue Trend") + cbox("anType", "Revenue by Repair Type")) +
+    const mode = curMode(), m = revenueModel(mode), c = m.cfg, ro = W.ro, done = ro.filter((r) => V.isDone && V.isDone(r)).length;
+    const g = m.growth, gTxt = g == null ? "–" : (g >= 0 ? "+" : "") + g.toFixed(1) + "%", U = c.unit;
+    const toggle = `<div class="card" style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:12px 16px;"><b style="color:var(--navy-900);font-size:13px;">Periode forecast</b>${V.btn("fcmode", "week", "Weekly", mode === "week" ? "btn-primary" : "btn-ghost")}${V.btn("fcmode", "month", "Monthly", mode === "month" ? "btn-primary" : "btn-ghost")}<span style="font-size:11.5px;color:var(--ink-500);">Pendapatan dihitung dari invoice repair yang sudah selesai</span></div>`;
+    const forecast = `<div class="card fc-card"><div class="card-title" style="display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;"><span>${c.nextT} Revenue Forecast</span>${m.next ? `<span class="sv-chip">${esc(c.full(m.next))}${m.current ? " · sedang berjalan" : ""}</span>` : ""}</div>
+      ${m.fc == null ? `<div class="empty-state">${ICONS.search}<div>Belum ada invoice (repair selesai) untuk menghitung forecast.</div></div>` : `<div class="fc-row"><div><div class="fc-big">${fmtIDR(m.fc)}</div><div class="fc-sub">Perkiraan pendapatan ${U} ${esc(c.full(m.next))}</div></div>
+        <div><span class="badge badge-${g == null || g >= 0 ? "ok" : "rejected"}" style="font-size:14px;padding:6px 12px;">${g == null ? "–" : g >= 0 ? "▲" : "▼"} ${gTxt}</span><div class="fc-sub">Forecast Growth vs ${U} ${esc(c.full(m.last.k))} (${fmtIDR(m.last.v)})</div>${m.vsAvg != null ? `<div class="fc-sub">${m.vsAvg >= 0 ? "+" : ""}${m.vsAvg.toFixed(1)}% vs rata-rata ${m.n} ${U} (${fmtIDR(m.avg)})</div>` : ""}</div></div>
+        ${m.gaps ? `<div class="banner banner-warn" style="margin-bottom:12px;"><div>${m.gaps} dari ${m.n} ${U} tidak punya invoice selesai (Rp 0), sehingga perkiraan lebih rendah dan kurang stabil.${mode === "week" && m.gaps / m.n >= 0.5 ? " Data mingguan masih sangat jarang — tampilan Monthly biasanya lebih stabil." : ""} Pastikan repair yang sudah selesai pada periode itu sudah ditandai Completed.</div></div>` : ""}
+        <div class="table-wrap"><table><thead><tr><th>${mode === "week" ? "Minggu" : "Bulan"}</th><th style="text-align:right;">Pendapatan aktual</th></tr></thead><tbody>${m.used.map((x) => `<tr><td>${esc(c.full(x.k))}</td><td style="text-align:right;font-family:var(--font-mono);">${fmtIDR(x.v)}</td></tr>`).join("")}<tr><td><b>${esc(c.full(m.next))} (forecast)</b></td><td style="text-align:right;font-family:var(--font-mono);"><b>${fmtIDR(m.fc)}</b></td></tr></tbody></table></div>
+        <div style="font-size:11.5px;color:var(--ink-500);margin-top:8px;">${esc(m.method)}. Dihitung dari total invoice per ${U} (Repair Order Completed), bukan angka acak. Semakin banyak data, semakin stabil perkiraannya.</div>`}</div>`;
+    return toggle + V.grid(200, sc("Total Revenue", fmtIDR(m.total), "report", `${m.inv.length} invoice`) + sc("Repair Orders", ro.length, "wrench", `${done} selesai`) + sc(c.nextT + " Forecast", m.fc == null ? "–" : fmtIDR(m.fc), "chart", m.next ? c.full(m.next) : "") + sc("Forecast Growth", gTxt, "spark", `vs ${U} terakhir`)) +
+      forecast + V.grid(360, cbox("anTrend", `${c.title} Revenue Trend`) + cbox("anType", "Revenue by Repair Type")) +
       `<div class="card-title" style="margin:6px 4px 12px;">Operational Analytics</div>` + origAnalytics();
   };
   window.after_w_analytics = function () {
     if (typeof Chart === "undefined" || !$("anTrend")) return;
-    const m = revenueModel(); if (!m.months.length) return;
-    const labels = m.months.map((x) => mLabel(x.k)), actual = m.months.map((x) => x.v);
-    const tick = { callback: (v) => rp(v) }, tip = (c) => ` ${c.dataset.label}: ${fmtIDR(c.parsed.y)}`;
-    const ds = [{ label: "Revenue", data: actual.concat(m.fc != null ? [null] : []), borderColor: PAL[1], backgroundColor: PAL[1], tension: 0.3, pointRadius: 4 }];
-    if (m.fc != null) { labels.push(mLabel(m.next) + " (forecast)"); ds.push({ label: "Forecast", data: actual.map((_, i) => (i === actual.length - 1 ? actual[i] : null)).concat([m.fc]), borderColor: PAL[4], backgroundColor: PAL[4], borderDash: [6, 5], tension: 0, pointRadius: 5 }); }
-    new Chart($("anTrend"), { type: "line", data: { labels, datasets: ds }, options: cardsOpts({ layout: { padding: { top: 22, right: 16 } }, plugins: { legend: { position: "bottom" }, saveraTrend: { enabled: true }, tooltip: { callbacks: { label: tip } } }, scales: { y: { beginAtZero: true, ticks: tick } } }) });
+    const mode = curMode(), m = revenueModel(mode), c = m.cfg; if (!m.periods.length) return;
+    const labels = m.periods.map((x) => c.label(x.k)), actual = m.periods.map((x) => x.v);
+    const tick = { callback: (v) => rp(v) }, tip = (x) => ` ${x.dataset.label}: ${fmtIDR(x.parsed.y)}`;
+    const ds = [{ label: "Revenue", data: actual.concat(m.fc != null ? [null] : []), borderColor: PAL[1], backgroundColor: PAL[1], tension: mode === "week" ? 0.15 : 0.3, pointRadius: mode === "week" ? 3 : 4 }];
+    if (m.fc != null) { labels.push(c.label(m.next) + " (forecast)"); ds.push({ label: "Forecast", data: actual.map((_, i) => (i === actual.length - 1 ? actual[i] : null)).concat([m.fc]), borderColor: PAL[4], backgroundColor: PAL[4], borderDash: [6, 5], tension: 0, pointRadius: 5 }); }
+    /* label % antar titik hanya di Monthly — pada Weekly terlalu padat (banyak titik) */
+    new Chart($("anTrend"), { type: "line", data: { labels, datasets: ds }, options: cardsOpts({ layout: { padding: { top: 22, right: 16 } }, plugins: { legend: { position: "bottom" }, saveraTrend: { enabled: mode === "month" }, tooltip: { callbacks: { label: tip } } }, scales: { y: { beginAtZero: true, ticks: tick }, x: { ticks: { maxRotation: 55, autoSkip: true, maxTicksLimit: 14 } } } }) });
     const tk = Object.keys(m.byType);
     new Chart($("anType"), { type: "doughnut", data: { labels: tk, datasets: [{ data: tk.map((k) => m.byType[k]), backgroundColor: PAL }] }, options: cardsOpts({ plugins: { legend: { position: "bottom" } } }) });
   };

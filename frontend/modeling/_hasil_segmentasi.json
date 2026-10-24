@@ -1,0 +1,15 @@
+{
+ "final": "K-Means",
+ "algoritma": "kmeans",
+ "k": 4,
+ "params": {
+  "init": "k-means++",
+  "n_init": 10
+ },
+ "silhouette": 0.4210838495390245,
+ "stabilitas": 0.9735012372423004,
+ "min_cluster_pct": 12.050256996002284,
+ "fallback_tanpa_syarat_stabilitas": false,
+ "n_model": 1751,
+ "n_tanpa_invoice": 23
+}
